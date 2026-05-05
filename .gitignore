@@ -1,0 +1,10 @@
+/target
+/AppDir
+/.comments
+/*.sh
+/*.png
+/*.txt
+/*.tar.gz
+/*.desktop
+/*.AppImage
+/linux*

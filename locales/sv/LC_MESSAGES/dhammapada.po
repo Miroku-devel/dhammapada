@@ -1,0 +1,2252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Kapitel"
+
+msgid "fontsize"
+msgstr "Teckenstorlek"
+
+msgid "chap1"
+msgstr "Dubbelversernas"
+
+msgid "1"
+msgstr ""
+"Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar "
+"eller handlar med oren tanke, då följer en otillfredsställelsen — som ett "
+"hjul följer dragarens fot."
+
+msgid "2"
+msgstr ""
+"Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar "
+"eller handlar med klar tanke, då följer en glädjen som en aldrig vikande "
+"skugga."
+
+msgid "3"
+msgstr ""
+"«Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig» "
+"— för dem som klagar så upphör inte hatet."
+
+msgid "4"
+msgstr ""
+"«Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig» "
+"— för dem som inte klagar så upphör hatet."
+
+msgid "5"
+msgstr ""
+"Aldrig någonsin upphör här hat genom hat. Blott genom kärlek upphör det. "
+"Detta är evig dhamma."
+
+msgid "6"
+msgstr ""
+"Andra förstår ej att vi här måste dö. De som förstår detta, de slutar gräla."
+
+msgid "7"
+msgstr ""
+"Den som lever för det sköna med obehärskade sinnen, måttlös i föda, slö "
+"och svag, honom övervinner Mara som vinden ett bräckligt träd."
+
+msgid "8"
+msgstr ""
+"Den som betraktar det osköna med väl behärskade sinnen, måttfull i föda, "
+"full av förtroende och kraft, honom övervinner inte Mara som vinden inte "
+"ett klippmassiv."
+
+msgid "9"
+msgstr ""
+"Den som klär sig i munkdräkt utan att vara fri från orenhet, utan att "
+"vara tämjd och sann, han är inte värdig dräkten."
+
+msgid "10"
+msgstr ""
+"Den som spyr upp orenheten, som är moraliskt medveten, tämjd och sann, "
+"han är verkligen värdig dräkten."
+
+msgid "11"
+msgstr ""
+"De som uppfattar oväsentligt som väsentligt och ser väsentligt som "
+"oväsentligt, de når inte fram till det väsentliga då de livnär sig av "
+"falska tankar."
+
+msgid "12"
+msgstr ""
+"De som känner det väsentliga som väsentligt och det oväsentliga som "
+"oväsentligt, de når fram till det väsentliga då de livnär sig av rätta "
+"tankar."
+
+msgid "13"
+msgstr ""
+"Som regnet tränger in i ett illa täckt hus, så tränger lidelsen in i ett "
+"outvecklat sinne."
+
+msgid "14"
+msgstr ""
+"Som regnet inte tränger in i ett väl täckt hus, så tränger lidelsen inte "
+"in i ett välutvecklat sinne."
+
+msgid "15"
+msgstr ""
+"Här sörjer han, sedan sörjer han, i båda världarna sörjer den illa gör. "
+"Han sörjer, han grämer sig, då han sett sina orena gärningar."
+
+msgid "16"
+msgstr ""
+"Här gläds han, sedan gläds han, i båda världarna gläds den som väl gör. "
+"Han gläds, han jublar, då han sett sina rena gärningar."
+
+msgid "17"
+msgstr ""
+"Här brinner han, sedan brinner han, i båda världarna brinner den illa "
+"gör. «Ont har jag gjort», brinner han. Mer brinner han när han gått till "
+"en olycklig värld."
+
+msgid "18"
+msgstr ""
+"Här fröjdas han, sedan fröjdas han, i båda världarna fröjdas den väl gör. "
+"«Gott har jag gjort», fröjdas han. Mer fröjdas han när han gått till en "
+"lycklig värld."
+
+msgid "19"
+msgstr ""
+"Om han mycket läser texterna, men inte handlar efter dem, är den "
+"försumlige som en herde som räknar andras kor. Han har ingen del i "
+"sramanernas gemenskap."
+
+msgid "20"
+msgstr ""
+"Om han litet läser texterna men verkligen lever enligt dhamma, har släppt "
+"lystnad, hat och självbedrägeri med rätt kunskap och ett väl befriat "
+"sinne, utan att hänga fast vid denna värld eller nästa — då har han i "
+"sanning del i sramanernas gemenskap."
+
+msgid "chap2"
+msgstr "Omsorgens"
+
+msgid "21"
+msgstr ""
+"Omsorg är odödlighetens väg. Försumlighet är vägen till döden. De "
+"omsorgsfulla dör inte. De försumliga är som döda."
+
+msgid "22"
+msgstr ""
+"Då de klart förstått detta gläder sig i sin omsorg de omsorgsfulla visa och "
+"njuter de ädlas näring."
+
+msgid "23"
+msgstr ""
+"De visa som uthålligt samlar sitt sinne, alltid idoga i sin strävan, "
+"uppnår nirvana, den yttersta vilan."
+
+msgid "24"
+msgstr ""
+"För den ihärdige, uppmärksamme, rent handlande, eftertänksamme, "
+"självbehärskade, i dhamma levande och omsorgsfulle ökar äran."
+
+msgid "25"
+msgstr ""
+"Med ihärdighet, omsorg, återhållsamhet och måttfullhet göre den vise en ö "
+"som störtfloden inte krossar."
+
+msgid "26"
+msgstr ""
+"Försumlighet övar dårar och ovisa, men sin omsorg skyddar den vise som sin "
+"högsta skatt."
+
+msgid "27"
+msgstr ""
+"Var inte försumlig, kom inte nära njutningens glädje! Den som uppmärksamt "
+"samlar sitt sinne, han vinner en allt uppslukande glädje."
+
+msgid "28"
+msgstr ""
+"När den vise driver bort försumlighet med omsorg och gått upp på vishetens "
+"höjd, då betraktar han sorglös de sörjande. Som man från ett berg "
+"betraktar folket på slätten, så ser den faste på dårarna."
+
+msgid "29"
+msgstr ""
+"Omsorgsfull bland försumliga, bland sovande klarvaken, går den vise som en "
+"snabb häst som lämnat en kraftlös bakom sig."
+
+msgid "30"
+msgstr ""
+"Med sin omsorg blev Indra hövding över devas. Omsorg berömmes. "
+"Försumlighet klandras alltid."
+
+msgid "31"
+msgstr ""
+"Bhikkhun som gläds åt omsorg och ser fara i försumlighet går fram som en "
+"eld som förbränner små och stora bojor."
+
+msgid "32"
+msgstr ""
+"Bhikkhun som gläds åt omsorg och ser fara i försumlighet kan inte vissna i "
+"nirvanas närhet."
+
+msgid "chap3"
+msgstr "Sinnets"
+
+msgid "33"
+msgstr ""
+"Sitt darrande, vacklande sinne, svårt att skydda, svårt att tygla, rätar "
+"den vise som pilmakaren pilens skaft."
+
+msgid "34"
+msgstr ""
+"Som en fisk som kastats på land, varifrån den än dragits upp, så sprattlar "
+"vårt sinne för att lämna Maras välde."
+
+msgid "35"
+msgstr ""
+"Att tygla det svårstyrda, snabba och irrande sinnet är gott. Tyglat sinne "
+"ger glädje."
+
+msgid "36"
+msgstr ""
+"Det mycket svårsedda, mycket svårgripna, fritt irrande sinnet skydde den "
+"vise. Vaktat sinne ger glädje."
+
+msgid "37"
+msgstr ""
+"De som övar sig att styra sitt sinne som vandrar vida, som irrar ensamt, "
+"som ingen kropp har, som bor i det inre, de blir fria från Maras band."
+
+msgid "38"
+msgstr ""
+"Den vars sinne inte är fast, som inte känner den sanna dhamma, den vars "
+"förtroende vacklar — hans vishet fullkomnas inte."
+
+msgid "39"
+msgstr ""
+"Den vars sinne ej har begär, den vars tankar inte förvirras, den som "
+"lämnat all förtjänst och allt ont — hos denne vaksamme finns ingen fruktan."
+
+msgid "40"
+msgstr ""
+"Inse att kroppen liknar ett lerkärl, upprätta sinnet som en fästning och "
+"anfall Mara med vishetens vapen, skydda din seger, häng inte fast!"
+
+msgid "41"
+msgstr ""
+"Snart ligger denna kropp med visshet på marken bortkastad, medvetslös, som "
+"ett bortslängt vedträ."
+
+msgid "42"
+msgstr ""
+"Mer än fiende gör fiende eller hämnare hämnare vållar ett illa inriktat "
+"sinne ännu större skada."
+
+msgid "43"
+msgstr ""
+"Mer än mor eller far eller annan anhörig vållar ett väl inriktat sinne "
+"ännu större väl."
+
+msgid "chap4"
+msgstr "Blommornas"
+
+msgid "44"
+msgstr ""
+"Vem övervinner denna värld och Yamas värld med dess devas? Vem går dhammas "
+"väg, den väl utforskade, som en fackman plockar en blomma?"
+
+msgid "45"
+msgstr ""
+"Den som övar sig övervinner denna värld och Yamas värld med dess devas. Den "
+"som övar sig går dhammas väg, den väl utforskade, som en fackman plockar en "
+"blomma."
+
+msgid "46"
+msgstr ""
+"Inse att kroppen är som skum, förstå dess hägringsnatur, bryt sönder Maras "
+"blomsterpilar och gör dig osynlig för dödens konung!"
+
+msgid "47"
+msgstr ""
+"Medan hon plockar blommor rycks den begärsfyllda människan bort av döden "
+"som en sovande by av en flodvåg."
+
+msgid "48"
+msgstr ""
+"Medan hon plockar blommor hamnar den begärsfyllda människan, missnöjd med "
+"sina njutningar, under förgörarens makt."
+
+msgid "49"
+msgstr ""
+"Som ett bi från en blomma, utan att skada färg och doft, tar nektarn och "
+"flyger, så vandre den vise i byn."
+
+msgid "50"
+msgstr ""
+"Inte andras fel, inte vad andra gjort eller inte, utan de egna må man "
+"betrakta."
+
+msgid "51"
+msgstr ""
+"Som vacker blomma med färg, utan doft bär väl utsagda ord ingen frukt om "
+"utan gärning."
+
+msgid "52"
+msgstr ""
+"Som vacker blomma med färg, med doft bär väl utsagda ord, om de följs av "
+"gärning, frukt."
+
+msgid "53"
+msgstr ""
+"Som av en massa blommor kan göras många kransar, så må den dödlig födde "
+"göra mycket gott."
+
+msgid "54"
+msgstr ""
+"Ej blomdoft går mot vinden, ej sandel, tagara eller jasmin. De godas doft "
+"går mot vinden. Åt alla håll sprider den gode sin doft."
+
+msgid "55"
+msgstr ""
+"Sandel och tagara, lotus och jasmin — bland dessa dofter är gott verks "
+"väldoft ojämförlig."
+
+msgid "56"
+msgstr ""
+"Svag är doften av tagara och sandel. De godas doft, den yttersta, sprids "
+"bland devas."
+
+msgid "57"
+msgstr ""
+"Till dem som äger godhet, som lever i omsorg, som frigjort sig med rätt "
+"kunskap, finner Mara inte vägen."
+
+msgid "58"
+msgstr ""
+"Som på en sophög, utkastad på landsvägen, en lotus börjar växa doftande och "
+"skön,"
+
+msgid "59"
+msgstr ""
+"så lyser bland sopornas folk, bland världens blinda, med sin vishet den "
+"som lärt av den rätt och helt uppvaknade."
+
+msgid "chap5"
+msgstr "Dårens"
+
+msgid "60"
+msgstr ""
+"Lång för den vakande är natten. Lång för den trötte är milen. Lång är "
+"sangsara för den som inte vill veta, som inte känner den sanna dhamma."
+
+msgid "61"
+msgstr ""
+"Om man under sin vandring ej finner någon som är bättre eller lika, vandre "
+"man beslutsamt ensam. Ej finns gemenskap med den som inte vill veta."
+
+msgid "62"
+msgstr ""
+"«Söner har jag, rikedom har jag» — så går dåren och oroar sig. Inte ens "
+"sig själv har han. Har han då söner? Har han rikedom?"
+
+msgid "63"
+msgstr ""
+"Den dåre som inser sin dårskap är just därför vis. Den dåre som yvs över "
+"vishet må verkligen kallas dåre."
+
+msgid "64"
+msgstr ""
+"Om hela livet en dåre lyssnar på en vis, förnimmer han inte dhamma som "
+"skeden soppans smak."
+
+msgid "65"
+msgstr ""
+"Om bara en stund en klok lyssnar på en vis, förnimmer han hastigt dhamma "
+"som tungan soppans smak."
+
+msgid "66"
+msgstr ""
+"Dum dåre vandrar som sin egen ovän, utför onda gärningar som bär bitter frukt."
+
+msgid "67"
+msgstr ""
+"Ej är den gärning god som man efteråt ångrar, vars frukt man skördar med "
+"gråt och tårar."
+
+msgid "68"
+msgstr ""
+"Men den gärning är god som man efteråt ej ångrar, vars frukt man skördar "
+"nöjd och glad."
+
+msgid "69"
+msgstr ""
+"Som honung tycker dåren det smakar så länge det onda inte mognar, men när "
+"det onda mognar, då får dåren lida."
+
+msgid "70"
+msgstr ""
+"Om månad efter månad dåren äter med spetsen på ett grässtrå, är han inte "
+"sextondelen värd av dem som studerat dhamma."
+
+msgid "71"
+msgstr ""
+"Inte ystar sig snabbt som mjölk ond begången gärning. Pyrande följer den "
+"dåren som eld av aska täckt."
+
+msgid "72"
+msgstr ""
+"Till sin egen skada lär sig dåren tänka, förgör sin egen framgång, krossar "
+"eget huvud."
+
+msgid "73"
+msgstr ""
+"Gott rykte önskar han utan förtjänst, ära bland munkar, makt där människor "
+"bor, aktning från andra familjer."
+
+msgid "74"
+msgstr ""
+"«Att jag har gjort det vete lekmän och munkar. Av mig bero de om allt som "
+"må göras eller ej.» Sådan är dårens tanke. Önskan och stoltheten växer."
+
+msgid "75"
+msgstr ""
+"Ett är medlet för vinst, annan är väg till nirvana. Så må detta förstå "
+"bhikkhun, Buddhas hörare. Ej honom glädje äran. Öve han avskildhet."
+
+msgid "chap6"
+msgstr "Den Vises"
+
+msgid "76"
+msgstr ""
+"Om du finner en skatter förmedlande, fel finnande, klander givande vis — "
+"följ då en sådan vetande. För den som så gör blir bättre, ej sämre."
+
+msgid "77"
+msgstr ""
+"Råde han och förmane och det lågsinta tygle. För uppmärksam blir han kär, "
+"för ouppmärksam okär."
+
+msgid "78"
+msgstr ""
+"Följ inte dåliga vänner, följ inte usla människor. Följ ädla vänner, följ "
+"de yppersta människor."
+
+msgid "79"
+msgstr ""
+"Lycklig lever den som dricker dhamma med klara tankar. I dhamma, som "
+"förkunnats av de ädla, gläder sig ständigt den vise."
+
+msgid "80"
+msgstr ""
+"Vattnet leder den som gräver diken. Pilmakaren formar pilen. Träet formar "
+"snickaren. Sig själv styr den vise."
+
+msgid "81"
+msgstr ""
+"Som den massiva klippan inte rubbas av vinden, så skakas de visa inte av "
+"klander och lovord."
+
+msgid "82"
+msgstr ""
+"Som en djup sjö, klar och utan en krusning, så klarnar de visa när de hört "
+"dhamma."
+
+msgid "83"
+msgstr ""
+"Från allt avstår de goda. Ej för njutnings skull pladdrar de sanna. Om "
+"drabbad av lycka eller av lidande syns varken upprymd eller nedstämd den vise."
+
+msgid "84"
+msgstr ""
+"Inte för sig och inte för andra önske han söner, rikedom eller rike. Inte "
+"önske han med orätta medel framgång. Rätt, vist och riktigt leve han."
+
+msgid "85"
+msgstr ""
+"Få bland människor når andra stranden. De övriga löper fram och tillbaka "
+"längs denna."
+
+msgid "86"
+msgstr ""
+"Men de som i den rätt förklarade dhamma handlar enligt denna, de korsar "
+"dödsriket, mycket svårt att korsa."
+
+msgid "87"
+msgstr ""
+"Det mörka lämne den vise och odle det ljusa, gånge från hem till "
+"hemlöshet och leve avskilt."
+
+msgid "88"
+msgstr ""
+"Där önske han glädje fri från all njutning. Rene sig från sinnets fläckar "
+"den vise."
+
+msgid "89"
+msgstr ""
+"De vilkas sinnen rätt och väl har odlats i upplysningens led, de som har "
+"slutat klamra sig och gläder sig åt att inte hänga fast, med sinade flöden "
+"och lysande ljus — de har fullkomligt slocknat i världen."
+
+msgid "chap7"
+msgstr "Arahantens"
+
+msgid "90"
+msgstr ""
+"Den som rest färdigt, är utan sorg, befriat sig från allt och lämnat alla "
+"bojor — han brinner inte."
+
+msgid "91"
+msgstr ""
+"Bort drar de uppmärksamma. Ej i hemmet finner de glädje. Som gäss som "
+"lämnar sin göl lämnar de hus efter hus."
+
+msgid "92"
+msgstr ""
+"De som inte hopar, som väl förstår sin föda, som tomma och bildlösa när "
+"sig av frihet — svår är deras väg att följa liksom fåglarnas i rymden."
+
+msgid "93"
+msgstr ""
+"Den vars flöden tömts, som inte är bunden till näring, som tom och bildlös "
+"när sig av frihet — svår är hans väg att följa som fåglarnas i rymden."
+
+msgid "94"
+msgstr ""
+"Den som lugnat sina sinnen som hästar av kusken väl tämjda, som lämnat sin "
+"stolthet, släppt sina flöden — även devas avundas honom för detta."
+
+msgid "95"
+msgstr ""
+"Som jorden möter han inga hinder. En stadig påle liknar den väl gör eller "
+"en sjö fri från gyttja. Födelser finns inte för sådan."
+
+msgid "96"
+msgstr ""
+"Lugn är hans tanke, lugnt är hans tal, lugn hans gärning. Frigjord genom "
+"rätt insikt är en sådan helt lugnad."
+
+msgid "97"
+msgstr ""
+"Den som är utan tillit, känner det ogjorda, brutit kedjan, krossat skenet, "
+"spytt upp sin önskan — han är främst bland människor."
+
+msgid "98"
+msgstr ""
+"Om i by eller i skog, om på lågt land eller på högt — var än arahanter "
+"vistas, där är gott att vara."
+
+msgid "99"
+msgstr ""
+"Härliga är skogarna där människor ej finner glädje. De lidelsefria finner "
+"sin glädje. Inte söker de njutningar."
+
+msgid "chap8"
+msgstr "Tusentalets"
+
+msgid "100"
+msgstr ""
+"Bättre än tusen fraser av ord som ingenting ger är ett enda ord som ger "
+"något och som man blir lugn då man hört."
+
+msgid "101"
+msgstr ""
+"Bättre än tusen verser av ord som ingenting ger är ett enda ord i en vers "
+"som man blir lugn då man hört."
+
+msgid "102"
+msgstr ""
+"Om någon läser hundra verser av ord som ingenting ger är ett enda "
+"dhamma-ord bättre som man blir lugn då man hört."
+
+msgid "103"
+msgstr ""
+"Om någon besegrade tusen sinom tusen män i strid och en annan sig själv, då "
+"vore han överlägsen krigaren."
+
+msgid "104"
+msgstr ""
+"Bättre i sanning är besegra sig själv än segra över andra för den "
+"självtämjde, som alltid styr sig."
+
+msgid "105"
+msgstr ""
+"Inte deva, inte gandharva, inte Mara, inte Brahma gör seger till nederlag "
+"för en sådan."
+
+msgid "106"
+msgstr ""
+"Om någon månad efter månad tusenfalt offrade under hundra år, och en annan "
+"åt någon som utvecklat sig blott ett ögonblick skänkte sin aktning, mer "
+"värd vore denna vördnad än hundra års offer."
+
+msgid "107"
+msgstr ""
+"Om någon under hundra år dyrkade elden i skogen, och en annan åt någon som "
+"utvecklat sig blott ett ögonblick skänkte sin aktning, mer värd vore denna "
+"vördnad än hundra års offer."
+
+msgid "108"
+msgstr ""
+"Vilket offer, vilken gåva i denna värld en förtjänstlysten än kan skänka "
+"under ett år, så är allt detta inte värt fjärdedelen av aktning mot de "
+"uppriktiga."
+
+msgid "109"
+msgstr ""
+"Hos den som är fylld av aktning, som alltid hedrar de erfarna, växer fyra "
+"ting: liv, skönhet, glädje, kraft."
+
+msgid "110"
+msgstr ""
+"Bättre än leva hundra år utan moral, utan behärskning är en dags liv i "
+"moral och meditation."
+
+msgid "111"
+msgstr ""
+"Bättre än leva hundra år utan vishet, utan behärskning är en dags liv i "
+"vishet och meditation."
+
+msgid "112"
+msgstr ""
+"Bättre än leva hundra år lat och kraftlös är en dags liv med kraftfull insats."
+
+msgid "113"
+msgstr ""
+"Bättre än leva hundra år utan att se början och slut är en dags liv i "
+"insikt om början och slut."
+
+msgid "114"
+msgstr ""
+"Bättre än leva hundra år utan att se odödligvägen är en dags liv i insikt "
+"om odödligvägen."
+
+msgid "115"
+msgstr ""
+"Bättre än leva hundra år utan att se den yttersta dhamma är en dags liv i "
+"insikt om den yttersta dhamma."
+
+msgid "chap9"
+msgstr "Det Ondas"
+
+msgid "116"
+msgstr ""
+"Skynda i det goda, håll tillbaka ditt sinne från det onda! Den som är trög "
+"att samla förtjänst, i ondska gläder sig hans tanke."
+
+msgid "117"
+msgstr ""
+"Om någon handlar illvilligt göre han det inte gång på gång, finne han inte "
+"nöje däri. Smärta bringar anhopad ondska."
+
+msgid "118"
+msgstr ""
+"Om någon handlar förtjänstfullt göre han det gång på gång, finne han nöje "
+"däri. Glädje bringar samlad förtjänst."
+
+msgid "119"
+msgstr ""
+"Även den onde ser det goda så länge det onda ej börjar koka. När det onda "
+"kokar, då ser den onde ont."
+
+msgid "120"
+msgstr ""
+"Även den gode ser det onda så länge det goda ej börjar koka. När det goda "
+"kokar, då ser den gode gott."
+
+msgid "121"
+msgstr ""
+"Förringa inte det onda — «Det kommer inte till mig.» Av vattendroppars "
+"fall fylls även ett vattenkärl. Så fylls den, som inte vill veta, av "
+"ondska som han samlar litet i taget."
+
+msgid "122"
+msgstr ""
+"Förringa inte det goda — «Det kommer inte till mig.» Av vattendroppars "
+"fall fylls även ett vattenkärl. Så fylls den faste av förtjänst som han "
+"samlar litet i taget."
+
+msgid "123"
+msgstr ""
+"Som en köpman med litet skydd och mycket gods undviker skrämmande väg, och "
+"den livet älskar undviker gift, så må man undvika ondskan."
+
+msgid "124"
+msgstr ""
+"Om i handen inte är sår kan man i handen bära gift. Ej den sårfrie drabbar "
+"giftet. Ej finns ont för den som ej ont gör."
+
+msgid "125"
+msgstr ""
+"Den som orätt bemöter den bristfrie, den rena människan utan fläck, på den "
+"dåren faller det onda tillbaka som fint damm som kastats mot vinden."
+
+msgid "126"
+msgstr ""
+"Till skötet vandrar somliga, till helvetet de illa gör, till himlen de som "
+"lever väl, men de från flöden fria slocknar."
+
+msgid "127"
+msgstr ""
+"Inte i luften, inte mitt i vattnet, inte om man går in i en bergsklyfta "
+"finner man en plats i världen där den som vistas undslipper ond handling."
+
+msgid "128"
+msgstr ""
+"Inte i luften, inte mitt i vattnet, inte om man går in i en bergsklyfta "
+"finner man en plats i världen där den som vistas inte besegras av döden."
+
+msgid "chap10"
+msgstr "Gisslets"
+
+msgid "129"
+msgstr ""
+"Alla darrar inför gisslet. Alla fruktar inför döden. Ta dig själv till "
+"förebild. Döda ej, och låt ej döda!"
+
+msgid "130"
+msgstr ""
+"Alla darrar inför gisslet. Livet är för alla kärt. Ta dig själv till "
+"förebild. Döda ej, och låt ej döda!"
+
+msgid "131"
+msgstr ""
+"Den som lycka sökande väsen med gisslet angriper när han själv söker lycka, "
+"han finner sedan ej lycka."
+
+msgid "132"
+msgstr ""
+"Den som lycka sökande väsen med gisslet ej angriper när han själv söker "
+"lycka, han finner sedan sin lycka."
+
+msgid "133"
+msgstr ""
+"Tala inte hårt till någon. Han svarar likadant. Smärta skapas av högdraget "
+"tal. Vedergällning drabbar dig."
+
+msgid "134"
+msgstr ""
+"Om du är tyst som en sönderslagen gonggong har du nått nirvana. Högmod "
+"finns inte hos dig."
+
+msgid "135"
+msgstr ""
+"As med spöet herden driver korna i vall, så driver ålder och död de "
+"levandes liv."
+
+msgid "136"
+msgstr ""
+"Nu handlar dåren ont, men ser det inte. Av egna gärningar förtärs den "
+"ovise som av brinnande eld."
+
+msgid "137"
+msgstr ""
+"Den som med spöet den utan spö är och utan fläck angriper, honom sker av "
+"tio ting inom kort det ena:"
+
+msgid "138"
+msgstr ""
+"Häftig smärta, förlust, hos kroppen skada, svår sjukdom eller stört sinne,"
+
+msgid "139"
+msgstr ""
+"från kungen angrepp, illvilligt förtal, fränders död, förstörelse av egendom,"
+
+msgid "140"
+msgstr ""
+"eller förtäres hans hus av flammande brand. När kroppen upplösts uppstår i "
+"helvetet ovis."
+
+msgid "141"
+msgstr ""
+"Ej nakenvandring, ej tovigt hår, ej smuts, ej fasta eller liggande på "
+"marken, damm och lera eller huksittsträvan renar dödlig som ej lämnat tvivlen."
+
+msgid "142"
+msgstr ""
+"Även om han vandrar smyckad, fridfull, säker, tämjd och kysk, bland alla "
+"väsen utan gissel — han är brahmin, sraman och bhikkhu."
+
+msgid "143"
+msgstr ""
+"Vem är i denna värld människa styrd av skam för att undvika klander som en "
+"god häst piskan?"
+
+msgid "144"
+msgstr ""
+"Som när en god häst rörs av piskan, så röre ni er med full kraft. Med "
+"tillit, med moral och kraft, med samlat sinne och med klarögd granskning, "
+"med vetande och vett och uppmärksamma ni lämne denna icke ringa plåga."
+
+msgid "145"
+msgstr ""
+"Vattnet leder den som gräver diken. Pilmakaren formar pilen. Träet formar "
+"snickaren. Sig själv styr den gode."
+
+msgid "chap11"
+msgstr "Ålderns"
+
+msgid "146"
+msgstr ""
+"Var finns skratt, var finns glädje i ständiga lågor? Av skuggor täckta, "
+"söke ni inte ljuset?"
+
+msgid "147"
+msgstr ""
+"Se den utklädda dockan, den uppblåsta sårsamlingen, sjuk och föremål för "
+"många tankar, men i vilken ingenting varar."
+
+msgid "148"
+msgstr ""
+"Utsliten är denna kropp, sjukdomars sköra näste. Mot upplösning går den "
+"ruttnande massan. Mot döden söker sig livet."
+
+msgid "149"
+msgstr ""
+"Om hösten kasserade kalebasser liknar dessa smutsvita ben. Att se dem, "
+"vilket nöje?"
+
+msgid "150"
+msgstr ""
+"Av ben har en borg byggts, med kött och blod smord. I den finns ålder och "
+"död, stolthet och hyckleri."
+
+msgid "151"
+msgstr ""
+"Åldras gör även kungarnas vagnar av alla de slag. Så blir också kroppen "
+"gammal. Inte blir de godas dhamma gammal. I sanning sprider de goda den "
+"genom de goda."
+
+msgid "152"
+msgstr ""
+"Den som litet lyssnar åldras som en oxe. Musklerna hans växer. Vettet växer ej."
+
+msgid "153"
+msgstr ""
+"I många födelser i sangsara irrade jag, men fann inte byggherren jag "
+"sökte. Onöjd blir den som föds gång på gång."
+
+msgid "154"
+msgstr ""
+"Byggherre! Jag ser dig. Inte åter du bygger ett hus. Alla dina balkar "
+"bröts. Taket störtade samman. Från alla kläder fritt är sinnet. Till "
+"törstens slut det nådde fram."
+
+msgid "155"
+msgstr ""
+"Utan att heligt liv ha levt, utan att som unga samlat eget, tynar de som "
+"gamla hägrar i en tjärn där fisken fattas."
+
+msgid "156"
+msgstr ""
+"Utan att heligt liv ha levt, utan att som unga samlat eget, ligger de som "
+"brutna bågar klagande på det som varit."
+
+msgid "chap12"
+msgstr "Det Egnas"
+
+msgid "157"
+msgstr ""
+"Om du har dig själv kär, skydda dig väl! Under en nattväkt av tre vake den "
+"vise."
+
+msgid "158"
+msgstr ""
+"Sig själv först grunde man väl. Sedan råde man andra. Ej handle den vise fel."
+
+msgid "159"
+msgstr ""
+"Om man själv handlar så som man råder andra är man väl tämjd, och tämje. "
+"Svårt är tämja sig själv."
+
+msgid "160"
+msgstr ""
+"Själv du skyddar dig själv. Vem skulle annars skydda? Genom väl tämjt "
+"själv vinner man svårvunnet skydd."
+
+msgid "161"
+msgstr ""
+"Själv handlar man ont. Själv man föder och vållar det onda. Det klyver "
+"den som inget vill veta som diamanten den hårda juvelen."
+
+msgid "162"
+msgstr ""
+"Den som handlar djupt mot rätten verkar mot sig själv som ovän önskar, "
+"som en klängväxt kväver trädet."
+
+msgid "163"
+msgstr ""
+"Lätt är att göra det onda sig själv till skada. Det som till väl och gott "
+"är, det är ytterst svårt gjort."
+
+msgid "164"
+msgstr ""
+"Den som de värdigas budskap hånar, de ädlas som lever enligt dhamma, den "
+"som inget vill veta, som stödjer sig på ond blick, mognar till egen skada "
+"som kashtakavassens frukter."
+
+msgid "165"
+msgstr ""
+"Själv handlar man ont. Själv smutsar man sig. Själv låter man ont vara "
+"ogjort. Själv renar man sig. Renhet och orenhet är egen. Inte renar den "
+"ene den andre."
+
+msgid "166"
+msgstr ""
+"Eget väl för annans bästa, om ock stort är, ej försumma! Sedan du ditt väl "
+"lärt känna, sträva mot det högsta goda."
+
+msgid "chap13"
+msgstr "Världens"
+
+msgid "167"
+msgstr ""
+"Följ inte oädel sak. Lev inte försumligt. Följ inte orätt syn. Var inte "
+"bunden till världen."
+
+msgid "168"
+msgstr ""
+"Res dig. Var inte försumlig. Lev ett rätt liv. Den så gör lever glad i "
+"denna värld och en annan."
+
+msgid "169"
+msgstr ""
+"Lev ett rätt liv, inte ett orätt. Den så gör lever glad i denna värld och "
+"en annan."
+
+msgid "170"
+msgstr ""
+"Betrakta världen som en bubbla. Se den som en hägring. Den som så "
+"betraktar världen, honom ser inte dödens konung."
+
+msgid "171"
+msgstr ""
+"Kom, se på denna värld som liknar en kunglig vagn där dårarna sjunker ned. "
+"Där hänger de visa ej fast."
+
+msgid "172"
+msgstr ""
+"Den som förut levt försumligt men som sedan ej försummar, han lyser upp "
+"denna värld som månen fri från moln."
+
+msgid "173"
+msgstr ""
+"Den vars onda gångna dåd skyls av skicklig gärning, han lyser upp denna "
+"värld som månen fri från moln."
+
+msgid "174"
+msgstr ""
+"Blind är denna värld. Få är de som ser. Som fågel fri från nätet far inte "
+"många till glädjen."
+
+msgid "175"
+msgstr ""
+"Vildgäss far på solens väg, flyger i rymden av egen kraft. Visa far från "
+"världen bort i seger över Mara och hans här."
+
+msgid "176"
+msgstr ""
+"För den som ljuger, som försummar en enda sak, som struntar i en annan "
+"värld finns ej ont som inte kan göras."
+
+msgid "177"
+msgstr ""
+"Inte vandrar girigbuk till devavärld. Inte prisar dårar givmildhet. Den "
+"vise fröjdar sig åt givmildheten. Därför får han glädje hädanefter."
+
+msgid "178"
+msgstr ""
+"Mer än på jorden enväldigt styre, mer än väg som till himlen bär, mer än "
+"makt över alla världar är frukten värd av att stiga i strömmen."
+
+msgid "chap14"
+msgstr "Buddhas"
+
+msgid "179"
+msgstr ""
+"Den vars seger ej görs ogjord, hans seger utforskar ingen i världen. Denne "
+"Buddha med gränslöst fält och utan spår — vilken väg leder ni honom?"
+
+msgid "180"
+msgstr ""
+"Den vars snärjande, bindande törst inte längre för någonstans, denne "
+"Buddha med gränslöst fält och utan spår — vilken väg leder ni honom?"
+
+msgid "181"
+msgstr ""
+"De visa, som gärna samlar sitt sinne, som gläds över lugnet att inget äga "
+"— även devas avundas dem, de fullt uppvaknade och uppmärksamma."
+
+msgid "182"
+msgstr ""
+"Svårt är bli människa. Svårt är de dödligas liv. Svårt är höra den "
+"yttersta sanningen. Svårt är att möta buddhor."
+
+msgid "183"
+msgstr ""
+"Allt ont inte göra, hälsobringande inleda, eget sinne rena — detta är "
+"buddhornas budskap."
+
+msgid "184"
+msgstr ""
+"Tålmodigt uthärda är högsta övning. Högst är nirvana, säger buddhorna. "
+"Inte har den lämnat hemmet som skadar en annan. Inte är den sraman som "
+"annan sårar."
+
+msgid "185"
+msgstr ""
+"Inte skymfa, inte skada, i Patimokkha vara återhållsam, äta måttligt, "
+"ligga och sitta för sig, sträva i meditation — detta är buddhornas budskap."
+
+msgid "186"
+msgstr ""
+"Ej med ett regn av pengar är njutningen nöjd. Ej gör njutningen nöjd, ej "
+"ger den glädje. I vetskap om detta, den vise"
+
+msgid "187"
+msgstr ""
+"ens i gudomliga njutningar ej finner glädje. Åt ett slut på törsten gläds "
+"den fullt uppvaknades lärjunge."
+
+msgid "188"
+msgstr ""
+"Till mången tillflykt vandrar människor drivna av rädsla — till berg och "
+"skogar, trädgårdar, träd och stupor."
+
+msgid "189"
+msgstr ""
+"Ej är detta trygg tillflykt. Ej är detta högsta tillflykt. Ej till denna "
+"tillflykt kommen är man från all dukkha fri."
+
+msgid "190"
+msgstr ""
+"Men om någon tagit sin tillflykt till Buddha, dhamma och sangha, och med "
+"sann vishet ser de fyra ädla sanningarna —"
+
+msgid "191"
+msgstr ""
+"dukkha, dukkhas ursprung och segern over dukkha, den ädla åttafaldiga "
+"vägen till lugnandet av dukkha —"
+
+msgid "192"
+msgstr ""
+"då är detta trygg tillflykt. Då är detta högsta tillflykt. Då till denna "
+"tillflykt kommen är man från all dukkha fri."
+
+msgid "193"
+msgstr ""
+"Svår att finna är djupt bildad människa. Ej föds en sådan var som helst. "
+"Där en sådan vis föds, där blomstrar hans familj."
+
+msgid "194"
+msgstr ""
+"Glädje är det när buddhor uppstår. Glädje är det när dhamma sprids. "
+"Glädje är det när sangha är enig. Enigas övning är glädje."
+
+msgid "195"
+msgstr ""
+"Den som hedrar dem heder är värda, vare sig buddhor eller lärjungar, "
+"frigjorda från hinder, gångna bortom sorg och klagan;"
+
+msgid "196"
+msgstr ""
+"den sådana hedrar som nått nirvana, som ingenting fruktar — ej är möjligt "
+"för någon att sådans förtjänst mäta."
+
+msgid "chap15"
+msgstr "Glädjens"
+
+msgid "197"
+msgstr ""
+"I stor glädje lever vi bland hatiska utan hat. Bland hatiska människor "
+"vistas vi fria från hat."
+
+msgid "198"
+msgstr ""
+"I stor glädje lever vi bland sjuka utan sjukdom. Bland sjuka människor "
+"vistas vi fria från sjukdom."
+
+msgid "199"
+msgstr ""
+"I stor glädje lever vi bland giriga utan girighet. Bland giriga människor "
+"vistas vi fria från girighet."
+
+msgid "200"
+msgstr ""
+"I stor glädje lever vi som inte äger någonting. Av fröjd livnär vi oss som "
+"strålande devas."
+
+msgid "201"
+msgstr ""
+"Seger föder hat. Den besegrade lider. I glädje lever den lugnade som "
+"lämnat seger och nederlag."
+
+msgid "202"
+msgstr ""
+"Ej finns som lidelsen eld. Ej finns som hatet oförtjänst. Ej finns som "
+"skandhas otillfredsställelse. Ej finns större än lugnet lycka."
+
+msgid "203"
+msgstr ""
+"Svält är svåraste sjukdom. Viljeimpulserna tillfredsställer minst. För den "
+"som så förstått som det är är nirvana högsta lycka."
+
+msgid "204"
+msgstr ""
+"Hälsa är högsta förvärv, förnöjsamhet största rikedom. Pålitlig är bästa "
+"släkting. Nirvana är högsta lycka."
+
+msgid "205"
+msgstr ""
+"Sedan man smakat avskildhet och lugn är man fri från fruktan, fri från "
+"ont, och smakar dhammas fröjd."
+
+msgid "206"
+msgstr ""
+"Gott är att se de ädla. Gemenskap glädjer alltid. Att slippa se dem som "
+"inte vill veta ger varaktig glädje."
+
+msgid "207"
+msgstr ""
+"Den som umgås med dem som inte vill veta får mycket länge sörja. "
+"Smärtsamt är alltid att leva med dem som inte vill veta som med en ovän. "
+"Leva med vis är glädje som att frände möta."
+
+msgid "208"
+msgstr ""
+"Med vis, med klok, med den som mycket hört, med den som härdar ut, den "
+"plikttrogne, den ädle, med sådan värdig, med sådan tankfull må ni vara som "
+"månen med stjärnorna."
+
+msgid "chap16"
+msgstr "Det Käras"
+
+msgid "209"
+msgstr ""
+"När han binder sig vid det som inte bör bindas vid, inte binder sig vid "
+"det som bör bindas vid och lämnat det goda — avundas njutningssökaren dem "
+"som övar sig."
+
+msgid "210"
+msgstr ""
+"Sök aldrig det kärt är eller okärt, vad det än är. Att inte se det kärt är "
+"smärtar liksom att se det okärt är."
+
+msgid "211"
+msgstr ""
+"Håll därför ingenting kärt. Det käras frånvaro är illa. Bojor finns inte "
+"för dem för vilka ej kärt eller okärt är."
+
+msgid "212"
+msgstr ""
+"Ur det kära kommer sorg. Ur det kära kommer rädsla. För den som gjort sig "
+"fri från det kära finns inte sorg, än mindre rädsla."
+
+msgid "213"
+msgstr ""
+"Ur självisk kärlek kommer sorg. Ur självisk kärlek kommer rädsla. För den "
+"som gjort sig fri från självisk kärlek finns inte sorg, än mindre rädsla."
+
+msgid "214"
+msgstr ""
+"Ur nöje kommer sorg. Ur nöje kommer rädsla. För den som gjort sig fri från "
+"nöje finns inte sorg, än mindre rädsla."
+
+msgid "215"
+msgstr ""
+"Ur njutning kommer sorg. Ur njutning kommer rädsla. För den som gjort sig "
+"fri från njutning finns inte sorg, än mindre rädsla."
+
+msgid "216"
+msgstr ""
+"Ur törst kommer sorg. Ur törst kommer rädsla. För den som gjort sig fri "
+"från törst finns inte sorg, än mindre rädsla."
+
+msgid "217"
+msgstr ""
+"Den som handlar rätt och med förstånd, som lever riktigt och som talar "
+"sanning och verkar för sig själv — för människorna är han kär."
+
+msgid "218"
+msgstr ""
+"Den som börjat önska det som inte visats, den vars tanke öppnat sig, den "
+"vars sinne inte binds av njutning — han sägs simma uppströms."
+
+msgid "219"
+msgstr ""
+"Den som länge varit borta och helbrägda kommit från fjärran blir av "
+"fränder, vänner och kamrater hjärtligt välkomnad."
+
+msgid "220"
+msgstr ""
+"Så blir också den som samlat förtjänst, när han gått från denna värld till "
+"en annan, mottagen av sina förtjänster som när kär frände kommer."
+
+msgid "chap17"
+msgstr "Vredens"
+
+msgid "221"
+msgstr ""
+"Släpp din vrede, låt din stolthet fara, bryt alla bojor! Den som inte "
+"hänger fast vid sinne och kropp drabbar ingen otillfredsställelse."
+
+msgid "222"
+msgstr ""
+"Den, som när vreden uppstått bromsar den som en vinglande vagn, honom "
+"kallar jag kusk, andra tömhållare."
+
+msgid "223"
+msgstr ""
+"Med vänlighet besegre du vreden och ondskan med godhet. Besegre du "
+"girigbuken med frikostighet och med sanning den som med lögn far."
+
+msgid "224"
+msgstr ""
+"Tala sanning, vredgas inte, ge åtminstone något, om du blir ombedd! Genom "
+"dessa tre grunder komme du nära devas."
+
+msgid "225"
+msgstr ""
+"Visa, som är fria från våld och alltid till kroppen behärskade, går till "
+"frihet från död där ingen längre sörjer."
+
+msgid "226"
+msgstr ""
+"För de alltid vakande, dag och natt lärande, mot nirvana strävande "
+"försvinner flödena."
+
+msgid "227"
+msgstr ""
+"Gammalt är detta, Atula, ej i dag påfunnet: Klandras gör den som sitter "
+"tyst. Klandras gör den som talar mycket. Den som talar litet klandras "
+"även. Ej finns i världen oklandrad man."
+
+msgid "228"
+msgstr ""
+"Det fanns ej, det blir ej, det finns ej nu endast klandrad man eller "
+"endast prisad."
+
+msgid "229"
+msgstr ""
+"Den som den vetande prisar efter granskning dag efter dag, den kloke som "
+"uppträder felfritt, som uppnått vishet och moral,"
+
+msgid "230"
+msgstr ""
+"som liknar ett mynt av renaste guld — vem är värdig att honom klandra? "
+"Även devas prisar honom. Ja, av Brahma prisas han."
+
+msgid "231"
+msgstr ""
+"För kroppens vrede vakte man sig och vare till kroppen behärskad. Slute "
+"man illa handla med kroppen och handle med kroppen väl."
+
+msgid "232"
+msgstr ""
+"För talets vrede vakte man sig och vare till talet behärskad. Slute man "
+"illa handla med talet och handle med talet väl."
+
+msgid "233"
+msgstr ""
+"För tankens vrede vakte man sig och vare till tanken behärskad. Slute man "
+"illa handla med tanken och handle med tanken väl."
+
+msgid "234"
+msgstr ""
+"Till kroppen behärskade är de visa liksom behärskade till talet. Till "
+"tanken behärskade är de visa. Behärskade är de till fullo."
+
+msgid "chap18"
+msgstr "Fläckens"
+
+msgid "235"
+msgstr ""
+"Ett vissnat löv liknar du nu. Dödens bud har visat sig för dig. Snart får "
+"du fara. Färdkost har du ingen."
+
+msgid "236"
+msgstr ""
+"Gör en ö åt dig själv. Sträva snabbt. Fri från fläck, utan smuts går du "
+"till himmelskt, ädelt land."
+
+msgid "237"
+msgstr ""
+"Till livets slut har du hunnit. Du har kommit nära döden. Viloplats finns "
+"inte längs vägen. Färdkost har du ingen."
+
+msgid "238"
+msgstr ""
+"Gör en ö åt dig själv. Sträva snabbt. Fri från fläck, utan smuts skall du "
+"inte åter födas och åldras."
+
+msgid "239"
+msgstr ""
+"Så småningom den vise, efter hand, med tiden, avlägsne egen fläck som "
+"smeden fläck från silver."
+
+msgid "240"
+msgstr ""
+"Som rost ur järn växer fram och järnet självt förtär, så förs den som för "
+"mycket söker njutning av egna gärningar till en olycklig värld."
+
+msgid "241"
+msgstr ""
+"Att inte upprepas är mantrans rost. Att inte sträva är hemmets rost. "
+"Skönhetens rost är lättja. Försumlighet är väktarens rost."
+
+msgid "242"
+msgstr ""
+"Kvinnans rost är illa handla. Vara snål är givarens rost. Rosten är ett "
+"uselt ting i denna värld och i en annan."
+
+msgid "243"
+msgstr ""
+"Än värre rost än denna rost är okunnighetens yttersta rost. Lämna ifrån er "
+"denna rost och var, bhikkhus, fria från rost."
+
+msgid "244"
+msgstr ""
+"Lätt är leva för skamlös man, för påträngande kråkhjälte, skrävlande och "
+"hänsynslös. Lätt är livet för den som är rutten."
+
+msgid "245"
+msgstr ""
+"For den blygsamme leva är svårt, för den som alltid önskar renhet, den "
+"öppne och samvetsgranne som lever rent och ser klart."
+
+msgid "246"
+msgstr ""
+"Den liv förstör, lögn talar, i världen tar vad inte givits, går till "
+"annans hustru"
+
+msgid "247"
+msgstr ""
+"och med dryck eller drog rus söker, han redan här i denna värld egen rot "
+"gräver."
+
+msgid "248"
+msgstr ""
+"Så må du veta, min gode man: Svårt är onda ting tygla. Ej må dig begär och "
+"orätt länge till otillfredsställelse driva."
+
+msgid "249"
+msgstr ""
+"Folk ger av tillit och av glädje. Därför kan den, som inte är nöjd med "
+"andras mat och dryck, varken dag eller natt bringa sinnet till samling."
+
+msgid "250"
+msgstr ""
+"Men den som detta huggit av, ryckt upp med roten, kastat bort, han kan "
+"både dag och natt bringa sinnet till samling."
+
+msgid "251"
+msgstr ""
+"Ej finns som lidelsen eld. Ej finns som hatet ett grepp. Ej finns som "
+"självbedrägeriet ett nät. Ej finns som törsten en flod."
+
+msgid "252"
+msgstr ""
+"Lätta att se är andras fel, de egna svåra. I sanning, andras brister "
+"sållar man som agnar. Egna gömmer man som fuskande spelare misslyckat "
+"tärningskast."
+
+msgid "253"
+msgstr ""
+"Den som betraktar andras brister och alltid låter sig retas, hans flöden "
+"växer. Länge får han vänta tills flödena sinar."
+
+msgid "254"
+msgstr ""
+"I rymden finns ej stig. Ej finns utanför sraman. Åt sin besatthet fröjdas "
+"folk. Ej är de utvecklade besatta."
+
+msgid "255"
+msgstr ""
+"I rymden finns ej stig. Ej finns utanför sraman. Inget betingat är evigt. "
+"Ej finns hos buddhor vacklan."
+
+msgid "chap19"
+msgstr "Rättens"
+
+msgid "256"
+msgstr ""
+"Ej är man därför rättskaffens för att man förhastat dömer fördel. Den som "
+"fördel och nackdel båda urskiljer, han är vis."
+
+msgid "257"
+msgstr ""
+"Den som inte förhastat, men rättvist och opartiskt dömer andra, vaktar "
+"dhamma och är klok, han kallas rättskaffens."
+
+msgid "258"
+msgstr ""
+"Ej är man därför vis för att man mycket talar. Den som är trygg, från "
+"fiendskap fri och från rädsla, han kallas vis."
+
+msgid "259"
+msgstr ""
+"Ej bär man därför dhamma för att man mycket talar. Den som föga hört men "
+"ser dhamma utan förmedling, han bär verkligen dhamma som inte dhamma "
+"försummar."
+
+msgid "260"
+msgstr ""
+"Ej är man därför äldste för att ens huvud är grått. Mogen hans ålder, "
+"åldrad förgäves kallas han."
+
+msgid "261"
+msgstr ""
+"Hos vilken finns sanning och dhamma, icke-våld, självbehärskning, "
+"måttfullhet, han som är fläckfri och klok — han kallas äldste."
+
+msgid "262"
+msgstr ""
+"Ej för sin vältalighet, ej för sin vackra hy är människan god om "
+"avundsam, självisk och falsk."
+
+msgid "263"
+msgstr ""
+"Men den som detta huggit av, ryckt upp med roten, kastat bort, som är "
+"hatfri och vis — han kallas god."
+
+msgid "264"
+msgstr ""
+"Ej för sin skallighet sraman är den som illa gör och lögn talar. Vem med "
+"lystnad och begär kan bli sraman?"
+
+msgid "265"
+msgstr ""
+"Den som bromsar allt ont, både fint och grovt, kallas, för att han "
+"bromsat det onda, sraman."
+
+msgid "266"
+msgstr ""
+"Ej är man därför bhikkhu för att man tigger av andra. När man övar hela "
+"dhamma är man bhikkhu, inte därför."
+
+msgid "267"
+msgstr ""
+"Den som avhåller sig från förtjänst och från ont och är kysk, som vandrar "
+"i världen med öppet sinne, han kallas verkligen bhikkhu."
+
+msgid "268"
+msgstr ""
+"Ej genom tystnad är ovishet tyst hos en okunnig dumbom. Den som tar en "
+"våg och väljer det bästa är vis."
+
+msgid "269"
+msgstr ""
+"Det onda undviker han. Därför är hos honom ovishet tyst. Den som känner "
+"båda världarna, han kallas tyst och vis."
+
+msgid "270"
+msgstr ""
+"Ej är man därför ädel för att man övar våld mot levande. För icke-våld "
+"mot allt som andas kallas man ädel."
+
+msgid "271"
+msgstr ""
+"Ej genom endast gärning og rit, ej genom vidsträckt vetande, ej genom "
+"sinnets uppnådda samling, ej genom avskilt boende"
+
+msgid "272"
+msgstr ""
+"njuter jag glädjen att avstå, för den breda massan okänd. Bhikkhu, var "
+"inte för säker förrän flödena sinat!"
+
+msgid "chap20"
+msgstr "Vägens"
+
+msgid "273"
+msgstr ""
+"Bästa väg är den åttafaldiga, bästa sanningar de fyra. Begärsfrihet är "
+"bästa ting. Bästa tvåfoting är den som har ögon."
+
+msgid "274"
+msgstr ""
+"Detta är vägen. Ej finns annan till seendets renhet. Den må ni följa. "
+"Detta förvirrar Mara."
+
+msgid "275"
+msgstr ""
+"Följ den och gör slut på otillfredsställelsen. Vägen visade jag i kunskap "
+"hur pilen dras ut."
+
+msgid "276"
+msgstr ""
+"Av er måste ansträngning göras. Vägvisare är de utvecklade. Följarna "
+"frigör sig, med samlat sinne, från Maras band."
+
+msgid "277"
+msgstr ""
+"Allt betingat är förgängligt. När man med vishet ser detta får man nog av "
+"otillfredsställelse. Detta är vägen till renhet."
+
+msgid "278"
+msgstr ""
+"Allt betingat är otillfredsställande. När man med vishet ser detta får man "
+"nog av otillfredsställelse. Detta är vägen till renhet."
+
+msgid "279"
+msgstr ""
+"Allt som finns är inte jag. När man med vishet ser detta får man nog av "
+"otillfredsställelse. Detta är vägen till renhet."
+
+msgid "280"
+msgstr ""
+"Utan att sträva i strävandets stund, ung och stark men trög i allt, slö i "
+"tanken, slapp till sinnes finner den late med vishet ej vägen."
+
+msgid "281"
+msgstr ""
+"Talet vakte man, sinnet styre man väl, med kroppen göre man ej något "
+"oskickligt. Dessa tre handlingsplan rene man för att gå den väg som de "
+"vise visat."
+
+msgid "282"
+msgstr ""
+"Ur ansträngning föds kunskap, ur brist på ansträngning kunskapens "
+"förlust. Då du förstått denna tveggehanda väg till det som blir och det "
+"som försvinner råde du så dig själv att kunskapen växer."
+
+msgid "283"
+msgstr ""
+"Skogen hugg, ej trädet. Ur skogen föds rädslan. Hugg skogen och "
+"snårskogen och var fria, bhikkhus, från skog."
+
+msgid "284"
+msgstr ""
+"Så länge snårskog ej huggits, mannens minsta bland kvinnor, är hans tanke "
+"i bojor som en kalv diar sin mor."
+
+msgid "285"
+msgstr ""
+"Skär av din böjelse som med handen höstens lotus. Odla fredsvägen. "
+"Nirvana visades av den väl utvecklade."
+
+msgid "286"
+msgstr ""
+"«Här skall jag bo under regnet, här under vintern och sommarn.» Så tänker "
+"dåren. Hinder känner han ej."
+
+msgid "287"
+msgstr ""
+"Den som blir rusig av barn och boskap, människan fylld av begär, rycks "
+"bort av döden som sovande by av en flodvåg."
+
+msgid "288"
+msgstr ""
+"Ej kan barn ge skydd, ej far, ej fränder. För den som nått till slutet är "
+"anhörig inget skydd."
+
+msgid "289"
+msgstr ""
+"Då man begripit denna grund, vis og rätt handlande, röje man snart vägen "
+"som bär till nirvana."
+
+msgid "chap21"
+msgstr "Det Blandade"
+
+msgid "290"
+msgstr ""
+"När man med att släppa måttlig lycka ser en större, må den som fast är "
+"avstå från måttlig lycka och klart se den större."
+
+msgid "291"
+msgstr ""
+"Den som med att vålla andra smärta önskar lycka åt sig själv, i hatet "
+"insnärjd, frigör sig inte från hatet."
+
+msgid "292"
+msgstr ""
+"De som bortser från det som skall göras och gör det som inte skall göras, "
+"uppblåsta, försumliga, deras flöden växer."
+
+msgid "293"
+msgstr ""
+"De som börjar väl och alltid är uppmärksamma på kroppen, de gör inte det "
+"som inte skall göras, alltid uthålliga. Hos de uppmärksamma och medvetna "
+"sinar flödena."
+
+msgid "294"
+msgstr ""
+"Då han dödat mor och far och två kshatriyakungar, då han dödat ett rike "
+"och dem som där bor vandrar brahminen lugnt."
+
+msgid "295"
+msgstr ""
+"Då han dödat mor och far och två lärda kungar, då han dödat en tiger som "
+"femte vandrar brahminen lugnt."
+
+msgid "296"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt alltid är "
+"uppmärksamma på Buddha."
+
+msgid "297"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt alltid är "
+"uppmärksamma på Dhamma."
+
+msgid "298"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt alltid är "
+"uppmärksamma på Sangha."
+
+msgid "299"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt alltid är "
+"uppmärksamma på kroppen."
+
+msgid "300"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt gläds åt "
+"icke-våld."
+
+msgid "301"
+msgstr ""
+"Väl vakna vakar alltid Gotamas hörare, vilka dag och natt gläds åt "
+"meditation."
+
+msgid "302"
+msgstr ""
+"Svårt är avstå, svårt är glädjas. Svårt är leva i hus, ej gör det nöjd. "
+"Ej gör det nöjd att leva med sina likar. Ej blir resande nöjd. Därför "
+"rese man ej och vare ej onöjd."
+
+msgid "303"
+msgstr ""
+"Den tillit har och rätt handlar, med gott rykte och rikedom — till vilket "
+"land han än reser, där blir han tjänad."
+
+msgid "304"
+msgstr ""
+"På långt håll lyser de rena som Himalayas berg. De orena kan inte ses, "
+"som pilar skjutna i natten."
+
+msgid "305"
+msgstr ""
+"Sittande ensam, liggande ensam, vandrande ensam och vaksam, tämjande "
+"ensam dig själv finne du glädje i skogen."
+
+msgid "chap22"
+msgstr "Helvetets"
+
+msgid "306"
+msgstr ""
+"Lögnaren går till helvetet, likaså den som förnekar det gjorda. Båda blir "
+"sedan av samma slag: illa handlande på annan ort."
+
+msgid "307"
+msgstr ""
+"Många med munkdräkt runt halsen har onda vanor, behärskar sig inte. De "
+"onda, för sina onda handlingar, föds i helvetet."
+
+msgid "308"
+msgstr ""
+"Bättre järnklot svälja, glödande som flamma, än obehärskat illa handla "
+"och äta landets gåva."
+
+msgid "309"
+msgstr ""
+"Fyra följder skapar försumlig man som följer annans hustru: oförtjänst "
+"förtjänar han, ej i ro sover han, för det tredje klandras han, för det "
+"fjärde helvetet."
+
+msgid "310"
+msgstr ""
+"Illa är oförtjänst, illa är vart han går, kort blir den skrämdes fröjd hos "
+"den skrämda, hårt blir straffet som kungen utmäter. Därför följe man ej "
+"annans hustru."
+
+msgid "311"
+msgstr ""
+"Liksom grässtrå illa gripet skär i handen, så sramanens liv, om illa "
+"levat, drar till helvetet."
+
+msgid "312"
+msgstr ""
+"Slapp handling, oren sed, tvivelaktig kyskhet bär inte stor frukt."
+
+msgid "313"
+msgstr ""
+"Om något skall göras, gör det med all din kraft. Slapp asket samlar "
+"mycket damm."
+
+msgid "314"
+msgstr ""
+"Ond gärning är bättre ogjord. Efteråt bränner ond gärning. God gärning är "
+"bättre gjord som man efteråt inte ångrar."
+
+msgid "315"
+msgstr ""
+"Som en befäst gränsstad vaktas utan och innan, så vakta er själva! Låt "
+"inte ett ögonblick fly. De som så gjort sörjer komna till helvetet."
+
+msgid "316"
+msgstr ""
+"För det som ej är skamligt skäms de. För det som är skamligt skäms de ej. "
+"Då de fått fel syn går varelser till en olycklig värld."
+
+msgid "317"
+msgstr ""
+"Det som ej bör fruktas fruktar de. Det som bör fruktas fruktar de ej. Då "
+"de fått fel syn går varelser till en olycklig värld."
+
+msgid "318"
+msgstr ""
+"Det som ej bör undvikas undviker de. Det som bör undvikas undviker de ej. "
+"Då de fått fel syn går varelser till en olycklig värld."
+
+msgid "319"
+msgstr ""
+"Då de lärt känna det som bör undvikas som sådant, och det som inte bör "
+"undvikas som sådant, och då de fått rätt syn går varelser till en lycklig "
+"värld."
+
+msgid "chap23"
+msgstr "Elefantens"
+
+msgid "320"
+msgstr ""
+"Som elefant i striden pil från båge skjuten tåle jag skymf. Illa handlar "
+"de många."
+
+msgid "321"
+msgstr ""
+"Tämjda föres till samling. På den tämjda rider kungen. Tämjd är bäst bland "
+"människor när han tål skymf."
+
+msgid "322"
+msgstr ""
+"Goda är tämjda mulor, hästar från Sindh och stora elefanter. Självtämjd "
+"är bättre."
+
+msgid "323"
+msgstr ""
+"Ej med dessa vagnar når man obeträtt land, dit med sin goda tämjning den "
+"tämjde går."
+
+msgid "324"
+msgstr ""
+"Elefanten som heter Rikedomsväktare, brunstig och svår att bromsa, äter "
+"bunden inte en munsbit utan minns elefantskogen."
+
+msgid "325"
+msgstr ""
+"När han är trög och glupsk och sömnigt ligger och vältrar sig som ett "
+"stort svin, närt av skulor, går den late gång på gång till sin livmoder."
+
+msgid "326"
+msgstr ""
+"Förut irrade detta sinne efter sin önskan, efter sin njutning, efter sin "
+"lycka. I dag skall jag styra det strikt som ryttaren rasande elefant."
+
+msgid "327"
+msgstr ""
+"Gläds åt omsorg. Eget sinne vakta. Lämna besvärlig väg som en elefant som "
+"sitter fast i träsket."
+
+msgid "328"
+msgstr ""
+"Om ni vinner klok kamrat som lever med er väl och fast, övervinn alla "
+"faror och vandra med honom i glädje och uppmärksamhet."
+
+msgid "329"
+msgstr ""
+"Om ni inte vinner klok kamrat som lever med er väl och fast, som en kung "
+"som lämnar erövrat rike vandra ensam, som en elefant i skogen."
+
+msgid "330"
+msgstr ""
+"Ensam vandring är bättre. Ej finns gemenskap med den som inte vill veta. "
+"Vandra ensam, gör inget ont, fri från bekymmer som en elefant i skogen."
+
+msgid "331"
+msgstr ""
+"När kamrater behövs är det glädje att de finns. Glädje är förnöjsamhet på "
+"alla sätt. Glädje är förtjänst vid livets slut. Glädje är släppa allt som "
+"inte gör nöjd."
+
+msgid "332"
+msgstr ""
+"Glädje är det att tjäna en mor i världen. Också att tjäna en far är "
+"glädje. Glädje är det att vara sraman i världen. Också att vara brahmin "
+"är glädje."
+
+msgid "333"
+msgstr ""
+"Glädje är upp i ålderdomen leva rätt. Glädje är tillit på god grund. "
+"Glädje är vishet vinna. Att ont inte göra är glädje."
+
+msgid "chap24"
+msgstr "Törstens"
+
+msgid "334"
+msgstr ""
+"Hos den som lever försumligt växer törsten som en klängväxt. Han svävar "
+"från liv till liv som en frukttrånande apa i skogen."
+
+msgid "335"
+msgstr ""
+"Den som övervinns av denna låga törst och längtan i världen, hans sorger "
+"växer som gräs efter regn."
+
+msgid "336"
+msgstr ""
+"Den som övervinner denna låga törst i världen, svår att övervinna, från "
+"honom faller sorgerna som droppar från blad."
+
+msgid "337"
+msgstr ""
+"Detta säger jag: Lycka åt er som har samlats här! Gräv upp törstens rot "
+"som en värdefull rotfrukt. Ej er krosse Mara gång på gång som strömmen "
+"vassen."
+
+msgid "338"
+msgstr ""
+"Som ett träd med stark och oskadd rot växer åter, även om det huggs, så "
+"uppstår denna otillfredsställelse gång på gång så länge böjelsen för "
+"törst inte ryckts upp med roten."
+
+msgid "339"
+msgstr ""
+"Den vars trettiosex strömmar, behagligt framflytande, är starka — honom, "
+"den illa seende, för begärsfyllda tankar bort."
+
+msgid "340"
+msgstr ""
+"Överallt flyter strömmar. Klängväxter gror och reser sig. Då du sett denna "
+"klängväxt födas, skär av roten med vishet."
+
+msgid "341"
+msgstr ""
+"Hos varelserna uppstår begärsfylld glädje. De som söker njutning och "
+"lycka, de kommer säkert att födas och åldras."
+
+msgid "342"
+msgstr ""
+"Människor som hedrar sin törst springer omkring som en skrämd hare. Bundna "
+"av bojor och band blir de besvikna gång på gång, länge."
+
+msgid "343"
+msgstr ""
+"Människor som hedrar sin törst springer omkring som en skrämd hare. Därför "
+"avlägsne törsten bhikkhu som önskar egen begärsfrihet."
+
+msgid "344"
+msgstr ""
+"Den som utan snårskog söker skogen och fri från skogen springer till "
+"skogen, se den människan! Fri springer hon till banden."
+
+msgid "345"
+msgstr ""
+"Ej är det bandet starkt, säger de fasta, som gjorts av järn, trä eller "
+"rep. Lidelsefullt är begäret efter juveler och ringar, barn och kvinnor."
+
+msgid "346"
+msgstr ""
+"Det bandet är starkt, säger de fasta, som är tungt och smidigt, svårt att "
+"slita. Det skär de visa av och vandrar utan begär, och lämnar "
+"njutningens glädje."
+
+msgid "347"
+msgstr ""
+"Begärsbenägna följer floden som spindeln självspunnet nät. Det skär de "
+"visa av och vandrar utan begär, och lämnar allt som inte gör nöjd."
+
+msgid "348"
+msgstr ""
+"Släpp det som varit, släpp det som kommer, släpp det som är, gå förbi det "
+"som blir! Med sinnet fritt i allt föds och åldras du inte igen."
+
+msgid "349"
+msgstr ""
+"Hos den som av tankar oroas, som har starkt begär och lever för det "
+"sköna, växer törsten mer. Han gör bandet starkt."
+
+msgid "350"
+msgstr ""
+"Den som gläds åt tankarnas ro, betraktar det osköna, alltid är uppmärksam "
+"— han får av sig, han skär sönder Maras band."
+
+msgid "351"
+msgstr ""
+"Den målet nått, den inte fruktar, fri från törst och utan fläck, har "
+"brutit tillblivelsens pilar. Hans sista är denna kropp."
+
+msgid "352"
+msgstr ""
+"Den som är fri från törst och inte hänger fast, som kan språkläran och "
+"ordförrådet, ljudens förening och deras ordning — han har sin sista "
+"kropp. Stor vis, stor människa kallas han."
+
+msgid "353"
+msgstr ""
+"Allt har jag övervunnit. Allt vet jag. Bland alla ting är jag utan fläck. "
+"Allt har jag lämnat. Jag har avlägsnat törsten och är fri. Då jag själv "
+"har förstått, vem skall jag nämna?"
+
+msgid "354"
+msgstr ""
+"Dhammas gåva överträffar varje gåva. Dhammas smak överträffar varje smak. "
+"Dhammas nöje överträffar varje nöje. Törstens avlägsnande överträffar "
+"allt som inte gör nöjd."
+
+msgid "355"
+msgstr ""
+"Rikedom krossar dåren, inte den som söker andra stranden. Med "
+"rikedomstörst krossar dåren som andra sig själv."
+
+msgid "356"
+msgstr ""
+"Ogräs skadar åkrarna. Begär skadar denna mänsklighet. Därför skall gåva "
+"åt den som är fri från begär bära stor frukt."
+
+msgid "357"
+msgstr ""
+"Ogräs skadar åkrarna. Hat skadar denna mänsklighet. Därför skall gåva åt "
+"den som är fri från hat bära stor frukt."
+
+msgid "358"
+msgstr ""
+"Ogräs skadar åkrarna. Självbedrägeri skadar denna mänsklighet. Därför "
+"skall gåva åt den som är fri från självbedrägeri bära stor frukt."
+
+msgid "359"
+msgstr ""
+"Ogräs skadar åkrarna. Längtan skadar denna mänsklighet. Därför skall "
+"gåva åt den som är fri från längtan bära stor frukt."
+
+msgid "chap25"
+msgstr "Bhikkhuns"
+
+msgid "360"
+msgstr ""
+"Att tygla ögat är gott. Gott är att tygla örat. Att tygla näsan är gott. "
+"Gott är att tygla tungan."
+
+msgid "361"
+msgstr ""
+"Att tygla kroppen är gott. Gott är att tygla talet. Att tygla tanken är "
+"gott. Gott är att tygla allt. Bhikkhu som tyglar allt blir fri från allt "
+"som inte gör nöjd."
+
+msgid "362"
+msgstr ""
+"Till handen behärskad, till foten behärskad, till talet behärskad, "
+"ojämförligt behärskad, med inre glädje, med samlad tanke, enslig och nöjd "
+"— han kallas bhikkhu."
+
+msgid "363"
+msgstr ""
+"Bhikkhu som är behärskad till munnen, väl talar, inte är stolt, orden och "
+"meningen förklarar — som honung är hans tal."
+
+msgid "364"
+msgstr ""
+"Bhikkhu som lever i dhamma, som gläds åt dhamma, som tänker på dhamma, "
+"som minns dhamma, går inte tillbaka från sann dhamma."
+
+msgid "365"
+msgstr ""
+"Vad man själv fått må man inte förakta och annan ej avundas. Bhikkhu som "
+"avundas annan kan inte samla sitt sinne."
+
+msgid "366"
+msgstr ""
+"Om bhikkhu som fått föga inte föraktar det han själv fått, då prisar "
+"honom även devas, honom som rent lever och kraftfullt."
+
+msgid "367"
+msgstr ""
+"Den som vid intet i sinnet och kroppen klamrar sig fast och det som inte "
+"är ej sörjer, han kallas verkligen bhikkhu."
+
+msgid "368"
+msgstr ""
+"Bhikkhu som lever i metta och gläds åt Buddhas budskap når fridfull väg, "
+"lyckan att allt betingat lugna."
+
+msgid "369"
+msgstr ""
+"Ös, bhikkhu, denna båt! Tömd på vatten seglar den snabbt. Då du skurit "
+"begär och hat når du härifrån nirvana."
+
+msgid "370"
+msgstr ""
+"Skär fem, lämna fem, odla också fem. Fem krokar besegrande bhikkhu kallas "
+"en som korsat störtfloden."
+
+msgid "371"
+msgstr ""
+"Samla sinnet, bhikkhu, var inte försumlig! Ej i sinnesnjutning virvle "
+"ditt sinne. Ej svälje du försumlig kopparkulan. Ej du klage «Detta är "
+"smärta!» när du brinner."
+
+msgid "372"
+msgstr ""
+"Inte finns sinnets samling för ovis. Vishet finns inte för osamlat "
+"sinne. Den som i vishet samlar sitt sinne, han är nära nirvana."
+
+msgid "373"
+msgstr ""
+"Bhikkhu som sökt sig till tomt hus och lugnat sitt sinne känner "
+"övermänsklig glädje då han rätt ser dhamma."
+
+msgid "374"
+msgstr ""
+"När än han tänker på skandhas början och slut känner han glädje och "
+"lycka. Frihet från döden är detta för dem som vet."
+
+msgid "375"
+msgstr ""
+"Detta blir så början här för vis bhikkhu: ha vaktade sinnen, vara nöjd, i "
+"Patimokkha vara återhållsam, följa ädla vänner som rent lever och "
+"kraftfullt."
+
+msgid "376"
+msgstr ""
+"Välkomnande vare han och uppträde klokt. Därmed gör han i stor glädje "
+"slut på det som inte gör nöjd."
+
+msgid "377"
+msgstr ""
+"Som en jasmin fäller sina vissnade blommor, så må begär och hat ni, "
+"bhikkhus, fälla."
+
+msgid "378"
+msgstr ""
+"Lugn till kroppen, lugn till talet, lugn till tanken, väl samlad bhikkhu "
+"som utspytt världslig vinning kallas verkligen lugnad."
+
+msgid "379"
+msgstr ""
+"Själv du mane dig själv. Tygle dig själv du själv. Självvaktad och vaken "
+"lever du lyckligt, bhikkhu."
+
+msgid "380"
+msgstr ""
+"Själv du skyddar dig själv. Själv du formar din framtid. Därför du styre "
+"dig själv som en köpman en god häst."
+
+msgid "381"
+msgstr ""
+"Bhikkhu som fylls av lycka och gläds åt Buddhas budskap når fridfull väg, "
+"lyckan att allt betingat lugna."
+
+msgid "382"
+msgstr ""
+"Den bhikkhu som, när han är ung, lägger ned kraft på Buddhas budskap, han "
+"lyser upp denna värld som månen fri från moln."
+
+msgid "chap26"
+msgstr "Brahminens"
+
+msgid "383"
+msgstr ""
+"Skär strömmen, ryck fram, besegra din njutningslystnad, brahmin! Då du "
+"förstått det betingades slut du känne det ogjorda, brahmin."
+
+msgid "384"
+msgstr ""
+"När med två övningar brahminen gått förbi, då försvinner alla bojor för "
+"honom som vet."
+
+msgid "385"
+msgstr ""
+"Den för vilken den andra stranden eller denna eller den andra och denna "
+"inte är, fri från fruktan, utan ok — honom kallar jag brahmin."
+
+msgid "386"
+msgstr ""
+"Den som sitter med samlat sinne och utan smuts, som gjort det som göras "
+"skall, från flöden fri, som högsta målet nått — honom kallar jag brahmin."
+
+msgid "387"
+msgstr ""
+"Om dagen lyser solen. Om natten strålar månen. Rustad lyser kshatriyan, "
+"med samlat sinne brahminen. Men varje timme lyser en Buddha som eld."
+
+msgid "388"
+msgstr ""
+"För avhållsamhet från det onda man kallas brahmin, för lugnat sinne "
+"sraman. Då man avlägsnat egen fläck kallas man därför fri från hem."
+
+msgid "389"
+msgstr ""
+"Ej må någon slå en brahmin. Ej må brahminen därför få utbrott. Skam över "
+"den som slår en brahmin, än mer över den som därför få utbrott."
+
+msgid "390"
+msgstr ""
+"Ej för brahmin är något bättre än detta när sinnet avhåller sig från vad "
+"kärt är. När än viljan att förstöra försvinner så lugnas allt det som "
+"inte gör nöjd."
+
+msgid "391"
+msgstr ""
+"Den som med kroppen, talet och tanken inte gör något ont, i dessa tre "
+"behärskad — honom kallar jag brahmin."
+
+msgid "392"
+msgstr ""
+"Den, från vilken man dhamma lärt känna, som den fullt uppvaknade visat, "
+"hälse man med aktning som sin offereld brahminen."
+
+msgid "393"
+msgstr ""
+"Inte för tovigt hårs, inte för förfäders, inte för börds skull är man "
+"brahmin. Den, i vilken är sanning och dhamma, han är ren, han är brahmin."
+
+msgid "394"
+msgstr ""
+"Vad är väl tovigt hår för dig, idiot, eller antilopskinnsdräkt? Inuti är "
+"du en djungel. Utsidan putsar du."
+
+msgid "395"
+msgstr ""
+"Den som bär kläder av tyg från en soptipp, mager, med synliga ådror och "
+"ensam i skogen samlar sinnet — honom kallar jag brahmin."
+
+msgid "396"
+msgstr ""
+"Inte kallar jag honom brahmin för börds skull eller för moders. Stolt är "
+"han om han har något. Den som inget har, vid inget hänger fast — honom "
+"kallar jag brahmin."
+
+msgid "397"
+msgstr ""
+"Den som brutit alla bojor och inte oroas, fri från krokar, utan ok — "
+"honom kallar jag brahmin."
+
+msgid "398"
+msgstr ""
+"Den som skurit bandet och remmen, tjudret och betslet, som lyft hindret "
+"och vaknat — honom kallar jag brahmin."
+
+msgid "399"
+msgstr ""
+"Den som hårda ord och slag tål, fast själv ej ond, stark i sitt tålamod, "
+"med tålamod som vapen — honom kallar jag brahmin."
+
+msgid "400"
+msgstr ""
+"Den som inte vredgas, är trogen sin plikt, rätt handlar, ej är oren, "
+"tyglar sig och har sin sista kropp — honom kallar jag brahmin."
+
+msgid "401"
+msgstr ""
+"Den som, likt vatten på lotusblad, likt senapskorn på en sylspets, inte "
+"fastnar i njutningar — honom kallar jag brahmin."
+
+msgid "402"
+msgstr ""
+"Den som för egen del här lärt känna slutet på det som inte gör nöjd, som "
+"lagt ned bördan, utan ok — honom kallar jag brahmin."
+
+msgid "403"
+msgstr ""
+"Den som har djup vishet, som är klok, som vet vad som är vägen och vad "
+"dess motsats, som högsta målet nått — honom kallar jag brahmin."
+
+msgid "404"
+msgstr ""
+"Den som inte binder sig vid dem som hus äger eller vid hemlösa, som "
+"vandrar utan bekvämlighet, som önskar föga — honom kallar jag brahmin."
+
+msgid "405"
+msgstr ""
+"Den som lagt ned gisslet bland dem som är, rädda och orädda, som varken "
+"dödar eller låter döda — honom kallar jag brahmin."
+
+msgid "406"
+msgstr ""
+"Den som utan bojor är bland i bojor slagna, helt lugn bland dem som "
+"älskar våld, utan att ta bland dem som tar — honom kallar jag brahmin."
+
+msgid "407"
+msgstr ""
+"Den vars begär och hat, stolthet och hyckleri glidit bort som från en "
+"sylspets ett senapskorn — honom kallar jag brahmin."
+
+msgid "408"
+msgstr ""
+"Den som mjukt och lärorikt talar och sant, som inte förbannar någon — "
+"honom kallar jag brahmin."
+
+msgid "409"
+msgstr ""
+"Den som långt och kort, smått och stort, skönt och fult i världen, om "
+"inte givet, ej tar — honom kallar jag brahmin."
+
+msgid "410"
+msgstr ""
+"Den som inget hoppas i denna värld och en annan, fri från hopp, utan ok — "
+"honom kallar jag brahmin."
+
+msgid "411"
+msgstr ""
+"Den som vid inget hänger fast, som vet och därför ej tvivlar och som "
+"sänkt sig i frihet från döden — honom kallar jag brahmin."
+
+msgid "412"
+msgstr ""
+"Den som från förtjänst och ont, båda band, har flytt, sorgfri, smutsfri, "
+"ren — honom kallar jag brahmin."
+
+msgid "413"
+msgstr ""
+"Den som är som månen fläckfri och ren, klarnad och utan en krusning, och "
+"vars njutning ej mer blir — honom kallar jag brahmin."
+
+msgid "414"
+msgstr ""
+"Den som övervunnit detta hinder, denna besvärliga väg, sangsara, "
+"självbedrägeriet, som gått bortom, som samlar sinnet, utan oro, fri från "
+"tvivel, som vid inget hänger fast, som nått nirvana — honom kallar jag "
+"brahmin."
+
+msgid "415"
+msgstr ""
+"Den som lämnat nöjena och hemlös vandrar, den vars nöje ej mer blir — "
+"honom kallar jag brahmin."
+
+msgid "416"
+msgstr ""
+"Den som lämnat törsten och hemlös vandrar, den vars törst ej mer blir — "
+"honom kallar jag brahmin."
+
+msgid "417"
+msgstr ""
+"Den som lämnat mänskligt ok och ur devaoket flytt, som blivit fri från "
+"varje ok — honom kallar jag brahmin."
+
+msgid "418"
+msgstr ""
+"Den som lämnat kärt och okärt, som ej mer brinner, inte hänger fast, "
+"hjälten som alla världar övervunnit — honom kallar jag brahmin."
+
+msgid "419"
+msgstr ""
+"Den som känner varelsernas död och födelse i grunden, vid inget häftar, "
+"väl vandrat, vaknat — honom kallar jag brahmin."
+
+msgid "420"
+msgstr ""
+"Den vars fortsättning är okänd för devas, gandharvas och människor, en "
+"arahant med sinade flöden — honom kallar jag brahmin."
+
+msgid "421"
+msgstr ""
+"Den som i det som varit, i det som kommer och i det som är inte äger "
+"något, som inget äger, vid inget hänger fast — honom kallar jag brahmin."
+
+msgid "422"
+msgstr ""
+"En tjur, en ädel hjälte, stor vis, segerrik, utan oro, som sig renat och "
+"vaknat — honom kallar jag brahmin."
+
+msgid "423"
+msgstr ""
+"Den som känner tidigare liv, som ser himmel och helvete, som nått "
+"födelsens slut, den tyste som behärskar det högre vetandet, som uppnått "
+"alla fullkomligheter — honom kallar jag brahmin."
