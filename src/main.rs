@@ -1,6 +1,6 @@
 use adw::prelude::*;
 use adw::{Application, Window, HeaderBar};
-use gtk4::{Box, Button, Label, Orientation, ScrolledWindow, Scale, Adjustment};
+use gtk4::{Box, Button, Label, Orientation, ScrolledWindow, Scale, Adjustment, EventControllerScroll, EventControllerScrollFlags};
 use gettextrs::*;
 use serde::{Serialize, Deserialize};
 use std::env;
@@ -9,6 +9,7 @@ use std::path::PathBuf;
 use std::rc::Rc;
 use std::cell::Cell;
 use std::cell::RefCell;
+use std::time::Instant; // Necessario per il controllo della velocità
 
 #[derive(Serialize, Deserialize, Clone)]
 struct Config {
@@ -95,6 +96,7 @@ fn build_ui(app: &Application) {
     main_box.append(&header_bar);
     let content_box = Box::new(Orientation::Horizontal, 0);
     main_box.append(&content_box);
+    
     let sidebar_container = Box::builder()
         .orientation(Orientation::Vertical)
         .width_request(250)
@@ -117,6 +119,7 @@ fn build_ui(app: &Application) {
         .vexpand(true)
         .build();
     sidebar_container.append(&sidebar_scroll);
+    
     let font_label = Label::new(Some(&gettext("fontsize")));
     font_label.add_css_class("caption");
     let adj = Adjustment::new(config.font_size, 8.0, 32.0, 1.0, 1.0, 0.0);
@@ -133,6 +136,7 @@ fn build_ui(app: &Application) {
     controls_box.append(&font_label);
     controls_box.append(&scale);
     sidebar_container.append(&controls_box);
+    
     let content_container = Box::builder()
         .orientation(Orientation::Vertical)
         .spacing(10)
@@ -155,15 +159,13 @@ fn build_ui(app: &Application) {
         196, 208, 220, 234, 255, 272, 289, 305, 319, 333, 359, 382, 423
     ];
 
-    let mut chapters: Vec<(String, Vec<String>)> = Vec::new();
+    let mut chapters_data: Vec<(String, Vec<String>)> = Vec::new();
     let mut current_start = 1;
 
     for (i, &end) in chapter_ends.iter().enumerate() {
         let id = format!("chap{}", i + 1);
-        let verses = (current_start..=end)
-            .map(|n| n.to_string())
-            .collect();
-        chapters.push((id, verses));
+        let verses = (current_start..=end).map(|n| n.to_string()).collect();
+        chapters_data.push((id, verses));
         current_start = end + 1;
     }
 
@@ -171,11 +173,14 @@ fn build_ui(app: &Application) {
     let mut first_button: Option<Button> = None;
     let sidebar_btns_ref = Rc::new(RefCell::new(Vec::<Button>::new()));
 
-    for (id, verses) in chapters {
+    let scroll_to_bottom = Rc::new(Cell::new(false));
+
+    for (id, verses) in chapters_data {
         let btn = Button::builder()
             .label(&gettext(&id))
             .css_classes(["flat"])
             .build();
+        
         let container_ptr = content_container.clone();
         let scroll_ptr = scroll_content.clone();
         let current_font_size = font_size.clone();
@@ -184,6 +189,7 @@ fn build_ui(app: &Application) {
         let chap_id = id.clone();
         let btns_list = sidebar_btns_ref.clone();
         let current_btn = btn.clone();
+        let should_bottom = scroll_to_bottom.clone();
 
         btn.connect_clicked(move |_| {
             *chapter_tracker.borrow_mut() = Some(chap_id.clone());
@@ -193,9 +199,11 @@ fn build_ui(app: &Application) {
             }
             current_btn.add_css_class("suggested-action");
             current_btn.remove_css_class("flat");
+            
             while let Some(child) = container_ptr.first_child() {
                 container_ptr.remove(&child);
             }
+            
             for v_id in &verses_data {
                 let verse_box = Box::new(Orientation::Vertical, 5);
                 verse_box.set_margin_bottom(25);
@@ -205,7 +213,10 @@ fn build_ui(app: &Application) {
                     .wrap(true)
                     .use_markup(true)
                     .build();
-                text_label.set_markup(&format!("<span alpha='50%'>{}</span>\n\n<span size='{}'>{}</span>", v_id.trim(), current_font_size.get(), verse_text.trim()));
+                text_label.set_markup(&format!(
+                    "<span alpha='50%'>{}</span>\n\n<span size='{}'>{}</span>", 
+                    v_id.trim(), current_font_size.get(), verse_text.trim()
+                ));
                 let copy_btn = Button::builder()
                     .icon_name("edit-copy-symbolic")
                     .halign(gtk4::Align::Center)
@@ -217,21 +228,76 @@ fn build_ui(app: &Application) {
                 verse_box.append(&copy_btn);
                 container_ptr.append(&verse_box);
             }
+
             let s_ptr = scroll_ptr.clone();
+            let go_bottom = should_bottom.get();
             glib::idle_add_local_once(move || {
-                s_ptr.vadjustment().set_value(0.0);
+                let adj = s_ptr.vadjustment();
+                if go_bottom {
+                    adj.set_value(adj.upper() - adj.page_size());
+                } else {
+                    adj.set_value(0.0);
+                }
             });
+            should_bottom.set(false);
         });
-        if first_button.is_none() {
-            first_button = Some(btn.clone());
-        }
-        if Some(id.clone()) == config.last_chapter {
-            start_button = Some(btn.clone());
-        }
+
+        if first_button.is_none() { first_button = Some(btn.clone()); }
+        if Some(id.clone()) == config.last_chapter { start_button = Some(btn.clone()); }
+        
         sidebar_buttons.append(&btn);
         sidebar_btns_ref.borrow_mut().push(btn);
     }
 
+    // --- LOGICA DI SCROLL CON ANTI-SKIP (DEBOUNCE) ---
+    let scroll_controller = EventControllerScroll::new(EventControllerScrollFlags::VERTICAL);
+    let btns_for_scroll = sidebar_btns_ref.clone();
+    let adj_for_scroll = scroll_content.vadjustment();
+    let bottom_trigger = scroll_to_bottom.clone();
+    
+    // Timestamp dell'ultimo cambio capitolo
+    let last_change_time = Rc::new(RefCell::new(Instant::now()));
+
+    scroll_controller.connect_scroll(move |_, _dx, dy| {
+        let now = Instant::now();
+        // Blocca se l'ultimo cambio è avvenuto meno di 300ms fa
+        if now.duration_since(*last_change_time.borrow()).as_millis() < 300 {
+            return glib::Propagation::Stop;
+        }
+
+        let adj = &adj_for_scroll;
+        let value = adj.value();
+        let upper = adj.upper();
+        let page_size = adj.page_size();
+        
+        let buttons = btns_for_scroll.borrow();
+        let current_index = buttons.iter().position(|b| b.has_css_class("suggested-action"));
+
+        if let Some(idx) = current_index {
+            // Verso il basso -> Capitolo Successivo (Inizio)
+            if dy > 0.0 && value >= (upper - page_size - 1.0) {
+                if idx + 1 < buttons.len() {
+                    *last_change_time.borrow_mut() = now; // Aggiorna tempo
+                    bottom_trigger.set(false); 
+                    buttons[idx + 1].emit_clicked();
+                    return glib::Propagation::Stop;
+                }
+            }
+            // Verso l'alto -> Capitolo Precedente (Fine)
+            else if dy < 0.0 && value <= 0.0 {
+                if idx > 0 {
+                    *last_change_time.borrow_mut() = now; // Aggiorna tempo
+                    bottom_trigger.set(true); 
+                    buttons[idx - 1].emit_clicked();
+                    return glib::Propagation::Stop;
+                }
+            }
+        }
+        glib::Propagation::Proceed
+    });
+    scroll_content.add_controller(scroll_controller);
+
+    // Inizializzazione
     let final_start_btn = start_button.or(first_button);
     if let Some(btn) = final_start_btn {
         btn.emit_clicked();
@@ -246,6 +312,7 @@ fn build_ui(app: &Application) {
         });
     }
 
+    // Gestione scala font
     let container_ptr = content_container.clone();
     let font_size_ptr = font_size.clone();
     scale.connect_value_changed(move |s| {
@@ -272,6 +339,7 @@ fn build_ui(app: &Application) {
 
     content_box.append(&sidebar_container);
     content_box.append(&scroll_content);
+    
     let window = Window::builder()
         .application(app)
         .title(&gettext("title"))
