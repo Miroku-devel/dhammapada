@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/icon.png" width="48" style="vertical-align:middle">
+  <img src="assets/icon.png" width="48" style="vertical-align:-12px">
   Dhammapada
 </h1>
 
@@ -14,7 +14,8 @@ A simple Dhammapada verse viewer for the Linux desktop.
 * **Localization**: gettext (supporting multiple languages via `.po` files)
 
 ## Building from source
-To compile and run the project locally, ensure you have the Rust toolchain, **GTK4**, and **Libadwaita** development libraries installed:
+To compile and run the project locally, ensure you have the\
+Rust toolchain, **GTK4**, and **Libadwaita** development libraries installed:
 
 ```bash
 # Example for Ubuntu/Debian:
@@ -24,4 +25,9 @@ cargo run
 ```
 
 ## Copyright and License
-This project is licensed under the **CC BY-NC-SA 4.0** license
+The Rust application logic, UI design, assets and build scripts are licensed under the\
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+All translations are the property of their respective authors or original publishers.\
+For the complete list of translators, sources, and individual license terms for each language\
+please consult the [CREDITS](./CREDITS) file.
