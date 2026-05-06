@@ -9,7 +9,7 @@ use std::path::PathBuf;
 use std::rc::Rc;
 use std::cell::Cell;
 use std::cell::RefCell;
-use std::time::Instant; // Necessario per il controllo della velocità
+use std::time::Instant;
 
 #[derive(Serialize, Deserialize, Clone)]
 struct Config {
@@ -249,18 +249,14 @@ fn build_ui(app: &Application) {
         sidebar_btns_ref.borrow_mut().push(btn);
     }
 
-    // --- LOGICA DI SCROLL CON ANTI-SKIP (DEBOUNCE) ---
     let scroll_controller = EventControllerScroll::new(EventControllerScrollFlags::VERTICAL);
     let btns_for_scroll = sidebar_btns_ref.clone();
     let adj_for_scroll = scroll_content.vadjustment();
     let bottom_trigger = scroll_to_bottom.clone();
-    
-    // Timestamp dell'ultimo cambio capitolo
     let last_change_time = Rc::new(RefCell::new(Instant::now()));
 
     scroll_controller.connect_scroll(move |_, _dx, dy| {
         let now = Instant::now();
-        // Blocca se l'ultimo cambio è avvenuto meno di 300ms fa
         if now.duration_since(*last_change_time.borrow()).as_millis() < 300 {
             return glib::Propagation::Stop;
         }
@@ -274,19 +270,17 @@ fn build_ui(app: &Application) {
         let current_index = buttons.iter().position(|b| b.has_css_class("suggested-action"));
 
         if let Some(idx) = current_index {
-            // Verso il basso -> Capitolo Successivo (Inizio)
             if dy > 0.0 && value >= (upper - page_size - 1.0) {
                 if idx + 1 < buttons.len() {
-                    *last_change_time.borrow_mut() = now; // Aggiorna tempo
+                    *last_change_time.borrow_mut() = now;
                     bottom_trigger.set(false); 
                     buttons[idx + 1].emit_clicked();
                     return glib::Propagation::Stop;
                 }
             }
-            // Verso l'alto -> Capitolo Precedente (Fine)
             else if dy < 0.0 && value <= 0.0 {
                 if idx > 0 {
-                    *last_change_time.borrow_mut() = now; // Aggiorna tempo
+                    *last_change_time.borrow_mut() = now;
                     bottom_trigger.set(true); 
                     buttons[idx - 1].emit_clicked();
                     return glib::Propagation::Stop;
@@ -297,7 +291,6 @@ fn build_ui(app: &Application) {
     });
     scroll_content.add_controller(scroll_controller);
 
-    // Inizializzazione
     let final_start_btn = start_button.or(first_button);
     if let Some(btn) = final_start_btn {
         btn.emit_clicked();
@@ -312,7 +305,6 @@ fn build_ui(app: &Application) {
         });
     }
 
-    // Gestione scala font
     let container_ptr = content_container.clone();
     let font_size_ptr = font_size.clone();
     scale.connect_value_changed(move |s| {
