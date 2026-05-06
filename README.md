@@ -26,7 +26,7 @@ cargo run
 
 ## Copyright and License
 The Rust application logic, UI design, assets and build scripts are licensed under the\
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
 All translations are the property of their respective authors or original publishers.\
 For the complete list of translators, sources, and individual license terms for each language\
