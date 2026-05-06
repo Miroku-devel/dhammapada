@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/icon.png" width="48" style="vertical-align:-12px">
+  <img src="assets/icon.png" width="48" style="vertical-align:middle">
   Dhammapada
 </h1>
 
