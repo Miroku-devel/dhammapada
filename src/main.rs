@@ -212,6 +212,7 @@ fn build_ui(app: &Application) {
                     .justify(gtk4::Justification::Center)
                     .wrap(true)
                     .use_markup(true)
+                    .selectable(true)
                     .build();
                 text_label.set_markup(&format!(
                     "<span alpha='50%'>{}</span>\n\n<span size='{}'>{}</span>", 
