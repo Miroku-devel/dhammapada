@@ -58,13 +58,6 @@ fn save_config(config: &Config) {
 }
 
 fn main() {
-    glib::set_prgname(Some("dhammapada"));
-    glib::set_application_name("Dhammapada");
-
-    if setlocale(LocaleCategory::LcAll, "").is_none() {
-        setlocale(LocaleCategory::LcAll, "en_US.UTF-8");
-    }
-
     let locale_path = if let Ok(appdir) = env::var("APPDIR") {
         PathBuf::from(appdir).join("usr/share/locale")
     } else {
@@ -75,6 +68,24 @@ fn main() {
             PathBuf::from("/usr/share/locale")
         }
     };
+    if let Ok(lang_env) = env::var("LANG") {
+        let lang_code = lang_env.split('.').next().unwrap_or("").split('_').next().unwrap_or("");
+        let mo_path = locale_path.join(lang_code).join("LC_MESSAGES/dhammapada.mo");
+
+        if !lang_code.is_empty() && lang_code != "en" && !mo_path.exists() {
+            unsafe {
+                env::set_var("LANG", "en_US.UTF-8");
+                env::set_var("LANGUAGE", "en_US.UTF-8");
+                env::set_var("LC_ALL", "en_US.UTF-8");
+            }
+        }
+    }
+    glib::set_prgname(Some("dhammapada"));
+    glib::set_application_name("Dhammapada");
+    
+    if setlocale(LocaleCategory::LcAll, "").is_none() {
+        setlocale(LocaleCategory::LcAll, "en_US.UTF-8");
+    }
 
     let _ = bindtextdomain("dhammapada", locale_path.to_str().unwrap());
     let _ = bind_textdomain_codeset("dhammapada", "UTF-8");
