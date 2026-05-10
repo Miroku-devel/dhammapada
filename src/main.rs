@@ -84,9 +84,8 @@ fn main() {
     glib::set_application_name("Dhammapada");
     
     if setlocale(LocaleCategory::LcAll, "").is_none() {
-        setlocale(LocaleCategory::LcAll, "en_US.UTF-8");
+       setlocale(LocaleCategory::LcAll, "en_US.UTF-8");
     }
-
     let _ = bindtextdomain("dhammapada", locale_path.to_str().unwrap());
     let _ = bind_textdomain_codeset("dhammapada", "UTF-8");
     let _ = textdomain("dhammapada");
