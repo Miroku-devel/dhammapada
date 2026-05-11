@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Bölümler"
+
+msgid "fontsize"
+msgstr "Yazı tipi boyutu"
+
+msgid "chap1"
+msgstr "Zit Yollar"
+
+msgid "1"
+msgstr "Bugünkü yaşamımız dünkü düşüncelerimizin, yarınki yaşamımız da bugünkü düşüncelerimizin eseridir. Yaşam aklın eseridir. Tıpkı bir araba tekerleğinin arabayı çeken atları izlemesi gibi, saf olmayan bir akılla konuşan ve davranan kişiyi de acı çekmek izler."
+
+msgid "2"
+msgstr "Bugünkü yaşamımız dünkü düşüncelerimizin, yarınki yaşamımız da bugünkü düşüncelerimizin eseridir. Yaşam aklın eseridir. Tıpkı gölgesinin bir insanı izlemesi gibi, saf olan bir akılla konuşan ve davranan kişiyi de sevinç izler."
+
+msgid "3"
+msgstr "“Bu kişi bana hakaret etti, şu kişi bana zarar verdi, şu kişi beni yendi” şeklinde düşünen kişiler, hiçbir zaman nefretten kurtulamazlar."
+
+msgid "4"
+msgstr "Nefretten ancak bu şekilde düşünmeyen kişiler kurtulabilirler."
+
+msgid "5"
+msgstr "Çünkü nefret, nefretle değil ancak sevgiyle yok edilebilir. Bu ölümsüz bir kanundur."
+
+msgid "6"
+msgstr "Çoğu insan uyum içinde yaşamak için bu dünyada bulunduğumuzu bilmez. Bunu bilen kişiler hiçbir zaman birbirleriyle çatışmazlar."
+
+msgid "7"
+msgstr "Ruhu uyum içinde olmayan, ne yediğini düşünmeyen, sadece zevkleri için yaşayan, fazilet sahibi olmayan tembel kişiler; zayıf bir ağacın rüzgarın etkisi altında olması gibi, MARA'nın bencil günahların etkisi altındadır."
+
+msgid "8"
+msgstr "Fakat ruhu uyum içinde olan, ölçülü şekilde yiyen ve oruç tutan, sadece zevkleri için yaşamayan, inançlı ve fazilet sahibi kişiler; büyük bir kayanın rüzgarın etkisi altında kalmaması gibi, hiçbir zaman bencil günahların etkisi altında kalmazlar."
+
+msgid "9"
+msgstr "Ruhu arınmamış, kendisiyle uyum kuramamış ve gerçeğe ulaşamamış bir insan, kutsal elbiseyi giymeye hak kazanmamış bir kişidir."
+
+msgid "10"
+msgstr "Ancak tüm günahlardan arınmış, gerçeğe ulaşmış, kendisiyle uyum kurmuş, fazilet sahibi bir insan o elbiseyi giyebilir."
+
+msgid "11"
+msgstr "Görünüşler dünyasını gerçek kabullenen ve bunun dışında bir gerçek olmadığını düşünen insanlar, hiçbir zaman Gerçeğe ulaşamazlar. Onlar yalnız düşünce yolunda kaybolmuş kişilerdir."
+
+msgid "12"
+msgstr "Ancak bu görünüşler dünyasının gerçek olmadığını bilen kişiler kesinlikle Gerçeğe ulaşırlar. Onlar doğru düşünce yolunda emin adımlarla yürüyen kişilerdir."
+
+msgid "13"
+msgstr "Çatısındaki kiremitleri kötü dizilmiş bir evin damından yağmur suları nasıl akarsa, bencil istemler de kötü eğitimli bir akıldan öylesine geçer."
+
+msgid "14"
+msgstr "Fakat eğitimli bir akıldan bencil istemlerin hiçbiri geçemez."
+
+msgid "15"
+msgstr "Kötülük yapan insan bu dünyada da öte dünyada da acı çeker. Yaptığı yanlışları gördüğü zaman acı çeker ve ağlar."
+
+msgid "16"
+msgstr "İyilik yapan kişi bu dünyada da öte dünyada da mutlu olur. Yaptığı iyilikleri gördüğü zaman mutluluk duyar ve sevinir."
+
+msgid "17"
+msgstr "Kötülük yapan kişi her iki dünyada da acı çeker. “Ben kötülük yaptım” diye ağlar ve üzüntü yolunda gider."
+
+msgid "18"
+msgstr "İyilik yapan kişi her iki dünyada da sevinir. “Ben iyilik yaptım” diye mutluluk duyar ve sevinç yolunda gider."
+
+msgid "19"
+msgstr "Kutsal sözleri öğrenip de onları yaşamında uygulamayan düşüncesiz kişi kutsal yaşamın sevincine ulaşamaz; o insan efendisinin sığırlarını güden bir sığırtmaç gibidir."
+
+msgid "20"
+msgstr "Bunun yanısıra birkaç kutsal söz bildiği halde bunları yaşamında uygulayan; eğitimlerden, nefretten, yanılgılardan kurtulmuş, doğru görüşlere ve özgür bir akla sahip olmuş, bu dünyaya ve öte dünyaya olan tüm tutkulardan kurtulmuş kişiler vardır; işte böyle insanların yaşamı kutsal bir yaşamdır."
+
+msgid "chap2"
+msgstr "Gözlemcilik"
+
+msgid "21"
+msgstr "Ölümsüzlüğün yolu gözlemciliktir; gözlemci olmamak da ölüme giden yoldur. Gözlemci olan kişiler hiçbir zaman ölmezler; gözlemci olmayanlar ise zaten ölüdürler."
+
+msgid "22"
+msgstr "Saf bir akılla bu gerçeği gören akıllı ve daima gözlemci kişiler, gözlemciliğin sevincini, büyüklük yolunun sevincini duyarlar."
+
+msgid "23"
+msgstr "Yüksek ve derin düşünce içinde yol alan kişiler, sonunda en yüksek huzur ve sonsuz sevinç olan NİRVANA'ya ulaşırlar."
+
+msgid "24"
+msgstr "Yüksek amacını hiçbir zaman unutmayan, davranışları saf ve kendine hâkimiyet içinde olan inançlı ve gözlemci kişi, sonunda görkemli bir yaşama ulaşır."
+
+msgid "25"
+msgstr "Bilge kişi inançlı ve gözlemci olmakla, kendine hâkim ve kendisiyle uyum içinde olan bir kişi olmakla, ruhunu pis suların ulaşamayacağı bir yere ulaştırır."
+
+msgid "26"
+msgstr "Aptal ve cahil insanlar dikkatsiz ve hiçbir zaman gözlemci olmayan kişilerdir; ancak gözlemci bir yaşam süren kişiler onun değerini bilirler."
+
+msgid "27"
+msgstr "Asla dikkatsizliğe teslim olmayın; aşağılık zevklere ve şehvete boyun eğmeyin. Çünkü ancak derin düşünce dünyasında yaşayan gözlemci kişiler sonunda en yüksek sevince ulaşırlar."
+
+msgid "28"
+msgstr "Gözlemci bir kişi olmakla düşüncesizliği yenen bilge kişi, acılardan kurtulup hikmet sarayına ulaşmış ve acı içinde yüzen insanları görebilen bir kimsedir. Şayet bu kişi, bilge olduğu kadar kuvvet sahibi bir insan da olursa, acılar içinde yüzen birçok akılsız kişiyi de karanlıklardan kurtarabilir."
+
+msgid "29"
+msgstr "Kör olan birçok insan arasında gözlemci olan tek bir kişi, hızlı koşan bir at gibi, yavaş olan kişileri geride bırakarak yarışı kazanır."
+
+msgid "30"
+msgstr "Indra, gözlemciliği sayesinde tanrıların en büyüğü oldu ve bu nedenle tüm diğer tanrılar gözlemciliği övüp düşüncesizliği kötülediler."
+
+msgid "31"
+msgstr "Düşüncesizlikten korkan ve gözlemciliğin sevincine ulaşmış bir münzevi, karşısına çıkan tüm engelleri yakan bir ateş gibi yol alır."
+
+msgid "32"
+msgstr "Gözlemciliğin sevincine ulaşmış ve düşüncesizliğe korku ile bakan bir münzevi, kesinlikle zafere ulaşır. O kişi NİRVANA'nın çok yakınındadır."
+
+msgid "chap3"
+msgstr "Akıl"
+
+msgid "33"
+msgstr "Akıl, hareketsiz duramayan, daima hareket halindeki, ele geçirilmesi ve zaptedilmesi çok zor olan bir kuvvettir. Bilge kişi zihnini düzene sokar ve kontrolü altına alır."
+
+msgid "34"
+msgstr "Denizden alınıp karaya atılan bir balık nasıl yaşamak için çırpınırsa, akıl da ölümün pençesinden kurtulmak için öylesine mücadele eder."
+
+msgid "35"
+msgstr "Akıl kararsızdır, hoşlandığı hayallerin peşinden koşup durur; onu ele geçirebilmek gerçekten zordur. Ancak bu gücü kontrol altına almanın çok büyük yararları vardır. Kendini kontrol altına almış bir akıl, büyük bir sevinç kaynağıdır."
+
+msgid "36"
+msgstr "Akıl görünmeyen ve anlaşılmayan bir güçtür, o hoşlandığı hayallerin peşinden koşup durur; fakat bilge kişi onu kontrolü altına alır. Çünkü kontrol altına alınmış bir zihin büyük bir sevinç kaynağıdır."
+
+msgid "37"
+msgstr "Nesnel olmayan ve bilincin içine gizlenmiş olan akıl tek başına uzak mesafelere gidebilir. Zihinlerini uyumlu bir düzene sokan kişiler, ölümün zincirlerinden kurtulmuşlardır."
+
+msgid "38"
+msgstr "Zihni, inancı ve huzuru değişken olan kişiler, Gerçeğe giden yolu bilmeyen kişilerdir. Ve o kişiler hiçbir zaman hikmet doyumuna ulaşamazlar."
+
+msgid "39"
+msgstr "Ancak zihnini kontrol altına almış, tutkulardan kurtulmuş, iyinin ve kötünün üstüne yükselmiş huzur içindeki kişiler, uyanık ve korkudan kurtulmuş kişilerdir."
+
+msgid "40"
+msgstr "Bu bedenin kolayca kırılabilen bir kavanoza benzediğini idrak eden ve bu nedenle zihnini bir kale gibi kuvvetlendiren kişi, MARA ile yani tüm günahkâr tutkularla mücadele eder. O insan zafer üstüne zafer kazanır. Uyanık bir kişidir o."
+
+msgid "41"
+msgstr "Ne kadar üzücü! Bir gün bu beden de, bir kenara atılmış bir kütük gibi, cansız olarak yere serilecek."
+
+msgid "42"
+msgstr "Bir insana başka bir kişi zarar verebilir ve başka bir kişi ondan nefret edebilir; ancak yanlış şekilde yönetilen kendi zihninden başka hiçbir kimse, o insana daha fazla zarar veremez."
+
+msgid "43"
+msgstr "Bir insana anası, babası veya bir yakını gerçekten birçok iyilikler yapabilir; ancak hiçbiri o kişinin doğru olarak yönetilen kendi zihninin yaratabileceği iyiliklerden daha büyüğünü gösteremez."
+
+msgid "chap4"
+msgstr "Yaşam Çiçekleri"
+
+msgid "44"
+msgstr "Şu dünyayı, tanrıların dünyasını, acı ve ölüm dünyası YAMA'yı kim zapt edecek? Mükemmellik yolu DHAMMAPADA'yı kim bulacak?"
+
+msgid "45"
+msgstr "Bu dünyayı, tanrıların dünyasını ve YAMA dünyasını ancak bilge bir kişi zapt edebilir. Ve yine ancak bilge bir insan, dünyanın en güzel çiçeğini bulan bir kişi gibi, DHAMMAPADA'yı, mükemmellik yolunu bulabilir."
+
+msgid "46"
+msgstr "Bu bedenin bir köpüğe, bir seraba benzediğini bilen kişi, duygusal tutku çiçeklerinin içine gizlenmiş olan ölüm kralı MARA'nın sivri oklarından kurtulabilir. Yolunda yürüyen kişi olur."
+
+msgid "47"
+msgstr "Bir araya geldikleri zaman, koca bir şehri yerle bir edebilecek bir sele benzeyen bu duygusal tutku çiçeklerini toplayan akılsız kişiler, sonunda ölümün ellerine düşerler."
+
+msgid "48"
+msgstr "Ve her şeyin sonu olan ölüm; isteklerine karşı sürekli açlık duyan ve bu nedenle duygusal tutku çiçeklerini toplayan insanın da sonu olur."
+
+msgid "49"
+msgstr "Bilge kişi yaşamını, bir çiçeğin özünü alıp onun kokusuna ve güzelliğine zarar vermeksizin uçup giden bir arı gibi sürdürür."
+
+msgid "50"
+msgstr "Başkalarının hatalarını, yaptıklarını veya yapmadıklarını değil; kendi hatalarınızı, kendi yaptıklarınızı ve yapmadıklarınızı düşünün."
+
+msgid "51"
+msgstr "Meyvesiz sözler söyleyip, söylediklerini yaşamında uygulamayan kişi, güzel ve renkli gözüken fakat kokusu olmayan bir çiçeğe benzer."
+
+msgid "52"
+msgstr "Ve ancak, az da olsa meyvesi olan sözler söyleyen ve onları yaşamında uygulayan kişi, kokusu ve rengi olan güzel bir çiçek gibidir."
+
+msgid "53"
+msgstr "Nasıl ki büyük bir çiçek yığınından birçok çelenkler yapılabilirse, ölümlü bir insanın da yapabileceği birçok iyi işler vardır."
+
+msgid "54"
+msgstr "Sandal ağacı olsun, yasemin veya tegerene olsun, hiçbir çiçeğin kokusu rüzgara karşı yayılamaz; fakat faziletlerin kokusu hiçbir engel tanımadan her yere yayılır ve dünyanın öte ucuna dahi ulaşabilir."
+
+msgid "55"
+msgstr "Sandal ağacının, yaseminin ve diğer çiçeklerin kokusu kaybolucudur; ancak faziletlerin kokusu hiçbir zaman yok olmaz."
+
+msgid "56"
+msgstr "Tüm çiçeklerin kokuları çok uzak mesafelere kadar ulaşamaz; fakat faziletlerin kokusu öte dünyalardan bile duyulabilir. Onların kokusu tanrılara has bir kokudur."
+
+msgid "57"
+msgstr "Ölüm kuvveti MARA, Gerçeğin ışığıyla aydınlanmış ve özgürlüğe ulaşmış faziletli kişinin karşısına çıkamaz."
+
+msgid "58"
+msgstr "Çöpler altında kalmış bir tohum yine de nasıl gelişir ve çiçek açarsa;"
+
+msgid "59"
+msgstr "Buddha'yı izleyen, gerçekten uyanık olan kişinin saf ışığı, diğer insanlar arasında öylesine gelişir ve çiçeklenir."
+
+msgid "chap5"
+msgstr "Aptal Kişi"
+
+msgid "60"
+msgstr "Gece, uyanık kişi için ne kadar uzundur; yol yorgun kişi için ne kadar uzundur; ölümle son bulan yaşam yolculukları da doğru yolu bulamayan aptal kişi için ne kadar uzundur."
+
+msgid "61"
+msgstr "Şayet büyük yaşam yolculuğunda, kişi daha iyi veya en az kendisi kadar iyi olan bir yoldaş bulamazsa, üzülmemeli ve sevinç içinde yoluna yalnız devam etmelidir. Çünkü aptal bir insanın yoldaşlığının ona yararı değil zararı dokunur."
+
+msgid "62"
+msgstr "Aptal kişi “Benim servetim şu kadardır, çocuklarım şunlardır” diye övünüp durur. Fakat aslında o değil onların, kendisinin dahi sahibi değildir."
+
+msgid "63"
+msgstr "Kendini akıllı sanan kişi aslında aptal bir insandır; aptallığını görebilen kişi ise hiç olmazsa o konuda akıllı olur."
+
+msgid "64"
+msgstr "Bir kaşık nasıl ki içine girdiği çorbanın tadını alamazsa, tüm yaşamını bilge kişilerle geçiren bir aptal da hikmet yolunu bulamaz."
+
+msgid "65"
+msgstr "Halbuki, uyanık ve görmesini bilen bir insan bilge bir kişi ile sadece bir an için dahi beraber bulunsa, dilin çorbanın tadını hemen duyması gibi, derhal hikmet yolunu bulur."
+
+msgid "66"
+msgstr "Akıllı olduğunu sanan kişi yaşamını kendi kendine düşman olarak sürdürür ve daima sonunda acı meyveler veren yanlış eylemlerde bulunur."
+
+msgid "67"
+msgstr "Pişmanlık duyulduğu zaman, o eylem iyi yapılmamıştır ve o zaman kişi gözyaşları içinde yanlış eyleminin acı meyvelerini toplamak zorundadır."
+
+msgid "68"
+msgstr "Yapılan bir eylemden pişmanlık duyulmadığı zaman, o eylem doğru yapılmıştır ve o zaman kişi sevinç içinde eyleminin tatlı meyvelerini toplayabilir."
+
+msgid "69"
+msgstr "Aptal kişi için, acıyı getiren sonuçlar ortaya çıkıncaya kadar yanlış davranışlar tatlı gibi görünür; ancak sonuçlar ortaya çıktığı zaman, aptal kişi yanlış davranışlarının acı meyvelerini yemek zorundadır."
+
+msgid "70"
+msgstr "Sadece birkaç zeytin tanesi yiyerek aylarca oruç tutan aptal bir insanın değeri, düşünceleri gerçekle beslenen bilge bir kişinin değerine hiçbir zaman ulaşamaz."
+
+msgid "71"
+msgstr "Taze süt nasıl ki hemen ekşimezse, yanlış bir davranışın sonucu da derhal ortaya çıkmayabilir. Ancak o davranışın meyvesi küller altında gizlenmiş bir ateş gibidir; ortaya çıktığı zaman kişiyi yakar."
+
+msgid "72"
+msgstr "Şayet bir insanın aptallığı artarsa, bu gelişme onun kendi zihnine zarar vermesine neden olur ve o kişinin kaderi öncekinden daha kötü olur."
+
+msgid "73"
+msgstr "Çünkü aptal kişi şöhret sahibi olmak ister, herkesten sevgi ve saygı görmek ister."
+
+msgid "74"
+msgstr "İsteklerle ve gururla dolu olan aptal kişi, “Şu işi herkes benim yaptığımı zannediyor, herkes yapacağı ve yapmayacağı şeyleri bana soruyor” diye düşünür."
+
+msgid "75"
+msgstr "Dünya zenginliklerine giden bir yol vardır ve NİRVANA'ya giden bir yol vardır. Buddha'yı izleyen kişiler şan ve şöhret tutkusuna kapılmadan özgürlüğe ulaşmak için çalışırlar."
+
+msgid "chap6"
+msgstr "Bilge Kişi"
+
+msgid "76"
+msgstr "Senin yüzüne karşı hatalarını söyleyen kişiyi, sana gizli bir hazineyi gösteren, yaşam tehlikelerini gösteren bilge bir insan olarak kabul et. O kişiyi izle; onu izleyen kişi kötülük değil iyilik görecektir."
+
+msgid "77"
+msgstr "Onun sana ikazlarda bulunmasına, ders vermesine ve yanlış olan şeyden seni menetmesine izin ver. İyi olan kişiler onu sevecek, kötü olan kişilerse ondan nefret edeceklerdir."
+
+msgid "78"
+msgstr "Ruhu çirkin olan kişilerle arkadaş olma; kötü ruhlu kişilerle dolaşma. Ruhu güzel olan arkadaşlar edin; ruhu iyi olan kişilerle dolaş."
+
+msgid "79"
+msgstr "Gerçek sularını içen kişinin zihni sükun içinde, sevinç içinde kalır. Bilge kişi onların tadını büyüklerin açıkladığı Gerçeğin içinde, DHAMMA'da bulur."
+
+msgid "80"
+msgstr "Su yolları yapan kişiler suları kontrolleri altına alırlar; okçu oklarını düz ağaçtan yapar; marangozlar ağaçları nasıl kullanacaklarını bilirler; ve bilge kişiler kendi zihinlerini kontrol ederler."
+
+msgid "81"
+msgstr "Rüzgar büyük bir kayayı nasıl yerinden oynatamazsa, yapılan övgüler ve suçlamalar da bilge kişiyi yerinden oynatamaz."
+
+msgid "82"
+msgstr "Dhamma'nın sözlerini işittiği zaman, bilge kişinin ruhu bir gölün suları gibi saf, derin ve huzur dolu olur."
+
+msgid "83"
+msgstr "İyi insanlar her zaman tüm sevgilerini, ilgilerini gerçeğe verirler. Kutsal kişi arzu nesneleri üzerinde boş düşüncelerle kafa yormaz. Zevk veya acı verici durumlar oluştuğu zaman, bilge kişi bu duyguların ötesinde kalır."
+
+msgid "84"
+msgstr "Kendisi veya başkaları için istekleri olmayan kişi, doğruluğun başarılmasını kendi başarılarından çok önde ve üstün tutar. O kişi görkem sahibi, dürüst ve bilge bir kişidir."
+
+msgid "85"
+msgstr "Zaman ırmağını birkaç kişi geçer ve NİRVANA'ya ulaşmaya muktedir olabilir. İnsanların çoğu ırmağın kenarında aşağı yukarı dolaşıp durur."
+
+msgid "86"
+msgstr "Fakat kanunu tanıdıkları zaman kanun yolunu izleyen kişiler, diğer kıyıya ulaşırlar ve ölümün ötesine giderler."
+
+msgid "87"
+msgstr "Karanlık yolu geride bırakarak aydınlık yolu izleyen bilge kişi, dünya yaşantısını terk ederek özgür bir yaşama gider."
+
+msgid "88"
+msgstr "O kişi en yüksek sevince ulaşır; tutkulardan, istemlerden ve zihnini karartacak her şeyden kurtulur."
+
+msgid "89"
+msgstr "Aydınlığa giden yolları öğrenmiş, bütün tutkuların ve ihtirasların karanlığından kurtulmuş kişiler, bu ölümlü yaşam süresince dahi NİRVANA'ya ulaşabilirler."
+
+msgid "chap7"
+msgstr "Sonsuz Özgürlük"
+
+msgid "90"
+msgstr "Yolun sonuna ulaşan yolcu sonsuzluğun özgürlüğü içinde, tüm acılardan, kendisini bağlayan tüm zincirlerden kurtulmuştur. Artık onun tüm yaşam heyecanları sönmüştür."
+
+msgid "91"
+msgstr "Yüksek düşünceli kişiler aynı yerde kalmaktan mutlu olmayıp daima mücadele ederler. Gölleri terk ederek gökyüzüne uçan kuğular gibi, bulundukları yerlerde barınamayıp daha yükseklere tırmanmak için çaba sarf ederler."
+
+msgid "92"
+msgstr "Aşırı beslenmekten kaçınarak yetkinliğe ulaşmış ve sonsuz boşluk —özgürlük göğünde— uçan kişinin yolunu kim izleyebilir? O kişinin yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
+
+msgid "93"
+msgstr "İstekleri susmuş, zevklerin etkisinden kurtulmuş ve başlangıcı olmayan sonsuz boşluk —özgürlük göğünde— uçan insanın yolunu kim izleyebilir? Onun yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
+
+msgid "94"
+msgstr "Duygularını, iyi bir sürücünün atlarını yönetmesi gibi kontrol altına alabilen, gururdan ve aşağılık tutkulardan kurtulmuş kişiyi tanrılar bile över."
+
+msgid "95"
+msgstr "O kişi, toprak gibi sakin, bir sütun gibi sağlam ve temiz bir göl gibi saftır. Ölümle son bulan yaşam ırmağından —Samsara— kurtulmuştur o kişi."
+
+msgid "96"
+msgstr "O kişi görüşünün verdiği ışıkta özgürlüğünü bulmuştur; onun düşünceleri, sözleri ve davranışları huzur içindedir."
+
+msgid "97"
+msgstr "Ve o kişi NİRVANA'yı gördükten sonra saf inançlardan, tüm isteklerden ve tüm bağlardan kurtulmuştur, günahların çok ötesindedir. Diğer insanlar arasında gerçekten daha büyüktür."
+
+msgid "98"
+msgstr "Kutsal kişiler her nerede otururlarsa otursunlar —bir şehir veya bir orman, bir vadi veya bir dağın tepesi— o yer gerçekten bir sevinç kaynağıdır."
+
+msgid "99"
+msgstr "Onlar, diğer insanların oturamadıkları yerleri bile cennete çevirirler. Çünkü onlar isteklerin yükünden kurtulmuş ve başkalarının bulamadıkları sevince ulaşmış kişilerdir."
+
+msgid "chap8"
+msgstr "Bin'den Daha Yeğ"
+
+msgid "100"
+msgstr "Huzur veren tek bir söz, yararı olmayan binlerce sözden daha yeğdir."
+
+msgid "101"
+msgstr "Huzur veren tek bir beyit, yararı olmayan binlerce beyitten daha yeğdir."
+
+msgid "102"
+msgstr "Huzur veren tek bir şiir, yararı olmayan binlerce şiirden daha yeğdir."
+
+msgid "103"
+msgstr "Kendine galip gelen kişinin zaferi"
+
+msgid "104"
+msgstr "Binlerce savaşta galip gelen kişinin zaferinden çok daha yeğdir."
+
+msgid "105"
+msgstr "Çünkü zaferlerin en büyüğü kişinin kendine karşı kazandığı zaferdir; ve ne gökyüzündeki tanrılar ne de yerin dibindeki şeytanlar böyle bir insanın zaferini bozguna uğratamaz."
+
+msgid "106"
+msgstr "Kişinin kendini yenme çabasında harcadığı bir anlık zaman, o kişinin yıllar boyu tanrıya sunduğu binlerce adaktan daha yeğdir."
+
+msgid "107"
+msgstr "Kişinin kendini yenme çabasında harcadığı bir anın değeri, o kişinin yüzlerce yıl ibadetinden daha büyüktür."
+
+msgid "108"
+msgstr "Bir insanın yıllarca yaptığı ibadetler ve sunularla kazanabileceği değer, dürüst bir insana saygı gösteren kişinin kazandığı değerin yanında hiç kalır."
+
+msgid "109"
+msgstr "Fazilet ve kutsallık olgunluğuna ulaşmış kişilere saygı göstererek onur kazanan kişi, gerçekte dört büyük hazineye ulaşır: uzun bir yaşam, sağlık, kudret ve sevinç."
+
+msgid "110"
+msgstr "Fazilet ve tefekkür içinde geçen tek bir yaşam günü, düşüncesizce yaşanan yüzlerce yıldan daha yeğdir."
+
+msgid "111"
+msgstr "Hikmet ve tefekkür içinde geçen tek bir gün, cehalet içinde düşüncesizce yaşanan yüzlerce yıldan daha yeğdir."
+
+msgid "112"
+msgstr "Cesaretle ve mücadele ile geçirilen tek bir gün, tembellik ve zayıflıkla geçirilen yüzlerce yıldan daha yeğdir."
+
+msgid "113"
+msgstr "Tüm şeylerin nasıl oluştuğunu ve yok olduğunu düşünen kişinin tek bir yaşam günü, bunları düşünmeyen kişinin yüzlerce yıllık yaşamından daha yeğdir."
+
+msgid "114"
+msgstr "Kişinin kendi ölümsüzlüğünü gördüğü tek bir yaşam günü, bu yolu görmeyen kişinin yüzlerce yıllık yaşamından daha yeğdir."
+
+msgid "115"
+msgstr "Kişinin en mükemmel yolu gördüğü tek bir yaşam günü, bu yolu görmeyen kişinin yüzlerce yıllık yaşamından daha yeğdir."
+
+msgid "chap9"
+msgstr "İyi ve Kötü"
+
+msgid "116"
+msgstr "Acele edin ve iyi olanı yapın. Aklınızı kötülükten uzak tutun. Çünkü iyi olanı yapmakta yavaş davranan kişinin aklı kötülükteki zevke dalar."
+
+msgid "117"
+msgstr "Kişi yanlış olan bir şey yapmışsa onu bir daha tekrarlamamalıdır. Günahta zevk bulmamalıdır. Yanlış davranışların birikimi sonunda büyük acılar yaratır."
+
+msgid "118"
+msgstr "Kişi iyi olan bir şey yapmışsa onu tekrar tekrar yapsın. Bu yaptıklarından zevk alsın. İyi davranışların birikimi de sonunda büyük sevinçler yaratır."
+
+msgid "119"
+msgstr "Kötülüğü meyvesini vermediği sürece, kişi kötülükten zevk alabilir; ancak o kötülüğün meyvesi ortaya çıktığı zaman gerçekten kötülüğü görür."
+
+msgid "120"
+msgstr "İyiliği meyvesini vermediği sürece yaptığı iyilik nedeniyle acı çekebilir; ancak o iyiliğin meyvesi ortaya çıktığı zaman gerçekten iyiliği görür."
+
+msgid "121"
+msgstr "“Bu küçük bir şeydir” diye düşünerek, değeri az görülen bir günahı dahi sürdürmeyin. Damlaya damlaya göl olur. Aynı şekilde aptal kişi de küçük kötülüklerle sonunda kötülük dolu bir göl olur."
+
+msgid "122"
+msgstr "“Bu küçük bir şeydir” diye düşünerek, yaptığınız bir işin değerini küçük görmeyin. Damlaya damlaya göl olur. Aynı şekilde, akıllı kişi de küçük küçük iyiliklerle bir zaman sonra iyilik dolu bir göl olur."
+
+msgid "123"
+msgstr "İnsan, tıpkı yanında çok para taşıyan fakat hiçbir koruyucusu olmayan bir tüccarın yoldaki tehlikelerden kaçınması veya yaşamayı seven bir kişinin zehirlenmekten kaçınması gibi, kötülüğün tehlikelerinden kaçınmalıdır."
+
+msgid "124"
+msgstr "Elinde yara olmayan bir insana avucunda taşıdığı zehir zarar veremez. Yara olmayan yere zehir nasıl zarar veremezse, içinde kötülük taşımayan kişiye de kötülük zarar veremez."
+
+msgid "125"
+msgstr "Safiyete ulaşmış ve günahtan arınmış iyi bir insana kötülük yapan aptal bir kişinin kötülüğü, rüzgara karşı savrulan tozlar gibi yine kendisine döner."
+
+msgid "126"
+msgstr "İnsanların bazıları yine bu dünyada, kötülük yapan kişiler de cehennemde yeniden doğarlar; dürüst insanlar cennete, ancak saf olan kişilerse NİRVANA'ya ulaşırlar."
+
+msgid "127"
+msgstr "Ne gökyüzünde, ne okyanusların derinliklerinde, ne bir dağın tepesindeki mağarada ne de başka herhangi bir yerde, kişi yaptığı kötülükten kurtulamaz."
+
+msgid "128"
+msgstr "Ne gökyüzünde, ne okyanusların derinliklerinde, ne bir dağın tepesindeki mağarada ne de başka herhangi bir yerde, kişi ölüm kudretinden kurtulamaz."
+
+msgid "chap10"
+msgstr "Yaşam"
+
+msgid "129"
+msgstr "Tüm canlılar tehlike karşısında titrer ve ölümden korkarlar. Bunu düşünen kişi ne başka bir canlıyı öldürür ne de onun ölümüne neden olur."
+
+msgid "130"
+msgstr "Tüm canlılar tehlike karşısında korkar; yaşam tüm varlıklar için aziz bir şeydir. Bunu düşünen kişi ne bir canlıyı öldürür ne de onun ölümüne neden olur."
+
+msgid "131"
+msgstr "Kendisi mutlu olmak için başkalarına zarar veren kişi hiçbir zaman mutluluğa ulaşamaz."
+
+msgid "132"
+msgstr "Mutlu olmak isteyen fakat bu uğurda hiç kimseye zarar vermeyen kişi ise kesinlikle mutluluğa ulaşır."
+
+msgid "133"
+msgstr "Asla kimseye acı verici sözler söylemeyin; çünkü ağızdan çıkan sözler, yayından fırlayan oklar gibi bir daha önlenemezler. Hiddetli sözler acı vericidir ve darbe üstüne darbe etkisi yaparlar."
+
+msgid "134"
+msgstr "Kişi kırık bir gong gibi tamamen sessiz olduğu zaman, o artık hiddetini susturmuş ve NİRVANA'ya ulaşmıştır."
+
+msgid "135"
+msgstr "Yaşlılık ve ölüm, tıpkı bir çobanın koyunlarını otlaklara sürmesi gibi, yaşayan varlıkları ölüm yerlerine doğru sürer."
+
+msgid "136"
+msgstr "Aptal kişi kötü bir davranışta bulunduğu zaman, bir gün içinde yanacağı bir ateş yaktığını anlayamaz."
+
+msgid "137"
+msgstr "Silahları, zararsız ve saf olan kişilere zarar veren insan kısa bir zaman sonra şu on kötülükten birine hedef olur:"
+
+msgid "138"
+msgstr "korku dolu bir acı, bir hastalık, bir sakatlık, delilik, akıl kaybı;"
+
+msgid "139"
+msgstr "yöneticilerin ezası, korku verici bir suçlanma, mal kaybı, dostların kaybı;"
+
+msgid "140"
+msgstr "veya gökyüzünden evine düşen bir yıldırım."
+
+msgid "141"
+msgstr "Ne çıplaklık, ne dağınık saçlar, ne pislik, ne günlerce oruç tutmak, ne yerde yatmak ne de bağdaş kurarak saatlerce bir yerde oturmak, şüphe ve isteklerden arınmamış bir insanı kurtaramaz."
+
+msgid "142"
+msgstr "Ancak güzel giysiler giymese de, kişi kendine sahip, huzur içinde, hiçbir varlığa zarar vermeyen, inançlı, saf ve iyi bir insansa, o insan Bhikkhu adı verilen kutsal bir münzevidir."
+
+msgid "143"
+msgstr "Bu dünyada bir insan var mıdır ki, kutsal bir atın kırbaç yemekten kaçınması gibi, tüm kötülüklerden, tüm suçlardan kaçıp kutsal olabilsin?"
+
+msgid "144"
+msgstr "Kırbacın dokunduğu bir at gibi ateşli olun. İnançla, faziletle, enerjiyle, hikmetle, derin düşünmeyle, derin görüşle ve doğru davranışlarla yaşamın tüm acılarını yeneceksiniz."
+
+msgid "145"
+msgstr "Su yolları yapan kişiler o suları kontrolleri altına alırlar; okçular oklarını düz ağaçtan yaparlar; marangozlar ağaçlardan nasıl yararlanacaklarını bilirler; bilge kişiler de aynı şekilde kendi zihinlerini kontrol ederler."
+
+msgid "chap11"
+msgstr "Yaşam Ötesi"
+
+msgid "146"
+msgstr "Tüm dünya ateş içindeyken, insan nasıl sevinebilir, nasıl zevk içinde olabilir? Karanlığın içinde yaşayan sizler neden bir ışık aramıyorsunuz?"
+
+msgid "147"
+msgstr "Boyalı bir kuklaya benzeyen, acılarla ve hastalıklarla bezenmiş, hayallerle dolu, devamlı olarak değişen ve çürüyen bedeniniz üzerinde düşünün."
+
+msgid "148"
+msgstr "Hastalıklarla dolu, çürüyücü bir yığından ibaret olan bu beden yıkılmaya, çözülmeye ve yok olmaya mahkumdur. Her yaşam bir gün ölümle son bulur."
+
+msgid "149"
+msgstr "Yazın sağa sola atılan içi boş ve kupkuru su kabaklarına benzeyen şu kuru kemik yığınına bakın; ona bakmaktan kim zevk alabilir?"
+
+msgid "150"
+msgstr "Bu beden, kan ve et ile kaplanmış kemik bir kafestir. Gururun, kendini beğenmişliğin, yaşlılığın ve ölümün konutu olan bir kafes."
+
+msgid "151"
+msgstr "Kralların en görkemli arabaları bile zamanla nasıl eskirse, bu insan bedeni de zamanla yaşlanır ve eskir; ancak faziletler hiçbir zaman eskimez ve yok olmazlar."
+
+msgid "152"
+msgstr "Öğrenimi olmayan kişi, tıpkı bir öküz gibi yaşlanıp gider; insan bedeni gerçekten yaşlanır ve çürür, ancak hikmet hiçbir zaman eskimez. Onlar daima yeni ve canlıdırlar."
+
+msgid "153"
+msgstr "Ben bu yaşam ve ölüm konutunun yapıcısını bulmak için birçok yaşam devrelerinden geldim geçtim."
+
+msgid "154"
+msgstr "Ölümle son bulmaya mahkum olan bu yaşamın acıları ne kadar büyüktür! Fakat ben bu konutun yapımcısını tanıdım ve artık bu konutun içine tekrar girmeyeceğim. Çünkü cehalet bağları koptu; kötülükler yok oldu ve tutku ateşleri söndü. Çünkü benim zihnim ölümsüz NİRVANA'nın sevincine ulaştı."
+
+msgid "155"
+msgstr "Gençliklerinde kendileriyle uyum içinde yaşamamış ve yaşamın gerçek hazinelerini bulamamış kişiler, içinde balık bulunmayan bir gölün kıyısında hüzünle avını bekleyen uzun bacaklı balıkçıl kuşlarına benzerler."
+
+msgid "156"
+msgstr "Bu insanlar, içlerine konan sıvıları dışa akıtan çatlak kâseler gibidirler; eskiyen günlerini hep hüzünle anarlar."
+
+msgid "chap12"
+msgstr "Kendini Kontrol"
+
+msgid "157"
+msgstr "Kendini aziz tutan kişi, kendini iyi korumak zorundadır. O kişi, gecenin üç vaktinden hiç olmazsa birinde uyanık olmalıdır."
+
+msgid "158"
+msgstr "O kişi öncelikle doğru olanı bulmalı, ancak ondan sonra yararsız acılardan kurtularak doğru olanı başkalarına öğretmelidir. Bilge kişi böyle yaparsa suçlanmaz."
+
+msgid "159"
+msgstr "Kişinin kendisi başkalarına olmalarını öğütlediği derecede iyi bir insan olabilirse, onlara gerçekten iyi bir insan olmayı öğretebilir. Ancak kendini kontrol edebilmek gerçekten zor bir iştir."
+
+msgid "160"
+msgstr "Ancak kişinin kendisi kendini kontrol altına alabilir; dıştan hiç kimse onu kontrolü altına alamaz. Ancak yönetici ve yönetilen aynı varlık olduğu zaman, ortada gerçek bir öz-denetim vardır."
+
+msgid "161"
+msgstr "Bir insanın yaptığı herhangi bir kötülük veya yanlışlık onun kendi içinden doğmuştur ve nedeni kendisidir; ve bu durum sert bir elmasın sert bir taşı ezmesi gibi, aptal kişiyi ezer."
+
+msgid "162"
+msgstr "Bir insanın içinde artan kötülük, sala ağacını saran bir sarmaşık gibidir; ve o insan, düşmanının olmasını dileyebileceği en kötü duruma kendini sokar."
+
+msgid "163"
+msgstr "Kişinin kendisi için yanlış olanı ve kötü olanı yapması kolaydır; fakat kendisi için doğru olanı ve iyi olanı yapması çok zordur."
+
+msgid "164"
+msgstr "Kendi görüşleri nedeniyle, ruhları yüce ve doğru olan kutsal kişilerin öğretilerini küçük gören aptal kişi, meyveleri ölümünü hazırlayan bambu kamışı gibi, kendi sonunu hazırlayan meyveleri toplar."
+
+msgid "165"
+msgstr "Yaptığı kötülüğün acısını yine yapan kişi çeker; şayet o insan kötülük yapmayan bir kişi ise yine kendi kendini arıtır. Saflık ve pislik kişinin kendi içinden gelir; hiç kimse başka bir insanı arıtamaz."
+
+msgid "166"
+msgstr "Başka birinin iyiliği (görevi) ne kadar büyük olsa da, kişi kendi ruhunun iyiliğini (kendi gelişimini) ihmal etmemeli. Kendi ruhunun görevini idrak ettiği zaman, tüm samimiyetiyle onu izlemelidir."
+
+msgid "chap13"
+msgstr "Uyan, Gözet"
+
+msgid "167"
+msgstr "Aşağı bir yaşam sürdürmeyin; anımsayın ve unutmayın; yanlış fikirleri izlemeyin; dünyaya dalıp gitmeyin."
+
+msgid "168"
+msgstr "Uyanın! Gözetin. Doğru yolda yürüyün. Doğru yolu izleyen kişi bu dünyada ve öte dünyada sevince ulaşır."
+
+msgid "169"
+msgstr "Doğru yolu izleyin, yanlış yolu izlemeyin. Doğru yolu izleyen kişi bu dünyada ve öte dünyada sevince ulaşır."
+
+msgid "170"
+msgstr "Kişi bu dünyayı bir sabun köpüğü ve bir görünüm aldanışı olarak düşündüğü zaman, ölümün etkisinden de kurtulmuştur."
+
+msgid "171"
+msgstr "Gelin ve şu dünyaya bakın. Bu dünya, aptal kişilerin içine battığı göz boyayıcı büyük bir araba gibidir. Bilge kişi bu arabaya tutsak değildir."
+
+msgid "172"
+msgstr "İlk günlerde bilgisiz olduğu halde daha sonra hikmet sahibi olan kişi, ayın ışığını örten bulutlardan kurtulduğu zamanki gibi dünyaya bir ışık yayar."
+
+msgid "173"
+msgstr "Yapmış olduğu kötülüğü daha sonra yaptığı iyilikle yenen kişi, ayın ışığını örten bulutlardan kurtulduğu zamanki gibi dünyaya bir ışık yayar."
+
+msgid "174"
+msgstr "Bu dünya gerçekten karanlık içindedir ve ancak birkaç kişi ışığı görebilir! Nasıl ki yakalandıkları ağın içinden sadece birkaç kuş kaçabilirse, gökyüzünün özgürlüğüne de ancak birkaç ruh uçabilir."
+
+msgid "175"
+msgstr "Kuğular uçma mucizesiyle güneşin yolunu izlerler. Kuvvetli olan insanlar da kötülüğü ve onun silahlarını yenerek dünyanın üstüne yükselirler."
+
+msgid "176"
+msgstr "Sözleri yalan olan, Büyük Kanuna uymayan ve daha görkemli bir dünyayı küçük gören bir insanın yapamayacağı hiçbir kötülük yoktur."
+
+msgid "177"
+msgstr "Sefil kişiler kesinlikle tanrıların cennetine ulaşamazlar ve aptal kişiler özgürlüğün değerini bilmezler; ancak kutsal kişiler cömertlikte sevinç bulurlar ve bu onlara daha görkemli dünyalardaki sevinci getirir."
+
+msgid "178"
+msgstr "NİRVANA'ya giden yaşam ırmağına giren kişinin sevinci; tüm dünyaya ve dünyalara hâkim olmanın, cennete gitmenin sevincinden çok daha iyidir."
+
+msgid "chap14"
+msgstr "Buddha"
+
+msgid "179"
+msgstr "Sonsuzluğun görünmeyen yollarında dolaşabilen, zaferi hiçbir zaman bozguna uğratılamayan, hiç kimsenin yenemediği ve her şeyden sevinç duyan uyanık kişi Buddha'yı hangi dünya yoluyla ayartabilirsiniz?"
+
+msgid "180"
+msgstr "Sonsuzluğun görünmeyen yollarında dolaşabilen, zaferi hiçbir zaman bozguna uğratılamayan, zehirli isteklerin ağına hiçbir zaman yakalanmayan uyanık kişi Buddha'yı hangi dünya yoluyla ayartabilirsiniz?"
+
+msgid "181"
+msgstr "Tanrılar dahi; uyanık ve gözlemci olan, tefekkürde huzur ve feragatçi sevinç bulan, huzur içindeki Buddha'lar gibi olmak isterler."
+
+msgid "182"
+msgstr "Bir insanın doğması büyük bir olaydır; yaşamı da daimi bir mücadeledir. İnsan Gerçek sistemini sık sık işitemez ve bir Buddha'nın uyanması çok ender rastlanan bir olaydır."
+
+msgid "183"
+msgstr "Kötü olanı yapma; iyi olanı yap. Zihnini saf tut. Buddha'nın öğretisi budur."
+
+msgid "184"
+msgstr "Dünya üzerindeki en büyük adak sabır gösterme, en büyük iyilik de NİRVANA'ya ulaşmadır. Uyanık olan Buddha'ların dediği budur."
+
+msgid "185"
+msgstr "Uyanık Buddha'ların biz insanlara öğretileri şunlardır: Hareketlerle ve sözlerle hiçbir varlığa zarar vermemek, Kanunlarda öğretildiği gibi kendini kontrol, aşırı olmayan bir beslenme, yalnızlık ve en yüksek bilince ulaşma çabası."
+
+msgid "186"
+msgstr "Gökyüzünden altın yağsa, bir insanın özlemli istekleri doyurulamazken ve her zevkin sonunun acı olduğu gerçeği ortada iken, bilge bir insan tanrıların zevklerinde bile nasıl doyuma ulaşabilir?"
+
+msgid "187"
+msgstr "İstekler ortadan kalktığı zaman sevinç doğar; Buddha'yı izleyen kişiler bu gerçekleri bulur."
+
+msgid "188"
+msgstr "Korku içinde kalan insanlar korunmak için dağlara, ormanlara, kutsal yerlere veya türbelere giderler."
+
+msgid "189"
+msgstr "Fakat bu yerler, hiçbir zaman bir insanı acılarından kurtarabilecek sığınaklar değildir."
+
+msgid "190"
+msgstr "Korkularından kurtulmak için uyanık bir Buddha'ya sığınan kişiler ise gerçekten korunurlar ve o zaman şu dört büyük gerçeği görürler:"
+
+msgid "191"
+msgstr "Acı, acının nedeni, acının sonucu ve acıdan kurtuluşa götüren sekiz aşamalı yol."
+
+msgid "192"
+msgstr "Buddha, tüm acılara karşı en emin ve en büyük sığınaktır. Bu sığınağa giden kişi tüm acılardan kurtulur."
+
+msgid "193"
+msgstr "Gerçek görüş sahibi bir insan bulmak çok zordur; uyanık bir Buddha da her yerde doğmaz. Böyle bir kişinin doğduğu yerdeki insanlar mutludurlar."
+
+msgid "194"
+msgstr "Bir Buddha'nın doğumu, Dhamma öğretisi, dostların uyumu ve uyum içinde olan kişilerin yaşamı mutluluktur."
+
+msgid "195"
+msgstr "Kötülüğü geride bırakmış, acı ırmağını geçmiş ve tüm korkulardan kurtulmuş olanlara;"
+
+msgid "196"
+msgstr "NİRVANA'nın görkemine ulaşmış bir Buddha'ya veya müritlerine saygı gösteren kişinin faziletini kim ölçebilir?"
+
+msgid "chap15"
+msgstr "Sevinç"
+
+msgid "197"
+msgstr "Gelin! Biz aydın kişiler, nefret eden insanlar arasında, sevgi ve sevinç içinde yaşayanlardan olalım."
+
+msgid "198"
+msgstr "Gelin! Biz aydın kişiler, hastalıklı insanlar arasında sağlık ve sevinç içinde yaşayanlardan olalım."
+
+msgid "199"
+msgstr "Gelin! Biz aydın kişiler, çatışan insanlar arasında huzur ve sevinç içinde yaşayanlardan olalım."
+
+msgid "200"
+msgstr "Gelin! Biz aydın kişiler, hiçbir şeye sahip olmasak da sevinç içinde yaşayalım. Gıdası sevinç olan ışık saçan tanrılar gibi olalım."
+
+msgid "201"
+msgstr "Yenilen kişi mutsuz olduğundan, galibiyet nefreti doğurur. Bu nedenle galibiyeti ve bozgunu terk eden insan, sevinci bulur."
+
+msgid "202"
+msgstr "Şehvet gibi ateş, nefret gibi kötülük, uyumsuzluk gibi acı ve NİRVANA gibi de sevinç yoktur."
+
+msgid "203"
+msgstr "En büyük hastalık doyumsuz istekler, en büyük acı da uyumsuzluktur. Bunu iyice anladığınız zaman, en büyük sevincin de NİRVANA olduğunu görürsünüz."
+
+msgid "204"
+msgstr "Dünyanın en büyük mülkü sağlık, en büyük hazinesi memnun olmasını bilme, en büyük dost kendine güven, en büyük sevinç de NİRVANA'ya ulaşmadır."
+
+msgid "205"
+msgstr "Kişi yalnızlığın sessizliğini tanıdığı ve bu sessizliğin sevincini tattığı zaman, korkudan ve günahtan arınarak DHAMMA'nın sevincini duyar."
+
+msgid "206"
+msgstr "Kutsal ve iyiyi görmek ve onlarla birlikte yaşamak, kişiyi mutlu kılar. Aptal kişilerle karşılaşmayan bir insan sonsuzadek mutlu yaşayabilir."
+
+msgid "207"
+msgstr "Aptal bir insanla bir arada olmak, düşman bir insanla beraber olmaktan çok daha acı vericidir. Çünkü aptal bir insanla beraber olmak kişinin başına büyük acıların gelmesine neden olur. Ancak bilge bir insanla beraber olmanın sevinci de sevilen bir akraba ile karşılaşmanın sevincinden daha büyük olur."
+
+msgid "208"
+msgstr "Güvenilir, iç aydınlığına ulaşmış, öğrenimli, uzun zaman acı çekmiş, daima Gerçeği izleyen, uyanık ve kutsal bir insana rastlarsanız; bu iyi ve büyük kişiyi, yörüngesini izleyen bir gezegen gibi izleyin."
+
+msgid "chap16"
+msgstr "Geçici Zevkler"
+
+msgid "209"
+msgstr "Yapılması gerekeni yapmayıp da yapılmaması gereken şeyleri yapan, yaşamın gerçek amacını unutan ve geçici zevklere dalan kişi, günün birinde yüksek düşünceler içinde yaşayan insanlara imrenecektir."
+
+msgid "210"
+msgstr "Kişi tüm zevklerden ve isteklerden vazgeçmelidir, çünkü tüm acıların nedeni bunlardır."
+
+msgid "211"
+msgstr "Bu nedenle, tüm acılara neden olan tutkular ve zevkleri terk edin; sevdiklerini görememek de sevmediklerini görmek de kişiye acı verir."
+
+msgid "212"
+msgstr "Zevklerden acılar ve korkular doğar. Bu nedenle zevkleri terk eden kişi tüm acılardan ve korkulardan da kurtulur."
+
+msgid "213"
+msgstr "Tutkulardan acı ve korku doğar. Kişi tüm tutkularından kurtulduğu zaman, acı ve korkudan da kurtulur."
+
+msgid "214"
+msgstr "Duygusallıktan acı ve korku doğar. Kişi duygusallıktan kurtulduğu zaman, acı ve korkudan da kurtulur."
+
+msgid "215"
+msgstr "Şehvetten acı ve korku doğar. Kişi şehvetten kurtulduğu zaman, acı ve korkudan da kurtulur."
+
+msgid "216"
+msgstr "Özlemden acı ve korku doğar. Kişi özlemlerinden kurtulduğu zaman, acı ve korkudan da kurtulur."
+
+msgid "217"
+msgstr "Mükemmellik yolu DHAMMA'yı izleyen, sözleri ve davranışları doğru, fazilet ve görüş sahibi kişiyi tüm dünya sever."
+
+msgid "218"
+msgstr "Tüm aklını NİRVANA'ya ulaşma amacına yöneltmiş ve tüm duygusal zevklerden arınmış kişiye Uddhamsoto “akıntıya karşı giden insan” adı verilmiştir. Çünkü o kişi sonsuzluğun sevincine ulaşmak için dünya yaşamının korkunç dalgalarıyla boğuşmaktadır."
+
+msgid "219"
+msgstr "Bir insanın yaşamı süresince yaptığı tüm iyi işleri öte dünyada"
+
+msgid "220"
+msgstr "Onu, tıpkı uzun zaman evinden uzak kalmış bir insanın geriye döndüğü zaman dostlarının karşılaması gibi karşılarlar."
+
+msgid "chap17"
+msgstr "Öfkeyi Yenmek"
+
+msgid "221"
+msgstr "Öfkeyi ve kendini beğeniyi bırakın. Hiçbir şeye bağlılığı olmayan, hiçbir şeye sahip olmayan insana üzüntü ulaşamaz."
+
+msgid "222"
+msgstr "Öfkesini tıpkı aşırı süratle giden arabasını kontrolü altına alabilen bir sürücü gibi bastırabilen kişi; işte ben böyle bir insana iyi sürücü derim. Diğer insanlar sadece dizginleri ellerinde tutarlar."
+
+msgid "223"
+msgstr "Öfkeyi sükunetle, kötülüğü iyilikle, cimriliği cömertlikle ve yalanı gerçekle yenin."
+
+msgid "224"
+msgstr "Gerçeği konuşun, öfkeyi yenin ve isteyene elinizden geldiği kadar verin; bu üç adım sizi tanrılara götürür."
+
+msgid "225"
+msgstr "Kendilerini daimi şekilde kontrol altında tutan, hiçbir canlı varlığa zarar vermeyen kişiler, üzüntünün artık kendilerine ulaşamayacağı ölümsüz NİRVANA'ya giderler."
+
+msgid "226"
+msgstr "Daima gözlemci olan, gece gündüz kendilerini inceleyen ve durmaksızın NİRVANA'ya ulaşmak için mücadele eden kişilerin tüm tutkuları yok olur."
+
+msgid "227"
+msgstr "Eski bir deyiş vardır: “İnsanlar sessiz olan kişiyi de, çok fazla konuşan kişiyi de, çok az konuşan kişiyi de suçlarlar.” Bu dünyada hiçbir insan suçlanmaktan kaçamaz."
+
+msgid "228"
+msgstr "Ne geçmişte, ne şimdi, ne de gelecekte, daima suçlanan veya daima övülen bir insan yoktur."
+
+msgid "229"
+msgstr "Fakat bilge kişilerin günlerce övdüğü, yaşamı saf ve aydınlık olan"
+
+msgid "230"
+msgstr "Jambu ırmağının altın parası gibi saf olan fazilet ve hikmet sahibi bir insanı suçlamaya kim cesaret edebilir? Böyle bir insanı tanrılar, hatta Yaratıcı Brahma dahi över."
+
+msgid "231"
+msgstr "Sözlerin öfkesini gözleyin, ağzınızdan çıkan sözleri kulaklarınız duysun. Sözlerle hiç kimseye zarar vermeyin."
+
+msgid "232"
+msgstr "Bedenin öfkesini gözleyin, davranışlarınız kontrol altında olsun. Hiç kimseye davranışlarınızla zarar vermeyin."
+
+msgid "233"
+msgstr "Aklınızın öfkesini gözleyin; zihninizi kontrol altına alın. Aklınızı iyiye kullanın, hiç kimseye zarar vermeyin."
+
+msgid "234"
+msgstr "Bedenlerini, sözlerini ve zihinlerini kontrol altına almış sağlam ve bilge kişiler vardır. Onlar kendilerini kontrol eden büyük insanlardır."
+
+msgid "chap18"
+msgstr "Acele Etmek ve Çaba Gösterin"
+
+msgid "235"
+msgstr "Yaşam ağacınızın yaprakları sararıyor ve ölüm habercileri sizi bekliyor. Çok uzaklara yolculuğa çıkacaksınız. Bu yolculuk için herhangi bir hazırlığınız var mı?"
+
+msgid "236"
+msgstr "Kendinize bir yer hazırlayın. Acele edin ve çaba gösterin. Bilge olun. Görkemli ülkeye, tüm pisliklerden ve günahlardan kurtularak ulaşabilirsiniz."
+
+msgid "237"
+msgstr "Yaşamınızın sonundasınız. Ölümle buluşmaya gidiyorsunuz. Ne bu yolda dinlenecek bir yer vardır ne de sizin bir hazırlığınız!"
+
+msgid "238"
+msgstr "Bu nedenle, kendinize bir yer hazırlayın. Acele edin ve çaba gösterin. Bilge olun. Tüm pisliklerden ve günahlardan arınarak, ölüme giden doğumdan ve ölümle son bulan yaşlılıktan kurtulacaksınız."
+
+msgid "239"
+msgstr "Bilge kişi, tıpkı bir kuyumcunun saf gümüşü cüruflarından ayırması gibi, kendisini tüm pisliklerden kurtarmalıdır: azar azar, birer birer ve tekrar tekrar."
+
+msgid "240"
+msgstr "Demir üzerindeki pas nasıl o demirin aşınmasına neden olursa, bir insanın pislikleri ve suçları da o kişinin kötü yolda kendisini yok etmesine neden olur."
+
+msgid "241"
+msgstr "Kutsal sözlerin pasıdır herhangi bir onarım görmemesi (tekrarlanmaması); konutların pasıdır bakımsızlık; gözlemci olmayış, gözlemci kişinin pasıdır."
+
+msgid "242"
+msgstr "Kadındaki günah iffetsizlik, cömert kişideki günah cimrilik; her iki dünyada günah olan şey ise kötü davranışlardır."
+
+msgid "243"
+msgstr "Ancak günahların en büyüğü cehalettir. Bilge ol ve bu günahtan kurtul, ey insan!"
+
+msgid "244"
+msgstr "Yaşam; başkalarına kendisini zorla kabul ettiren, kurnaz, pis istekleri olan, hilekâr, küstah, kayıtsız ve kötü davranışlı kişiler için kolaydır."
+
+msgid "245"
+msgstr "Fakat başkalarına kendini zorla kabul ettirmeyen, kendi çıkarlarını düşünmeyen, mükemmelliğe ulaşmak için çaba harcayan, aydınlığı gören saf ve huzurlu kişiler için zor gibi görünür."
+
+msgid "246"
+msgstr "Yaşamını boşa harcayan, yalan söyleyen, kendisine verilmeyeni alan, başkasının kadınına göz koyan ve içki içen insan, yaşam ağacını kökünden kesen kişidir."
+
+msgid "247"
+msgstr "Bu nedenle şunu iyi bil ki ey insanoğlu; yapılan yanlış işler kendini kontrol edememe yoksunluğunu ifade eder."
+
+msgid "248"
+msgstr "Bu kusur ve isteklerinizin doyumsuzluğu size büyük acılar getirir."
+
+msgid "249"
+msgstr "İnsanlar başkalarına verdiklerini, ya manevi dünyalarından gelen bir aydınlık nedeniyle ya da o vergilerin ardında gizli bencil istekleri nedeniyle verirler. Başkalarından kendine ne gibi yararlar gelebileceğini düşünen kişiler, hiçbir zaman yüksek düşüncelere ulaşamazlar."
+
+msgid "250"
+msgstr "Ancak kıskançlık duygularından arınmış kişiler, gece ve gündüz yüksek düşünceler içindedirler."
+
+msgid "251"
+msgstr "Şehvet gibi bir ateş, nefret gibi zincir, aldanış gibi tuzak, istek gibi de yıkıcı güç yoktur."
+
+msgid "252"
+msgstr "Bir insanın başkalarının hatalarını görmesi kolay, ancak kendi hatalarını görmesi çok zordur. Kişi kendi hatalarını bir kumarbazın hilesini saklaması gibi saklar; başkalarının hatalarını ise dünyanın en güzel şeylerini gösteriyormuş gibi açığa vurur."
+
+msgid "253"
+msgstr "Daima başkalarının kusurlarını gören ve onları düşünen kişinin kendi kusurları artar ve o insan bilmediği bir sonuca doğru sürüklenir."
+
+msgid "254"
+msgstr "Gökyüzünde yol yoktur ve bir münzevi manevi yolu bulmalıdır. Dünya zevkleri bu yol üzerindeki engellerdir. Bu yolu bulan kişiler dünyayı yenmiş ve zaman ırmağını geçmişlerdir."
+
+msgid "255"
+msgstr "Gökyüzünde yol yoktur ve bir münzevi manevi yolu bulmalıdır. Gerçekten her şey geçicidir, ancak Buddha'lar ölümsüzdürler."
+
+msgid "chap19"
+msgstr "Doğruluk"
+
+msgid "256"
+msgstr "Karşılaştığı konuları bir acelecilik içinde değerlendirmeye ve"
+
+msgid "257"
+msgstr "Çözümlemeye çalışan kişi doğruluğun yolunda değildir. Bilge kişi, her şeyi acele etmeden huzur içinde düşünür ve değerlendirir. Bu insan Gerçeği korur, Gerçek de onu."
+
+msgid "258"
+msgstr "Çok konuşan kişiye değil, huzur içinde korkusuzca konuşan kişiye Bilge adı verilir."
+
+msgid "259"
+msgstr "Doğruluk yolunu izleyen insan, bilgiççe konuşmalar yapan kişi değil, doğru yolu unutmayan ve işini doğru olarak yapan kişidir."
+
+msgid "260"
+msgstr "Saçları ağarmış her insan saygın bir kişi değildir. Bu ağarmışlık, sadece yılların oluşturduğu bir durum ise, o yıllar boş yere harcanmış bir yaşamı ifade eder."
+
+msgid "261"
+msgstr "Ancak o yaşlı insan; günahlardan arınmış, kendini kontrol etmesini bilen, itidalli, huzurlu ve doğruluk yolunda yürüyen bir kişiyse saygındır."
+
+msgid "262"
+msgstr "İçinde kıskançlık, kendini beğeni ve aldanış olan insan, sadece"
+
+msgid "263"
+msgstr "Güzel sözleri ve görünümleri var diye onurlu kişi addedilemez. Ancak bu üç günahtan arınmış, içi sevgi dolu bilge bir insan gerçekten onurlu kişidir."
+
+msgid "264"
+msgstr "Rahiplere özgü tıraş edilmiş bir başı var diye her insan bir rahip —Samana— olamaz. Dinsel görevlerini yerine getirmeyen, doğruyu konuşmayan, isteklerden ve kendini beğeniden kurtulamamış bir insan nasıl bir samana olabilir?"
+
+msgid "265"
+msgstr "Gerçek bir samana, büyük veya küçük her kötülüğü huzura dönüştüren kişidir."
+
+msgid "266"
+msgstr "Et kanununu reddedip doğruluk kanununu da kabul etmedikçe, yaşamını sadece sadaka ile geçiriyor diye her insana Bhikkhu adı verilemez."
+
+msgid "267"
+msgstr "Bhikkhu; iffet ve derin düşünce içinde bir yaşam sürdüren, iyinin ve kötünün üstünde olan kişidir."
+
+msgid "268"
+msgstr "Cahil veya aptal olduğu için değil de, her iki dünyayı da"
+
+msgid "269"
+msgstr "Doğru olarak değerlendirebilmek için, ölçeğinin kefelerine iyi olanı alıp kötü olanı reddedebilmek için sessiz düşünen kişiye Muni adı verilir."
+
+msgid "270"
+msgstr "Gerçekten büyük insan, bir savaşçı olup birçok kişiyi öldürebilen kişi değil, hiçbir yaşayan varlığa zarar vermeyen kişidir."
+
+msgid "271"
+msgstr "Ey dilenci! Dünya insanlarının ulaşamadığı özgürlüğün sevincine; sadece ahlak kanunlarıyla veya törenlerle veya öğrenimle veya yüksek konsantrasyonla veya yalnız yaşamakla ulaşılamaz."
+
+msgid "272"
+msgstr "Doyuma ulaştığını sanma, zafer henüz kazanılmadı."
+
+msgid "chap20"
+msgstr "Yol"
+
+msgid "273"
+msgstr "Gerçeğe giden yolların en iyisi sekiz aşamalı olan yoldur. Gerçeklerin en büyüğü dört tanedir. En iyi durum, tüm tutkulardan kurtulma halidir. Ve insanlar içinde en iyisi, görmesini bilen kişidir."
+
+msgid "274"
+msgstr "Gerçeğe giden başka bir yol yoktur. Bu yolda yürüyün ve yanılgının doğuracağı kötülüklerden —Mara'dan— kurtulun."
+
+msgid "275"
+msgstr "Bu yolda yürüyen kişi, tüm acılardan kurtulur. Ben bu yolu buldum ve tüm dünyaya gösterdim."
+
+msgid "276"
+msgstr "Geçmişin Büyük kişileri sadece yolu gösterirler. Çaba göstermesi ve bu yolda yürümesi gereken kişi sizsiniz. Derin derin düşünün ve bu yolu izleyerek tutkulardan ve yanılgılardan kurtulun."
+
+msgid "277"
+msgstr "“Her şey geçicidir”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+
+msgid "278"
+msgstr "“Her şey acı vericidir”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+
+msgid "279"
+msgstr "“Her şey yalandır (benliksizdir)”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+
+msgid "280"
+msgstr "Genç ve kuvvetli iken uyanmayan ve uyandığı zaman çaba göstermeyen, böylelikle tembelliğe ve karar yoksunluğuna düşen kişi, hiçbir zaman hikmet yolunu bulamaz."
+
+msgid "281"
+msgstr "Kişi ağzından çıkan sözlerini ve zihnini kontrol etmeli ve kendi bedenine hiçbir zarar vermemelidir. Ancak bu davranışları saf olursa, bilgelik yolunda ilerleyebilir."
+
+msgid "282"
+msgstr "Ruhsal yol aydınlığa, dünya yolu da kişiyi karanlığa götürür. Bilge kişi bu iki yolu düşünerek aydınlığa giden yolda yürür."
+
+msgid "283"
+msgstr "İstekler ormanını tek bir ağacına kalıncaya dek kesip yok edin. Ancak bu ağaçları kökleriyle beraber yok ettiğiniz zaman, Bhikkhu'ların özgürlük sevincine ulaşacaksınız."
+
+msgid "284"
+msgstr "Erkeğin kadına karşı duyduğu şehvet duygusu kontrol altına alınmadıkça ve kişinin zihni özgürlüğe ulaşmadıkça, o insan bir ineğe bağlanmış bir buzağı gibidir."
+
+msgid "285"
+msgstr "Kendinize karşı olan sevgiyi, sonbaharda kökünden söküp attığınız solmuş bir çiçek gibi söküp atın. Ancak bu şekilde Buddha'nın gösterdiği mükemmellik yolunda yürüyebilirsiniz."
+
+msgid "286"
+msgstr "Aptal kişi: “Ben yağmur mevsiminde de, yazın da, kışın da burada kalacağım” diye düşünür; fakat ölümün her an kendisine yaklaştığının farkında bile olmaz."
+
+msgid "287"
+msgstr "Ölüm; görkemli bir güzelliği bir anda yok eden koca bir sel gibi, kendisini sahip olduğunu sandığı kişilerle ve nesnelerle doyuran kişiyi silip götürür."
+
+msgid "288"
+msgstr "Ölüm geldiği zaman ne ana, ne baba ne de dostlar kişiyi onun elinden kurtaramaz."
+
+msgid "289"
+msgstr "Faziletli ve bilge bir insan bunun anlamını bilir ve tüm gücü ile NİRVANA'ya giden yolu bulmaya çalışır."
+
+msgid "chap21"
+msgstr "Uyanıklık"
+
+msgid "290"
+msgstr "Küçük bir zevki terk eden insan büyük bir sevinç duyar; ancak bilge kişi daha büyük sevinçler peşindedir."
+
+msgid "291"
+msgstr "Kendi mutluluğu için başkalarının mutsuzluğuna yol açan kişi, nefretin zincirlerine bağlanır ve kolay kolay bu zincirlerden kurtulamaz."
+
+msgid "292"
+msgstr "Yapılması gerekeni yapmayıp, yapılmaması gerekeni yapan kibirli ve düşüncesiz kişilerin günahkar arzuları gittikçe artar."
+
+msgid "293"
+msgstr "Fakat davranışlarını devamlı olarak kontrol eden, yapılmaması gerekeni yapmayan, gözlemci ve bilge kişilerin tüm günahkar arzuları son bulmuştur."
+
+msgid "294"
+msgstr "Bir aziz, bir Brahmin geçmiş tüm günahlardan arınmıştır; hatta bir zamanlar anasını babasını ve iki kutsal kralı öldürmüş veya tüm bir krallığı yok etmiş dahi olsa."
+
+msgid "295"
+msgstr "Bir aziz, bir Brahmin geçmiş tüm günahlardan arınmıştır; hatta bir zamanlar ana babasını ve iki kutsal kralla insanların en iyilerini öldürmüş olsa bile."
+
+msgid "296"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci insanlardır. Ve bu insanlar gece gündüz öğreticileri Buddha'yı anımsarlar."
+
+msgid "297"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci insanlardır. Ve bu insanlar gece gündüz Kanunun Gerçeğini anımsarlar."
+
+msgid "298"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci kişilerdir. Ve bu insanlar gece gündüz kutsal kardeşliği anımsarlar."
+
+msgid "299"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci kişilerdir. Ve bu insanlar gece gündüz bedenin sırrını anımsarlar."
+
+msgid "300"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci kişilerdir. Ve bu insanlar gece gündüz tüm varlıkları sevmenin sevinci içindedirler."
+
+msgid "301"
+msgstr "Buddha Gotama'yı izleyen kişiler, uyanık ve daima gözlemci kişilerdir. Ve bu insanlar gece gündüz yüksek düşüncenin sevincindedir."
+
+msgid "302"
+msgstr "Dünyadan vazgeçmek acı vericidir; dünyada olmak ve çokluk içinde yalnız olmak da acı vericidir. Uzun göç yolu, yolcu için acı verici bir yoldur: Yolcu, yol kenarında durmalı ve özgürlüğe ulaşmalıdır."
+
+msgid "303"
+msgstr "İnanç ve fazilet sahibi kişiler, gerçek görkeme ve zenginliğe ulaşırlar. O kişi her nereye giderse, orada onurlandırılır."
+
+msgid "304"
+msgstr "İyi kişiler, Himalaya dağları gibi çok uzaklardan parıldarlar; kötü kişiler ise gece atılan oklar gibi daima karanlık içindedirler, görünmezler."
+
+msgid "305"
+msgstr "Yalnız olabilen, yalnız kalabilen ve çabalarından hiçbir zaman yorulmayan kendine hakim kişi, istekler ormanının kıyısında sevinç içinde yaşar."
+
+msgid "chap22"
+msgstr "Karanlığın İçinde"
+
+msgid "306"
+msgstr "Yaptığı şeyleri yapmadığını, yapmadığı şeyleri de yaptığını söyleyen kişi, cehenneme giden yoldadır. Sonunda acı çekmeye mahkumdur, çünkü her iki durumda da gerçeğe karşı günah işlemiştir."
+
+msgid "307"
+msgstr "Yaşamı saf olmayan ve kendini kontrol edemeyen çoğu kişi sarı cübbe giyer. Ancak kötü kişiler, cehennemde yeniden doğarlar."
+
+msgid "308"
+msgstr "Kötü bir insanın kızgın demir gülleler yutması, iyi bir insanın ona verdiği yiyecekleri yemesinden daha yeğdir."
+
+msgid "309"
+msgstr "Başka bir erkeğin kadınına göz koyan kişinin başına dört şey gelir: Kendini alçaltır, zevkleri hiçbir zaman doyuma ulaşmaz, başkaları tarafından suçlanır ve cehenneme gider."
+
+msgid "310"
+msgstr "Evet; ruhun rezilliği, korkakça bir zevk, Kanun'un verdiği tehlike ve cehennem yolu. Bu dört şeyi düşünen kişi, başka bir erkeğin kadınının ardından gitmez."
+
+msgid "311"
+msgstr "Bir kusa otu biçimsiz şekilde tutulduğu zaman eli keser; aynı şekilde, bir münzevi de bilgelik yolunda gereken yaşam yolunu izlemezse cehenneme gider."
+
+msgid "312"
+msgstr "Çünkü kutsal yaşamın gerekleri yerine getirilmediği zaman, yeminlerini tutmadığı ve Tanrı'ya gereği gibi tapınmadığı zaman, bir mükafat beklenmemelidir."
+
+msgid "313"
+msgstr "Kişi yapmak zorunda olduğu şeye tüm çabasını harcamalıdır. Düşüncesiz kişi sadece, sanki büyük bir şey yapıyormuş gibi, yoldaki tozu toprağı havaya kaldırır."
+
+msgid "314"
+msgstr "Yanlış olanı yapmaktansa hiçbir şey yapmamak daha yeğdir, çünkü yapılan yanlışlıklar sonunda kişinin acı çekmesine neden olur. Bu nedenle sadece doğru olanı yapın, çünkü iyi işlerden hiçbir zaman acı doğmaz."
+
+msgid "315"
+msgstr "Kişi kendisini içten ve dıştan iyice korunan bir hudut kasabası gibi korumalı ve bir an dahi dikkatsizliğe düşmemelidir. Yaşamlarını dikkatsizce sürdüren kişiler, sonunda cehennem acısı çekmeye mahkum olurlar."
+
+msgid "316"
+msgstr "Suçlu olmadıkları zaman suçlanan, suçlu oldukları zaman suçlanmayan ve bu değerlendirmeyi kabul eden kişiler, çok yanlış görüşleri olan ve cehenneme giden insanlardır."
+
+msgid "317"
+msgstr "Korkulmayacak şeyden korkan ve korkulması gereken şeyden korkmayan kişiler, yanlış görüşleri olan ve cehenneme giden yolda yürüyen insanlardır."
+
+msgid "318"
+msgstr "Doğruyu yanlış, yanlışı da doğru olarak düşünen kişiler, yanlış görüşleri olan ve cehenneme giden yolda yürüyen insanlardır."
+
+msgid "319"
+msgstr "Ancak, yanlışın yanlış olduğunu ve doğrunun doğru olduğunu düşünen kişiler, doğru görüş sahibi ve cennete giden yolda yürüyen insanlardır."
+
+msgid "chap23"
+msgstr "Sabır"
+
+msgid "320"
+msgstr "Kırıcı sözlere, bir savaşta düşman oklarına sabırla mukavemet gösteren bir fil gibi sabredeceğim. Çünkü insanların çoğu kendini kontrol yetisinden yoksundur."
+
+msgid "321"
+msgstr "İnsanlar savaşlarda eğitimli fillerden yararlanırlar. Aynı şekilde, insanların en iyileri de kötü davranışlara huzur içinde sabır gösterebilen kendini eğitmiş kişilerdir."
+
+msgid "322"
+msgstr "Katırlar, atlar ve kuvvetli filler eğitildikleri zaman çok yararlı olurlar. İnsanların içinde en iyisi ise kendisini eğiten kişidir."
+
+msgid "323"
+msgstr "İnsanoğlu bilinmeyen NİRVANA'ya hayvanları güden kişilerin değil, ancak akıllıca ve kahramanca kendisini eğitebilen kişinin yardımı ile ulaşabilir."
+
+msgid "324"
+msgstr "Dhanapalaka adı verilen büyük fili kızgınlık zamanında kontrol altına alabilmek çok güçtür. Tutsak olduğu zaman yiyeceğini yemez, çünkü ormanını anımsar."
+
+msgid "325"
+msgstr "Çok uyuyan, tembel ve obur kişi, pislik içinde yaşayan bir domuz gibidir. Bu aptal kişi, öldükten sonra ölümlü bir yaşam daha sürdürmek için bu dünyaya yeniden gelir."
+
+msgid "326"
+msgstr "Geçmiş günlerde, aklım bencil isteklerimin, şehvetimin ve zevklerimin peşinden sürüklenir dururdu. Bugün bu akıl, eğiticisinin kontrolü altındaki vahşi bir fil gibi, kontrol altında ve doğru yola girmiş durumda."
+
+msgid "327"
+msgstr "Gözlemci bir insan olmanın sevincini duyun ve aklınızı iyi koruyun. Kendinizi, bir filin kendisini içine düştüğü bir bataklıktan çekip kurtarması gibi, aşağılık işlerden kurtarın."
+
+msgid "328"
+msgstr "Kişi yaşam yolculuğunda kendini kontrol altına almış iyi, bilge ve akıllı bir insanla karşılaşırsa, onu kendisine yoldaş edinsin. Ve yolculuğun tehlikelerini beraberce yensinler."
+
+msgid "329"
+msgstr "Fakat yaşam yolculuğunda kendini kontrol edebilen iyi, bilge ve akıllı bir kişi bulamazsa; ülkesini terk etmiş bir kral gibi, ormanda yalnız kalmış büyük bir fil gibi, yolculuğunu tek başına sürdürsün."
+
+msgid "330"
+msgstr "Çünkü yaşam yolunda yalnız olmak, aptal bir kişiyle yoldaş olmaktan daha yeğdir. O kişi, tüm günahları geride bırakarak birkaç istek ve birkaç endişe ile, ormanda yalnız başına dolaşan bir fil gibi, yolculuğunu tek başına sürdürmelidir."
+
+msgid "331"
+msgstr "Dostlar edinmek, sevinci onlarla paylaşmak, ölmeden önce iyilikler yapmak ve tüm acılardan kurtulmak çok güzel bir şeydir."
+
+msgid "332"
+msgstr "Bu dünyada bir anne olmak, bir baba olmak, bir münzevi olmak ve aziz bir Brahmin olmak çok güzel bir şeydir."
+
+msgid "333"
+msgstr "Fazilet sahibi olmak, saf ve sağlam bir inanca sahip olmak, hikmet sahibi olmak ve günahtan arınmak çok güzel bir şeydir."
+
+msgid "chap24"
+msgstr "Tutkular"
+
+msgid "334"
+msgstr "NİRVANA'yı aramayan bir insanın tutkuları artar ve o kişi, meyve bulamadığı bir ağaçtan diğerine sıçrayan bir maymun gibi, ölümden ölüme sıçrar durur."
+
+msgid "335"
+msgstr "Ve tutkuları kişiyi mağlup ettiği zaman, o insanın acıları gitgide artar."
+
+msgid "336"
+msgstr "Fakat her kim bu dünyada bencil tutkularından kurtulmasını bilirse, o kişi tüm acılardan da kurtulur. Tüm üzüntüler, bir lotus çiçeğinden damlayan yağmur damlacıkları gibi o kişiyi terk eder."
+
+msgid "337"
+msgstr "Bu nedenle sevgiyle hepinize diyorum ki: Tüm istek bağlarını koparın, tutkularınızı terk edin. MARA'nın kötülüğüne karşı bir ırmak kamışı gibi zayıf olmayın."
+
+msgid "338"
+msgstr "Nasıl ki zarar verilmemiş ve kuvvetli kökleri bulunduğu zaman kesilen bir ağaç tekrar yeşerip büyürse; tutkuların kökleri de tamamiyle sökülmediği müddetçe aynı şekilde acılar o tutkuların sahibinin başına tekrar tekrar gelecektir."
+
+msgid "339"
+msgstr "Zevklere doğru akan otuz altı istek ırmağı kuvvetlendiği zaman, oluşturdukları kuvvetli dalgalar; tasavvurları şehvet ve zevk olan görüşsüz kişiyi sürükleyip götürürler."
+
+msgid "340"
+msgstr "Irmaklar her yerde akar. Tutku sürüngeni her yerde gelişir. Şayet bu sürüngenin geliştiğini görürseniz, hikmet kudretiyle onun tüm köklerini kesip yok edin."
+
+msgid "341"
+msgstr "İnsanların duygusal zevkleri her yöne akar. Zevk arayan ve zevklere bağlı kişiler yaşamdan ve yaşlılıktan acı duyarlar."
+
+msgid "342"
+msgstr "Şehvet peşinde koşan insanlar yaralı bir tavşan gibi sağa sola koşuşurlar. Bu nedenle, münzevi kişi öncelikle şehvet arzusunu yenmelidir."
+
+msgid "343"
+msgstr "Şehvet peşinde koşan insanlar; işkence edilen tutsak bir insan gibi devamlı acı çekerler."
+
+msgid "344"
+msgstr "İsteklerden kurtulan kişi sevince ulaşır; ancak kurtulmuş bir insan eski yaşamına ve isteklerine geri dönerse, diğer insanlar onun için derler ki: “Kurtuldu fakat tutsaklığa geri döndü.”"
+
+msgid "345"
+msgstr "Bilge kişi; tutku bağının; ipten, ağaçtan veya demirden yapılmış bütün bağlardan daha kuvvetli olduğunu söyler."
+
+msgid "346"
+msgstr "Bu bağ gerçekten kuvvetlidir; zayıf gibi görünür fakat insanı aşağılara sürükler ve sökülmesi çok zor bir bağdır. Bu nedenle, bazı kişiler bağlarını koparırlar, dünya yaşamını terk ederler ve tüm zevkleri geride bırakarak yeni bir yolda yürümeye başlarlar."
+
+msgid "347"
+msgstr "İsteklerin tutsağı olan kişiler, bir örümceğin kendi yaptığı ağına koşması gibi, istekler ırmağına koşarlar. Bu nedenle bazı kişiler bağlarını koparırlar ve tüm acıları geride bırakarak yeni bir yolda yürümeye başlarlar."
+
+msgid "348"
+msgstr "Geçmişi, geleceği ve bugünü geride bırakın. O zaman diğer kıyıya gitmeye hazırsınız. Asla ölümle son bulan bir yaşama bir daha geri dönmeyeceksiniz."
+
+msgid "349"
+msgstr "Zihni yanlış düşüncelerle dolu, bencil istekleri kuvvetli ve duygusal zevkleri arayan kişi, tutkularını arttırır ve tutsak olduğu bağları kuvvetlendirir."
+
+msgid "350"
+msgstr "Fakat zihni huzur dolu düşüncelerle dolu olan, zevkin doğuracağı acıları düşünen ve daima yaşamının aydınlığını anımsayan kişi, tutkularının sonunu görür ve ölüm bağlarını koparır."
+
+msgid "351"
+msgstr "O yolculuğunun sonuna ulaşmıştır; artık titremez, tutkuları yok olmuştur, günahtan kurtulmuştur, bu bedeni onun en son ölümlü bedenidir."
+
+msgid "352"
+msgstr "O, şehvetten ve öfkeden kurtulmuştur. Sözlerin ve hareketlerin anlamını bilir. O, Aydınlığı gören görkemli bir insandır. Bu bedeni de onun en son ölümlü bedenidir."
+
+msgid "353"
+msgstr "Ben tüm tutkulardan kurtulmuş bir insanım, her şeyi fethettim, her şeyi biliyorum, her şeyi terk ettim ve yaşamım saflığa ulaştı. Yolu ben kendim buldum; öğretici kim? Benim eğiteceğim kişiler kimler?"
+
+msgid "354"
+msgstr "Gerçeği bilme her hüneri kapsamına alır. Gerçeğin tadı her tatlılıktan daha üstündür. Gerçeğin sevinci her zevkin üstündedir. İsteklerin yoksunluğu da her acının sonudur."
+
+msgid "355"
+msgstr "Zenginlik, Ötedekini aramayan aptal kişiyi perişan eder. Aptal kişi, zenginlik hırsı nedeniyle, kendi kendinin düşmanı gibi kendisini perişan eder."
+
+msgid "356"
+msgstr "Tutkular, tıpkı tarlalara zarar veren yabani otlar gibi, insanın doğasal yapısına zarar verirler. Tutkulardan kurtulmuş kişilere verilen sunular, veren kişiye büyük mükafatlar getirir."
+
+msgid "357"
+msgstr "Nefret de, tıpkı tarlalara zarar veren yabani otlar gibi, insanın doğasal yapısına zarar verir. Nefretten kurtulmuş kişilere verilen sunular da, veren kişiye büyük mükafatlar getirir."
+
+msgid "358"
+msgstr "Aldanışlar da, tarlalara zarar veren yabani otlar gibi, insanın doğasal yapısına zarar verirler. Aldanıştan kurtulmuş kişilere verilen sunular, veren kişiye büyük mükafatlar getirir."
+
+msgid "359"
+msgstr "Aynı şekilde, istekler de tarlalara zarar veren yabani otlar gibi, insanın doğasal yapısına zarar verirler. Ve isteklerden kurtulmuş kişilere verilen sunular, veren kişiye büyük mükafatlar getirir."
+
+msgid "chap25"
+msgstr "Münzevi"
+
+msgid "360"
+msgstr "Gözlerin, kulakların, koku duyusunun ve tat alma duyusunun kontrol altına alınması çok yararlı bir durumdur."
+
+msgid "361"
+msgstr "Bedenin, sözlerin, zihnin ve bütün manevi yaşamınızın kontrol altına alınması çok yararlı bir durumdur. Kendini kontrol etme yetisini kazanmış bir münzevi, tüm acıları geride bırakır."
+
+msgid "362"
+msgstr "Her şeyde kendini kontrol edebilen; ellerini, ayaklarını, sözlerini ve zihnini kontrol edebilen; manevi ve sarsılmaz huzuru bulmuş insan —Ben böyle bir insana münzevi derim."
+
+msgid "363"
+msgstr "Konuşmaları kontrol altında, huzur dolu ve bilgece olan, alçak gönüllü ve kutsal metinlerin anlamını bilen münzevi kişinin sözleri güzel ve verimlidir."
+
+msgid "364"
+msgstr "DHAMMA'nın gerçeğine ulaşmış, DHAMMA'nın sevincini bulmuş, DHAMMA üzerinde düşünen ve devamlı olarak DHAMMA'nın gerçeğini anımsayan münzevi, hiçbir zaman DHAMMA'dan —Gerçekten— ayrılmaz."
+
+msgid "365"
+msgstr "Kişi kendisine verilen sunuları hor görmemeli ve başkalarını kıskanmamalı; çünkü kıskançlık duyan bir münzevi hiçbir zaman derin düşünmeyi başaramaz."
+
+msgid "366"
+msgstr "Şayet münzevi başkalarından aldığı sunuları hor görmezse, onu tanrılar dahi över ve onun yaşamı saflığa ve görkemi ulaşır."
+
+msgid "367"
+msgstr "Bir münzevi, isim ve şekli gerçek olarak kabul etmez; hiçbir zaman “bu benimdir” duygusuna kapılmaz ve olmayan şeyler için üzüntü duymaz."
+
+msgid "368"
+msgstr "Buddha kanunu çerçevesinde yaşayan sevgiyle dolu bir münzevi; tüm acıların sonu ve sonsuz sevinç olan NİRVANA yolunu izler."
+
+msgid "369"
+msgstr "Yaşam sandalınızı boşaltın ey insanlar; sandal ancak bomboş olduğu zaman süratle yol alır. Ancak yaşam sandalınız boş olduğu zaman NİRVANA ülkesine gitmeye hazır olursunuz."
+
+msgid "370"
+msgstr "Şu beş şeyden kendinizi kurtarın: bencillik, şüphe, yanlış sofuluk ve ibadet, şehvet, nefret; şu diğer beş şeyi de üzerinizden defedin: bir bedenle doğmak isteği veya bedensiz olarak doğmak isteği, inatçılık, rahatsızlık ve cehalet; fakat şu beş şey vardır ki onları beslemelisiniz: inanç, gözlemcilik, enerji, derin düşünme ve görüş. İnsanı tutsak eden şu beş bağı da —şehvet, nefret, aldanış, gurur ve yanlış görüşler— koparan kişi, diğer kıyıya ulaşmış bir kimsedir."
+
+msgid "371"
+msgstr "Gözlemci olun, yüksek düşünceler içinde olun ve hiçbir zaman zevkleri düşünmeyin."
+
+msgid "372"
+msgstr "Hikmet sahibi olmayan kişi derin düşünmeye ulaşamaz, derin düşünemeyen kişi de hikmet sahibi olamaz. Ancak her ikisine de sahip olan kişi, NİRVANA'ya çok yakın bir insandır."
+
+msgid "373"
+msgstr "Münzevi huzur içindeki bir zihinle arınmışlığa ulaştığı zaman, Gerçeğin aydınlığını ve sevincini duyar."
+
+msgid "374"
+msgstr "Ve açık bir görüşle manevi olayların geliş ve gidişlerini gördüğü zaman, ölümsüz NİRVANA'yı gören kişilerin sonsuz sevincini duyar."
+
+msgid "375"
+msgstr "Kendini kontrol, mutluluk, ahlak kanunları çerçevesinde yaşayış ve yaşamı saf olan ve daima iyilik yolunda çaba sarf eden kişilerle dostluk: bilge bir münzevi yaşamının başlangıcı budur."
+
+msgid "376"
+msgstr "Kişi sevgi içinde yaşamalı ve işini iyi yapmalıdır. Ancak o zaman, sevinç içinde acıların son bulduğunu görecektir."
+
+msgid "377"
+msgstr "Ey münzeviler, tüm tutkularınız ve istekleriniz, bir yaseminin solmuş çiçeklerini dökmesi gibi terk edilmelidir."
+
+msgid "378"
+msgstr "Münzevi kendisine hakim olduğu, aşağılık dünya cezbelerini geride bıraktığı; bedeni, zihni ve sözleri huzur dolu olduğu zaman bir Bhikkhu olur."
+
+msgid "379"
+msgstr "Kalkın! Kendinizi gerçek benliğinizle uyandırın ve eğitin. Kendi gerçek Benliğinizin sığınağı altında, en büyük sevinç içinde yaşayacaksınız."
+
+msgid "380"
+msgstr "Çünkü kendinize hakim ve sığınak olan kendi gerçek benliğinizdir. Bu nedenle kendinizi, bir bakıcının güzel bir atı eğitmesi gibi iyice eğitin."
+
+msgid "381"
+msgstr "Münzevi, Buddha'nın öğretisinde inancının doyumuna ulaşır; en büyük huzuru ve ölümsüzlüğü, NİRVANA'nın en büyük sevincini bulur."
+
+msgid "382"
+msgstr "Genç de olsa bir münzevi inançla Buddha'nın yolunu izlediği zaman, çevresine yaydığı ışık; ayın bulutların arasından çıktığı zamanki gibi tüm dünyaya yayılır."
+
+msgid "chap26"
+msgstr "Brahmin"
+
+msgid "383"
+msgstr "Ey Brahmin! Tüm ruhunla ırmağın ötesine git. Samsara ırmağını geçtikten sonra, NİRVANA ülkesine ulaşacaksın."
+
+msgid "384"
+msgstr "Bir Brahmin derin düşünce ve tefekkürle öteki kıyıya ulaştığı zaman, en yüksek görüşe sahip olur ve tüm bağlardan kopar."
+
+msgid "385"
+msgstr "Ne bu kıyının, ne ötedeki kıyının ne de her ikisinin var olmadığını kabul eden, tüm korkuların ötesinde olan kişi, kurtuluşa ulaşmıştır. Ben ancak böyle bir insana bir Brahmin derim."
+
+msgid "386"
+msgstr "Tutkulardan kurtulmuş, yapılması gerekeni yapmış, en büyük sonuca ulaşmış, tefekkür ve huzur içinde yaşayan saf kişi; Ben ancak böyle bir insana bir Brahmin derim."
+
+msgid "387"
+msgstr "Güneş gündüzün, ay da geceleyin parıldar. Savaşçı savaş alanında, bir Brahmin rahibi de tefekkürü içinde parıldar. Ancak uyanık kişi, Buddha, görkeminin ışığı içinde gece gündüz parıldar."
+
+msgid "388"
+msgstr "Kişi kötülüğü kendisinden uzaklaştırması nedeniyle ona Brahmin, huzur içinde yaşadığı zaman 'Samana', tüm günahlardan arındığı zaman da 'Pabbajita' adı verilir."
+
+msgid "389"
+msgstr "Hiç kimse bir Brahmin'e zarar vermemeli ve hiçbir Brahmin bir kötülüğe kötülükle karşılık vermemelidir. Bir Brahmin'e zarar veren kişiye ve kötülüğe kötülükle karşılık veren kişiye ne yazık!"
+
+msgid "390"
+msgstr "Zihnini yaşam zevklerinden geri tutan bir Brahmin'in kazancı küçük değildir. Zarar verecek bir isteğin yok edildiği her seferde, bir acı da yok olur."
+
+msgid "391"
+msgstr "Düşünceleriyle, sözleriyle veya hareketleriyle hiç kimseye zarar vermeyen ve bu üç şeyi devamlı kontrol altında tutan kişi; Ben ancak böyle bir insana bir Brahmin derim."
+
+msgid "392"
+msgstr "Buddha'nın öğretisini öğreten bir bilgeden doğruluk kanununu öğrenen kişi; adak ateşine saygı gösteren bir Brahmin gibi o insana saygı göstermelidir."
+
+msgid "393"
+msgstr "Bir insan uzun saçları olmakla, soylu bir aileye sahip olmakla veya doğuştan bir Brahmin olamaz. Ancak içinde gerçek ve kutsallık bulunan kişi, sevinç içinde yaşayan bir Brahmindir."
+
+msgid "394"
+msgstr "İçinde münzevilik yetileri olmayan, karmakarışık tutkularla dolu aptal kişiler; karmakarışık saçlarınızın, antilop giysilerinizin yararı nedir?"
+
+msgid "395"
+msgstr "Eski giysiler içinde, zayıf, ormanda tek başına yaşayan kişi; Ben ancak böyle bir insana bir Brahmin derim."
+
+msgid "396"
+msgstr "Ben bir insana belli bir aileden veya ana babadan doğmuş, gösterişli veya zengin diye Brahmindir diyemem. Maldan mülkten ve isteklerden kurtulmuş kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "397"
+msgstr "Tüm bağları koparmış, hiçbir şeyin etkisi altında kalmayan, sonsuz özgürlüğe ulaşmış kişi; İşte böyle bir insana ben bir Brahmin derim."
+
+msgid "398"
+msgstr "Tüm bağlarını koparmış, kapıyı kapatan sürgüyü kaldırmış uyanık kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "399"
+msgstr "Suçlardan arınmış olsa da, hakaretlerden, darbelerden ve zincirlerden acı çeken, silahları sabır ve ruh kuvveti olan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "400"
+msgstr "Nefretten, şehvetten kurtulmuş, son ölümlü beden içinde yaşayan, kendini eğitmiş inançlı ve faziletli kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "401"
+msgstr "Bir su damlasının bir lotus yaprağı üzerinde tutunamaması veya bir hardal tohumunun bir iğnenin ucunda tutunamaması gibi, duygusal zevklere bağlanmayan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "402"
+msgstr "Yaşamındaki acıları görerek, yükünü boşaltıp özgürlüğe ulaşan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "403"
+msgstr "Yolu ve yolun dışındakileri bilen, en yüksek sonuca ulaşmış, derin görüşlü ve bilge kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "404"
+msgstr "Bir konutu olan ve olmayan kişilerden uzak duran, birkaç isteği olan ve yoluna tek başına devam eden kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "405"
+msgstr "Hiçbir canlı varlığa zarar vermeyen; ne öldüren ne de ölüme neden olan, ne zayıf ne de kuvvetli kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "406"
+msgstr "Kıskançlıktan kurtulmuş, hoşgörülü ve huzurlu kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "407"
+msgstr "Şehvetten, nefretten, kendini beğeniden ve yalancılıktan kurtulmuş kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "408"
+msgstr "Sözleri hiç kimseyi gücendirmeyen, huzur verici, yararlı ve gerçek olan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "409"
+msgstr "Uzun veya kısa, büyük veya küçük, iyi veya kötü; kendisine verilmeyen hiçbir şeyi almayan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "410"
+msgstr "Bu dünya için veya öte dünya için tüm isteklerinden ve tutkularından kurtulmuş, sonsuz özgürlük içinde yaşayan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "411"
+msgstr "Görüşü şüpheden arınmış; hiçbir şey istemeyen, ölümsüz NİRVANA'ya ulaşmış kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "412"
+msgstr "İyinin ve kötünün ötesine ulaşmış, acılardan ve tutkulardan kurtulmuş, her şeyden arınmış kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "413"
+msgstr "Geçici şeyler için zevkleri yok olmuş, ay gibi saf, parlak ve sakin kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "414"
+msgstr "Geçilmesi çok güç olan çamurlu hicret yolunu, Samsara aldanışını aşıp öteki kıyıya ulaşmış, şüphelerden ve geçici isteklerden kurtulmuş, derin tefekkürü içinde NİRVANA'nın sevincine ulaşmış kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "415"
+msgstr "Dünya isteklerini hiçbir şekilde geri dönmemek üzere terk ederek bu dünyada bir yer istemeden yoluna giden kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "416"
+msgstr "Ateşli dünya susuzluğunu bir daha geri dönmemek üzere geride bırakan, bu dünyada bir yer edinmeksizin yoluna giden kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "417"
+msgstr "İnsanların, tanrıların ve yaratılmış her şeyin etkisinden kurtulmuş kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "418"
+msgstr "Zevklerden ve acılardan kurtulmuş, ölümlü tohumlardan arınmış, kahramanlığı ile tüm manevi dünyaları fethetmiş, sakin kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "419"
+msgstr "Varlıkların gidiş gelişini, doğumu ölümü bilen; sevinç içinde yolculuğunun sevincine ulaşmış, uyanmış ve görebilen kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "420"
+msgstr "Yolu insanlar, ruhlar veya tanrılar tarafından bilinmeyen, tüm kusurlardan arınmış, bir Arahat, bir aziz olan kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "421"
+msgstr "Gelecekten, geçmişten ve şimdiden hiçbir şey beklemeyen, hiçbir şeyi olmayan ve hiçbir şey istemeyen kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "422"
+msgstr "Manevi yaşamında bir kahraman olan, yolculuğunun sonuna ulaşmış, Buddha gibi uyanık; tamamen arınmış, her şeyi gören, her şeyi fetheden, kutsal ve kudretli kişi; İşte ben böyle bir insana bir Brahmin derim."
+
+msgid "423"
+msgstr "Geçmiş yaşamlarının ırmağını bilen, ölümle son bulan yaşamdan kurtulmuş, cennetin sevincini ve cehennemin acılarını bilen; saf bir görüşe sahip ve en yüksek Mükemmelliğe ulaşmış kişi; İşte ben böyle bir insana gerçek bir Brahmin adını veririm."
