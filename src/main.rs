@@ -131,6 +131,14 @@ fn build_ui(app: &Application) {
     theme_box.append(&theme_switch);
     header_bar.pack_start(&theme_box);
     
+    // BUG: Dark/Light mode switching is currently experimental and often 
+    // fails to work within an AppImage environment due to sandboxing/portal 
+    // communication issues. Hiding the toggle for AppImage builds to avoid 
+    // offering a broken feature to the user.
+    if std::env::var("APPDIR").is_ok() {
+        theme_box.hide();
+    }
+    
     theme_switch.connect_state_set(move |_, is_dark| {
         let sm = adw::StyleManager::default();
         if is_dark {
