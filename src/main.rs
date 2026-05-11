@@ -20,6 +20,7 @@ struct Config {
     last_chapter: Option<String>,
     scroll_pos: f64,
     sidebar_scroll_pos: f64,
+    dark_mode: bool,
 }
 
 impl Default for Config {
@@ -32,6 +33,7 @@ impl Default for Config {
             last_chapter: None,
             scroll_pos: 0.0,
             sidebar_scroll_pos: 0.0,
+            dark_mode: false,
         }
     }
 }
@@ -99,10 +101,46 @@ fn main() {
 
 fn build_ui(app: &Application) {
     let config = load_config();
+    let style_manager = adw::StyleManager::default();
+    
+    if config.dark_mode {
+        style_manager.set_color_scheme(adw::ColorScheme::PreferDark);
+    } else {
+        style_manager.set_color_scheme(adw::ColorScheme::PreferLight);
+    }
+    
     let font_size = Rc::new(Cell::new((config.font_size * 1024.0) as u32));
     let current_chapter = Rc::new(RefCell::new(config.last_chapter.clone()));
     let main_box = Box::new(Orientation::Vertical, 0);
     let header_bar = HeaderBar::new();
+    
+    let theme_switch = gtk4::Switch::builder()
+        .active(config.dark_mode)
+        .valign(gtk4::Align::Center)
+        .margin_end(10)
+        .build();
+
+    let theme_icon = gtk4::Image::builder()
+    .icon_name("night-light-symbolic")
+    .margin_start(10)
+    .margin_end(5)
+    .build();
+
+    let theme_box = Box::new(Orientation::Horizontal, 0);
+    theme_box.append(&theme_icon);
+    theme_box.append(&theme_switch);
+    header_bar.pack_start(&theme_box);
+    
+    theme_switch.connect_state_set(move |_, is_dark| {
+        let sm = adw::StyleManager::default();
+        if is_dark {
+            sm.set_color_scheme(adw::ColorScheme::PreferDark);
+        } else {
+            sm.set_color_scheme(adw::ColorScheme::PreferLight);
+        }
+        glib::Propagation::Proceed
+    });
+    
     main_box.append(&header_bar);
     let content_box = Box::new(Orientation::Horizontal, 0);
     main_box.append(&content_box);
@@ -185,11 +223,21 @@ fn build_ui(app: &Application) {
 
     let scroll_to_bottom = Rc::new(Cell::new(false));
 
-    for (id, verses) in chapters_data {
-        let btn = Button::builder()
-            .label(&gettext(&id))
-            .css_classes(["flat"])
-            .build();
+    for (i, (id, verses)) in chapters_data.into_iter().enumerate() {
+    let chapter_number = i + 1;
+    let label_with_number = format!("{}. {}", chapter_number, gettext(&id));
+
+    let btn = Button::builder()
+        .label(&label_with_number)
+        .css_classes(["flat"])
+        .halign(gtk4::Align::Fill)
+        .build();
+
+    if let Some(child) = btn.child() {
+        if let Ok(label) = child.downcast::<Label>() {
+            label.set_xalign(0.0);
+        }
+    }
         
         let container_ptr = content_container.clone();
         let scroll_ptr = scroll_content.clone();
@@ -356,6 +404,7 @@ fn build_ui(app: &Application) {
     let chapter_to_save = current_chapter.clone();
     let scroll_to_save = scroll_content.clone();
     let sidebar_scroll_to_save = sidebar_scroll.clone();
+    let theme_to_save = theme_switch.clone();
 
     window.connect_close_request(move |w| {
         let (width, height) = (w.width(), w.height());
@@ -367,6 +416,7 @@ fn build_ui(app: &Application) {
             last_chapter: chapter_to_save.borrow().clone(),
             scroll_pos: scroll_to_save.vadjustment().value(),
             sidebar_scroll_pos: sidebar_scroll_to_save.vadjustment().value(),
+            dark_mode: theme_to_save.is_active(),
         });
         glib::Propagation::Proceed
     });
