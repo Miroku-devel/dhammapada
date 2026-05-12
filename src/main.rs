@@ -70,6 +70,7 @@ fn main() {
             PathBuf::from("/usr/share/locale")
         }
     };
+    
     if let Ok(lang_env) = env::var("LANG") {
         let lang_code = lang_env.split('.').next().unwrap_or("").split('_').next().unwrap_or("");
         let mo_path = locale_path.join(lang_code).join("LC_MESSAGES/dhammapada.mo");
@@ -82,6 +83,7 @@ fn main() {
             }
         }
     }
+
     glib::set_prgname(Some("dhammapada"));
     glib::set_application_name("Dhammapada");
     
@@ -121,10 +123,10 @@ fn build_ui(app: &Application) {
         .build();
 
     let theme_icon = gtk4::Image::builder()
-    .icon_name("night-light-symbolic")
-    .margin_start(10)
-    .margin_end(5)
-    .build();
+        .icon_name("night-light-symbolic")
+        .margin_start(10)
+        .margin_end(5)
+        .build();
 
     let theme_box = Box::new(Orientation::Horizontal, 0);
     theme_box.append(&theme_icon);
@@ -150,16 +152,19 @@ fn build_ui(app: &Application) {
         .width_request(250)
         .css_classes(["navigation-sidebar"])
         .build();
+    
     let sidebar_title = Label::builder()
         .label(&gettext("chaps"))
         .margin_top(15).margin_bottom(15)
         .css_classes(["title-4"])
         .build();
     sidebar_container.append(&sidebar_title);
+
     let sidebar_buttons = Box::builder()
         .orientation(Orientation::Vertical)
         .spacing(2)
         .build();
+    
     let sidebar_scroll = ScrolledWindow::builder()
         .hscrollbar_policy(gtk4::PolicyType::Never)
         .vscrollbar_policy(gtk4::PolicyType::Automatic)
@@ -176,6 +181,7 @@ fn build_ui(app: &Application) {
         .digits(0)
         .draw_value(true)
         .build();
+    
     let controls_box = Box::builder()
         .orientation(Orientation::Vertical)
         .margin_top(15).margin_bottom(15).margin_start(15).margin_end(15)
@@ -191,11 +197,13 @@ fn build_ui(app: &Application) {
         .valign(gtk4::Align::Start)
         .margin_top(20).margin_bottom(20).margin_start(20).margin_end(20)
         .build();
+
     let clamp = adw::Clamp::builder()
         .maximum_size(600)
         .tightening_threshold(400)
         .child(&content_container)
         .build();
+
     let scroll_content = ScrolledWindow::builder()
         .hscrollbar_policy(gtk4::PolicyType::Never)
         .child(&clamp)
@@ -209,35 +217,33 @@ fn build_ui(app: &Application) {
 
     let mut chapters_data: Vec<(String, Vec<String>)> = Vec::new();
     let mut current_start = 1;
-
     for (i, &end) in chapter_ends.iter().enumerate() {
         let id = format!("chap{}", i + 1);
         let verses = (current_start..=end).map(|n| n.to_string()).collect();
         chapters_data.push((id, verses));
         current_start = end + 1;
     }
-
+    let pending_scroll = Rc::new(Cell::new(Some(config.scroll_pos)));
+    let sidebar_btns_ref = Rc::new(RefCell::new(Vec::<Button>::new()));
+    let scroll_to_bottom = Rc::new(Cell::new(false));
     let mut start_button: Option<Button> = None;
     let mut first_button: Option<Button> = None;
-    let sidebar_btns_ref = Rc::new(RefCell::new(Vec::<Button>::new()));
-
-    let scroll_to_bottom = Rc::new(Cell::new(false));
 
     for (i, (id, verses)) in chapters_data.into_iter().enumerate() {
-    let chapter_number = i + 1;
-    let label_with_number = format!("{}. {}", chapter_number, gettext(&id));
+        let chapter_number = i + 1;
+        let label_with_number = format!("{}. {}", chapter_number, gettext(&id));
 
-    let btn = Button::builder()
-        .label(&label_with_number)
-        .css_classes(["flat"])
-        .halign(gtk4::Align::Fill)
-        .build();
+        let btn = Button::builder()
+            .label(&label_with_number)
+            .css_classes(["flat"])
+            .halign(gtk4::Align::Fill)
+            .build();
 
-    if let Some(child) = btn.child() {
-        if let Ok(label) = child.downcast::<Label>() {
-            label.set_xalign(0.0);
+        if let Some(child) = btn.child() {
+            if let Ok(label) = child.downcast::<Label>() {
+                label.set_xalign(0.0);
+            }
         }
-    }
         
         let container_ptr = content_container.clone();
         let scroll_ptr = scroll_content.clone();
@@ -248,6 +254,7 @@ fn build_ui(app: &Application) {
         let btns_list = sidebar_btns_ref.clone();
         let current_btn = btn.clone();
         let should_bottom = scroll_to_bottom.clone();
+        let initial_scroll_pos = pending_scroll.clone();
 
         btn.connect_clicked(move |_| {
             *chapter_tracker.borrow_mut() = Some(chap_id.clone());
@@ -290,9 +297,13 @@ fn build_ui(app: &Application) {
 
             let s_ptr = scroll_ptr.clone();
             let go_bottom = should_bottom.get();
+            let initial_pos = initial_scroll_pos.take();
+
             glib::idle_add_local_once(move || {
                 let adj = s_ptr.vadjustment();
-                if go_bottom {
+                if let Some(pos) = initial_pos {
+                    adj.set_value(pos);
+                } else if go_bottom {
                     adj.set_value(adj.upper() - adj.page_size());
                 } else {
                     adj.set_value(0.0);
@@ -307,7 +318,6 @@ fn build_ui(app: &Application) {
         sidebar_buttons.append(&btn);
         sidebar_btns_ref.borrow_mut().push(btn);
     }
-
     let scroll_controller = EventControllerScroll::new(EventControllerScrollFlags::VERTICAL);
     let btns_for_scroll = sidebar_btns_ref.clone();
     let adj_for_scroll = scroll_content.vadjustment();
@@ -353,17 +363,13 @@ fn build_ui(app: &Application) {
     let final_start_btn = start_button.or(first_button);
     if let Some(btn) = final_start_btn {
         btn.emit_clicked();
-        let content_vadj = scroll_content.vadjustment();
+        
         let sidebar_vadj = sidebar_scroll.vadjustment();
-        let content_pos = config.scroll_pos;
         let sidebar_pos = config.sidebar_scroll_pos;
-        glib::timeout_add_local(std::time::Duration::from_millis(200), move || {
-            content_vadj.set_value(content_pos);
+        glib::idle_add_local_once(move || {
             sidebar_vadj.set_value(sidebar_pos);
-            glib::ControlFlow::Break
         });
     }
-
     let container_ptr = content_container.clone();
     let font_size_ptr = font_size.clone();
     scale.connect_value_changed(move |s| {
@@ -420,5 +426,6 @@ fn build_ui(app: &Application) {
         });
         glib::Propagation::Proceed
     });
+
     window.present();
 }
