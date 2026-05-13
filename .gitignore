@@ -1,10 +1,10 @@
+/.comments
 /target
 /AppDir
-/.comments
 /*.sh
 /*.png
+/*.deb
 /*.txt
-/*.tar.gz
+/*.tar.xz
 /*.desktop
 /*.AppImage
-/linux*

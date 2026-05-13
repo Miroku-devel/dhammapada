@@ -3,7 +3,7 @@
   Dhammapada
 </h1>
 
-A simple Dhammapada verse viewer for the Linux desktop.
+A multilingual Dhammapada reader for GNU/Linux.
 
 <img src="assets/screenshot.png" width="500">
 
@@ -14,14 +14,14 @@ A simple Dhammapada verse viewer for the Linux desktop.
 * **Localization**: gettext (supporting multiple languages via `.po` files)
 
 ## Building from source
-To compile and run the project locally, ensure you have the\
-Rust toolchain, **GTK4**, and **Libadwaita** development libraries installed:
+To compile and run the project locally, ensure you have\
+**Rust**, **GTK4**, and **Libadwaita** development libraries installed:\
+\
+Example for Ubuntu/Debian:
 
 ```bash
-# Example for Ubuntu/Debian:
-# sudo apt install libgtk-4-dev libadwaita-1-dev
-
-cargo run
+$ sudo apt install libgtk-4-dev libadwaita-1-dev
+$ cargo run
 ```
 
 ## Copyright and License
