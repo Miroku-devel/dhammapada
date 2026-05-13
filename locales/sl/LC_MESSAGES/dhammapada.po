@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Bedak si želi lažno slavo in prednost med menihi, želi oblast nad samostani in spoštovanje vseh ljudi."
 
 msgid "74"
-msgstr "»Vsi naj vedo, kaj sem storil, tako menihi kot posvetneži, vsi naj se zavedajo, da jaz vodim vse stvari« – take misli ima bedak, ki je ponosen, poln želja."
+msgstr "'Vsi naj vedo, kaj sem storil, tako menihi kot posvetneži, vsi naj se zavedajo, da jaz vodim vse stvari' – take misli ima bedak, ki je ponosen, poln želja."
 
 msgid "75"
 msgstr "Saj pot posvetnega dobička je drugačna od poti v nibbāno – zato naj bhikkhu, učenec Buddhe, ki to popolnoma razume, ne uživa v posvetni slavi – živi naj nenavezan v samoti!"
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Kdor je moder in poln vrlin, pravičnik, ki pozna resnico, kdor izpolni vse dolžnosti, je priljubljen med ljudmi."
 
 msgid "218"
-msgstr "Kdor želi doseči »neimenovano«, kdor je prežet s to mislijo, ni več navezan na užitke – vztrajno gre navzgor po toku."
+msgstr "Kdor želi doseči 'neimenovano', kdor je prežet s to mislijo, ni več navezan na užitke – vztrajno gre navzgor po toku."
 
 msgid "219"
 msgstr "Človeka, ki je bil dolgo na poti in se je vrnil domov, sprejmejo z veseljem vsi znanci in prijatelji."
@@ -847,10 +847,10 @@ msgid "259"
 msgstr "Kdor samo učeno govori, še ne pozna resnice, kdor pa sliši par besed in takoj razume dhammo in živi v skladu z njo – ta pravi je pravičnik."
 
 msgid "260"
-msgstr "Kdor je siv in ves postaran, še ni »star modrijan« – tak človek je zastonj živel, saj z leti je le ostarel."
+msgstr "Kdor je siv in ves postaran, še ni 'star modrijan' – tak človek je zastonj živel, saj z leti je le ostarel."
 
 msgid "261"
-msgstr "Kdor pozna dhammo in resnico, kdor je nenasilen, zadržan, je pravi modrec, brez napak – pravijo mu »star modrijan«."
+msgstr "Kdor pozna dhammo in resnico, kdor je nenasilen, zadržan, je pravi modrec, brez napak – pravijo mu 'star modrijan'."
 
 msgid "262"
 msgstr "Kdor je lep in ves prijazen, v srcu pa zavisten, goljufiv, poln pohlepa in želja – ne bo nikoli dober človek."
@@ -1048,7 +1048,7 @@ msgid "322"
 msgstr "Odlične so udomačene mule in plemeniti konji iz dežele Sindh, odlični so udomačeni sloni, še boljši pa je človek, ki se obvlada!"
 
 msgid "323"
-msgstr "Kdor gre na pot z vozovi, ne bo prišel v »deželo brez sledov«, saj tja lahko prispe le tisti, ki se obvlada in gre brez sledov."
+msgstr "Kdor gre na pot z vozovi, ne bo prišel v 'deželo brez sledov', saj tja lahko prispe le tisti, ki se obvlada in gre brez sledov."
 
 msgid "324"
 msgstr "Mogočen slon Dhanapālaka postane divji v času parjenja – v ujetništvu ne more jesti, ko se spominja slonovskega gaja."

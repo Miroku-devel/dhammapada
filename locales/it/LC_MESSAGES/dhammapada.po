@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Tutto ciò che siamo è generato dalla mente. E’ la mente che traccia la strada. Come la nostra ombra incessante ci segue così ci segue il benessere quando parliamo o agiamo con purezza di mente."
 
 msgid "3"
-msgstr "“Mi hanno insultato, maltrattato, mi hanno offeso, derubato”: impigliati in tali pensieri ravviviamo il fuoco dell’odio."
+msgstr "'Mi hanno insultato, maltrattato, mi hanno offeso, derubato': impigliati in tali pensieri ravviviamo il fuoco dell’odio."
 
 msgid "4"
-msgstr "Se ci liberiamo del tutto da pensieri che insinuano: “Mi hanno insultato, maltrattato, mi hanno offeso, derubato”, l’odio è spento."
+msgstr "Se ci liberiamo del tutto da pensieri che insinuano: 'Mi hanno insultato, maltrattato, mi hanno offeso, derubato', l’odio è spento."
 
 msgid "5"
 msgstr "L’odio non può sconfiggere l’odio, solo esser pronti all’amore lo può. Questa è la legge eterna."
@@ -97,7 +97,7 @@ msgid "26"
 msgstr "Chi è stolto e confuso si smarrisce nella distrazione. Il saggio fa tesoro della consapevolezza che ha coltivato come il più prezioso dei possessi."
 
 msgid "27"
-msgstr "“Non smarrirti nella trascuratezza, non perderti nella sensualità”. Tenendo caro questo consiglio il contemplativo gusta un profondo sollievo."
+msgstr "'Non smarrirti nella trascuratezza, non perderti nella sensualità'. Tenendo caro questo consiglio il contemplativo gusta un profondo sollievo."
 
 msgid "28"
 msgstr "I risvegliati che hanno assaporato la libertà da ogni distrazione coltivando la consapevolezza vedono tutti i sofferenti alla luce della compassione, come chi dalla cima di una montagna osservi la pianura."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Se non trovi compagni che abbiano viaggiato almeno quanto te è meglio camminare solo che accompagnarsi a chi è esitante."
 
 msgid "62"
-msgstr "“Penso a mio figlio, penso ai miei beni”: ecco le preoccupazioni degli stolti. Se nemmeno noi ci apparteniamo a che queste pretese?"
+msgstr "'Penso a mio figlio, penso ai miei beni': ecco le preoccupazioni degli stolti. Se nemmeno noi ci apparteniamo a che queste pretese?"
 
 msgid "63"
 msgstr "Lo stolto che sa di essere stolto ha un pizzico di saggezza; lo stolto che pensa di esser saggio è impudentemente stolto."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Naturalmente amato è chi vive agendo rettamente e ha trovato la Via e grazie alla visione profonda si è radicato nella verità."
 
 msgid "218"
-msgstr "Chi anela all’ineffabile col cuore colmo d’ispirazione con la mente libera dal desiderio dei sensi lo chiamo “uno che è in viaggio verso la libertà”."
+msgstr "Chi anela all’ineffabile col cuore colmo d’ispirazione con la mente libera dal desiderio dei sensi lo chiamo 'uno che è in viaggio verso la libertà'."
 
 msgid "219"
 msgstr "Come i familiari e gli amici accolgono con gioia chi da lontano torna a casa."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Il risvegliato può solo indicare la via: siamo noi a doverla percorrere. Chi con saggezza riflette e intraprende il sentiero è libero dai ceppi di Mara."
 
 msgid "277"
-msgstr "“Tutte le cose condizionate sono impermanenti”: quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via che conduce alla purificazione."
+msgstr "'Tutte le cose condizionate sono impermanenti': quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via che conduce alla purificazione."
 
 msgid "278"
-msgstr "“Tutte le cose condizionate sono di per sé insoddisfacenti”: quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via che conduce alla purificazione."
+msgstr "'Tutte le cose condizionate sono di per sé insoddisfacenti': quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via che conduce alla purificazione."
 
 msgid "279"
-msgstr "“Tutte le realtà sono prive di un sé permanente”: quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via della purificazione."
+msgstr "'Tutte le realtà sono prive di un sé permanente': quando lo comprendiamo direttamente e profondamente ci sentiamo stanchi di questa vita di sofferenza. E’ questa la via della purificazione."
 
 msgid "280"
 msgstr "Se, pur giovane e forte rimandi di agire quando sarebbe necessario perso in sbadate fantasie non potrai scorgere mai la Via e la sua saggezza."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Recidi i vincoli d’affetto come si coglie un fiore d’autunno. Percorri il sentiero della liberazione esposto dal Risvegliato."
 
 msgid "286"
-msgstr "E’ stolto chi indulge a sognare il luogo più incantevole in cui vivere, dicendosi: “Qui farà caldo, lì sarà fresco” — inconsapevole della morte che incombe."
+msgstr "E’ stolto chi indulge a sognare il luogo più incantevole in cui vivere, dicendosi: 'Qui farà caldo, lì sarà fresco' — inconsapevole della morte che incombe."
 
 msgid "287"
 msgstr "Come un’alluvione può travolgere un intero villaggio chi è catturato da relazioni e possessi la morte lo trascina con sé."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Viceversa: contento anche con poco puro nel modo di vivere e vitale sei da tutti tenuto in grande stima."
 
 msgid "367"
-msgstr "I veri rinuncianti considerano l’interezza di corpo e mente non sfiorati da pensieri di “io” o “mio” e privi di desiderio per ciò che non possiedono."
+msgstr "I veri rinuncianti considerano l’interezza di corpo e mente non sfiorati da pensieri di 'io' o 'mio' e privi di desiderio per ciò che non possiedono."
 
 msgid "368"
 msgstr "Il rinunciante che dimora nella gentilezza amorevole con cuore devoto all’insegnamento del Buddha incontra pace, silenzio e beatitudine."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Chi ha disinnescato i rozzi attaccamenti e gli attaccamenti sottili chi coltiva le facoltà spirituali scopre la libertà dalla confusione."
 
 msgid "371"
-msgstr "Vigila! Non trascurare la meditazione, non permettere alla mente di intrattenere pensieri sensuali, guardati dall’inghiottire per distrazione una palla di ferro rovente per poi gridare: “Perché soffro?”."
+msgstr "Vigila! Non trascurare la meditazione, non permettere alla mente di intrattenere pensieri sensuali, guardati dall’inghiottire per distrazione una palla di ferro rovente per poi gridare: 'Perché soffro?'."
 
 msgid "372"
 msgstr "La concentrazione non sorge senza comprensione, la comprensione non si affaccia senza concentrazione. Chi le conosce entrambe si avvicina alla liberazione."

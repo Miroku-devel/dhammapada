@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Dhammade eel käib meel, dhammad on meele juhitud, meele loodud. Kes räägib või tegutseb puhta meelega, sellele järgneb õnn, nagu kaasaskäiv vari."
 
 msgid "3"
-msgstr "„Ta sõimas mind, lõi mind, võitis mind, röövis mind“ – kes nii mõtlevad, nende vaen ei vaibu."
+msgstr "'Ta sõimas mind, lõi mind, võitis mind, röövis mind' – kes nii mõtlevad, nende vaen ei vaibu."
 
 msgid "4"
-msgstr "„Ta sõimas mind, lõi mind, võitis mind, röövis mind“ – kes nii ei mõtle, nende vaen vaibub."
+msgstr "'Ta sõimas mind, lõi mind, võitis mind, röövis mind' – kes nii ei mõtle, nende vaen vaibub."
 
 msgid "5"
 msgstr "Tõepoolest, siin maailmas ei vaibu vaen kunagi vaenus, vaid vaibub vaenu puudumises – see on igavene dhamma."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Siin ilmas rõõmustab ja seal ilmas rõõmustab, igal pool rõõmustab pälvimuslikult käitunu. Ta rõõmustab, ta väga rõõmustab, nähes enda puhtaid tegusid."
 
 msgid "17"
-msgstr "Siin ilmas kahetseb ja seal ilmas kahetseb, igal pool kahetseb kurja teinu. Ta mõtleb: „Olen teinud kurja,“ ja kahetseb. Rohkemgi veel kahetseb ta, olles läinud halba uude sündi."
+msgstr "Siin ilmas kahetseb ja seal ilmas kahetseb, igal pool kahetseb kurja teinu. Ta mõtleb: 'Olen teinud kurja,' ja kahetseb. Rohkemgi veel kahetseb ta, olles läinud halba uude sündi."
 
 msgid "18"
-msgstr "Siin ilmas rõõmustab ja seal ilmas rõõmustab, igal pool rõõmustab pälvimusi teinu. Ta mõtleb: „Olen käitunud pälvimuslikult,“ ja rõõmustab. Rohkemgi veel rõõmustab ta, olles läinud heasse uude sündi."
+msgstr "Siin ilmas rõõmustab ja seal ilmas rõõmustab, igal pool rõõmustab pälvimusi teinu. Ta mõtleb: 'Olen käitunud pälvimuslikult,' ja rõõmustab. Rohkemgi veel rõõmustab ta, olles läinud heasse uude sündi."
 
 msgid "19"
 msgstr "Palju ka ei retsiteeriks ta pühakirju, hooletu mees ei ela nende kohaselt; nagu teiste lehmi loendav lehmakarjus – tema osaks pole erakuelu."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Kui rändaja ei leia paremat või endaga võrdset, siis peaks ta kindlasti üksi rändama. Lapsikuga ei saa olla sõprust."
 
 msgid "62"
-msgstr "„Mul on pojad, mul on varandus,“ muretseb lapsik. Tõepoolest, ta pole endagi oma. Kuis siis pojad? Kuis siis varandus?"
+msgstr "'Mul on pojad, mul on varandus,' muretseb lapsik. Tõepoolest, ta pole endagi oma. Kuis siis pojad? Kuis siis varandus?"
 
 msgid "63"
 msgstr "Oma lapsikust teadev lapsik on just nagu tark, aga tarkusega uhkustavat lapsikut võib tõepoolest lapsikuks nimetada."
@@ -232,7 +232,7 @@ msgid "68"
 msgstr "See tegu, mille tegemist palavalt ei kahetseta ja mille vilju võetakse vastu rõõmu ning heameelega, on hästi tehtud."
 
 msgid "69"
-msgstr "„Mesi!“ mõtleb lapsik, kuni kuri tegu pole küpsenud. Kui kuri tegu on aga küpsenud, siis langeb lapsik kannatusse."
+msgstr "'Mesi!' mõtleb lapsik, kuni kuri tegu pole küpsenud. Kui kuri tegu on aga küpsenud, siis langeb lapsik kannatusse."
 
 msgid "70"
 msgstr "Kuust kuusse võib lapsik süüa toitu vaid rohulible otsa jagu, siiski pole ta väärt kuueteistkümnendikkugi dhammat mõistnust."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Lapsikus võib areneda tahtmine bhikkhude austuse ja lugupidamise, eluruumide, ülemvõimu ning teiste hõimude austuse järele."
 
 msgid "74"
-msgstr "„Just mina tegin seda – mõelgu nii mõlemad, majaomanikud kui maisehüljanud; et mina tegin seda! Sõltugu nende kohustused ja kohustuste puudumine ainult minu tahtest!“ mõtleb lapsik, ning tema igatsus ja uhkus kasvavad."
+msgstr "'Just mina tegin seda – mõelgu nii mõlemad, majaomanikud kui maisehüljanud; et mina tegin seda! Sõltugu nende kohustused ja kohustuste puudumine ainult minu tahtest!' mõtleb lapsik, ning tema igatsus ja uhkus kasvavad."
 
 msgid "75"
 msgstr "Tõepoolest, erinevad on saamise, erinevad nibbaanasse viivad põhjused. Sellest täielikult aru saanud bhikkhut, Mõistnu õpilast, ei rõõmusta austamine, vaid erakluses harjutamine."
@@ -346,7 +346,7 @@ msgid "103"
 msgstr "Tõepoolest, ülim vallutaja pole see, kes võidab tuhandes lahingus tuhat meest, vaid see, kes võidab ühe — iseenda."
 
 msgid "104"
-msgstr "Tõepoolest, parem on alistada „mina“, kui teised inimesed. „Mina“ ohjanud inimene tegutseb alati vaoshoitult."
+msgstr "Tõepoolest, parem on alistada 'mina', kui teised inimesed. 'Mina' ohjanud inimene tegutseb alati vaoshoitult."
 
 msgid "105"
 msgstr "Ei deeva, ei gandhabba ega Surm koos Brahmaga suuda selle isiku võitu kaotuseks muuta."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Hea näeb kurja seni, kuni tema tehtud hea pole küpsenud. Kui hea on aga küpsenud, näeb hea head."
 
 msgid "121"
-msgstr "Ära mõtle: „Väike kurjus ei tule mulle tagasi“. Langevad veetilgad täidavad isegi suure veeanuma. Lapsik täitub kurjusega ka siis, kui kogub seda vähehaaval."
+msgstr "Ära mõtle: 'Väike kurjus ei tule mulle tagasi'. Langevad veetilgad täidavad isegi suure veeanuma. Lapsik täitub kurjusega ka siis, kui kogub seda vähehaaval."
 
 msgid "122"
-msgstr "Ära mõtle: „Väike pälvimus ei tule mulle tagasi“. Langevad veetilgad täidavad isegi suure veeanuma. Arukas täitub pälvimustega ka siis, kui kogub neid vähehaaval."
+msgstr "Ära mõtle: 'Väike pälvimus ei tule mulle tagasi'. Langevad veetilgad täidavad isegi suure veeanuma. Arukas täitub pälvimustega ka siis, kui kogub neid vähehaaval."
 
 msgid "123"
 msgstr "Nii nagu suure vara ja väikese karavaniga kaupmees väldib ohtlikke teid, ning nagu elunautija väldib mürki, nõnda tuleks vältida kurja."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Te peate ise püüdlema, tathaagatad on ainult tee kuulutajad. Teele sisenenud džhaaid vabanevad Surma köidikutest."
 
 msgid "277"
-msgstr "„Kõik moodustised on püsitud.“ Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
+msgstr "'Kõik moodustised on püsitud.' Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
 
 msgid "278"
-msgstr "„Kõik moodustised on dukkha.“ Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
+msgstr "'Kõik moodustised on dukkha.' Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
 
 msgid "279"
-msgstr "„Kõik dhammad on minatud.“ Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
+msgstr "'Kõik dhammad on minatud.' Kes seda tarkusega näeb, see tüdineb dukkhast — see on puhastumise tee."
 
 msgid "280"
 msgstr "Pingutuseks sobilikul ajal mittepingutav, noor ja tugev, kuid laisapoolne; mõtetest kurnatud meelega, uimane ja loid ei leia tarkuse teed."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Lõika läbi oma kiindumused, nagu lõigatakse läbi sügisene lootos. Arenda ainult rahuteed nibbaanasse, nii nagu Õnnesläinu õpetas."
 
 msgid "286"
-msgstr "„Siin elan vihmasel ajal, siin külmal, siin kuumal ajal“, mõtleb lapsik ohte mõistmata."
+msgstr "'Siin elan vihmasel ajal, siin külmal, siin kuumal ajal', mõtleb lapsik ohte mõistmata."
 
 msgid "287"
 msgstr "Selle, poegadest ja veistest joobunud, kiindunud meelega inimese viib surm kaasa nagu suur uputus magava küla."
@@ -988,13 +988,13 @@ msgid "304"
 msgstr "Rahunenu särab juba kaugelt nagu Himaalaja mäestik. Mitterahunenut pole aga lähedaltki näha, nagu ka öösel lastud nooli."
 
 msgid "305"
-msgstr "Üks iste, üks ase, üksi rändav väsimatu, üksi „mina“ taltsutanu nautima saab metsa lõppu."
+msgstr "Üks iste, üks ase, üksi rändav väsimatu, üksi 'mina' taltsutanu nautima saab metsa lõppu."
 
 msgid "chap22"
 msgstr "Niraja"
 
 msgid "306"
-msgstr "Mitteolnust kui olnust rääkija langeb nirajasse, nagu ka see, kes olles teinud ütleb: „ei teinud“. Pärast surma on nood mõlemad madala teo teinud inimesed mujal olemasolus võrdsed."
+msgstr "Mitteolnust kui olnust rääkija langeb nirajasse, nagu ka see, kes olles teinud ütleb: 'ei teinud'. Pärast surma on nood mõlemad madala teo teinud inimesed mujal olemasolus võrdsed."
 
 msgid "307"
 msgstr "Paljud kaelani kollases on kurja dhammaga ja ohjamata. Kurja tegevad kurjad – need sünnivad nirajas."

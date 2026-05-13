@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Ý dẫn đầu các pháp, Ý làm chủ, ý tạo; Nếu với ý thanh tịnh, Nói lên hay hành động, An lạc bước theo sau, Như bóng, không rời hình."
 
 msgid "3"
-msgstr "“Nó mắng tôi, đánh tôi, Nó thắng tôi, cướp tôi”, Ai ôm hiềm hận ấy, Hận thù không thể nguôi."
+msgstr "'Nó mắng tôi, đánh tôi, Nó thắng tôi, cướp tôi', Ai ôm hiềm hận ấy, Hận thù không thể nguôi."
 
 msgid "4"
-msgstr "“Nó mắng tôi, đánh tôi, Nó thắng tôi, cướp tôi”, Không ôm hiềm hận ấy, Hận thù được tự nguôi."
+msgstr "'Nó mắng tôi, đánh tôi, Nó thắng tôi, cướp tôi', Không ôm hiềm hận ấy, Hận thù được tự nguôi."
 
 msgid "5"
 msgstr "Với hận diệt hận thù, Đời này không có được. Không hận diệt hận thù, Là định luật ngàn thu."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Nay vui, đời sau vui, Làm phước, hai đời vui. Người ấy vui, an vui, Thấy nghiệp tịnh mình làm."
 
 msgid "17"
-msgstr "Nay than, đời sau than, Kẻ ác, hai đời than, Than rằng: “Ta làm ác”, Đọa cõi dữ, than hơn."
+msgstr "Nay than, đời sau than, Kẻ ác, hai đời than, Than rằng: 'Ta làm ác', Đọa cõi dữ, than hơn."
 
 msgid "18"
-msgstr "Nay sướng, đời sau sướng, Làm phước, hai đời sướng. Mừng rằng: “Ta làm thiện”, Sanh cõi lành, sướng hơn."
+msgstr "Nay sướng, đời sau sướng, Làm phước, hai đời sướng. Mừng rằng: 'Ta làm thiện', Sanh cõi lành, sướng hơn."
 
 msgid "19"
 msgstr "Nếu người nói nhiều kinh, Không hành trì, phóng dật; Như kẻ chăn bò người, Không phần Sa môn hạnh."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Ưa danh không tương xứng, Muốn ngồi trước tỷ kheo, Ưa quyền tại tịnh xá, Muốn mọi người lễ kính."
 
 msgid "74"
-msgstr "Mong cả hai tăng, tục, Nghĩ rằng: “Chính ta làm, Trong mọi việc lớn nhỏ, Phải theo mệnh lệnh ta”. Người ngu nghĩ như vậy Dục và mạn tăng trưởng."
+msgstr "Mong cả hai tăng, tục, Nghĩ rằng: 'Chính ta làm, Trong mọi việc lớn nhỏ, Phải theo mệnh lệnh ta'. Người ngu nghĩ như vậy Dục và mạn tăng trưởng."
 
 msgid "75"
 msgstr "Khác thay duyên thế lợi, Khác thay đường Niết Bàn. Tỷ kheo, đệ tử Phật, Hãy như vậy thắng tri. Chớ ưa thích cung kính, Hãy tu hạnh viễn ly."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Người hiền thấy là ác Khi thiện chưa chín muồi. Khi thiện được chín muồi, Người hiền thấy là thiện."
 
 msgid "121"
-msgstr "Chớ chê khinh điều ác, Cho rằng: “Chưa đến mình”, Như nước nhỏ từng giọt, Rồi bình cũng đầy tràn. Người ngu chứa đầy ác Do chất chứa dần dần."
+msgstr "Chớ chê khinh điều ác, Cho rằng: 'Chưa đến mình', Như nước nhỏ từng giọt, Rồi bình cũng đầy tràn. Người ngu chứa đầy ác Do chất chứa dần dần."
 
 msgid "122"
-msgstr "Chớ chê khinh điều thiện Cho rằng: “Chưa đến mình”, Như nước nhỏ từng giọt, Rồi bình cũng đầy tràn. Người trí chứa đầy thiện, Do chất chứa dần dần."
+msgstr "Chớ chê khinh điều thiện Cho rằng: 'Chưa đến mình', Như nước nhỏ từng giọt, Rồi bình cũng đầy tràn. Người trí chứa đầy thiện, Do chất chứa dần dần."
 
 msgid "123"
 msgstr "Ít bạn đường, nhiều tiền, Người buôn tránh đường hiểm. Muốn sống, tránh thuốc độc, Hãy tránh ác như vậy."
@@ -847,7 +847,7 @@ msgid "259"
 msgstr "Không phải vì nói nhiều, Mới xứng danh trì pháp, Những ai tuy nghe ít, Nhưng thân hành đúng pháp, Không phóng túng chánh pháp, Mới xứng danh trì pháp."
 
 msgid "260"
-msgstr "Không phải là trưởng lão, Dầu cho có bạc đầu. Người chỉ tuổi tác cao, Được gọi là: “Lão ngu”."
+msgstr "Không phải là trưởng lão, Dầu cho có bạc đầu. Người chỉ tuổi tác cao, Được gọi là: 'Lão ngu'."
 
 msgid "261"
 msgstr "Ai chân thật, đúng pháp, Không hại, biết chế phục, Bậc trí không cấu uế, Mới xứng danh Trưởng Lão."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Người hãy nhiệt tình làm, Như Lai chỉ thuyết dạy. Người hành trì thiền định, Thoát trói buộc Ác ma."
 
 msgid "277"
-msgstr "“Tất cả hành vô thường”, Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
+msgstr "'Tất cả hành vô thường', Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
 
 msgid "278"
-msgstr "“Tất cả hành khổ đau”, Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
+msgstr "'Tất cả hành khổ đau', Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
 
 msgid "279"
-msgstr "“Tất cả pháp vô ngã”, Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
+msgstr "'Tất cả pháp vô ngã', Với Tuệ quán thấy vậy, Đau khổ được nhàm chán; Chính con đường thanh tịnh."
 
 msgid "280"
 msgstr "Khi cần không nỗ lực, Tuy trẻ mạnh nhưng lười, Chí nhu nhược, biếng nhác. Với trí tuệ thụ động, Sao tìm được chánh đạo?"
@@ -1120,7 +1120,7 @@ msgid "345"
 msgstr "Sắt, cây, gai trói buộc Người trí xem chưa bền. Tham châu báu, trang sức Tham vọng vợ và con."
 
 msgid "346"
-msgstr "Người có trí nói rằng: “Trói buộc này thật bền. Rì kéo xuống, lún xuống, Nhưng thật sự khó thoát”. Người trí cắt trừ nó, Bỏ dục lạc, không màng."
+msgstr "Người có trí nói rằng: 'Trói buộc này thật bền. Rì kéo xuống, lún xuống, Nhưng thật sự khó thoát'. Người trí cắt trừ nó, Bỏ dục lạc, không màng."
 
 msgid "347"
 msgstr "Người đắm say ái dục Tự lao mình xuống dòng Như nhện sa lưới dệt. Người trí cắt trừ nó, Bỏ mọi khổ, không màng."
@@ -1195,7 +1195,7 @@ msgid "369"
 msgstr "Tỷ kheo, tát thuyền này, Thuyền không, nhẹ đi mau. Trừ tham, diệt sân hận, Tất chứng đạt Niết-Bàn."
 
 msgid "370"
-msgstr "Đoạn năm, từ bỏ năm Tụ tập năm tối thượng Tỷ kheo vượt năm ái Xứng danh “Vượt bộc lưu”."
+msgstr "Đoạn năm, từ bỏ năm Tụ tập năm tối thượng Tỷ kheo vượt năm ái Xứng danh 'Vượt bộc lưu'."
 
 msgid "371"
 msgstr "Tỷ kheo, hãy tu thiền, Chớ buông lung phóng dật, Tâm chớ đắm say dục, Phóng dật, nuốt sắt nóng, Bị đốt, chớ than khổ!"
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Như hoa Vassikà, Quăng bỏ cánh úa tàn, Cũng vậy vị Tỷ kheo, Hãy giải thoát tham sân."
 
 msgid "378"
-msgstr "Thân tịnh, lời an tịnh, An tịnh, khéo thiền tịnh. Tỷ kheo bỏ thế vật, Xứng danh “bậc tịch tịnh”."
+msgstr "Thân tịnh, lời an tịnh, An tịnh, khéo thiền tịnh. Tỷ kheo bỏ thế vật, Xứng danh 'bậc tịch tịnh'."
 
 msgid "379"
 msgstr "Tự mình chỉ trích mình, Tự mình dò xét mình, Tỷ kheo tự phòng hộ Chánh niệm, trú an lạc."

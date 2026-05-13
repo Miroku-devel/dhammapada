@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Toate stările care iau ființă sunt determinate de inimă. Inima e cea care îndrumă pe cale. La fel de sigur cum umbra noastră nu ne părăsește niciodată, așa bunăstarea va urma când vorbim sau acționăm cu o inimă pură."
 
 msgid "3"
-msgstr "Când ne ținem strâns de asemenea gânduri precum: „M-au abuzat, m-au maltratat, m-au brutalizat, m-au jefuit”, păstrăm ura vie."
+msgstr "Când ne ținem strâns de asemenea gânduri precum: 'M-au abuzat, m-au maltratat, m-au brutalizat, m-au jefuit', păstrăm ura vie."
 
 msgid "4"
-msgstr "Dacă ne eliberăm complet de gânduri precum: „M-au abuzat, m-au maltratat, m-au brutalizat, m-au jefuit”, ura e cucerită."
+msgstr "Dacă ne eliberăm complet de gânduri precum: 'M-au abuzat, m-au maltratat, m-au brutalizat, m-au jefuit', ura e cucerită."
 
 msgid "5"
 msgstr "Niciodată ura nu e prin ură cucerită, ci doar prin disponibilitatea de a iubi. Aceasta e lege eternă."
@@ -64,7 +64,7 @@ msgid "16"
 msgstr "Când apreciem complet beneficiul propriilor noastre fapte pure, suntem plini de bucurie; de acum înainte, are loc o celebrare a bucuriei."
 
 msgid "17"
-msgstr "De acum înainte, cei care înfăptuiesc răul își creează propria suferință. Preocuparea mentală cu gândul „Am făcut rău” le posedă mintea și cad în haos."
+msgstr "De acum înainte, cei care înfăptuiesc răul își creează propria suferință. Preocuparea mentală cu gândul 'Am făcut rău' le posedă mintea și cad în haos."
 
 msgid "18"
 msgstr "De acum înainte, cei care își trăiesc viața bine își duc veacul în fericire. Ei sunt plini de o apreciere naturală a virtuții și trăiesc cu încântare."
@@ -97,7 +97,7 @@ msgid "26"
 msgstr "Cei care sunt ignoranți și confuzi se demască nebăgării de seamă. Cei înțelepți prețuiesc conștiința pe care au cultivat-o ca lucrul lor cel mai de preț."
 
 msgid "27"
-msgstr "„Nu te pierde în neglijență, nu te pierde în senzualitate.” Luând aminte un astfel de sfat, cel care contemplă descoperă profunda eliberare."
+msgstr "'Nu te pierde în neglijență, nu te pierde în senzualitate.' Luând aminte un astfel de sfat, cel care contemplă descoperă profunda eliberare."
 
 msgid "28"
 msgstr "Cei Treziți, care au gustat libertatea față de toate distragerile cultivând conștiința, îi văd pe toți cei suferinzi din perspectiva compasiunii, precum cineva pe vârful muntelui e capabil să vadă câmpiile."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Neavând niciun companion care să fi călătorit cel puțin așa de departe ca și noi, e mai bine a merge singur decât să-i întovărășești pe cei care rămân nehotărâți."
 
 msgid "62"
-msgstr "„Acesta e copilul meu, aceasta e averea mea”: astfel de gânduri sunt preocupări ale celor necopți. Dacă suntem incapabili să ne luăm asupra noastră chiar și pe noi înșine, de ce să facem astfel de revendicări?"
+msgstr "'Acesta e copilul meu, aceasta e averea mea': astfel de gânduri sunt preocupări ale celor necopți. Dacă suntem incapabili să ne luăm asupra noastră chiar și pe noi înșine, de ce să facem astfel de revendicări?"
 
 msgid "63"
 msgstr "Necoptul care știe că e necopt e câtuși de puțin înțelept; necoptul care socotește că e înțelept e, fără îndoială, necopt."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Chiar și cei care trăiesc vieți tihnite pot cunoaște suferința atâta vreme cât acțiunile lor încă nu și-au produs direct fructele. În orice caz, când fructele faptelor se maturează, consecințele vesele nu pot fi evitate."
 
 msgid "121"
-msgstr "Nu ignora efectele răului, zicând: „Nu se va alege nimic din asta.” La fel cum prin căderea treptată a picurilor de ploaie ulciorul de apă se umple, astfel, în timp, cei nesăbuiți sunt corupți de facerea de rău."
+msgstr "Nu ignora efectele răului, zicând: 'Nu se va alege nimic din asta.' La fel cum prin căderea treptată a picurilor de ploaie ulciorul de apă se umple, astfel, în timp, cei nesăbuiți sunt corupți de facerea de rău."
 
 msgid "122"
-msgstr "Nu ignora efectele faptei drepte, zicând: „Nu se va alege nimic din asta.” La fel cum prin căderea treptată a picurilor de ploaie ulciorul de apă se umple, astfel, în timp, cei înțelepți devin preaplini cu bunătate."
+msgstr "Nu ignora efectele faptei drepte, zicând: 'Nu se va alege nimic din asta.' La fel cum prin căderea treptată a picurilor de ploaie ulciorul de apă se umple, astfel, în timp, cei înțelepți devin preaplini cu bunătate."
 
 msgid "123"
 msgstr "La fel cum un negustor cu încărcătură prețioasă evită amenințările și acei care iubesc viața evită otrava, așa și tu să eviți faptele rele."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Cei îndrăgiți în mod firesc sunt cei ce trăiesc săvârșind fapte drepte și au descoperit Calea, iar prin introspecție au devenit consacrați adevărului."
 
 msgid "218"
-msgstr "Cei care tânjesc după ceea ce nu se poate defini, cu inimile pline de inspirație, cu mințile eliberate de râvna senzuală, se numesc „cei destinați eliberării”."
+msgstr "Cei care tânjesc după ceea ce nu se poate defini, cu inimile pline de inspirație, cu mințile eliberate de râvna senzuală, se numesc 'cei destinați eliberării'."
 
 msgid "219"
 msgstr "Așa cum familia și prietenii îi întâmpină cu bucurie pe cei dragi ce se întorc acasă de departe,"
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Cei Treziți nu pot decât să indice calea; efortul trebuie să îl depunem noi înșine. Cei ce reflectă cu înțelepciune și intră pe cale sunt eliberați din lanțurile Marei."
 
 msgid "277"
-msgstr "„Toate lucrurile condiționate sunt nepermanente”; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
+msgstr "'Toate lucrurile condiționate sunt nepermanente'; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
 
 msgid "278"
-msgstr "„Toate lucrurile condiționate sunt incomplete”; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
+msgstr "'Toate lucrurile condiționate sunt incomplete'; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
 
 msgid "279"
-msgstr "„Toate realitățile sunt lipsite de un sine statornic”; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
+msgstr "'Toate realitățile sunt lipsite de un sine statornic'; când vom vedea acest lucru prin introspecție ne vom sătura de această viață a suferinței. Aceasta este Calea către purificare."
 
 msgid "280"
 msgstr "Dacă, pe când încă sunteți tineri și în putere, amânați atunci când trebuie să acționați, dedându-vă fanteziilor fără băgare de seamă, Calea și înțelepciunea sa nu vor fi niciodată limpezi."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Îndepărtați înlănțuirile afecțiunii așa cum ați smulge o floare de toamnă. Umblați pe Calea care conduce către liberare, elucidată de Cel Trezit."
 
 msgid "286"
-msgstr "Un necopt este cel ce se dedă visării privind cel mai comod loc de trai, spunând „Aici va fi cald, acolo va fi răcoare” – inconștient de iminența morții."
+msgstr "Un necopt este cel ce se dedă visării privind cel mai comod loc de trai, spunând 'Aici va fi cald, acolo va fi răcoare' – inconștient de iminența morții."
 
 msgid "287"
 msgstr "Așa cum o inundație poate mătura din cale un sat întreg, cei cufundați în relații și posesii vor fi purtați de moarte."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Însă fiind mulțumit chiar și cu avuții modeste, trăind cu puritate și energic te vei bucura de un respect deosebit."
 
 msgid "367"
-msgstr "Cei ce renunță cu adevărat se gândesc pe deplin la trup-minte fără vreo referire la „eu” sau „al meu” și nu își doresc ceea ce nu au."
+msgstr "Cei ce renunță cu adevărat se gândesc pe deplin la trup-minte fără vreo referire la 'eu' sau 'al meu' și nu își doresc ceea ce nu au."
 
 msgid "368"
 msgstr "Insul ce renunță și își duce veacul cu bunătate pașnică și o inimă plină de devotament față de învățăturile lui Buddha va găsi pace, liniște și exaltare."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Insul care a tăiat atașamentele brute, a tăiat atașamentele subtile, care-și cultivă facultățile spirituale este cel care găsește eliberarea de decepție."
 
 msgid "371"
-msgstr "Aveți grijă! Nu neglijați meditația și nu permiteți minții să stăruiască asupra senzualității ca nu cumva să înghițiți fără băgare de seamă o bilă roșie și încinsă de fier și să vă întrebați: „De ce sufăr?”."
+msgstr "Aveți grijă! Nu neglijați meditația și nu permiteți minții să stăruiască asupra senzualității ca nu cumva să înghițiți fără băgare de seamă o bilă roșie și încinsă de fier și să vă întrebați: 'De ce sufăr?'."
 
 msgid "372"
 msgstr "Concentrarea nu apare fără înțelegere, iar nici înțelegerea nu apare fără concentrare. Insul care le cunoaște pe ambele se apropie de liberare."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Așa cum florile vechi cad de pe o plantă de iasomie, lasă voluptatea și ura să cadă."
 
 msgid "378"
-msgstr "Îi numesc „cei pașnici”, cu trupul calm, vorba calmă și mintea calmă și care s-au descotorosit în profunzime de toate obsesiile lumești."
+msgstr "Îi numesc 'cei pașnici', cu trupul calm, vorba calmă și mintea calmă și care s-au descotorosit în profunzime de toate obsesiile lumești."
 
 msgid "379"
 msgstr "Cercetează-te. Examinează-te. Acordând atenția corectă evaluării de sine, vei trăi în tihnă."

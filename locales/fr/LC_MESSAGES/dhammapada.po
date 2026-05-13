@@ -22,16 +22,16 @@ msgid "2"
 msgstr "Dans la nature propre des êtres, le sens interne tient la première place ; le sens interne est ce qu'il y a de plus éminent, le sens interne les fait ce qu'ils sont. Quiconque parle ou agit avec un sens interne purifié — celui-là, le bonheur le suit, ainsi qu'une ombre inséparable."
 
 msgid "3"
-msgstr "« On m'a injurié, on m'a frappé, on m'a terrassé, on m'a dépouillé ! » — Ceux qui se laissent aller à parler ainsi ne cessent point de haïr."
+msgstr "' On m'a injurié, on m'a frappé, on m'a terrassé, on m'a dépouillé ! ' — Ceux qui se laissent aller à parler ainsi ne cessent point de haïr."
 
 msgid "4"
-msgstr "« On m'a injurié, on m'a frappé, on m'a terrassé, on m'a dépouillé ! » — Ceux qui ne se laissent pas aller à parler ainsi cessent de haïr."
+msgstr "' On m'a injurié, on m'a frappé, on m'a terrassé, on m'a dépouillé ! ' — Ceux qui ne se laissent pas aller à parler ainsi cessent de haïr."
 
 msgid "5"
-msgstr "« Ce qui fait cesser ici-bas les haines, ce n'est aucunement la haine, mais bien l'absence de haine. » — Voilà un axiome vieux comme le monde."
+msgstr "' Ce qui fait cesser ici-bas les haines, ce n'est aucunement la haine, mais bien l'absence de haine. ' — Voilà un axiome vieux comme le monde."
 
 msgid "6"
-msgstr "Les uns ne connaissent point ce précepte : « Contenons-nous ici-bas. » — Ceux qui le connaissent n'ont plus alors de différends."
+msgstr "Les uns ne connaissent point ce précepte : ' Contenons-nous ici-bas. ' — Ceux qui le connaissent n'ont plus alors de différends."
 
 msgid "7"
 msgstr "Celui qui a seulement le plaisir en vue, qui vit dans l'incontinence des sens, qui jouit sans mesure, ce lâche dépourvu de toute énergie : Mâra vient à bout de lui, aussi facilement que le vent d'un arbre fragile."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Ici-bas, comme après sa mort, dans les two cas, l'homme de bien se réjouit. Il se réjouit, il est heureux à la vue de la pureté de ses actions."
 
 msgid "17"
-msgstr "Ici-bas, comme après sa mort, dans les deux cas, le méchant se désole. « J'ai fait le mal, » dit-il en se désolant. Plus grande encore est sa désolation à mesure qu'il avance dans la voie mauvaise."
+msgstr "Ici-bas, comme après sa mort, dans les deux cas, le méchant se désole. ' J'ai fait le mal, ' dit-il en se désolant. Plus grande encore est sa désolation à mesure qu'il avance dans la voie mauvaise."
 
 msgid "18"
-msgstr "Ici-bas, comme après sa mort, dans les deux cas, l'homme de bien se réjouit. « J'ai fait le bien, » dit-il en se réjouissant. Plus grande encore est sa joie à mesure qu'il avance dans la bonne voie."
+msgstr "Ici-bas, comme après sa mort, dans les deux cas, l'homme de bien se réjouit. ' J'ai fait le bien, ' dit-il en se réjouissant. Plus grande encore est sa joie à mesure qu'il avance dans la bonne voie."
 
 msgid "19"
 msgstr "Quand même il serait en état de réciter nombre de textes sacrés, l'étourdi, qui n'agit point conformément à ces textes, ressemble au vacher comptant les vaches d'autrui et ne fait point partie de la Communauté."
@@ -211,10 +211,10 @@ msgid "61"
 msgstr "En voyageant, si l'on ne rencontrait meilleur que soi, ou du moins son égal, mieux vaudrait persister à voyager seul. Un sot n'est point une société."
 
 msgid "62"
-msgstr "« Ces enfants sont à moi, à moi sont ces richesses » : ainsi se tourmente le sot. Son propre moi n'est pas à lui, à plus forte raison ses enfants, à plus forte raison ses richesses."
+msgstr "' Ces enfants sont à moi, à moi sont ces richesses ' : ainsi se tourmente le sot. Son propre moi n'est pas à lui, à plus forte raison ses enfants, à plus forte raison ses richesses."
 
 msgid "63"
-msgstr "Le sot qui sait qu'il est un sot, en cela du moins est un savant. Mais le sot qui se croit un savant — de celui-là on dit : « C'est un sot. »"
+msgstr "Le sot qui sait qu'il est un sot, en cela du moins est un savant. Mais le sot qui se croit un savant — de celui-là on dit : ' C'est un sot. '"
 
 msgid "64"
 msgstr "Un sot a beau s'asseoir tout le temps de sa vie auprès d'un savant : il ne connaît pas plus la Loi que la cuiller le goût de la sauce."
@@ -247,10 +247,10 @@ msgid "73"
 msgstr "Il est capable de désirer une réputation imméritée, le premier rang parmi les Bhixus, la dignité suprême dans les couvents, les honneurs dans les familles des autres !"
 
 msgid "74"
-msgstr "« Que les laïques, aussi bien que les religieux, ne s'occupent que de mes actes ! Qu'à moi seul ils obéissent relativement aux choses qu'ils ont à faire, et à celles qu'ils ont à éviter, quelles qu'elles soient ! » Ainsi parle le sot ; et ses désirs, comme son orgueil, croissent sans cesse."
+msgstr "' Que les laïques, aussi bien que les religieux, ne s'occupent que de mes actes ! Qu'à moi seul ils obéissent relativement aux choses qu'ils ont à faire, et à celles qu'ils ont à éviter, quelles qu'elles soient ! ' Ainsi parle le sot ; et ses désirs, comme son orgueil, croissent sans cesse."
 
 msgid "75"
-msgstr "« Autre chose est la recherche de la richesse, autre chose la marche vers le Nirvâna. » Ainsi pense le Bhixu, le disciple de Buddha. Et, ne courant plus après les honneurs, il n'aspire qu'à la retraite."
+msgstr "' Autre chose est la recherche de la richesse, autre chose la marche vers le Nirvâna. ' Ainsi pense le Bhixu, le disciple de Buddha. Et, ne courant plus après les honneurs, il n'aspire qu'à la retraite."
 
 msgid "chap6"
 msgstr "Le Savant"
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "L'homme de bien même voit le malheur fondre sur lui, tant que le bien qu'il a fait n'est point arrivé à maturité. Dès qu'il y est arrivé, il goûte alors le bonheur."
 
 msgid "121"
-msgstr "Qu'on ne fasse point peu de cas du mal, en disant : « Il ne retombera pas sur moi ! » L'eau, tombant même goutte à goutte, finit par remplir la cruche. Le mal, fait même petit à petit, finit par remplir l'âme de l'insensé."
+msgstr "Qu'on ne fasse point peu de cas du mal, en disant : ' Il ne retombera pas sur moi ! ' L'eau, tombant même goutte à goutte, finit par remplir la cruche. Le mal, fait même petit à petit, finit par remplir l'âme de l'insensé."
 
 msgid "122"
-msgstr "Qu'on ne fasse point peu de cas du bien, en disant : « Il ne m'en reviendra rien ». L'eau, tombant même goutte à goutte, finit par remplir la cruche. Le bien, fait même petit à petit, finit par remplir l'âme du sage."
+msgstr "Qu'on ne fasse point peu de cas du bien, en disant : ' Il ne m'en reviendra rien '. L'eau, tombant même goutte à goutte, finit par remplir la cruche. Le bien, fait même petit à petit, finit par remplir l'âme du sage."
 
 msgid "123"
 msgstr "De même qu'un marchand accompagné de peu de monde, et porteur de grandes richesses, évite une route périlleuse ; de même que celui qui tient à la vie évite le poison — évitez de même le mal."
@@ -496,7 +496,7 @@ msgid "150"
 msgstr "Les os forment le massif intérieur, la chair et le sang le revêtement extérieur de la citadelle dans laquelle habitent la vieillesse et la mort, l'orgueil et l'hypocrisie."
 
 msgid "151"
-msgstr "« Ils vieillissent, les chars diversement ornés des rois ; il vieillit aussi, le corps de l'homme. Seule, la vertu des justes ne vieillit pas. » Ainsi parlent aux justes les justes."
+msgstr "' Ils vieillissent, les chars diversement ornés des rois ; il vieillit aussi, le corps de l'homme. Seule, la vertu des justes ne vieillit pas. ' Ainsi parlent aux justes les justes."
 
 msgid "152"
 msgstr "L'homme qui n'apprend rien vieillit comme un bœuf ; ses chairs croissent, mais non sa science."
@@ -583,7 +583,7 @@ msgid "177"
 msgstr "Les avares ne vont point dans le monde des dieux. Les sots ne font point l'éloge de la libéralité, dans laquelle, au contraire, se complaît le sage. Aussi, grâce à elle, est-il heureux dans l'autre monde."
 
 msgid "178"
-msgstr "Bien supérieur au souverain pouvoir sur la terre, à l'entrée dans le ciel, à la domination suprême sur tous les mondes, est le fruit qu'on retire de la « srôtàpatti »."
+msgstr "Bien supérieur au souverain pouvoir sur la terre, à l'entrée dans le ciel, à la domination suprême sur tous les mondes, est le fruit qu'on retire de la ' srôtàpatti '."
 
 msgid "chap14"
 msgstr "Le Buddha"
@@ -604,13 +604,13 @@ msgid "183"
 msgstr "S'abstenir de tout mal, faire le bien, purifier sa pensée, tels sont les commandements des Buddhas."
 
 msgid "184"
-msgstr "« L'indulgence est l'austérité par excellence ; la patience, le Nirvâna par excellence », disent les Buddhas. Celui-là n'est pas un Pravarjita, qui fait du mal à autrui. Celui-là n'est pas un Çramana qui fait de la peine à autrui."
+msgstr "' L'indulgence est l'austérité par excellence ; la patience, le Nirvâna par excellence ', disent les Buddhas. Celui-là n'est pas un Pravarjita, qui fait du mal à autrui. Celui-là n'est pas un Çramana qui fait de la peine à autrui."
 
 msgid "185"
 msgstr "S'abstenir de paroles mauvaises et de mauvais traitements, se cantonner dans l'émancipation, être sobre en fait d'aliments, s'asseoir et se coucher à l'écart, se plonger dans la plus profonde méditation — tels sont les commandements des Buddhas."
 
 msgid "186"
-msgstr "Une pluie d'or n'assouvirait même pas la soif des jouissances. « Peu de douceur, beaucoup d'amertume, voilà leur fait ». Celui qui pense ainsi est un sage."
+msgstr "Une pluie d'or n'assouvirait même pas la soif des jouissances. ' Peu de douceur, beaucoup d'amertume, voilà leur fait '. Celui qui pense ainsi est un sage."
 
 msgid "187"
 msgstr "Ce n'est point même dans le désir des jouissances célestes, c'est dans l'anéantissement du désir qu'il place son bonheur, le disciple arrivé à la bodhi parfaite."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Celui qui est doué de vertu et d'intelligence, qui observe la Loi, qui dit la vérité, qui fait ce qu'il a à faire — celui-là, tout le monde l'aime."
 
 msgid "218"
-msgstr "Celui qui aspire après l'ineffable (le Nirvâna), dont l'âme est satisfaite, dont la pensée n'est point enchaînée par l'amour — celui-là, on l'appelle : « Qui est entraîné en haut par le courant »."
+msgstr "Celui qui aspire après l'ineffable (le Nirvâna), dont l'âme est satisfaite, dont la pensée n'est point enchaînée par l'amour — celui-là, on l'appelle : ' Qui est entraîné en haut par le courant '."
 
 msgid "219"
 msgstr "Quand un homme, qui a été longtemps absent, revient de loin sain et sauf, ses parents, ses amis, ses intimes saluent avec joie son retour."
@@ -724,7 +724,7 @@ msgid "chap17"
 msgstr "La Colère"
 
 msgid "221"
-msgstr "Qu'on se débarrasse de la colère ! Qu'on se débarrasse de l'orgueil ! Qu'on secoue tous ses liens ! Celui qui n'a plus d'attachement pour « le nom et la forme », qui ne possède absolument rien — celui-là, la douleur ne court plus après lui."
+msgstr "Qu'on se débarrasse de la colère ! Qu'on se débarrasse de l'orgueil ! Qu'on secoue tous ses liens ! Celui qui n'a plus d'attachement pour ' le nom et la forme ', qui ne possède absolument rien — celui-là, la douleur ne court plus après lui."
 
 msgid "222"
 msgstr "Celui dont la colère s'est donné carrière, mais qui la contient comme un char en marche — celui-là, je le dis un cocher. Le reste des hommes tient simplement les rênes."
@@ -742,7 +742,7 @@ msgid "226"
 msgstr "Chez ceux qui veillent sans relâche, qui étudient la nuit et le jour, qui aspirent après le Nirvâna, la concupiscence finit par disparaître."
 
 msgid "227"
-msgstr "Voici un vieux et incomparable dicton qui n'est point d'aujourd'hui : « Celui qui est assis en silence, on le blâme ; celui qui parle beaucoup, on le blâme ; celui même qui parle avec mesure, on le blâme. Nul n'est à l'abri du blâme en ce monde »."
+msgstr "Voici un vieux et incomparable dicton qui n'est point d'aujourd'hui : ' Celui qui est assis en silence, on le blâme ; celui qui parle beaucoup, on le blâme ; celui même qui parle avec mesure, on le blâme. Nul n'est à l'abri du blâme en ce monde '."
 
 msgid "228"
 msgstr "Il n'a point existé, il n'existera pas, et il n'existe point présentement d'homme uniquement blâmé ou uniquement loué."
@@ -808,7 +808,7 @@ msgid "247"
 msgstr "Et qui s'adonne aux boissons spiritueuses — celui-là, en ce monde, arrache lui-même ses propres racines."
 
 msgid "248"
-msgstr "Ô homme, apprends ceci : « Ceux qui se conduisent mal sont les incontinents », afin que la convoitise et l'inconduite ne te plongent point pour longtemps dans la douleur."
+msgstr "Ô homme, apprends ceci : ' Ceux qui se conduisent mal sont les incontinents ', afin que la convoitise et l'inconduite ne te plongent point pour longtemps dans la douleur."
 
 msgid "249"
 msgstr "Les hommes donnent en raison de leur foi, en raison de leurs bonnes dispositions. Aussi celui qui s'irrite à propos de ce qui est donné à boire et à manger aux autres — celui-là n'arrive au recueillement ni le jour, ni la nuit."
@@ -838,46 +838,46 @@ msgid "256"
 msgstr "On n'est point un juste parce qu'on arrive à son but à l'aide de la violence. Mais le savant, qui est capable de distinguer à la fois ce qui est utile et ce qui ne l'est pas,"
 
 msgid "257"
-msgstr "Qui, grâce à sa conduite exempte de violence et à sa quiétude, sert de guide aux autres, gardé qu'il est par la Loi, l'homme intelligent — voilà celui qu'on appelle « un juste »."
+msgstr "Qui, grâce à sa conduite exempte de violence et à sa quiétude, sert de guide aux autres, gardé qu'il est par la Loi, l'homme intelligent — voilà celui qu'on appelle ' un juste '."
 
 msgid "258"
-msgstr "On n'est point un savant parce qu'on parle beaucoup. Celui qui vit en paix, qui est exempt de haine et de crainte — voilà celui qu'on appelle « un savant »."
+msgstr "On n'est point un savant parce qu'on parle beaucoup. Celui qui vit en paix, qui est exempt de haine et de crainte — voilà celui qu'on appelle ' un savant '."
 
 msgid "259"
-msgstr "On n'est point un observateur de la Loi parce qu'on parle beaucoup. Celui qui, même avec peu d'instruction, fixe sur la Loi les yeux de son corps, celui qui n'est point négligent vis-à-vis de la Loi — voilà celui qui est « un observateur de la loi »."
+msgstr "On n'est point un observateur de la Loi parce qu'on parle beaucoup. Celui qui, même avec peu d'instruction, fixe sur la Loi les yeux de son corps, celui qui n'est point négligent vis-à-vis de la Loi — voilà celui qui est ' un observateur de la loi '."
 
 msgid "260"
-msgstr "On n'est point un ancien parce qu'on a la tête grise. Quelque mûr que soit votre âge, on peut vous appeler « qui a vieilli en vain »."
+msgstr "On n'est point un ancien parce qu'on a la tête grise. Quelque mûr que soit votre âge, on peut vous appeler ' qui a vieilli en vain '."
 
 msgid "261"
-msgstr "Celui en qui résident la vérité, la justice, la douceur, la retenue et l'empire sur soi-même, le sage exempt de péché — voilà celui qu'on appelle « un ancien »."
+msgstr "Celui en qui résident la vérité, la justice, la douceur, la retenue et l'empire sur soi-même, le sage exempt de péché — voilà celui qu'on appelle ' un ancien '."
 
 msgid "262"
 msgstr "Ce n'est ni un verbiage immodéré, ni les charmes physiques qui donnent un extérieur respectable à l'homme avide de jouissances, à l'égoïste, au fripon."
 
 msgid "263"
-msgstr "Mais celui chez lequel tout cela a été complètement supprimé, radicalement extirpé, celui qui est exempt de haine et intelligent — voilà celui qu'on appelle « ayant un extérieur respectable »."
+msgstr "Mais celui chez lequel tout cela a été complètement supprimé, radicalement extirpé, celui qui est exempt de haine et intelligent — voilà celui qu'on appelle ' ayant un extérieur respectable '."
 
 msgid "264"
-msgstr "Ce n'est point la tonsure qui fait un Çramana de l'homme qui manque à ses devoirs et qui ment. Comment, livré tout entier à la convoitise et au désir, serait-on « un Çramana ? »"
+msgstr "Ce n'est point la tonsure qui fait un Çramana de l'homme qui manque à ses devoirs et qui ment. Comment, livré tout entier à la convoitise et au désir, serait-on ' un Çramana ? '"
 
 msgid "265"
-msgstr "Celui qui fait cesser les mauvaises actions, petites ou grandes sans exception — voilà celui qu'on appelle « un Çramana », à cause de la cessation des mauvaises actions."
+msgstr "Celui qui fait cesser les mauvaises actions, petites ou grandes sans exception — voilà celui qu'on appelle ' un Çramana ', à cause de la cessation des mauvaises actions."
 
 msgid "266"
 msgstr "On n'est pas un Bhixu parce qu'on mendie chez autrui. C'est parce qu'on a concentré en soi toute la Loi, qu'on est un Bhixu, et non parce qu'on mendie."
 
 msgid "267"
-msgstr "Celui qui, ici-bas, se tient en dehors du bien et du mal, qui vit dans la chasteté et agit en ce monde avec réflexion — voilà celui qu'on appelle « un Bhixu »."
+msgstr "Celui qui, ici-bas, se tient en dehors du bien et du mal, qui vit dans la chasteté et agit en ce monde avec réflexion — voilà celui qu'on appelle ' un Bhixu '."
 
 msgid "268"
 msgstr "Le silence seul ne fait point un muni d'un homme agité et ignorant. Après avoir tout pesé et choisi le meilleur lot, le savant"
 
 msgid "269"
-msgstr "Qui évite le mal — voilà celui qui est un muni, voilà ce qui fait de lui un muni. Quand on distingue en ce monde les deux faces des choses — voilà ce qui fait qu'on vous appelle « un muni »."
+msgstr "Qui évite le mal — voilà celui qui est un muni, voilà ce qui fait de lui un muni. Quand on distingue en ce monde les deux faces des choses — voilà ce qui fait qu'on vous appelle ' un muni '."
 
 msgid "270"
-msgstr "On n'est point un Arhat parce qu'on fait du mal aux êtres animés. Celui qui est plein de compassion pour tous les êtres — voilà celui qu'on appelle « un Arhat »."
+msgstr "On n'est point un Arhat parce qu'on fait du mal aux êtres animés. Celui qui est plein de compassion pour tous les êtres — voilà celui qu'on appelle ' un Arhat '."
 
 msgid "271"
 msgstr "Ce n'est ni par la vertu seule, ni par la seule entrée en religion, ni, d'un autre côté, par la profondeur de la science, par la continuité du recueillement, par l'isolement de la couche,"
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Mettez-vous donc à l'œuvre avec ardeur. Les Tathâgatas se contentent de prêcher. Une fois entré dans cette voie, la méditation vous délivre des liens de Mâra."
 
 msgid "277"
-msgstr "« Toutes les agrégations sont passagères. » Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
+msgstr "' Toutes les agrégations sont passagères. ' Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
 
 msgid "278"
-msgstr "« Toutes les agrégations sont soumises à la douleur. » Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
+msgstr "' Toutes les agrégations sont soumises à la douleur. ' Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
 
 msgid "279"
-msgstr "« Toutes les formes sont sans réalité substantielle. » Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
+msgstr "' Toutes les formes sont sans réalité substantielle. ' Lorsqu'on est bien pénétré de ce fait, on est délivré de la douleur. C'est là la voie de la purification."
 
 msgid "280"
 msgstr "Celui qui ne déploie point du zèle quand il faut en déployer, qui, jeune et fort, s'abandonne à la paresse, qui laisse s'endormir sa volonté et son intelligence — ce fainéant et ce lâche-là ne trouve point la voie de la science parfaite."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Coupe en toi l'amour de toi-même, de même qu'avec la main, en automne, on coupe un lotus. Aspire après la voie de la quiétude, après le Nirvâna enseigné par le Sugata."
 
 msgid "286"
-msgstr "« Ici j'habiterai à la saison des pluies, ici l'hiver, ici l'été. » Ainsi raisonne l'insensé, et il ne pense pas à ce qui peut survenir d'ici-là."
+msgstr "' Ici j'habiterai à la saison des pluies, ici l'hiver, ici l'été. ' Ainsi raisonne l'insensé, et il ne pense pas à ce qui peut survenir d'ici-là."
 
 msgid "287"
 msgstr "Cet homme, enivré de ses enfants et de ses troupeaux, attaché tout entier aux objets sensibles, la mort l'entraîne avec elle, comme un impétueux torrent entraînant un village endormi."
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "L'Enfer"
 
 msgid "306"
-msgstr "Celui qui affirme des choses qui ne sont point arrivées va dans l'enfer, ainsi que celui qui, faisant une action, dit : « Je ne la fais point. » Une fois morts, ils deviennent égaux dans l'autre monde, ces deux hommes pervers."
+msgstr "Celui qui affirme des choses qui ne sont point arrivées va dans l'enfer, ainsi que celui qui, faisant une action, dit : ' Je ne la fais point. ' Une fois morts, ils deviennent égaux dans l'autre monde, ces deux hommes pervers."
 
 msgid "307"
 msgstr "Beaucoup de ceux qui portent la robe jaune sont pervers et incontinents. Ces méchants-là sont précipités dans l'enfer par leurs méfaits."
@@ -1093,7 +1093,7 @@ msgid "336"
 msgstr "Celui qui ici-bas secoue le joug difficile à secouer de cette convoitise, l'affliction se détache peu à peu de lui, comme des gouttes d'eau tombant d'une feuille de lotus."
 
 msgid "337"
-msgstr "Je vous le dis pour votre salut, à vous tous qui êtes assemblés ici : « Déracinez en vous la convoitise, comme on déracine le bîrana pour avoir l'ushîra ; afin que Mâra, semblable au torrent brisant un roseau, ne recommence pas sans cesse à vous briser."
+msgstr "Je vous le dis pour votre salut, à vous tous qui êtes assemblés ici : ' Déracinez en vous la convoitise, comme on déracine le bîrana pour avoir l'ushîra ; afin que Mâra, semblable au torrent brisant un roseau, ne recommence pas sans cesse à vous briser."
 
 msgid "338"
 msgstr "De même que, tant que sa racine est intacte, un arbre plein de sève repousse, quoique coupé, toujours à nouveau, de même, tant que n'est point extirpée la tendance à la convoitise, revient toujours à nouveau cette cause de douleur."
@@ -1138,10 +1138,10 @@ msgid "351"
 msgstr "Quand arrivé au but, exempt désormais de crainte, de convoitise et de péché, on a coupé les épines de l'existence, cette renaissance-ci est la dernière."
 
 msgid "352"
-msgstr "Celui qui, exempt de convoitise, détaché de tout, connaissant les mots et leur explication, distinguant dans l'assemblage des syllabes celles qui précèdent de celles qui suivent, est arrivé à sa dernière incarnation — celui-là, on l'appelle « le grand Savant, le grand Homme. »"
+msgstr "Celui qui, exempt de convoitise, détaché de tout, connaissant les mots et leur explication, distinguant dans l'assemblage des syllabes celles qui précèdent de celles qui suivent, est arrivé à sa dernière incarnation — celui-là, on l'appelle ' le grand Savant, le grand Homme. '"
 
 msgid "353"
-msgstr "« J'ai triomphé de tout, je sais tout. Tous mes éléments constitutifs sont exempts de souillure. Je me suis débarrassé de tout. Je me suis affranchi, en détruisant en moi la convoitise. La science que j'ai acquise, à qui la communiquerais-je bien ? »"
+msgstr "' J'ai triomphé de tout, je sais tout. Tous mes éléments constitutifs sont exempts de souillure. Je me suis débarrassé de tout. Je me suis affranchi, en détruisant en moi la convoitise. La science que j'ai acquise, à qui la communiquerais-je bien ? '"
 
 msgid "354"
 msgstr "Sur tout don l'emporte le don de la Loi ; sur toute saveur, la saveur de la Loi ; sur toute jouissance, la jouissance de la Loi ; sur tout bonheur, la destruction de la convoitise."
@@ -1171,7 +1171,7 @@ msgid "361"
 msgstr "Bonne est la continence du corps ! Bonne la continence du langage ! Bonne la continence de l'esprit ! Bonne toute espèce de continence ! Le Bhixu, continent en toute chose, est affranchi de toute douleur."
 
 msgid "362"
-msgstr "Celui qui, continent quant à sa main, continent quant à son pied, continent quant à son langage, supérieur à tous en continence, intérieurement satisfait et concentré en lui-même, se complaît dans la solitude — celui-là, on l'appelle « un Bhixu »."
+msgstr "Celui qui, continent quant à sa main, continent quant à son pied, continent quant à son langage, supérieur à tous en continence, intérieurement satisfait et concentré en lui-même, se complaît dans la solitude — celui-là, on l'appelle ' un Bhixu '."
 
 msgid "363"
 msgstr "Le Bhixu, continent quant à son langage, parlant d'une manière sensée, modeste, enseignant avec éclat la Loi et son sens — douce est sa parole."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Quelque peu qu'il ait reçu, si le Bhixu ne dédaigne point ce qu'il a reçu, les dieux eux-mêmes louent la pureté de sa vie et son zèle."
 
 msgid "367"
-msgstr "Celui qui ne regarde aucunement comme étant à lui ni « le nom » ni « la forme », qui ne s'afflige point au sujet de ce qui n'existe pas, celui-là, on l'appelle « un Bhixu »."
+msgstr "Celui qui ne regarde aucunement comme étant à lui ni ' le nom ' ni ' la forme ', qui ne s'afflige point au sujet de ce qui n'existe pas, celui-là, on l'appelle ' un Bhixu '."
 
 msgid "368"
 msgstr "Le Bhixu qui pratique la charité et qui possède la sérénité d'âme recommandée par le Buddha est en état d'arriver au séjour de la quiétude et du bonheur, où cessent les renaissances."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Ô Bhixu, vide cette barque ! Vidée, elle voguera légèrement. Lorsque tu auras supprimé en toi la passion et la haine, tu arriveras au Nirvâna."
 
 msgid "370"
-msgstr "Qu'il brise les cinq chaînes, qu'il les laisse derrière lui, qu'il s'élève au-dessus d'elles. Le Bhixu qui a secoué les cinq chaînes, on l'appelle « celui qui a traversé le torrent »."
+msgstr "Qu'il brise les cinq chaînes, qu'il les laisse derrière lui, qu'il s'élève au-dessus d'elles. Le Bhixu qui a secoué les cinq chaînes, on l'appelle ' celui qui a traversé le torrent '."
 
 msgid "371"
-msgstr "Médite, ô Bhixu ; sois vigilant ! Que ta pensée ne s'applique point aux choses qui lui plaisent ! Insensé, n'avale pas une boule de fer (rouge), pour crier ensuite : « quelle douleur ! » en sentant la brûlure."
+msgstr "Médite, ô Bhixu ; sois vigilant ! Que ta pensée ne s'applique point aux choses qui lui plaisent ! Insensé, n'avale pas une boule de fer (rouge), pour crier ensuite : ' quelle douleur ! ' en sentant la brûlure."
 
 msgid "372"
 msgstr "Il n'y a ni méditation pour celui qui n'a pas la Science Parfaite, ni Science Parfaite pour celui qui ne médite pas. Celui en qui se rencontrent la méditation et la science — celui-là s'approche du Nirvana."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "De même que la Varshikâ se débarrasse de ses fleurs fanées, de même, ô Bhixu, débarrassez-vous de la passion et de la haine."
 
 msgid "378"
-msgstr "Le Bhixu dont le corps, la langue et l'esprit sont en repos, qui est concentré en lui-même et affranchi des jouissances mondaines, on l'appelle « celui qui vit dans la quiétude »."
+msgstr "Le Bhixu dont le corps, la langue et l'esprit sont en repos, qui est concentré en lui-même et affranchi des jouissances mondaines, on l'appelle ' celui qui vit dans la quiétude '."
 
 msgid "379"
 msgstr "Stimule-toi toi-même ; examine-toi toi-même. C'est ainsi, ô Bhixu, que veillant sur toi-même et ayant bonne mémoire, tu vivras heureux."
@@ -1243,10 +1243,10 @@ msgid "384"
 msgstr "Lorsque, par l'observation des deux préceptes, le Brâhmana a atteint l'autre rive, alors, en possession de la Science Parfaite, il en a fini avec tous les liens."
 
 msgid "385"
-msgstr "Celui pour qui n'existent plus ni cette rive, ni l'autre, ni toutes deux à la fois, qui, exempt de crainte, est affranchi de tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui pour qui n'existent plus ni cette rive, ni l'autre, ni toutes deux à la fois, qui, exempt de crainte, est affranchi de tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "386"
-msgstr "Celui qui, plongé dans la méditation, assis en paix, exempt de passion et de péché, a fait son devoir et atteint le but le plus élevé — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, plongé dans la méditation, assis en paix, exempt de passion et de péché, a fait son devoir et atteint le but le plus élevé — celui-là, je le dis ' un Brâhmana '."
 
 msgid "387"
 msgstr "Pendant le jour brille le soleil ; pendant la nuit brille la lune ; armé de toutes pièces brille le guerrier ; en méditation, brille le Brâhmana. Mais le jour comme la nuit, d'un éclat ininterrompu, brille le Buddha."
@@ -1261,7 +1261,7 @@ msgid "390"
 msgstr "Ce n'est pas un mince avantage pour un Brâhmana qu'une âme insensible aux plaisirs. Lorsque cesse en lui l'idée de faire du mal à autrui, en lui cesse également la douleur."
 
 msgid "391"
-msgstr "Celui qui, ne faisant le mal ni avec son corps, ni avec sa langue, ni avec son esprit, vit dans une triple continence — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, ne faisant le mal ni avec son corps, ni avec sa langue, ni avec son esprit, vit dans une triple continence — celui-là, je le dis ' un Brâhmana '."
 
 msgid "392"
 msgstr "Aussitôt qu'on a connu la loi, telle que l'a enseignée Celui qui est devenu un Buddha accompli, qu'on s'incline humblement devant elle, comme le Brâhmana devant le feu du sacrifice."
@@ -1273,88 +1273,88 @@ msgid "394"
 msgstr "À quoi bon ces cheveux tressés ? À quoi bon une jupe en peau de chèvre ? Chez toi l'intérieur est un vrai chaos ; tu soignes seulement l'extérieur."
 
 msgid "395"
-msgstr "L'homme au vêtement couvert de poussière, qui, maigre, couturé de veines, se livre solitairement à la méditation dans la forêt — celui-là, je le dis « un Brâhmana »."
+msgstr "L'homme au vêtement couvert de poussière, qui, maigre, couturé de veines, se livre solitairement à la méditation dans la forêt — celui-là, je le dis ' un Brâhmana '."
 
 msgid "396"
-msgstr "Je ne dis point, moi, « un Brâhmana » celui qui est sorti d'un certain sein, qui est né d'une certaine mère. Celui-là, on peut l'appeler arrogant, celui-là peut être riche. C'est celui qui est pauvre et détaché de tout que je dis « un Brâhmana »."
+msgstr "Je ne dis point, moi, ' un Brâhmana ' celui qui est sorti d'un certain sein, qui est né d'une certaine mère. Celui-là, on peut l'appeler arrogant, celui-là peut être riche. C'est celui qui est pauvre et détaché de tout que je dis ' un Brâhmana '."
 
 msgid "397"
-msgstr "Celui qui, ayant brisé tous ses liens, ne ressent plus aucun effroi, qui est détaché de tout, affranchi de tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, ayant brisé tous ses liens, ne ressent plus aucun effroi, qui est détaché de tout, affranchi de tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "398"
-msgstr "Celui qui a brisé la courroie, la corde, la sangle et le reste, qui a forcé la barrière, qui est Éveillé — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui a brisé la courroie, la corde, la sangle et le reste, qui a forcé la barrière, qui est Éveillé — celui-là, je le dis ' un Brâhmana '."
 
 msgid "399"
-msgstr "Celui qui, tout innocent qu'il est, endure les injures, les coups et les chaînes avec une patience égale à sa force — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, tout innocent qu'il est, endure les injures, les coups et les chaînes avec une patience égale à sa force — celui-là, je le dis ' un Brâhmana '."
 
 msgid "400"
-msgstr "Celui qui est exempt de colère, fidèle à ses vœux, instruit dans la tradition, qui, s'étant dompté lui-même, en est à sa dernière incarnation — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui est exempt de colère, fidèle à ses vœux, instruit dans la tradition, qui, s'étant dompté lui-même, en est à sa dernière incarnation — celui-là, je le dis ' un Brâhmana '."
 
 msgid "401"
-msgstr "Celui sur lequel glissent les jouissances comme l'eau sur une feuille de lotus, ou la graine de moutarde sur une pointe d'aiguille — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui sur lequel glissent les jouissances comme l'eau sur une feuille de lotus, ou la graine de moutarde sur une pointe d'aiguille — celui-là, je le dis ' un Brâhmana '."
 
 msgid "402"
-msgstr "Celui qui sait mettre ici-bas un terme à la douleur, qui a déposé son fardeau, qui est détaché de tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui sait mettre ici-bas un terme à la douleur, qui a déposé son fardeau, qui est détaché de tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "403"
-msgstr "Le sage qui possède une science profonde, qui connaît ce qui est et ce qui n'est pas la Voie, qui a atteint le but suprême — celui-là, je le dis « un Brâhmana »."
+msgstr "Le sage qui possède une science profonde, qui connaît ce qui est et ce qui n'est pas la Voie, qui a atteint le but suprême — celui-là, je le dis ' un Brâhmana '."
 
 msgid "404"
-msgstr "Celui qui ne cohabite ici-bas, ni avec ceux qui ont un logis, ni avec ceux qui n'en ont pas ; qui, se contentant de peu, ne va point frapper aux portes — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui ne cohabite ici-bas, ni avec ceux qui ont un logis, ni avec ceux qui n'en ont pas ; qui, se contentant de peu, ne va point frapper aux portes — celui-là, je le dis ' un Brâhmana '."
 
 msgid "405"
-msgstr "Celui qui s'abstient de toute violence à l'égard des êtres faibles aussi bien que des forts, qui ne tue point, qui ne fait point tuer — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui s'abstient de toute violence à l'égard des êtres faibles aussi bien que des forts, qui ne tue point, qui ne fait point tuer — celui-là, je le dis ' un Brâhmana '."
 
 msgid "406"
-msgstr "Celui qui est tolérant avec les intolérants, doux avec les violents, détaché de tout avec ceux qui sont attachés à tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui est tolérant avec les intolérants, doux avec les violents, détaché de tout avec ceux qui sont attachés à tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "407"
-msgstr "Celui de l'âme duquel sont tombés la haine, l'orgueil et l'hypocrisie, comme tombe la graine de moutarde placée sur la pointe d'une aiguille — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui de l'âme duquel sont tombés la haine, l'orgueil et l'hypocrisie, comme tombe la graine de moutarde placée sur la pointe d'une aiguille — celui-là, je le dis ' un Brâhmana '."
 
 msgid "408"
-msgstr "Celui qui fait entendre des paroles sans rudesse, instructives, vraies, à l'aide desquelles il n'injurie personne — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui fait entendre des paroles sans rudesse, instructives, vraies, à l'aide desquelles il n'injurie personne — celui-là, je le dis ' un Brâhmana '."
 
 msgid "409"
-msgstr "Long ou court, petit ou grand, agréable ou désagréable, quel que soit en ce monde l'objet qu'on ne lui donne pas, celui qui ne le prend pas — celui-là, je le dis « un Brâhmana »."
+msgstr "Long ou court, petit ou grand, agréable ou désagréable, quel que soit en ce monde l'objet qu'on ne lui donne pas, celui qui ne le prend pas — celui-là, je le dis ' un Brâhmana '."
 
 msgid "410"
-msgstr "Celui qui n'espère plus rien en ce monde ni dans l'autre, qui est inaccessible à tout et détaché de tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui n'espère plus rien en ce monde ni dans l'autre, qui est inaccessible à tout et détaché de tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "411"
-msgstr "Celui qui n'a plus d'attaches, que la science préserve des « pourquoi ? », qui parvient à s'affranchir de la mort — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui n'a plus d'attaches, que la science préserve des ' pourquoi ? ', qui parvient à s'affranchir de la mort — celui-là, je le dis ' un Brâhmana '."
 
 msgid "412"
-msgstr "Celui qui a secoué ici-bas les deux chaînes, celle du bien et celle du mal, qui est pur, exempt de douleur et de passion — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui a secoué ici-bas les deux chaînes, celle du bien et celle du mal, qui est pur, exempt de douleur et de passion — celui-là, je le dis ' un Brâhmana '."
 
 msgid "413"
-msgstr "Celui qui, dans la pureté, dans la sérénité et dans la paix de son âme, est semblable à la lune immaculée, qui a tari en lui la source de toute joie — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, dans la pureté, dans la sérénité et dans la paix de son âme, est semblable à la lune immaculée, qui a tari en lui la source de toute joie — celui-là, je le dis ' un Brâhmana '."
 
 msgid "414"
-msgstr "Celui qui est venu à bout de ces vicissitudes rebutantes et inextricables, qui, ayant achevé la traversée, a gagné l'autre rive, qui est plongé dans la méditation, exempt de désirs et de curiosité, n'ayant besoin de rien et satisfait — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui est venu à bout de ces vicissitudes rebutantes et inextricables, qui, ayant achevé la traversée, a gagné l'autre rive, qui est plongé dans la méditation, exempt de désirs et de curiosité, n'ayant besoin de rien et satisfait — celui-là, je le dis ' un Brâhmana '."
 
 msgid "415"
-msgstr "Celui qui, après avoir dit ici-bas adieu aux jouissances et tari en lui leur source, embrasse la vie errante des religieux — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, après avoir dit ici-bas adieu aux jouissances et tari en lui leur source, embrasse la vie errante des religieux — celui-là, je le dis ' un Brâhmana '."
 
 msgid "416"
-msgstr "Celui qui, après avoir dit ici-bas adieu à la convoitise, et tari en lui sa source, embrasse la vie errante des religieux — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, après avoir dit ici-bas adieu à la convoitise, et tari en lui sa source, embrasse la vie errante des religieux — celui-là, je le dis ' un Brâhmana '."
 
 msgid "417"
-msgstr "Celui qui, n'ayant plus de liens avec les hommes, a secoué ceux qu'il pourrait avoir avec les dieux, qui est complètement détaché de tout — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, n'ayant plus de liens avec les hommes, a secoué ceux qu'il pourrait avoir avec les dieux, qui est complètement détaché de tout — celui-là, je le dis ' un Brâhmana '."
 
 msgid "418"
-msgstr "Celui qui, n'ayant plus rien qui lui plaise ou qui lui déplaise, devenu insensible et ne fournissant plus matière à rien, s'est élevé au-dessus de tous les mondes — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, n'ayant plus rien qui lui plaise ou qui lui déplaise, devenu insensible et ne fournissant plus matière à rien, s'est élevé au-dessus de tous les mondes — celui-là, je le dis ' un Brâhmana '."
 
 msgid "419"
-msgstr "Celui qui connaît à fond l'origine et la fin des êtres, qui est détaché de tout, Heureusement arrivé (Sugata), Éveillé (Buddha) — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui connaît à fond l'origine et la fin des êtres, qui est détaché de tout, Heureusement arrivé (Sugata), Éveillé (Buddha) — celui-là, je le dis ' un Brâhmana '."
 
 msgid "420"
-msgstr "Celui dont ne connaissent la voie ni les dieux, ni les gandharvas, ni les hommes, qui a détruit en lui la concupiscence, qui est devenu Arhat — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui dont ne connaissent la voie ni les dieux, ni les gandharvas, ni les hommes, qui a détruit en lui la concupiscence, qui est devenu Arhat — celui-là, je le dis ' un Brâhmana '."
 
 msgid "421"
-msgstr "Celui qui ne possède rien, ni devant, ni derrière, ni dans le milieu, qui ne possède absolument rien — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui ne possède rien, ni devant, ni derrière, ni dans le milieu, qui ne possède absolument rien — celui-là, je le dis ' un Brâhmana '."
 
 msgid "422"
-msgstr "Celui qui, semblable à un taureau, est supérieur à tous, le Héros, le Chantre inspiré, le Triomphateur, celui qui est exempt de désirs, le Purifié, l'Éveillé — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui, semblable à un taureau, est supérieur à tous, le Héros, le Chantre inspiré, le Triomphateur, celui qui est exempt de désirs, le Purifié, l'Éveillé — celui-là, je le dis ' un Brâhmana '."
 
 msgid "423"
-msgstr "Celui qui connaît ses anciens domiciles, dont la vue embrasse le ciel et l'enfer, qui a atteint le terme des renaissances, qui est arrivé dans la solitude à la Science Parfaite, celui qui, en toutes choses, est arrivé à la Perfection — celui-là, je le dis « un Brâhmana »."
+msgstr "Celui qui connaît ses anciens domiciles, dont la vue embrasse le ciel et l'enfer, qui a atteint le terme des renaissances, qui est arrivé dans la solitude à la Science Parfaite, celui qui, en toutes choses, est arrivé à la Perfection — celui-là, je le dis ' un Brâhmana '."

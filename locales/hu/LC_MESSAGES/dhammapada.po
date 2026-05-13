@@ -22,10 +22,10 @@ msgid "2"
 msgstr "A szív irányítja a dharmákat, felettük áll, azok belőle származnak. A tiszta szívvel cselekvő, tiszta szívvel beszélő ember nyomában boldogság jár, mely éppúgy elválaszthatatlan tőle, mint az árnyék."
 
 msgid "3"
-msgstr "„Sértegetett engem, megvert engem, legyőzött engem, kirabolt engem!” Akik ilyen gondolatokat ápolnak magukban, azokban sohasem szűnik meg a gyűlölet."
+msgstr "'Sértegetett engem, megvert engem, legyőzött engem, kirabolt engem!' Akik ilyen gondolatokat ápolnak magukban, azokban sohasem szűnik meg a gyűlölet."
 
 msgid "4"
-msgstr "„Sértegetett engem, megvert engem, legyőzött engem, kirabolt engem!” Akik nem ápolnak ilyen gondolatokat, azokban meg fog szűnni a gyűlölet."
+msgstr "'Sértegetett engem, megvert engem, legyőzött engem, kirabolt engem!' Akik nem ápolnak ilyen gondolatokat, azokban meg fog szűnni a gyűlölet."
 
 msgid "5"
 msgstr "A gyűlöletet sohasem szünteti meg gyűlölet, csak a szeretet. — Ez az örökkévaló Törvény."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Az erényes örvend e világban, s örvend a következőben, öröme kétszeres, a szíve ujjong, saját cselekedeteinek tisztasága ragyog vissza rá."
 
 msgid "17"
-msgstr "A bűnös szenved e világban, s szenved a következőben, kétszeresen szenved. Kínozza a lelkiismeret: „bűnt követtem el.” A pokolba jutván még nagyobb a kínja."
+msgstr "A bűnös szenved e világban, s szenved a következőben, kétszeresen szenved. Kínozza a lelkiismeret: 'bűnt követtem el.' A pokolba jutván még nagyobb a kínja."
 
 msgid "18"
-msgstr "Az erényes örvend e világban, s örvend a következőben, öröme kétszeres. Lelkiismerete tiszta: „jót cselekedtem.” A mennybe jutván öröme csak növekszik."
+msgstr "Az erényes örvend e világban, s örvend a következőben, öröme kétszeres. Lelkiismerete tiszta: 'jót cselekedtem.' A mennybe jutván öröme csak növekszik."
 
 msgid "19"
 msgstr "Akárhány szent himnuszt zenghet az ajka, ha rest megfelelően cselekedni, nem vallásos. Olyan, mint az a pásztor, aki más marháit számolgatja."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Ha útja során nem találkozna kiválóbb vagy egyenrangú mesterrel, ne szegődjön ostoba mellé, inkább szilárd elhatározással folytassa egyedül az útját!"
 
 msgid "62"
-msgstr "Az ostobát kínozza a gondolat: „ezek az én fiaim,’’ „ez a vagyon az enyém.” Valójában azonban még saját magával sem rendelkezik. Hogyan rendelkezhetne akkor a fiaival, hogyan lehetne a gazdagság az övé?"
+msgstr "Az ostobát kínozza a gondolat: 'ezek az én fiaim,’’ 'ez a vagyon az enyém.' Valójában azonban még saját magával sem rendelkezik. Hogyan rendelkezhetne akkor a fiaival, hogyan lehetne a gazdagság az övé?"
 
 msgid "63"
 msgstr "Az az ostoba, aki tisztában van ostobaságával — legalább ebben az egy vonatkozásban — bölcs. De aki annyira ostoba, hogy még bölcsnek is hiszi magát, az valóban rászolgált az ostoba névre."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Hiába éri az embert csupa kellemetlen dolog, amíg jótettének gyümölcse beérik; mihelyt a jótett meghozza gyümölcsét, a jó megtapasztalja, mi a boldogság."
 
 msgid "121"
-msgstr "Senki ne becsülje le a bűnt, mondván: „Ó, nekem a közelembe se férkőzhet!” A vizeskanna akkor is megtelik, ha csak cseppenként hullik bele a víz; épp így megtelik az ostoba bűnnel, még ha apránként gyűlik is össze."
+msgstr "Senki ne becsülje le a bűnt, mondván: 'Ó, nekem a közelembe se férkőzhet!' A vizeskanna akkor is megtelik, ha csak cseppenként hullik bele a víz; épp így megtelik az ostoba bűnnel, még ha apránként gyűlik is össze."
 
 msgid "122"
-msgstr "Senki ne becsülje le a jóságot, mondván: „Én már a közelébe se kerülhetek a jónak!” A vizeskanna akkor is megtelik, ha csak cseppenként hullik bele a víz. A bölcs éppígy megtelik jóval, még ha apránként gyűlik is össze."
+msgstr "Senki ne becsülje le a jóságot, mondván: 'Én már a közelébe se kerülhetek a jónak!' A vizeskanna akkor is megtelik, ha csak cseppenként hullik bele a víz. A bölcs éppígy megtelik jóval, még ha apránként gyűlik is össze."
 
 msgid "123"
 msgstr "Amikor sok kincset szállít és nincs erős kísérete, a kereskedő megpróbálja elkerülni a veszélyes utat; aki szereti az életét, igyekszik elkerülni a mérgeket — ugyanígy a bölcs is távol tartja magát a bűntől."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Akiben erény és belátás lakozik, aki a Törvényben alapozta meg magát, hű marad az igazsághoz, s a küldetését teljesíti, azt szeretni fogják az emberek."
 
 msgid "218"
-msgstr "Szívében vágy ébredt a Kimondhatatlan után, elméje áthatottá vált, elfordult a gyönyöröktől, nem béklyózzák többé érzéki vágyak, róla mondják: „az árral szemben halad”."
+msgstr "Szívében vágy ébredt a Kimondhatatlan után, elméje áthatottá vált, elfordult a gyönyöröktől, nem béklyózzák többé érzéki vágyak, róla mondják: 'az árral szemben halad'."
 
 msgid "219"
 msgstr "A messzi útról hazatérő túláradó örömmel fogadják rokonai, barátai, s mindazok, akiknek szívéhez közel áll."
@@ -742,7 +742,7 @@ msgid "226"
 msgstr "Akik szüntelenül éberek, akik keresve kutatnak éjjel és nappal, akik a Nirvána felé törekednek, azoknak végül megszűnik minden szenvedésük."
 
 msgid "227"
-msgstr "Nem mai, hanem réges-régi mondás ez, Atula: „Szidalmazzák, ki némán ül, szidalmazzák, ki sokat beszél, s szidalmazzák, ki mértékkel szól.” Nincs a Földön olyan ember, akit ne szidnának valamiért."
+msgstr "Nem mai, hanem réges-régi mondás ez, Atula: 'Szidalmazzák, ki némán ül, szidalmazzák, ki sokat beszél, s szidalmazzák, ki mértékkel szól.' Nincs a Földön olyan ember, akit ne szidnának valamiért."
 
 msgid "228"
 msgstr "Nem volt, nincs, és nem is lesz olyan ember, aki egész életében csak szidást kap, vagy csak dicséretet."
@@ -847,7 +847,7 @@ msgid "259"
 msgstr "Nem a sok beszédétől lesz valaki a Törvény támaszává, hanem azáltal, hogy a Törvény szerint cselekszik, még ha keveset hallott is róla. Aki sohasem szegi meg a Törvényt, az a Törvény támasza."
 
 msgid "260"
-msgstr "Nem attól lesz valaki a vének-közül-való, mert a haja megőszült; ha csak a fiatalsága ért véget, azt mondják róla: „hiába öregedett meg.”"
+msgstr "Nem attól lesz valaki a vének-közül-való, mert a haja megőszült; ha csak a fiatalsága ért véget, azt mondják róla: 'hiába öregedett meg.'"
 
 msgid "261"
 msgstr "Akiben igazság, erény, nem–ártás lakozik, aki önmagát megfékezte, s önuralomra tett szert, azt hívják vének-közül-valónak az emberek."
@@ -883,7 +883,7 @@ msgid "271"
 msgstr "Pusztán erényes életmód, lemondás és sok tanulás, a magányba vonulás és a révületbe merülés"
 
 msgid "272"
-msgstr "ne töltsön el e tévhittel, szerzetesek: „Boldog vagyok, megváltottam magam“ – amíg él bennetek az indulat."
+msgstr "ne töltsön el e tévhittel, szerzetesek: 'Boldog vagyok, megváltottam magam' – amíg él bennetek az indulat."
 
 msgid "chap20"
 msgstr "Út"
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Tépd el az átmanhoz-ragaszkodás kötelékét, ahogyan a hófehér, őszi lótuszvirágot leszakítja kezed; ápold a béke útját, a Nirvánát, amit megmutatott a Beérkezett."
 
 msgid "286"
-msgstr "„Majd itt maradok az esős évszakban, s itt maradok télen és a forró nyárban is” — így gondolkodik magában az ostoba, s nem veszi észre a Halál csapdáját."
+msgstr "'Majd itt maradok az esős évszakban, s itt maradok télen és a forró nyárban is' — így gondolkodik magában az ostoba, s nem veszi észre a Halál csapdáját."
 
 msgid "287"
 msgstr "Halál leselkedik arra az emberre, akit megrészegített a sok gyerek és a sok jószág, akinek elméjét megzavarta a világ, mintha árvíz leselkedne az alvó városra."
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "Pokol"
 
 msgid "306"
-msgstr "Aki a hazugságban leli örömét, pokolra jut, miként az is, aki azt teszi, amiről hajtogatja, „nem teszem.” Miután eltávoznak ebből a világból, mindkettőjük sorsa ugyanaz lesz a következőben."
+msgstr "Aki a hazugságban leli örömét, pokolra jut, miként az is, aki azt teszi, amiről hajtogatja, 'nem teszem.' Miután eltávoznak ebből a világból, mindkettőjük sorsa ugyanaz lesz a következőben."
 
 msgid "307"
 msgstr "Sokan anélkül veszik fel a sárga ruhát, hogy előtte megfékezték volna önmagukat, és bűnös természetük továbbra is megmarad. E bűnösöket a pokolba juttatják bűneik."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "A koldus kevéssel is megelégszik, nem becsüli le, amije van. Az istenek is dicsérik őt, a tiszta életűt, a fáradhatatlant."
 
 msgid "367"
-msgstr "Aki soha, semmilyen „név-formát” nem tekint a sajátjának, s nem szenved attól, ami nemlétező, koldusnak azt hívják az emberek."
+msgstr "Aki soha, semmilyen 'név-formát' nem tekint a sajátjának, s nem szenved attól, ami nemlétező, koldusnak azt hívják az emberek."
 
 msgid "368"
 msgstr "A szeretet örömében élő koldus a Buddha példáját követve lecsillapul, rátalál az Útra, eléri a Csendességet, a szankhárák megszűnését, a boldogságot."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Ó koldus, ürítsd ki ezt a csónakot! Lám üresen milyen könnyedén mozog! Ha a gyűlölet s a szenvedély kötelékét elvágod, eléred a Nirvánát."
 
 msgid "370"
-msgstr "Tépjen el ötöt, mondjon le ötről, fejlesszen ki ötöt a koldus! Ha leküzdötte az öt köteléket, azt mondják róla, „átkelt a folyamon.”"
+msgstr "Tépjen el ötöt, mondjon le ötről, fejlesszen ki ötöt a koldus! Ha leküzdötte az öt köteléket, azt mondják róla, 'átkelt a folyamon.'"
 
 msgid "371"
-msgstr "Szüntelen meditálj, soha ne csüggedj, ne hagyd elveszni a gyönyörökben elméd; restként ne kelljen vasgolyót lenyelned, s lángok között sírnod: „kínszenvedés ez!”"
+msgstr "Szüntelen meditálj, soha ne csüggedj, ne hagyd elveszni a gyönyörökben elméd; restként ne kelljen vasgolyót lenyelned, s lángok között sírnod: 'kínszenvedés ez!'"
 
 msgid "372"
 msgstr "Nincs meditáció Tudás nélkül, s nincs Tudás meditáció nélkül. Akiben mindkettő megvan, ahhoz közel van a Nirvána."

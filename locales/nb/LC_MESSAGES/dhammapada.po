@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Tanken går forut for alle ting, tanken styrer dem, tanken skaper dem. Så trofast som hans egen skygge, vil lykken alltid følge den som taler og handler med gode tanker."
 
 msgid "3"
-msgstr "«Han hånte meg og slo meg, beseiret meg og plyndret meg.» Hos de som går og tenker slik, tar hatet aldri slutt."
+msgstr "'Han hånte meg og slo meg, beseiret meg og plyndret meg.' Hos de som går og tenker slik, tar hatet aldri slutt."
 
 msgid "4"
-msgstr "«Han hånte meg og slo meg, beseiret meg og plyndret meg.» Hos de som ikke tenker slik, dør hatet stille bort."
+msgstr "'Han hånte meg og slo meg, beseiret meg og plyndret meg.' Hos de som ikke tenker slik, dør hatet stille bort."
 
 msgid "5"
 msgstr "For aldri kan vel dette skje: at hat tar slutt av mere hat. Av vennlighet tar hatet slutt; det er en evig lov."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Han gleder seg her og han gleder seg siden — den som gjør godt, han gleder seg dobbelt. Han er glad og lykkelig når han ser hvor rene hans gjerninger er."
 
 msgid "17"
-msgstr "Han lider her og han lider siden; den som gjør ondt, lider dobbelt. «Ondt har jeg gjort!» — slik lider han, og enda verre blir lidelsen når han kommer i ulykkelige kår."
+msgstr "Han lider her og han lider siden; den som gjør ondt, lider dobbelt. 'Ondt har jeg gjort!' — slik lider han, og enda verre blir lidelsen når han kommer i ulykkelige kår."
 
 msgid "18"
-msgstr "Han fryder seg her og han fryder seg siden; den som gjør godt, han fryder seg dobbelt. «Godt har jeg gjort!» — slik fryder han seg, og enda større blir fryden når han kommer i lykkelige kår."
+msgstr "Han fryder seg her og han fryder seg siden; den som gjør godt, han fryder seg dobbelt. 'Godt har jeg gjort!' — slik fryder han seg, og enda større blir fryden når han kommer i lykkelige kår."
 
 msgid "19"
 msgstr "Hvis noen flittig kan sitere skriften, men selv er slapp og ikke gjør deretter, han er som gjeteren som teller andres kveg; selv har han ingen del i fellesskapet."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Hvis ikke du finner på ferden din en som deg selv, eller bedre, så gå da i fasthet ensomt din vei; i dårer er intet selskap."
 
 msgid "62"
-msgstr "«Sønner har jeg, og rikdom med!» — slik skaffer dåren seg bry. For ingen er det som eier seg selv — hva så med sønner og rikdom?"
+msgstr "'Sønner har jeg, og rikdom med!' — slik skaffer dåren seg bry. For ingen er det som eier seg selv — hva så med sønner og rikdom?"
 
 msgid "63"
 msgstr "Den dåre som innser sin dårskap, er nettopp i dette en vismann. Men dåren som tror han er vis — han er i sannhet en dåre."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "På falske premisser vil dåren berømmes, blant bhikkhuer ønsker han aktelse, i hjemmet vil han ha ledelsen og av andre folk ønsker han ære."
 
 msgid "74"
-msgstr "«Både borger og munk skal mene at dette er bare mitt verk. Meg skal de følge som leder i alle ting, store som små.» Slik er en dåres ærgjerrighet, hans stolthet og krav bare vokser."
+msgstr "'Både borger og munk skal mene at dette er bare mitt verk. Meg skal de følge som leder i alle ting, store som små.' Slik er en dåres ærgjerrighet, hans stolthet og krav bare vokser."
 
 msgid "75"
 msgstr "En vei fører til ytre vinning, en annen vei til nibbana. Når bhikkhuen, Buddhas elev, har sett dette slik som det er, da finner han ikke lenger glede i verdslige æresbevisninger, men utvikler selvstendighet."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Selv den gode kan ha det ille så lenge det gode ikke er modnet, men når det gode modnes, da får den gode det godt."
 
 msgid "121"
-msgstr "Man bør ikke undervurdere det onde og tenke: «Det kommer nok ikke til meg.» For selv ei vannkrukke fylles til slutt av dråper som faller en etter en, så selv om han samler det litt etter litt, så fylles en dåre av ondskap."
+msgstr "Man bør ikke undervurdere det onde og tenke: 'Det kommer nok ikke til meg.' For selv ei vannkrukke fylles til slutt av dråper som faller en etter en, så selv om han samler det litt etter litt, så fylles en dåre av ondskap."
 
 msgid "122"
-msgstr "Man bør ikke undervurdere det gode og tenke: «Det kommer nok ikke til meg.» For selv ei vannkrukke fylles til slutt av dråper som faller en etter en, så selv om han samler det litt etter litt, så fylles den gode av godhet."
+msgstr "Man bør ikke undervurdere det gode og tenke: 'Det kommer nok ikke til meg.' For selv ei vannkrukke fylles til slutt av dråper som faller en etter en, så selv om han samler det litt etter litt, så fylles den gode av godhet."
 
 msgid "123"
 msgstr "En kjøpmann som fører verdifull last og bare har få i sitt følge, han holder seg unna farlige veier; og den som har livet kjært, han holder seg unna gift — slik bør man holde seg vekk fra det onde."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Skjær over egenkjærligheten slik som du plukker høstens lotus. La fredens veier føre deg fram til nibbana, det som Buddha har pekt på."
 
 msgid "286"
-msgstr "«Her skal jeg bo i regntida, og her gjennom sommer og vinter.» Slik tenker dåren og innser ikke at noe kan komme i veien."
+msgstr "'Her skal jeg bo i regntida, og her gjennom sommer og vinter.' Slik tenker dåren og innser ikke at noe kan komme i veien."
 
 msgid "287"
 msgstr "Den mann som fylt av higen beruses av sønner og buskap, han overraskes av døden som en sovende landsby av flom."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Skjær over fem, kvitt deg med fem, fem andre bør du utvikle. Den bhikkhu som frir seg fra hindringer fem kalles en som har krysset floden."
 
 msgid "371"
-msgstr "Mediter, bhikkhu, og vær ikke slapp! La ikke tankene kretse om sanseytelser, så ikke du i din tankeløshet skal tvinges å svelge ei glødende kule av jern, og ikke skal rope: «Dette gjør vondt!» mens du brenner."
+msgstr "Mediter, bhikkhu, og vær ikke slapp! La ikke tankene kretse om sanseytelser, så ikke du i din tankeløshet skal tvinges å svelge ei glødende kule av jern, og ikke skal rope: 'Dette gjør vondt!' mens du brenner."
 
 msgid "372"
 msgstr "Det finnes ingen konsentrasjon for den som mangler innsikt. Det finnes ingen innsikt for den som ikke har konsentrasjon. Men den som har både konsentrasjon og innsikt, han er nibbana nær."

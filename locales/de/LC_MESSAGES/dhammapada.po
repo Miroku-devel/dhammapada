@@ -22,16 +22,16 @@ msgid "2"
 msgstr "Der Geist den Dingen geht voran, die Geist geprägt, die Geist gemacht. Wer da mit klarem, stillem Geist zu andern spricht und Werke tut, so folgt von da das Glück ihm nach, wie Schatten, der nicht schwinden kann."
 
 msgid "3"
-msgstr "„Er schimpfte mich! Schlug auf mich ein! Besiegte mich! Beraubte mich!“ Die alle hegen solchen Groll, der Haß wird denen niemals still."
+msgstr "'Er schimpfte mich! Schlug auf mich ein! Besiegte mich! Beraubte mich!' Die alle hegen solchen Groll, der Haß wird denen niemals still."
 
 msgid "4"
-msgstr "„Er schimpfte mich! Schlug auf mich ein! Besiegte mich! Beraubte mich!“ Die alle hegen keinen Groll, der Haß wird denen völlig still."
+msgstr "'Er schimpfte mich! Schlug auf mich ein! Besiegte mich! Beraubte mich!' Die alle hegen keinen Groll, der Haß wird denen völlig still."
 
 msgid "5"
 msgstr "Nicht kommt durch Haß das Hassen je zur Ruhe hier in dieser Welt, durch Nichthaß wird das Hassen still, das ist ein ewiges Gesetz."
 
 msgid "6"
-msgstr "Die anderen begreifen nicht: „Laßt uns den Tod hier immer sehn!“ Doch denen, die begreifen dort, die Kämpfe werden endlich still."
+msgstr "Die anderen begreifen nicht: 'Laßt uns den Tod hier immer sehn!' Doch denen, die begreifen dort, die Kämpfe werden endlich still."
 
 msgid "7"
 msgstr "Wer lebt, nur immer Schönheit sieht, unkontrolliert im Sinnendrang, beim Essen ohne jedes Maß, voll Trägheit, ohne Energie, den, wahrlich, Māro überkommt, wie Wind den Baum von schwacher Kraft."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Hier freut er sich, und nach dem Tode freut er sich, wer Gutes tat, freut sich an beiden Orten,— er freut sich, freut sich immer tiefer, hat er gesehn die reine Tat des Selbst."
 
 msgid "17"
-msgstr "Hier quält er sich, und nach dem Tode quält er sich, der Schlechtestuer quält sich stets an beiden Orten. „Das Schlechte habe ich getan“—so quält er sich, mehr quält es ihn, daß schlechter Weg gegangen."
+msgstr "Hier quält er sich, und nach dem Tode quält er sich, der Schlechtestuer quält sich stets an beiden Orten. 'Das Schlechte habe ich getan'—so quält er sich, mehr quält es ihn, daß schlechter Weg gegangen."
 
 msgid "18"
-msgstr "Hier ist er froh, und nach dem Tode ist er froh, wer Gutes tat, ist froh an beiden Orten. „Das Gute habe ich getan“—so ist er froh, mehr macht ihn froh, daß guter Weg gegangen."
+msgstr "Hier ist er froh, und nach dem Tode ist er froh, wer Gutes tat, ist froh an beiden Orten. 'Das Gute habe ich getan'—so ist er froh, mehr macht ihn froh, daß guter Weg gegangen."
 
 msgid "19"
 msgstr "Spricht einer viel, stimmt immer überein, doch ist kein Tuer, ist ein träger Mann, dem Kuhhirt gleich, der andrer Kühe zählt, hat er nicht teil an dem Asketentum."
@@ -211,10 +211,10 @@ msgid "61"
 msgstr "Trifft einer auf dem Lebensgang den Besseren, den Gleichen nicht, so mach' er den Alleingang stark, beim Toren gibt es Freundschaft nicht."
 
 msgid "62"
-msgstr "„Ich habe Söhne, ich bin reich!“ So wird geschlagen schwer der Tor. Das Selbst gehört dem Selbst nicht an,— woher der Sohn? Reichtum woher?"
+msgstr "'Ich habe Söhne, ich bin reich!' So wird geschlagen schwer der Tor. Das Selbst gehört dem Selbst nicht an,— woher der Sohn? Reichtum woher?"
 
 msgid "63"
-msgstr "Der Tor, der an die Torheit denkt, der ist wohl fast ein Weiser schon,— jedoch ein Tor mit Weisenstolz, der wird mit Recht „ein Tor“ genannt."
+msgstr "Der Tor, der an die Torheit denkt, der ist wohl fast ein Weiser schon,— jedoch ein Tor mit Weisenstolz, der wird mit Recht 'ein Tor' genannt."
 
 msgid "64"
 msgstr "Wenn auch ein Tor sein Leben lang dem Weisen dient und ihn verehrt: nicht der die Lehre recht versteht, wie Löffel nicht die Suppe schmeckt."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Nicht achtsam möchte er sich wünschen viel Anerkennung bei den Mönchen,— bestimmen will er, wo sie wohnen, verehrt sein von Familien andrer."
 
 msgid "74"
-msgstr "„Was ich getan, bedenken mögen Hausleute und Hauslose, beide, nach meinem Willen ganz und gar sie mögen mir zu Diensten sein.“ So ist des Toren Denkensart, und Wunsch und Stolz vermehren sich."
+msgstr "'Was ich getan, bedenken mögen Hausleute und Hauslose, beide, nach meinem Willen ganz und gar sie mögen mir zu Diensten sein.' So ist des Toren Denkensart, und Wunsch und Stolz vermehren sich."
 
 msgid "75"
 msgstr "Ein Mittel ist Gewinn von Gaben, das andre leitet zum Nibbānam. Wer dieses tief in sich erkannt, ein Mönch, ein Jünger des Erwachten, erfreu' sich an Verehrung nicht, die Einsamkeit entfalte er."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Der Gute auch sieht mal das Schlechte, solang das Gute nicht gereift, doch wenn gereift das gute Tun, dann sieht er erst, was Gutes bringt."
 
 msgid "121"
-msgstr "Man denke nicht gering vom Schlechten: „Nicht wird zu mir das schon gelangen!“ Mit stetem Wassertropfenfall füllt schließlich sich der Wasserkrug."
+msgstr "Man denke nicht gering vom Schlechten: 'Nicht wird zu mir das schon gelangen!' Mit stetem Wassertropfenfall füllt schließlich sich der Wasserkrug."
 
 msgid "122"
-msgstr "Man denke nicht gering vom Guten: „Nicht wird zu mir das schon gelangen!“ Mit stetem Wassertropfenfall füllt schließlich sich der Wasserkrug."
+msgstr "Man denke nicht gering vom Guten: 'Nicht wird zu mir das schon gelangen!' Mit stetem Wassertropfenfall füllt schließlich sich der Wasserkrug."
 
 msgid "123"
 msgstr "Gleichwie ein Kaufmann Straßen fürchtet, hat kaum er Waffen, reich an Schätzen,— wie Leben Wünschender das Gift, vermeide man das Tun des Schlechten."
@@ -610,7 +610,7 @@ msgid "185"
 msgstr "Verleugnend nicht, verletzend nicht, gezügelt in der Lehre Regeln, das Maß auch kennen bei dem Mahl, in Einsamkeit der Lager-Sitz, an hohes Denken hingegeben,— das ist die Botschaft der Erwachten."
 
 msgid "186"
-msgstr "Auch nicht durch einen Regen Geld gibt es bei Sinnesdrängen Ruh',— „nur wenig süß, leidvoll das Drängen“, wird so der Weise sich bewußt."
+msgstr "Auch nicht durch einen Regen Geld gibt es bei Sinnesdrängen Ruh',— 'nur wenig süß, leidvoll das Drängen', wird so der Weise sich bewußt."
 
 msgid "187"
 msgstr "So findet er in Himmelsdrängen nicht einmal seine Freude mehr, nur durstausdörrungsfroh ist er, der Jünger ist des ganz Erwachten."
@@ -655,7 +655,7 @@ msgid "199"
 msgstr "Ach, wie so glücklich leben wir, bei Gierigen ganz ohne Gier! Bei jenen Menschen, die voll Gier, wir wollen immer gierfrei sein!"
 
 msgid "200"
-msgstr "Ach, wie so glücklich leben wir, nicht gibt es für uns Irgendwas! Wir werden uns von Freude nähren und wie die „Strahlengötter“ sein!"
+msgstr "Ach, wie so glücklich leben wir, nicht gibt es für uns Irgendwas! Wir werden uns von Freude nähren und wie die 'Strahlengötter' sein!"
 
 msgid "201"
 msgstr "Wer siegt, bringt immer Haß hervor, im Leiden wohnt stets der Besiegte,— der Stillgewordne wohnt im Glück, von Sieg und Niederlage frei."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Den, der die Tugend-Einsicht hat, den Lehr-Sinn, Wahrheit Sprechenden, den, der das Werk des Selbstes tut, den haben alle Menschen gern."
 
 msgid "218"
-msgstr "Wem Wille wächst beim Unerklärten, und ist im Geist davon berührt, wer bei den Sinnen sich das Herz nicht bindet, der wird genannt „stromaufwärtslebend“."
+msgstr "Wem Wille wächst beim Unerklärten, und ist im Geist davon berührt, wer bei den Sinnen sich das Herz nicht bindet, der wird genannt 'stromaufwärtslebend'."
 
 msgid "219"
 msgstr "Den Mann, der lange fortgewesen, von ferne glücklich angekommen, Verwandte, Freunde in der Schar, umjubeln den, der angekommen."
@@ -838,46 +838,46 @@ msgid "256"
 msgstr "Nicht dadurch ist man Lehr-Sinn-kundig, daß man den Sinn versteh'n will schnell,— doch wer da Sinn und Gegensinn, wer beides recht erforscht, der Weise,"
 
 msgid "257"
-msgstr "mit Sanftmut, mit der guten Lehre, mit tiefer Ruhe andre leitet, im Schutz der Lehre, er, der Kluge,— der „Lehr-Sinn-kundig“ wird genannt."
+msgstr "mit Sanftmut, mit der guten Lehre, mit tiefer Ruhe andre leitet, im Schutz der Lehre, er, der Kluge,— der 'Lehr-Sinn-kundig' wird genannt."
 
 msgid "258"
-msgstr "Nicht dadurch ist man Weiser schon, sofern man viel und reichlich spricht,— wer friedvoll, haßlos, ohne Furcht, der wird „ein Weiser“ wohl genannt."
+msgstr "Nicht dadurch ist man Weiser schon, sofern man viel und reichlich spricht,— wer friedvoll, haßlos, ohne Furcht, der wird 'ein Weiser' wohl genannt."
 
 msgid "259"
 msgstr "Nicht dadurch ist man Dhamma-Kenner, sofern man viel und reichlich spricht,— hat einer wenig nur gehört und sieht die Lehre mit dem Leib: der wahrlich ist ein Dhamma-Kenner, ist bei der Lehre niemals lässig."
 
 msgid "260"
-msgstr "Nicht dadurch ist man schon ein Thero, daß auf dem Kopf das Haar ergraut,— das Alter ist herangereift, doch wird's genannt „umsonst gealtert.“"
+msgstr "Nicht dadurch ist man schon ein Thero, daß auf dem Kopf das Haar ergraut,— das Alter ist herangereift, doch wird's genannt 'umsonst gealtert.'"
 
 msgid "261"
-msgstr "In wem die Lehre lebt, die Wahrheit, die Sanftmut, Zügelung und Zähmung, der ist wohl weise, frei von Schmutz, der „Thero“ wird mit Recht genannt."
+msgstr "In wem die Lehre lebt, die Wahrheit, die Sanftmut, Zügelung und Zähmung, der ist wohl weise, frei von Schmutz, der 'Thero' wird mit Recht genannt."
 
 msgid "262"
 msgstr "Nicht durch das Maß an schönen Worten, auch nicht durch lotusgleiche Pracht, ist wohlgestaltet schon ein Mann, der neidisch, geizig, böse ist."
 
 msgid "263"
-msgstr "Bei wem das abgeschnitten ist, samt Wurzel ist zerstört, entfernt, der Weise, der da frei von Haß, der „wohlgestaltet“ wird genannt."
+msgstr "Bei wem das abgeschnitten ist, samt Wurzel ist zerstört, entfernt, der Weise, der da frei von Haß, der 'wohlgestaltet' wird genannt."
 
 msgid "264"
 msgstr "Nicht durch den Kahlkopf ist Asket man, wenn haltlos man nur Lüge spricht,— wer voller Wünsche, voller Gier, wie wird der ein Asket wohl sein?"
 
 msgid "265"
-msgstr "Wer alles Schlechte recht erkennt, das feine, grobe, ganz und gar, das Schlechte brachte ganz zur Ruh', der wird mit Recht „Asket“ genannt."
+msgstr "Wer alles Schlechte recht erkennt, das feine, grobe, ganz und gar, das Schlechte brachte ganz zur Ruh', der wird mit Recht 'Asket' genannt."
 
 msgid "266"
 msgstr "Nicht dadurch ist man Bhikkhu schon, daß man bei andern betteln geht,— die ganze Lehre auf sich nehmend, ist Bhikkhu man und nicht durch jenes."
 
 msgid "267"
-msgstr "Wer Gutes hier und Schlechtes auch fernhält im reinen Brahmaleben, bedacht sich in der Welt bewegt, der, wahrlich, „Bhikkhu“ wird genannt."
+msgstr "Wer Gutes hier und Schlechtes auch fernhält im reinen Brahmaleben, bedacht sich in der Welt bewegt, der, wahrlich, 'Bhikkhu' wird genannt."
 
 msgid "268"
 msgstr "Nicht durch das Schweigen ist man Muni, dabei verwirrt und garnicht weise,— doch wer, wie von gehaltner Waage, das Beste an sich nimmt, der Weise,"
 
 msgid "269"
-msgstr "sich fernhält von den schlechten Dingen, der ist ein Muni, dadurch Muni. Wer beide Welten tief erkennt, der dadurch „Muni“ wird genannt."
+msgstr "sich fernhält von den schlechten Dingen, der ist ein Muni, dadurch Muni. Wer beide Welten tief erkennt, der dadurch 'Muni' wird genannt."
 
 msgid "270"
-msgstr "Nicht dadurch ist ein Edler man, daß man die Lebewesen quält,— durch Schonung aller Lebewesen wird man „ein Edler“ wohl genannt."
+msgstr "Nicht dadurch ist ein Edler man, daß man die Lebewesen quält,— durch Schonung aller Lebewesen wird man 'ein Edler' wohl genannt."
 
 msgid "271"
 msgstr "Nicht durch das Maß der Tugendregel, und wieder nicht durch Viel an Wahrheit, dann nicht durch den Gewinn der Sammlung, nicht durch das abgeschiedne Lager"
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Ihr solltet selber euch bemühn, Erklärer sind Tathāgatas,— die Wegverfolger werden frei, Vertiefer lösen Māros Fesseln."
 
 msgid "277"
-msgstr "„Sankhāras alle sind vergänglich.“ Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
+msgstr "'Sankhāras alle sind vergänglich.' Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
 
 msgid "278"
-msgstr "„Sankhāras alle leidvoll sind.“ Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
+msgstr "'Sankhāras alle leidvoll sind.' Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
 
 msgid "279"
-msgstr "„Die Dhammas all' sind nicht das SELBST.“ Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
+msgstr "'Die Dhammas all' sind nicht das SELBST.' Wenn man mit Weisheit das durchschaut, dann wird verdrossen man am Leiden. Das ist der Weg zur Reinigung."
 
 msgid "280"
 msgstr "Zur Aufstehzeit, wer da sich nicht erhebt, noch jung, voll Kraft, zur Faulheit nur gelangt, erschöpft der Geist und die Gesinnung, träge,— der Weisheit Weg ein Fauler findet nicht."
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "Die Hölle"
 
 msgid "306"
-msgstr "Wer unwahr spricht, gelangt ins Höllenreich und auch, wer was getan, sagt: „Tat es nicht!“ Gestorben, sind sie beide völlig gleich in andrer Welt, die Menschen schlechten Wirkens."
+msgstr "Wer unwahr spricht, gelangt ins Höllenreich und auch, wer was getan, sagt: 'Tat es nicht!' Gestorben, sind sie beide völlig gleich in andrer Welt, die Menschen schlechten Wirkens."
 
 msgid "307"
 msgstr "Gelbnacken gibt es viele wohl, die schlechter Art und ungezügelt,— die Schlechten durch die schlechten Taten erzeugen in sich Höllenreich."
@@ -1051,7 +1051,7 @@ msgid "323"
 msgstr "Nicht wohl mit diesen Fahrzeugen man kommt zum unerreichten Punkt, wie durch das wohlgezähmte Selbst Gezähmter mit Gezähmtem kommt."
 
 msgid "324"
-msgstr "„Schatzhüter“ ist der Elefant genannt, nur hart zu brechen ist er, schwer zu hemmen, gefesselt frißt er nicht das kleinste Bißchen, erinnert sich an seinen Elefantenwald."
+msgstr "'Schatzhüter' ist der Elefant genannt, nur hart zu brechen ist er, schwer zu hemmen, gefesselt frißt er nicht das kleinste Bißchen, erinnert sich an seinen Elefantenwald."
 
 msgid "325"
 msgstr "Wenn einer träge ist, ein großer Esser, ein Schläfer, der nur liegt, sich hin und her wälzt, gleichwie ein großer Eber, voll gemästet,— stets wieder in den Schoß geht solch ein Dummkopf."
@@ -1138,7 +1138,7 @@ msgid "351"
 msgstr "Zum Ziel gelangt, ganz ohne Furcht, befreit vom Durst und makellos, zerbrach er alle Werdenspfeile: dies ist der letzte Körperhaufen."
 
 msgid "352"
-msgstr "Befreit vom Durst, ganz ohne Greifen, Ursprachespuren weiser Kenner,— die rechte Stellung aller Wörter, die weiß er, was zuerst, was dann: der wahrlich ist ein Letztleibträger, wird „großer Weiser“ so genannt."
+msgstr "Befreit vom Durst, ganz ohne Greifen, Ursprachespuren weiser Kenner,— die rechte Stellung aller Wörter, die weiß er, was zuerst, was dann: der wahrlich ist ein Letztleibträger, wird 'großer Weiser' so genannt."
 
 msgid "353"
 msgstr "Allüberwinder, Allerkenner bin ich, von allen Dingen bleib ich unbefleckt,— all-lassend bin vom Durst ich ganz befreit, hab selbst erkannt, auf wen wohl sollt' ich mich berufen."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Wenn wenig nur bekommt ein Mönch, was er bekommt, verachtet nicht, den wahrlich loben alle Götter, den rein nur Lebenden, nicht Matten."
 
 msgid "367"
-msgstr "Wer ganz und gar bei Geist und Körper nicht länger denkt: „das ist mein Eigen“, und was nicht ist auch nicht beklagt, der, wahrlich, wird wohl „Mönch“ genannt."
+msgstr "Wer ganz und gar bei Geist und Körper nicht länger denkt: 'das ist mein Eigen', und was nicht ist auch nicht beklagt, der, wahrlich, wird wohl 'Mönch' genannt."
 
 msgid "368"
 msgstr "Ein Mönch, der in der Mettā bleibt, ganz klar steht in der Buddha-Lehre, der kann den Stillepfad erreichen, Sankhāras Ruhe, reines Glück."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Mach leer, Mönch, dieses ganze Schiff, was leer gemacht, wird leicht dir sein,— hast abgespalten Gier und Haß, wirst hin du zum Nibbānam gehn."
 
 msgid "370"
-msgstr "Fünf spalte ab, fűnf lasse los, fünf weitere entfalte dir,— ein Mönch, der die fünf Fährten sieht, wird „Flut-Entkommner“ wohl genannt."
+msgstr "Fünf spalte ab, fűnf lasse los, fünf weitere entfalte dir,— ein Mönch, der die fünf Fährten sieht, wird 'Flut-Entkommner' wohl genannt."
 
 msgid "371"
-msgstr "O Mönch, vertiefe dich, nicht lässig sei! Nicht solln die Sinne dir das Herz verwirbeln! Nicht schlucke sorglos eine Bronzekugel! Nicht schreie „Leiden ist das!“, wenn du brennst!"
+msgstr "O Mönch, vertiefe dich, nicht lässig sei! Nicht solln die Sinne dir das Herz verwirbeln! Nicht schlucke sorglos eine Bronzekugel! Nicht schreie 'Leiden ist das!', wenn du brennst!"
 
 msgid "372"
 msgstr "Nicht ist Vertiefung dem, der ohne Weisheit, nicht Weisheit dem, der nicht Vertiefung übt,— bei wem Vertiefung ist, bei wem auch Weisheit, der wahrlich ist ganz nahe am Nibbānam."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Wie der Jasmin die weißen Blüten, sind sie verwelkt, vom Stamme löst, genau so auch von Gier und Haß mögt ihr euch lösen, Mönche, ihr!"
 
 msgid "378"
-msgstr "Der Körper still und still die Rede, nur still und ganz und gar gesammelt,— wer Weltenköder ausgespien, der Mönch „ein Stiller“ wird genannt."
+msgstr "Der Körper still und still die Rede, nur still und ganz und gar gesammelt,— wer Weltenköder ausgespien, der Mönch 'ein Stiller' wird genannt."
 
 msgid "379"
 msgstr "Vom Selbst her sporn' das Selbst nur an, halt' durch das Selbst das Selbst zurück! Das Selbst bewacht und achtsam stets, wirst Mönch, du, nur das Glück noch leben."
@@ -1252,7 +1252,7 @@ msgid "387"
 msgstr "Tagsüber strahlt die Sonnenglut und in der Nacht, da scheint der Mond, gerüstet auch der Krieger strahlt, vertiefend sich, strahlt der Brahmane,— doch ganzen Tag und ganze Nacht der Buddho strahlt mit seinem Glanz."
 
 msgid "388"
-msgstr "„Entfernt das Schlechte“, heißt Brahmane, in Stille leben, heißt „Asket“,— er treibt des Selbstes Schmutz hinaus, darum heißt er „Hinausgetriebner“."
+msgstr "'Entfernt das Schlechte', heißt Brahmane, in Stille leben, heißt 'Asket',— er treibt des Selbstes Schmutz hinaus, darum heißt er 'Hinausgetriebner'."
 
 msgid "389"
 msgstr "Nicht den Brahmanen schlage man, nicht reiße los sich der Brahmane,— weh dem, der schlägt auf den Brahmanen, der ihn aus seiner Sammlung reißt."
@@ -1276,7 +1276,7 @@ msgid "395"
 msgstr "Den Mann, der Müllplatzfetzen trägt, den hageren, bedeckt von Adern, der einsam sich im Wald vertieft: den nenne ich Brahmanen wohl."
 
 msgid "396"
-msgstr "Nicht nenn' ich den Brahmanen wohl, der Schoß-geboren, Muttersproß,— mit „Herr“ spricht stolz er andre an, ist im Besitz von mancherlei. Wer nichts mehr hat, wer nichts mehr nimmt: den nenne ich Brahmanen wohl."
+msgstr "Nicht nenn' ich den Brahmanen wohl, der Schoß-geboren, Muttersproß,— mit 'Herr' spricht stolz er andre an, ist im Besitz von mancherlei. Wer nichts mehr hat, wer nichts mehr nimmt: den nenne ich Brahmanen wohl."
 
 msgid "397"
 msgstr "Wer jede Fessel hat zerschnitten, wer wirklich nicht erzittert mehr, wer frei von Haften, abgelöst: den nenne ich Brahmanen wohl."

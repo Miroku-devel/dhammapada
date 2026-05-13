@@ -22,10 +22,10 @@ msgid "2"
 msgstr "A mente antecede todos os estados mentais. A mente é o seu criador, pois são todos forjados pela mente. Se uma pessoa fala ou age com uma mente pura, a felicidade segue-a como uma sombra que jamais a abandona."
 
 msgid "3"
-msgstr "“Ele abusou de mim, ele bateu-me, ele dominou-me, ele roubou-me”. Aqueles que abrigam tais pensamentos não acalmam o seu ódio."
+msgstr "'Ele abusou de mim, ele bateu-me, ele dominou-me, ele roubou-me'. Aqueles que abrigam tais pensamentos não acalmam o seu ódio."
 
 msgid "4"
-msgstr "“Ele abusou de mim, ele bateu-me, ele dominou-me, ele roubou-me”. Aqueles que não abrigam tais pensamentos acalmam o seu ódio."
+msgstr "'Ele abusou de mim, ele bateu-me, ele dominou-me, ele roubou-me'. Aqueles que não abrigam tais pensamentos acalmam o seu ódio."
 
 msgid "5"
 msgstr "Neste mundo, o ódio nunca é apaziguado pelo ódio. O ódio é apaziguado unicamente através do não-ódio. Esta é uma lei eterna."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Aquele que faz o bem alegra-se no presente e no futuro; alegra-se em ambos os mundos. Relembrando as suas ações puras, ele alegra-se e exulta."
 
 msgid "17"
-msgstr "Aquele que faz o mal sofre no presente e no futuro; sofre em ambos os mundos. O pensamento “Eu fiz mal” atormenta-o, e sofre ainda mais quando renascer nos reinos de aflição."
+msgstr "Aquele que faz o mal sofre no presente e no futuro; sofre em ambos os mundos. O pensamento 'Eu fiz mal' atormenta-o, e sofre ainda mais quando renascer nos reinos de aflição."
 
 msgid "18"
-msgstr "Aquele que faz o bem rejubila no presente e no futuro; é feliz em ambos os mundos. O pensamento “Eu fiz o bem” encanta-o, e deleita-se ainda mais quando renascer nos reinos de felicidade."
+msgstr "Aquele que faz o bem rejubila no presente e no futuro; é feliz em ambos os mundos. O pensamento 'Eu fiz o bem' encanta-o, e deleita-se ainda mais quando renascer nos reinos de felicidade."
 
 msgid "19"
 msgstr "Por muito que recite os textos sagrados, se não agir nesse sentido, o homem descuidado é como um pastor que só conta as vacas dos outros; ele não beneficia das bênçãos da vida santa."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Se aquele que busca não encontra companhia melhor ou igual, deixá-lo perseguir resolutamente um caminho solitário; não tem que se associar aos tolos."
 
 msgid "62"
-msgstr "O tolo preocupa-se, pensando: “Eu tenho filhos, eu tenho riqueza”. Na verdade, se nem ele próprio pertence a si próprio, quanto mais os filhos ou a riqueza?"
+msgstr "O tolo preocupa-se, pensando: 'Eu tenho filhos, eu tenho riqueza'. Na verdade, se nem ele próprio pertence a si próprio, quanto mais os filhos ou a riqueza?"
 
 msgid "63"
 msgstr "Um tolo que conhece a sua loucura é sábio, pelo menos até esse ponto; mas um tolo que se julga sábio é, seguramente, um tolo."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "O tolo busca prestígio imerecido: precedência entre os monges, autoridade sobre mosteiros e honra entre chefes de família."
 
 msgid "74"
-msgstr "“Que os leigos e monges pensem que fui eu que fiz. Em toda a obra, grande e pequena, que eles me sigam” — tal é a ambição do tolo; assim aumenta o seu desejo e orgulho."
+msgstr "'Que os leigos e monges pensem que fui eu que fiz. Em toda a obra, grande e pequena, que eles me sigam' — tal é a ambição do tolo; assim aumenta o seu desejo e orgulho."
 
 msgid "75"
 msgstr "Uma coisa é a busca de ganho mundano, outra coisa bem diferente é o caminho para o Nibbāna. Que o monge, discípulo do Buddha, entenda isso claramente; não se deixe levar pela aclamação do mundo, mas, em seu lugar, cultive o desapego."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Tudo pode correr mal com aquele que faz o bem, enquanto o bem não amadurece. Mas, quando o bem amadurece, então o benfeitor vê as suas boas ações."
 
 msgid "121"
-msgstr "Que não se pense levianamente acerca do mal, dizendo: “A mim ele não me tocará”. A água que cai em gotas enche um cântaro. Da mesma forma, o tolo, pouco a pouco, enche-se de mal."
+msgstr "Que não se pense levianamente acerca do mal, dizendo: 'A mim ele não me tocará'. A água que cai em gotas enche um cântaro. Da mesma forma, o tolo, pouco a pouco, enche-se de mal."
 
 msgid "122"
-msgstr "Que não se pense levianamente acerca do bem, dizendo: “A mim ele não me tocará”. A água que cai em gotas enche um cântaro. Da mesma forma, o sábio, pouco a pouco, enche-se de bem."
+msgstr "Que não se pense levianamente acerca do bem, dizendo: 'A mim ele não me tocará'. A água que cai em gotas enche um cântaro. Da mesma forma, o sábio, pouco a pouco, enche-se de bem."
 
 msgid "123"
 msgstr "Assim como um comerciante com uma escolta pequena e grande riqueza evitaria uma rota perigosa, ou como quem deseja viver evita o veneno, da mesma maneira se deve evitar o mal."
@@ -604,7 +604,7 @@ msgid "183"
 msgstr "Evitar todo o mal, cultivar o bem e purificar a mente — este é o ensinamento dos Buddhas."
 
 msgid "184"
-msgstr "Permanecer paciente é a maior austeridade. “Nibbāna é supremo”, dizem os Buddhas. Não se é um verdadeiro monge quando se prejudica outra pessoa, nem un verdadeiro renunciante quando se oprime os outros."
+msgstr "Permanecer paciente é a maior austeridade. 'Nibbāna é supremo', dizem os Buddhas. Não se é um verdadeiro monge quando se prejudica outra pessoa, nem un verdadeiro renunciante quando se oprime os outros."
 
 msgid "185"
 msgstr "Não desprezar, não prejudicar, conter-se de acordo com o código da disciplina monástica, moderar-se na comida, viver solitário, devotar-se à meditação — este é o ensinamento dos Buddhas."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "As pessoas prezam aquele que encarna a virtude e o discernimento, que tem princípios, que realizou a verdade e que faz o que deve fazer."
 
 msgid "218"
-msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidos — tal homem é chamado “aquele destinado a atravessar a Corrente”."
+msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidos — tal homem é chamado 'aquele destinado a atravessar a Corrente'."
 
 msgid "219"
 msgstr "Quando, após uma longa ausência, um homem regressa de longe em segurança, ao chegar a casa, seus parentes, amigos e simpatizantes dão-lhe as boas-vindas."
@@ -880,7 +880,7 @@ msgid "270"
 msgstr "Aquele que fere os seres vivos não é nobre. É chamado de nobre porque é inofensivo para os seres vivos."
 
 msgid "271"
-msgstr "Não é pelas regras e rituais, nem mesmo por muito aprender, nem por se alcançar estados de absorção, nem por uma vida de reclusão, nem por pensar: “Eu desfruto da felicidade da renúncia que não é vivida pelos mundanos”..."
+msgstr "Não é pelas regras e rituais, nem mesmo por muito aprender, nem por se alcançar estados de absorção, nem por uma vida de reclusão, nem por pensar: 'Eu desfruto da felicidade da renúncia que não é vivida pelos mundanos'..."
 
 msgid "272"
 msgstr "...que vocês, monges, ficarão contentes. Pois só o fiquem quando a destruição total das impurezas (Arahant) for atingida."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Vocês próprios devem esforçar-se; os Buddhas só apontam o caminho. Aqueles que meditam e trilham o caminho ficam livres dos laços de Mara."
 
 msgid "277"
-msgstr "“Todas as coisas condicionadas são impermanentes” — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas condicionadas são impermanentes' — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "278"
-msgstr "“Todas as coisas condicionadas são insatisfatórias” — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas condicionadas são insatisfatórias' — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "279"
-msgstr "“Todas as coisas são não-eu” — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas são não-eu' — quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "280"
 msgstr "O ocioso que não se esforça quando deveria, que apesar de ainda jovem e forte está cheio de preguiça, com uma mente cheia de pensamentos vãos — um homem tão indolente não encontra o caminho para a sabedoria."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Corta o teu afeto como um homem arranca com a sua mão um lótus de outono. Cultiva somente o caminho para a paz, o Nibbāna, assim como foi dado a conocer pelo Excelso."
 
 msgid "286"
-msgstr "“Aqui devo viver durante as chuvas, aqui no inverno e no verão” — assim pensa o tolo. Ele não percebe o perigo (de que a morte pode intervir)."
+msgstr "'Aqui devo viver durante as chuvas, aqui no inverno e no verão' — assim pensa o tolo. Ele não percebe o perigo (de que a morte pode intervir)."
 
 msgid "287"
 msgstr "Tal como uma grande enchente leva de enxurrada uma aldeia que dorme, também a morte apanha e leva de enxurrada o homem de mente apegada, delirando pelos seus filhos e gado."
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "O Estado de Aflição"
 
 msgid "306"
-msgstr "O mentiroso dirige-se para o estado de aflição, bem como aquele que, tendo agido errado, diz: “Eu não fiz isso”. Ambos cometeram infrações e, ao partir, compartilham o mesmo destino no outro mundo."
+msgstr "O mentiroso dirige-se para o estado de aflição, bem como aquele que, tendo agido errado, diz: 'Eu não fiz isso'. Ambos cometeram infrações e, ao partir, compartilham o mesmo destino no outro mundo."
 
 msgid "307"
 msgstr "Há muitas personalidades más e homens sem contenção vestindo o hábito açafrão. Estes homens ímpios nascerão em estados de aflição por causa de suas más obras."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Corta os cinco inferiores, abandona os cinco superiores e cultiva as cinco faculdades de controlo. O monge que superou as cinco prisões é chamado 'aquele que atravessou o dilúvio'."
 
 msgid "371"
-msgstr "Medita, ó monge! Não sejas negligente. Não deixes a tua mente girar em prazeres sensuais. Inconsciente, não engulas uma bola de ferro em brasa, não chores quando queima: “Como isto é doloroso!”"
+msgstr "Medita, ó monge! Não sejas negligente. Não deixes a tua mente girar em prazeres sensuais. Inconsciente, não engulas uma bola de ferro em brasa, não chores quando queima: 'Como isto é doloroso!'"
 
 msgid "372"
 msgstr "Não há concentração meditativa para aquele que não tem compreensão introspetiva, e nenhuma sabedoria introspetiva para aquele que não tem concentração meditativa. Aquele em que se encontram tanto a concentração meditativa como a compreensão introspetiva, na verdade, está perto do Nibbāna."

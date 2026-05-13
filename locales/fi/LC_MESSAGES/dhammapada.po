@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Koko olemuksemme on tulosta siitä, mitä olemme ajatelleet: se perustuu ajatuksiimme, se on ajatuksistamme rakennettu. Jos ihminen puhuu tai toimii puhdasta ajatellen, seuraa onni häntä, kuten poistumaton varjo."
 
 msgid "3"
-msgstr "»Hän loukkasi, hän löi, hän petti minua, hän ryösti minut» – jotka tällaisia ajatuksia hautovat, heissä viha ei koskaan lakkaa."
+msgstr "'Hän loukkasi, hän löi, hän petti minua, hän ryösti minut' – jotka tällaisia ajatuksia hautovat, heissä viha ei koskaan lakkaa."
 
 msgid "4"
-msgstr "»Hän loukkasi, hän löi, hän petti minua, hän ryösti minut» – jotka eivät tällaisia ajatuksia haudo, heissä viha lakkaa."
+msgstr "'Hän loukkasi, hän löi, hän petti minua, hän ryösti minut' – jotka eivät tällaisia ajatuksia haudo, heissä viha lakkaa."
 
 msgid "5"
 msgstr "Sillä viha ei vihalla konsanaan lopu: viha loppuu rakkaudella; tämä on vanha sääntö."
@@ -34,7 +34,7 @@ msgid "6"
 msgstr "Maailma ei tiedä, että meidän kaikkien täytyy tähän loppua; mutta ne, jotka sen tietävät, lakkaavat heti riidoistaan."
 
 msgid "7"
-msgstr "Joka elää vain nautintoja pyytäen, aistimiaan hillitsemättä, ruuassaan kohtuuttomana, laiskana ja heikkona, hänet Maara (”kiusaaja”, vrt. esim. ”Saatana”) totisesti kaataa, kuten tuuli heikon puun."
+msgstr "Joka elää vain nautintoja pyytäen, aistimiaan hillitsemättä, ruuassaan kohtuuttomana, laiskana ja heikkona, hänet Maara ('kiusaaja', vrt. esim. 'Saatana') totisesti kaataa, kuten tuuli heikon puun."
 
 msgid "8"
 msgstr "Joka elää nautintoja pyytämättä, hyvin hilliten aistimensa, ruuassaan kohtuullisena, vakaana ja vahvana, häntä Maara ei totisesti kaada enempää kuin tuuli vuorenharjaa."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Jos matkamies ei tapaa ketään, joka olisi häntä parempi tai hänen vertaisensa, käyköön hän vakavasti tietään yksinään; tyhmästä ei ole seuraa."
 
 msgid "62"
-msgstr "»Nämä pojat ovat minun ja tämä rikkaus on minun» – sellaiset ajatukset vaivaavat tyhmää. Hän itse ei kuulu itselleen, mitä sitten pojat ja rikkaus?"
+msgstr "'Nämä pojat ovat minun ja tämä rikkaus on minun' – sellaiset ajatukset vaivaavat tyhmää. Hän itse ei kuulu itselleen, mitä sitten pojat ja rikkaus?"
 
 msgid "63"
 msgstr "Tyhmä, joka tuntee tyhmyytensä, on ainakin siinä viisas. Mutta tyhmä, joka luulee itsensä viisaaksi, on todella kerrassaan tyhmä."
@@ -247,10 +247,10 @@ msgid "73"
 msgstr "Halutkoon tyhmä vain väärää arvoa: etevyyttä bhikshujen joukossa, herruutta kokouksissa, palvontaa kansan keskuudessa!"
 
 msgid "74"
-msgstr "»Ajatelkoon sekä maallikko että maailmasta eronnut, että minä olen tämän tehnyt; olkoot he minulle alamaisia kaikessa, mitä on tehtävä ja mitä ei ole tehtävä» – tällainen on tyhmän mieli ja hänen himonsa ja ylpeytensä kasvaa."
+msgstr "'Ajatelkoon sekä maallikko että maailmasta eronnut, että minä olen tämän tehnyt; olkoot he minulle alamaisia kaikessa, mitä on tehtävä ja mitä ei ole tehtävä' – tällainen on tyhmän mieli ja hänen himonsa ja ylpeytensä kasvaa."
 
 msgid "75"
-msgstr "»Toinen on tie, joka vie rikkauteen, toinen se tie, joka vie nirvanaan»; jos bhikshu, Buddhan oppilas, on tämän oppinut, pyrkii hän maailmasta eroamaan."
+msgstr "'Toinen on tie, joka vie rikkauteen, toinen se tie, joka vie nirvanaan'; jos bhikshu, Buddhan oppilas, on tämän oppinut, pyrkii hän maailmasta eroamaan."
 
 msgid "chap6"
 msgstr "Viisas"
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Hyvä ihminen näkee pahoja päiviä niin kauan, kuin hänen hyvä tekonsa ei ole kypsynyt; mutta kun hänen hyvä tekonsa kypsyy, silloin hän näkee hyviä päiviä."
 
 msgid "121"
-msgstr "Älköön kenkään ajatelko keveästi pahaa sanoen sydämessään: »Se ei tule minua lähelle.» Putoilevista pisaroistakin täyttyy astia; hullu tulee täyteen pahaa, vaikka hän sitä kokoaakin vähä vähältä."
+msgstr "Älköön kenkään ajatelko keveästi pahaa sanoen sydämessään: 'Se ei tule minua lähelle.' Putoilevista pisaroistakin täyttyy astia; hullu tulee täyteen pahaa, vaikka hän sitä kokoaakin vähä vähältä."
 
 msgid "122"
-msgstr "Älköön kenkään ajatelko keveästi hyvää sanoen sydämessään: »Se ei tule minua lähelle.» Putoilevista pisaroistakin täyttyy astia; viisas täyttyy hyvällä, vaikka hän sitä kokoaa vähä vähältä."
+msgstr "Älköön kenkään ajatelko keveästi hyvää sanoen sydämessään: 'Se ei tule minua lähelle.' Putoilevista pisaroistakin täyttyy astia; viisas täyttyy hyvällä, vaikka hän sitä kokoaa vähä vähältä."
 
 msgid "123"
 msgstr "Välttäköön ihminen pahoja tekoja, kuten kauppias, jos hänellä on vähän saattajia ja paljon rikkautta matkassaan, välttää vaarallista tietä; kuten elämää rakastava välttää myrkkyä."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Jolla on hyvettä ja älyä, joka on oikeamielinen, puhuu totta ja täyttää tehtävänsä, hän on maailmalle kallis."
 
 msgid "218"
-msgstr "Joka sielussaan on tyytyväinen ja jonka ajatuksia ei hämmennä lempi ja jossa on herännyt sanomattoman (nirvanan) kaipuu – häntä sanotaan »virran ylöspäin kuljettamaksi»."
+msgstr "Joka sielussaan on tyytyväinen ja jonka ajatuksia ei hämmennä lempi ja jossa on herännyt sanomattoman (nirvanan) kaipuu – häntä sanotaan 'virran ylöspäin kuljettamaksi'."
 
 msgid "219"
 msgstr "Sukulaiset, ystävät ja rakastajat tervehtivät sitä ihmistä, joka on ollut kauan poissa ja terveenä palajaa matkaltaan."
@@ -742,7 +742,7 @@ msgid "226"
 msgstr "Jotka aina valvovat, jotka päivin ja öin tutkistelevat ja nirvanaan pyrkivät, niiden himot kuluvat loppuun."
 
 msgid "227"
-msgstr "Tämä on vanha lause eikä tämänpäiväisiä, oi Atula: »Sitä moititaan, joka paljon puhuu, ja sitäkin moititaan, joka vähän puhuu. Ei ole päällä maan sitä, jota ei moitittaisi!»"
+msgstr "Tämä on vanha lause eikä tämänpäiväisiä, oi Atula: 'Sitä moititaan, joka paljon puhuu, ja sitäkin moititaan, joka vähän puhuu. Ei ole päällä maan sitä, jota ei moitittaisi!'"
 
 msgid "228"
 msgstr "Ei ole koskaan ollut, ei tule koskaan olemaan eikä nytkään ole ihmistä, jota aina moitittaisiin tai jota aina kiitettäisiin."
@@ -847,10 +847,10 @@ msgid "259"
 msgstr "Ihminen ei ole Buddhanopin ylläpitäjä, vaikka hän paljon puhuu; jos ken on vain vähäsen oppinut, mutta näkee opin edessään, hän on opin ylläpitäjä eikä sitä milloinkaan laiminlyö."
 
 msgid "260"
-msgstr "Ihminen ei tule »kansan vanhimpien» joukkoon sen tähden, että hänen päänsä on harmaa; hän voi olla ikäloppu, mutta häntä sanotaan »turhaan vanhentuneeksi»."
+msgstr "Ihminen ei tule 'kansan vanhimpien' joukkoon sen tähden, että hänen päänsä on harmaa; hän voi olla ikäloppu, mutta häntä sanotaan 'turhaan vanhentuneeksi'."
 
 msgid "261"
-msgstr "Kenessä on totuus, hyve, sääli, itsehillintä, kohtuus, ja ken on vapaaksi puhdistunut ja viisastunut – häntä sanotaan »kansan vanhimmaksi»."
+msgstr "Kenessä on totuus, hyve, sääli, itsehillintä, kohtuus, ja ken on vapaaksi puhdistunut ja viisastunut – häntä sanotaan 'kansan vanhimmaksi'."
 
 msgid "262"
 msgstr "Kadehtiva, kitsas, epärehellinen ihminen ei tule kunnianarvoiseksi pelkästään paljolla pakinalla ja kasvojensa kauneudella."
@@ -862,7 +862,7 @@ msgid "264"
 msgstr "Ei tukankeritsemisellä harjaantumaton ihminen, joka väärin puhuu, tule samanaksi (askeetiksi); voiko sellainen olla samana, joka vielä on himon ja ahneuden pauloissa?"
 
 msgid "265"
-msgstr "Joka aina vaientaa pahan, suuren tai pienen, häntä sanottakoon samanaksi (»hiljaiseksi»), koska hän on vaientanut kaiken pahan."
+msgstr "Joka aina vaientaa pahan, suuren tai pienen, häntä sanottakoon samanaksi ('hiljaiseksi'), koska hän on vaientanut kaiken pahan."
 
 msgid "266"
 msgstr "Ihminen ei ole munkki (bhikshu) silti, vaikka hän pyytää muilta almua; joka omaksuu koko buddhanopin, on bhikshu eikä se, joka ainoastaan kerjää."
@@ -877,10 +877,10 @@ msgid "269"
 msgstr "hän on Muni ja on Muni juuri sen kautta; joka tässä maailmassa punnitsee molempia puolia, häntä sanotaan Muniksi."
 
 msgid "270"
-msgstr "Ihminen ei ole »valittu» sen tähden, että hän loukkaa eläviä olentoja, vaan sen nojalla, että hän säälii kaikkia eläviä olentoja."
+msgstr "Ihminen ei ole 'valittu' sen tähden, että hän loukkaa eläviä olentoja, vaan sen nojalla, että hän säälii kaikkia eläviä olentoja."
 
 msgid "271"
-msgstr "Oi munkit, ei pelkästään noudattamalla sääntöjä ja suoritta-malla seremonioita, ei pelkästään oppineisuudella, ei syvänrauhan löytämisellä, ei yksinäisyydessä asumalla, eikä ajattele-malla ”minä olen kokenut luopumisen onnea, mitä maailmal-liset ihmiset eivät tee” saavuteta tyytyväisyyttä;"
+msgstr "Oi munkit, ei pelkästään noudattamalla sääntöjä ja suoritta-malla seremonioita, ei pelkästään oppineisuudella, ei syvänrauhan löytämisellä, ei yksinäisyydessä asumalla, eikä ajattele-malla 'minä olen kokenut luopumisen onnea, mitä maailmal-liset ihmiset eivät tee' saavuteta tyytyväisyyttä;"
 
 msgid "272"
 msgstr "Ellei kaikkia himoja ole hävitetty."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Sinun itsesi täytyy ponnistaa. Buddhat ovat ainoastaan saarnaajia. Ajatteleva, joka astuu tielle, vapautuu Maaran orjuudesta."
 
 msgid "277"
-msgstr "»Kaikki luotu katoaa» – joka tämän tuntee ja näkee, tulee tuskassa tunteettomaksi; tämä on puhtauden tie."
+msgstr "'Kaikki luotu katoaa' – joka tämän tuntee ja näkee, tulee tuskassa tunteettomaksi; tämä on puhtauden tie."
 
 msgid "278"
-msgstr "»Kaikki luotu on surua ja tuskaa» – joka tämän näkee, tulee tuskassa tunteettomaksi; tämä tie vie puhtauteen."
+msgstr "'Kaikki luotu on surua ja tuskaa' – joka tämän näkee, tulee tuskassa tunteettomaksi; tämä tie vie puhtauteen."
 
 msgid "279"
-msgstr "»Kaikki muodot ovat epätodellisia» – joka tämän tuntee ja näkee, tulee tuskassa tunteettomaksi; tämä tie vie puhtauteen."
+msgstr "'Kaikki muodot ovat epätodellisia' – joka tämän tuntee ja näkee, tulee tuskassa tunteettomaksi; tämä tie vie puhtauteen."
 
 msgid "280"
 msgstr "Joka ei nouse, kun on aika nousta – joka vaikka hän on nuori ja vahva, on täynnä velttoutta ja jonka tahto ja ajatus on heikko – sellainen laiska ja toimeton ihminen ei löydä tiedon tietä."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Leikkaa pois itserakkaus, kuten leikkaat lakastuneen lootoskukan, omalla kädelläsi. Rakasta rauhan tietä. Buddha on näyttänyt nirvanan."
 
 msgid "286"
-msgstr "»Täällä asun sadeajalla, täällä talvella ja kesällä» – näin arvelee tyhmä eikä muista kuolemaa."
+msgstr "'Täällä asun sadeajalla, täällä talvella ja kesällä' – näin arvelee tyhmä eikä muista kuolemaa."
 
 msgid "287"
 msgstr "Tuoni tulee ja vie tuon ihmisen, jota kunnioitetaan lasten ja rikkauksien tähden, mutta jonka ajatukset ovat hajalla, vie hänet kuten tulvavirta nukkuvan kylän."
@@ -1093,7 +1093,7 @@ msgid "336"
 msgstr "Mutta siltä joka voittaa tämän kiihkeän janon, tässä maailmassa vaikeasti voitettavan, putoavat kärsimykset pois kuten vedenpisarat lootuslehdeltä."
 
 msgid "337"
-msgstr "Tämän terveellisen sanan minä sanon teille: »Te, niin monta kuin tässä on kokoontuneena, kaivakaa ylös janon juuri. Kuten sen, joka haluaa hyvältä tuoksuvaa ustra-juurta, täytyy kaivaa ylös biirana-heinä. Tehkää niin, ettei Maara teitä ruhjoisi uudelleen ja uudelleen, kuten virta korret murtaa»."
+msgstr "Tämän terveellisen sanan minä sanon teille: 'Te, niin monta kuin tässä on kokoontuneena, kaivakaa ylös janon juuri. Kuten sen, joka haluaa hyvältä tuoksuvaa ustra-juurta, täytyy kaivaa ylös biirana-heinä. Tehkää niin, ettei Maara teitä ruhjoisi uudelleen ja uudelleen, kuten virta korret murtaa'."
 
 msgid "338"
 msgstr "Kuten puu maahan kaadettunakin on vahva niin kauan kuin juuri on terve ja kasvaa uudelleen, niin tämä elämisen kärsimys palaa uudelleen ja yhä uudelleen, jollei janon elättäjät tule hävitetyiksi."
@@ -1141,7 +1141,7 @@ msgid "352"
 msgstr "Joka on janosta ja kiintymyksestä vapaa, joka ymmärtää sanat ja niiden selityksen, joka tuntee kirjainten järjestyksen, hän on saanut viimeisen ruumiinsa, häntä sanotaan suureksi viisaaksi, suureksi mieheksi."
 
 msgid "353"
-msgstr "»Minä olen voittanut kaiken, minä tiedän kaiken, kaikissa elämän tiloissa olen tahrasta vapaa; kaiken olen jättänyt ja janon hävitettyäni olen vapaa; opittuani itse, ketä opettajaksi sanoisin?»"
+msgstr "'Minä olen voittanut kaiken, minä tiedän kaiken, kaikissa elämän tiloissa olen tahrasta vapaa; kaiken olen jättänyt ja janon hävitettyäni olen vapaa; opittuani itse, ketä opettajaksi sanoisin?'"
 
 msgid "354"
 msgstr "Buddhanopin lahja on kaikkia lahjoja suurin. Opin suloisuus on kaikkea suloisuutta suurempi. Janon sammuttaminen voittaa kaiken kärsimyksen."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Oi bhikshu, tyhjennä tämä alus! Jos se tyhjennetään, kulkee se nopeasti. Jos leikkaat pois intohimon ja vihan, niin menet nirvanaan."
 
 msgid "370"
-msgstr "Leikkaa pois viisi (sidettä), jätä viisi, nouse viiden yläpuolelle! Bhikshu, joka on päässyt viidestä siteestä, sanotaan »virrasta vapautuneeksi»."
+msgstr "Leikkaa pois viisi (sidettä), jätä viisi, nouse viiden yläpuolelle! Bhikshu, joka on päässyt viidestä siteestä, sanotaan 'virrasta vapautuneeksi'."
 
 msgid "371"
-msgstr "Mietiskele, bhikshu, äläkä ole huolimaton. Älä kohdista ajatuksiasi siihen, mikä tuottaa huvia, ettei sinun tarvitsisi huolimattomuutesi tähden niellä kuumia rautapaloja (helvetissä) eikä tarvitsisi huutaa palaessasi: »tämä on tuskaa!»"
+msgstr "Mietiskele, bhikshu, äläkä ole huolimaton. Älä kohdista ajatuksiasi siihen, mikä tuottaa huvia, ettei sinun tarvitsisi huolimattomuutesi tähden niellä kuumia rautapaloja (helvetissä) eikä tarvitsisi huutaa palaessasi: 'tämä on tuskaa!'"
 
 msgid "372"
 msgstr "Ilman tietoa ei ole mietiskelyä, ilman mietiskelyä ei ole tietoa: jolla on tieto ja mietiskelyn hyve, hän on lähellä nirvanaa."

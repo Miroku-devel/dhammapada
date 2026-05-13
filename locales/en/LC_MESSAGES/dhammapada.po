@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Intention shapes experiences; intention is first, they’re made by intention. If with pure intent you speak or act, happiness follows you like a shadow that never leaves."
 
 msgid "3"
-msgstr "“They abused me, they hit me! They beat me, they robbed me!” For those who bear such a grudge, hatred is never laid to rest."
+msgstr "'They abused me, they hit me! They beat me, they robbed me!' For those who bear such a grudge, hatred is never laid to rest."
 
 msgid "4"
-msgstr "“They abused me, they hit me! They beat me, they robbed me!” For those who bear no such grudge, hatred is laid to rest."
+msgstr "'They abused me, they hit me! They beat me, they robbed me!' For those who bear no such grudge, hatred is laid to rest."
 
 msgid "5"
 msgstr "For never is hatred laid to rest by hate, it’s laid to rest by love: this is an ancient teaching."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "If while wandering you find no partner equal or better than yourself, then firmly resolve to wander alone—there’s no fellowship with fools."
 
 msgid "62"
-msgstr "“Sons are mine, wealth is mine”—thus the fool frets. For even your self is not your own, let alone your sons or wealth."
+msgstr "'Sons are mine, wealth is mine'—thus the fool frets. For even your self is not your own, let alone your sons or wealth."
 
 msgid "63"
 msgstr "The fool who thinks they’re a fool is wise at least to that extent. But the true fool is said to be one who imagines that they are wise."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "They’d seek the esteem that they lack, and status among the mendicants; authority over monasteries, and honor among other families."
 
 msgid "74"
-msgstr "“Let both layfolk and renunciants think the work was done by me alone. In anything at all that’s to be done, let them fall under my sway alone.” So thinks the fool, their greed and pride only growing."
+msgstr "'Let both layfolk and renunciants think the work was done by me alone. In anything at all that’s to be done, let them fall under my sway alone.' So thinks the fool, their greed and pride only growing."
 
 msgid "75"
 msgstr "For the means to profit and the path to quenching are two quite different things. A mendicant disciple of the Buddha, understanding what this really means, would never delight in honors, but rather would foster seclusion."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Cut out affection for oneself, like plucking an autumn lotus. Foster only the path to peace, the extinguishment the Holy One taught."
 
 msgid "286"
-msgstr "“Here I will stay for the rains; here for winter, here the summer”; thus the fool thinks, not realizing the danger."
+msgstr "'Here I will stay for the rains; here for winter, here the summer'; thus the fool thinks, not realizing the danger."
 
 msgid "287"
 msgstr "As a mighty flood sweeps away a sleeping village, death steals away a man who dotes on children and cattle, his mind caught up in them."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Five to cut, five to drop, and five more to develop. When a mendicant slips five chains they’re said to have crossed the flood."
 
 msgid "371"
-msgstr "Practice absorption, don’t be negligent! Don’t let the mind delight in the senses! Don’t heedlessly swallow a hot iron ball! And when it burns, don’t cry, “Oh, the pain!”"
+msgstr "Practice absorption, don’t be negligent! Don’t let the mind delight in the senses! Don’t heedlessly swallow a hot iron ball! And when it burns, don’t cry, 'Oh, the pain!'"
 
 msgid "372"
 msgstr "No absorption for one without wisdom, no wisdom for one without absorption. But one with absorption and wisdom—they have truly drawn near to extinguishment."
@@ -1252,7 +1252,7 @@ msgid "387"
 msgstr "The sun blazes by day, the moon radiates at night, the aristocrat shines in armor, and the brahmin shines in absorption. But all day and all night, the Buddha blazes with glory."
 
 msgid "388"
-msgstr "A brahmin’s so-called since they’ve banished evil, an ascetic’s so-called since they live a serene life. One who has renounced all stains is said to be a “renunciant”."
+msgstr "A brahmin’s so-called since they’ve banished evil, an ascetic’s so-called since they live a serene life. One who has renounced all stains is said to be a 'renunciant'."
 
 msgid "389"
 msgstr "One should never strike a brahmin, nor should a brahmin retaliate. Woe to the one who hurts a brahmin, and woe for the one who retaliates."
@@ -1276,7 +1276,7 @@ msgid "395"
 msgstr "A personage who wears robes of rags, lean, their limbs showing veins, meditating alone in the forest, that’s who I declare a brahmin."
 
 msgid "396"
-msgstr "I don’t call someone a brahmin after the mother’s womb they’re born from. If they still have attachments, they’re just someone who says “worthy”. Having nothing, taking nothing: that’s who I declare a brahmin."
+msgstr "I don’t call someone a brahmin after the mother’s womb they’re born from. If they still have attachments, they’re just someone who says 'worthy'. Having nothing, taking nothing: that’s who I declare a brahmin."
 
 msgid "397"
 msgstr "Having cut off all fetters they have no anxiety. They’ve slipped their chains and are detached: that’s who I declare a brahmin."

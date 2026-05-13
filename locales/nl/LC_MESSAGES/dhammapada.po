@@ -22,10 +22,10 @@ msgid "2"
 msgstr "De geest is de voorloper van alle dingen, de geest is hun leider, ze zijn door de geest geschapen. Als iemand spreekt of handelt met zuivere gedachten, volgt geluk dat daardoor is veroorzaakt, zoals iemands schaduw die hem nooit verlaat."
 
 msgid "3"
-msgstr "Wie vijandigheid in zich draagt zoals: “Hij heeft mij beledigd en geslagen, hij heeft mij verslagen en beroofd.” In hen waarin zulke gedachten steeds terugkeren, verdwijnt haat nooit."
+msgstr "Wie vijandigheid in zich draagt zoals: 'Hij heeft mij beledigd en geslagen, hij heeft mij verslagen en beroofd.' In hen waarin zulke gedachten steeds terugkeren, verdwijnt haat nooit."
 
 msgid "4"
-msgstr "Wie geen vijandigheid in zich draagt zoals: “Hij heeft mij beledigd en geslagen, hij heeft mij verslagen en beroofd.” In hen waarin zulke gedachten niet terugkeren, verdwijnt haat."
+msgstr "Wie geen vijandigheid in zich draagt zoals: 'Hij heeft mij beledigd en geslagen, hij heeft mij verslagen en beroofd.' In hen waarin zulke gedachten niet terugkeren, verdwijnt haat."
 
 msgid "5"
 msgstr "In deze wereld wordt haat nooit door haat overwonnen; haat wordt overwonnen door vriendschap. Dit is een tijdloze wijsheid."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Hier is iemand gelukkig en in het hiernamaals is iemand gelukkig; op beide manieren is degene die goed doet gelukkig. Iemand is gelukkig en verheugt zich wanneer hij zijn eigen zuivere wilshandelingen ziet."
 
 msgid "17"
-msgstr "Hier brandt iemand en in het hiernamaals brandt iemand; op beide manieren brandt degene die kwaad doet. Berouwvol brandt iemand: “ik heb kwaad begaan”, en nog meer brandt iemand nadat hij naar een ellendige sfeer is gegaan."
+msgstr "Hier brandt iemand en in het hiernamaals brandt iemand; op beide manieren brandt degene die kwaad doet. Berouwvol brandt iemand: 'ik heb kwaad begaan', en nog meer brandt iemand nadat hij naar een ellendige sfeer is gegaan."
 
 msgid "18"
-msgstr "Hier is iemand gelukkig en in het hiernamaals is iemand gelukkig; op beide manieren verheugt zich degene die goed doet. Sereen is hij: “verdiensten heb ik verricht”, en nog meer verheugt hij zich nadat hij naar een zegenrijke sfeer is gegaan."
+msgstr "Hier is iemand gelukkig en in het hiernamaals is iemand gelukkig; op beide manieren verheugt zich degene die goed doet. Sereen is hij: 'verdiensten heb ik verricht', en nog meer verheugt hij zich nadat hij naar een zegenrijke sfeer is gegaan."
 
 msgid "19"
 msgstr "Hoewel hij vele heilige teksten reciteert, is de onachtzame geen beoefenaar. Hij is zoals een koeienherder die de koeien van een ander telt. In het monnikschap heeft hij geen enkel aandeel."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Als iemand geen metgezel kan vinden die beter is dan hijzelf of zijn gelijke, dan kan men beter alleen blijven. Want met dwazen omgaan levert geen voordeel op."
 
 msgid "62"
-msgstr "“Ik heb zonen, ik heb rijkdom”, op die manier maakt de dwaas zich zorgen. Hijzelf is niet eens van hemzelf, hoe dan wel zonen en rijkdom ?"
+msgstr "'Ik heb zonen, ik heb rijkdom', op die manier maakt de dwaas zich zorgen. Hijzelf is niet eens van hemzelf, hoe dan wel zonen en rijkdom ?"
 
 msgid "63"
 msgstr "Als iemand zijn dwaasheid inziet, dan is die dwaas een wijs persoon. Maar de dwaas die zichzelf wijs waant, wordt terecht een dwaas genoemd."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Voor erkenning wenst een dwaas voorrang onder de monniken, leiderschap in kloosters en eerbetoon van andere families."
 
 msgid "74"
-msgstr "Laat lekenvolgelingen en monniken denken: “Dat dit door mij is gedaan, of het nu grote of kleine werken zijn. Laat hen afhankelijk van mij zijn.” Zo is de intentie van de dwaas ; zijn begeerte en eigendunk nemen toe."
+msgstr "Laat lekenvolgelingen en monniken denken: 'Dat dit door mij is gedaan, of het nu grote of kleine werken zijn. Laat hen afhankelijk van mij zijn.' Zo is de intentie van de dwaas ; zijn begeerte en eigendunk nemen toe."
 
 msgid "75"
 msgstr "Het ene pad leidt naar wereldse winst, een ander pad leidt naar Nibbana. De monnik die dit duidelijk begrijpt, de ware volgeling van de Boeddha, moet zich niet wentelen in aangeboden giften, maar zich in plaats daarvan toewijden in afzondering."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Zolang goede daden niet tot rijping komen beschouwt zelfs degene die goed doet, dit als het kwade. Maar wanneer goede daden tot rijping komen, dan beschouwt degene die goed doet dit als werkelijk goed."
 
 msgid "121"
-msgstr "Denk niet aldus lichtjes over het kwade: “Dit heeft geen gevolgen voor mij”, want ook door het vallen van waterdruppels wordt een waterkan gevuld. De dwaas vult zichzelf met het kwade ; hij verzamelt het beetje bij beetje."
+msgstr "Denk niet aldus lichtjes over het kwade: 'Dit heeft geen gevolgen voor mij', want ook door het vallen van waterdruppels wordt een waterkan gevuld. De dwaas vult zichzelf met het kwade ; hij verzamelt het beetje bij beetje."
 
 msgid "122"
-msgstr "Denk niet aldus lichtjes over het goede: “Dit heeft geen gevolgen voor mij”, want ook door het vallen van waterdruppels wordt een waterkan gevuld. De heilige vult zichzelf met het goede ; hij verzamelt het beetje bij beetje."
+msgstr "Denk niet aldus lichtjes over het goede: 'Dit heeft geen gevolgen voor mij', want ook door het vallen van waterdruppels wordt een waterkan gevuld. De heilige vult zichzelf met het goede ; hij verzamelt het beetje bij beetje."
 
 msgid "123"
 msgstr "Zoals een koopman met veel weelde maar met weinig bewaking, een gevaarlijk pad vermijdt, zo vermijdt hij volledig het kwaad, net zoals hij als liefhebber van het leven, gif vermijdt."
@@ -604,7 +604,7 @@ msgid "183"
 msgstr "Het vermijden van al het kwaad, altijd het goede doen en de eigen geest zuiveren ; dit is de Leer van alle Boeddha's."
 
 msgid "184"
-msgstr "Voortdurende verdraagzaamheid is de hoogste ascese. “Nibbana is het hoogste”, zeggen de Boeddha's. Iemand die anderen pijn doet is geen ware monnik, noch een ware verzaker wanneer hij anderen kleineert."
+msgstr "Voortdurende verdraagzaamheid is de hoogste ascese. 'Nibbana is het hoogste', zeggen de Boeddha's. Iemand die anderen pijn doet is geen ware monnik, noch een ware verzaker wanneer hij anderen kleineert."
 
 msgid "185"
 msgstr "Niet verachten, geen pijn doen, beheerst zijn overeenkomstig de kloosterlijke discipline, matigheid in voedsel en het streven met een verheven geest ; dit is de Leer van alle Boeddha's."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Perfect in deugdzaamheid en inzicht, goed gevestigd in de Dhamma en waarheidlievend. Hij let op zijn eigen daden. Zulk iemand is geliefd bij de mensen."
 
 msgid "218"
-msgstr "Iemand met het verlangen naar het Ongedefinieerde, heeft (Nibbana) reeds aangeraakt en is niet gebonden aan zintuiglijke verlangens. Zo iemand wordt een “tegen de stroom in gebondene” genoemd."
+msgstr "Iemand met het verlangen naar het Ongedefinieerde, heeft (Nibbana) reeds aangeraakt en is niet gebonden aan zintuiglijke verlangens. Zo iemand wordt een 'tegen de stroom in gebondene' genoemd."
 
 msgid "219"
 msgstr "Als iemand veilig thuiskomt nadat hij voor lange tijd ver van huis is geweest, dan verheugen zijn vrienden, zij die hem geluk wensen en ook zijn verwanten zich in zijn veilige terugkeer."
@@ -742,7 +742,7 @@ msgid "226"
 msgstr "Bij hen die altijd oplettend zijn en dag en nacht trainen met de bedoeling Nibbana te verwerkelijken, verwelken de bezoedelingen."
 
 msgid "227"
-msgstr "Er is een oud gezegde, Atula, dat niet alleen vandaag de dag verteld wordt : — “Zij die zwijgen worden berispt, zij die veel spreken worden ook berispt, en berispt worden zij die matig spreken.” — Er is niemand in de wereld die niet berispt wordt."
+msgstr "Er is een oud gezegde, Atula, dat niet alleen vandaag de dag verteld wordt : — 'Zij die zwijgen worden berispt, zij die veel spreken worden ook berispt, en berispt worden zij die matig spreken.' — Er is niemand in de wereld die niet berispt wordt."
 
 msgid "228"
 msgstr "Er was nooit, en er zal nooit zijn, noch is er heden een persoon in de wereld, die enkel berispt wordt of iemand die enkel geprezen wordt."
@@ -838,52 +838,52 @@ msgid "256"
 msgstr "Wie overhaast oordeelt is niet rechtvaardig. Een wijs persoon oordeelt pas nadat hij onderzocht heeft wat goed en wat verkeerd is."
 
 msgid "257"
-msgstr "Wie op anderen op onpartijdige wijze het recht toepast, met zorgvuldigheid, met rechtvaardigheid, die wijze bewaakt de Dhamma. Hij wordt “de in rechtvaardigheid gevestigde” genoemd."
+msgstr "Wie op anderen op onpartijdige wijze het recht toepast, met zorgvuldigheid, met rechtvaardigheid, die wijze bewaakt de Dhamma. Hij wordt 'de in rechtvaardigheid gevestigde' genoemd."
 
 msgid "258"
-msgstr "Iemand is niet per definitie wijs doordat hij veel spreekt. Maar iemand die bevrijd is, iemand die niet haat, iemand die zonder angst is, zo iemand wordt terecht “een wijs persoon” genoemd."
+msgstr "Iemand is niet per definitie wijs doordat hij veel spreekt. Maar iemand die bevrijd is, iemand die niet haat, iemand die zonder angst is, zo iemand wordt terecht 'een wijs persoon' genoemd."
 
 msgid "259"
 msgstr "Iemand is niet bedreven in de Dhamma door louter veel te spreken ; maar iemand die er zelfs weinig over heeft gehoord maar die de Dhamma in het lichaam ziet, diegene is inderdaad kundig en niet onachtzaam in de Dhamma."
 
 msgid "260"
-msgstr "Een monnik kan grijze haren hebben, maar dat maakt hem nog geen ouderling ; hij is slechts gerijpt in jaren. Hij wordt “vergeefs oud” genoemd."
+msgstr "Een monnik kan grijze haren hebben, maar dat maakt hem nog geen ouderling ; hij is slechts gerijpt in jaren. Hij wordt 'vergeefs oud' genoemd."
 
 msgid "261"
-msgstr "In wie waarheid is en Dhamma, wie geweldloos is, beheerst en gedisciplineerd ; hij die standvastig en vrij van bezoedelingen is. Zulk een wijs persoon wordt terecht “een ouderling” genoemd."
+msgstr "In wie waarheid is en Dhamma, wie geweldloos is, beheerst en gedisciplineerd ; hij die standvastig en vrij van bezoedelingen is. Zulk een wijs persoon wordt terecht 'een ouderling' genoemd."
 
 msgid "262"
 msgstr "Een persoon is niet mooi vanwege zijn welbespraaktheid of vanwege zijn mooie uiterlijk zolang hij jaloers, hebzuchtig en bedrieglijk is."
 
 msgid "263"
-msgstr "Maar in wie deze (onzuiverheden) volkomen afgeworpen zijn, ontworteld zijn, volkomen vernietigd zijn, diegene wordt “mooi” genoemd ; een wijs mens die gezuiverd is van haat."
+msgstr "Maar in wie deze (onzuiverheden) volkomen afgeworpen zijn, ontworteld zijn, volkomen vernietigd zijn, diegene wordt 'mooi' genoemd ; een wijs mens die gezuiverd is van haat."
 
 msgid "264"
 msgstr "Iemand wordt geen asceet vanwege een kaalgeschoren hoofd, zeker niet als hij liegt en geen discipline heeft. Hoe kan hij een asceet zijn wanneer hij door hebzucht en zelfzuchtigheid in beslag genomen wordt ?"
 
 msgid "265"
-msgstr "Als iemand alle slechte daden, zowel kleine als grote, volledig heeft uitgeroeid, dan wordt hij terecht “samana” genoemd."
+msgstr "Als iemand alle slechte daden, zowel kleine als grote, volledig heeft uitgeroeid, dan wordt hij terecht 'samana' genoemd."
 
 msgid "266"
 msgstr "Iemand is geen monnik omdat hij bij anderen om aalmoezen bedelt. Door een afstotend geloof te omhelzen wordt iemand geen monnik."
 
 msgid "267"
-msgstr "Wie boven goede en slechte daden is uitgestegen en het heilige leven nastreeft, die de wereld op een wijze manier bespiegelt ; zulk een persoon wordt terecht “bhikkhu” genoemd."
+msgstr "Wie boven goede en slechte daden is uitgestegen en het heilige leven nastreeft, die de wereld op een wijze manier bespiegelt ; zulk een persoon wordt terecht 'bhikkhu' genoemd."
 
 msgid "268"
 msgstr "Door te zwijgen is iemand geen heilige zolang hij idioot en onwetend is. Maar een wijs persoon kiest voor wat goed is alsof hij (het goede en het slechte) met een weegschaal weegt."
 
 msgid "269"
-msgstr "Doordat iemand vrij is van het slechte, daarom is iemand een heilige. Hij die beide sferen (van goed en kwaad) begrijpt, die wordt terecht “muni” genoemd."
+msgstr "Doordat iemand vrij is van het slechte, daarom is iemand een heilige. Hij die beide sferen (van goed en kwaad) begrijpt, die wordt terecht 'muni' genoemd."
 
 msgid "270"
-msgstr "Door levende wezens te kwellen is iemand niet een edel mens. Maar door geen enkel levend wezen te kwellen, daarom wordt iemand “ariya” genoemd."
+msgstr "Door levende wezens te kwellen is iemand niet een edel mens. Maar door geen enkel levend wezen te kwellen, daarom wordt iemand 'ariya' genoemd."
 
 msgid "271"
 msgstr "Niet door regels en rituelen, niet door veel leren, niet door meditatieve kalmte of door een leven te leiden in afzondering."
 
 msgid "272"
-msgstr "Monniken, zouden jullie tevreden zijn en denken : “Ik heb de zegen van verzaking, die niet door het gewone volk ervaren wordt, bereikt”, dan hebben jullie het einde van bezoedelingen nog niet bereikt."
+msgstr "Monniken, zouden jullie tevreden zijn en denken : 'Ik heb de zegen van verzaking, die niet door het gewone volk ervaren wordt, bereikt', dan hebben jullie het einde van bezoedelingen nog niet bereikt."
 
 msgid "chap20"
 msgstr "Het Pad"
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "De Hel"
 
 msgid "306"
-msgstr "Iemand die de waarheid ontkent en iemand die iets gedaan heeft en zegt : “Dat heb ik niet gedaan”, gaan naar de hel (niraya). Na de dood vergaat het beide typen personen, die deze slechte daden verrichten, hetzelfde."
+msgstr "Iemand die de waarheid ontkent en iemand die iets gedaan heeft en zegt : 'Dat heb ik niet gedaan', gaan naar de hel (niraya). Na de dood vergaat het beide typen personen, die deze slechte daden verrichten, hetzelfde."
 
 msgid "307"
 msgstr "Velen die het gele gewaad dragen, zijn onbeheerst en doen slechte dingen ; deze slechteriken worden door hun slechte daden in de hel wedergeboren."
@@ -1138,7 +1138,7 @@ msgid "351"
 msgstr "Iemand die het doel bereikt heeft, die zonder vrees is, die zonder begeerte is en vrij van bezoedelingen is ; hij heeft de doornen van het bestaan uitgetrokken. Dit is zijn allerlaatste bestaansvorm."
 
 msgid "352"
-msgstr "Iemand die vrij van begeerte is, die vrij van hechten is, die vaardig is in etymologie en gebruiken. Hij kent de opeenvolging van wat eerst en wat daarna komt. Zo iemand die zeer wijs is, wordt “een groot persoon” genoemd."
+msgstr "Iemand die vrij van begeerte is, die vrij van hechten is, die vaardig is in etymologie en gebruiken. Hij kent de opeenvolging van wat eerst en wat daarna komt. Zo iemand die zeer wijs is, wordt 'een groot persoon' genoemd."
 
 msgid "353"
 msgstr "Ik ben voorbij elke vorm van bestaan, het is mij allemaal bekend, ik ben van alle dingen onthecht, ik heb alles opgegeven en ik ben bevrijd door het uitrukken van alle begeerte. Ik heb de hogere kennis helemaal door mijzelf gerealiseerd. Wie zou ik aanwijzen als mijn leraar ?"
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "De monnik minacht zijn ontvangsten niet, ondanks dat hij weinig ontvangt. Hij leidt een zuiver leven en is onvermoeibaar ; zelfs de deva's prijzen hem."
 
 msgid "367"
-msgstr "Hij, in wie niet de “ik” gedachte opkomt met betrekking tot het mentale en lichamelijke, hij die niet treurt om wat er in werkelijkheid niet is ; die persoon wordt terecht “monnik” genoemd."
+msgstr "Hij, in wie niet de 'ik' gedachte opkomt met betrekking tot het mentale en lichamelijke, hij die niet treurt om wat er in werkelijkheid niet is ; die persoon wordt terecht 'monnik' genoemd."
 
 msgid "368"
 msgstr "De monnik die vol liefdevolle vriendelijkheid is, die vertrouwen heeft in de Leer van de Boeddha, zal een vredige staat (Nibbana) bereiken ; het geluk dat ontstaat vanwege het tot rust brengen van het geconditioneerde."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Monnik, ledig je boot. Wanneer hij leeg is zal hij snel varen. Nadat je hartstocht en haat afgeworpen hebt, zul je Nibbana bereiken."
 
 msgid "370"
-msgstr "Vijf doorgekapt en vijf verzaakt. Vervolgens vijf ontwikkeld en van vijf gehechtheden bevrijd. Zulk een monnik wordt beschreven als “iemand die de rivier is overgestoken”."
+msgstr "Vijf doorgekapt en vijf verzaakt. Vervolgens vijf ontwikkeld en van vijf gehechtheden bevrijd. Zulk een monnik wordt beschreven als 'iemand die de rivier is overgestoken'."
 
 msgid "371"
-msgstr "Mediteer, monnik ! Wees niet onoplettend ! Laat je geest niet in zintuiglijke geneugten ronddwalen ! Slik in je onoplettendheid niet een brandende ijzeren bal in, en jammer dan niet : “Dit is pijnlijk !”"
+msgstr "Mediteer, monnik ! Wees niet onoplettend ! Laat je geest niet in zintuiglijke geneugten ronddwalen ! Slik in je onoplettendheid niet een brandende ijzeren bal in, en jammer dan niet : 'Dit is pijnlijk !'"
 
 msgid "372"
 msgstr "Voor iemand zonder wijsheid is er geen meditatie ; voor iemand zonder meditatie is er geen wijsheid. Maar de persoon die over beide kwaliteiten beschikt is dicht bij Nibbana."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Zoals de jasmijn al zijn verwelkte bloemen van zich afwerpt, zo monniken, moeten jullie begeerte en haat van je afwerpen."
 
 msgid "378"
-msgstr "Gekalmeerd in het lichaam, gekalmeerd in de spraak, gekalmeerd en goed geconcentreerd in de geest ; nadat hij de verlokkingen van de wereld heeft opgegeven, wordt hij terecht “de gekalmeerde” genoemd."
+msgstr "Gekalmeerd in het lichaam, gekalmeerd in de spraak, gekalmeerd en goed geconcentreerd in de geest ; nadat hij de verlokkingen van de wereld heeft opgegeven, wordt hij terecht 'de gekalmeerde' genoemd."
 
 msgid "379"
 msgstr "Jijzelf moet jezelf aanzetten ! Jijzelf moet jezelf leren kennen ! Zo monnik, door aandachtig te zijn en jezelf te bewaken, zul je gelukkig leven."
@@ -1240,7 +1240,7 @@ msgid "383"
 msgstr "Brahmaan, oefen flink en kap de stroom door ; verwerp zintuiglijke hartstochten. Wanneer je het einde van geconditioneerde dingen kent, dan brahmaan, ben je een kenner van het Ongeschapene."
 
 msgid "384"
-msgstr "Wanneer een brahmaan voorbij de twee dingen is gegaan, verdwijnen alle banden in “hem die weet” volledig."
+msgstr "Wanneer een brahmaan voorbij de twee dingen is gegaan, verdwijnen alle banden in 'hem die weet' volledig."
 
 msgid "385"
 msgstr "In wie ver weg of dichtbij, of in wie ver weg en dichtbij niet gevonden wordt ; iemand die vrij van angst is en ongebonden is ; hij is degene die ik een brahmaan noem."
@@ -1252,7 +1252,7 @@ msgid "387"
 msgstr "De zon straalt overdag, de maan verlicht ‘s nachts, de krijger glanst in zijn pantserbekleding, de brahmaan straalt in zijn meditatie. Maar de Boeddha schittert de gehele dag en ook de gehele nacht."
 
 msgid "388"
-msgstr "Omdat hij bevrijd is van het kwade wordt hij “brahmaan” genoemd ; omdat hij edel van gedrag is, wordt hij “heilige” genoemd ; omdat hij zichzelf ontdaan heeft van al zijn onzuiverheden, wordt een persoon een “verzaker” genoemd."
+msgstr "Omdat hij bevrijd is van het kwade wordt hij 'brahmaan' genoemd ; omdat hij edel van gedrag is, wordt hij 'heilige' genoemd ; omdat hij zichzelf ontdaan heeft van al zijn onzuiverheden, wordt een persoon een 'verzaker' genoemd."
 
 msgid "389"
 msgstr "Men moet een brahmaan niet slaan ; een brahmaan moet daarentegen geen kwaadwilligheid vertonen. Hij die een brahmaan slaat moet zich schamen ; hij die vanwege dat feit boos wordt, des te meer."
@@ -1276,7 +1276,7 @@ msgid "395"
 msgstr "Hij draagt afgedankte kledingstukken, zijn lichaam is slank en getekend vanwege zijn aderen, hij is alleen in het bos ; hij is degene die ik een brahmaan noem."
 
 msgid "396"
-msgstr "Ik noem iemand niet een brahmaan omdat hij geboren is via de baarmoeder van een hoogstaande moeder. Als hij een bezitter is van bezoedelingen, dan is hij slechts een “meneer-zegger”. Maar hij die vrij van bezoedelingen en hechten is, hij is degene die ik een brahmaan noem."
+msgstr "Ik noem iemand niet een brahmaan omdat hij geboren is via de baarmoeder van een hoogstaande moeder. Als hij een bezitter is van bezoedelingen, dan is hij slechts een 'meneer-zegger'. Maar hij die vrij van bezoedelingen en hechten is, hij is degene die ik een brahmaan noem."
 
 msgid "397"
 msgstr "Hij heeft alle banden doorgekapt, hij raakt niet meer geagiteerd, hij is voorbij alle gehechtheden, hij is bevrijd ; hij is degene die ik een brahmaan noem."

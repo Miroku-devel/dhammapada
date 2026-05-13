@@ -22,10 +22,10 @@ msgid "2"
 msgstr "mysl je předchůdcem stavů, mysl je základem, mysl je tvůrcem, s myslí čistou [povznešenou] kdo hovoří, kdo jedná, toho štěstí následuje jako věrný stín"
 
 msgid "3"
-msgstr "„zhanil mě, zbil mě, přepadl mě a oloupil mě“ — u těch, kdo na tom prodlévají, jejich zášť se neutiší"
+msgstr "'zhanil mě, zbil mě, přepadl mě a oloupil mě' — u těch, kdo na tom prodlévají, jejich zášť se neutiší"
 
 msgid "4"
-msgstr "„zhanil mě, zbil mě, přepadl mě a oloupil mě“ — u těch, kdo na tom neprodlévají, jejich zášť se utiší"
+msgstr "'zhanil mě, zbil mě, přepadl mě a oloupil mě' — u těch, kdo na tom neprodlévají, jejich zášť se utiší"
 
 msgid "5"
 msgstr "nikoli nenávistí se nenávist kdy zde utiší, jen beznenávistností se utiší, takový je věčný stav věcí [zákon]"
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "jestliže v životě nenajdeš někoho lepšího nebo sobě rovného, pak vytrvale žij sám, není pro tebe sdružování s pošetilými"
 
 msgid "62"
-msgstr "„ach moji synové, ach můj majetek“ tak se trápí pošetilý, jenž ani sám sobě nepatří, natož synové, natož majetek"
+msgstr "'ach moji synové, ach můj majetek' tak se trápí pošetilý, jenž ani sám sobě nepatří, natož synové, natož majetek"
 
 msgid "63"
 msgstr "pošetilý, jenž se považuje za pošetilého, moudrým se stane, ale pošetilý, který se má za moudrého, vpravdě pošetilým je nazýván"
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "přeje si nezasloužené postavení, přednost mezi mnichy, představenství v klášteře a pocty od laických rodin"
 
 msgid "74"
-msgstr "„nechť si o mě myslí hospodáři i ti, co odešli do bezdomoví, že toto jsem udělal já sám, nechť sám rozhoduji co má být konáno a co ne“ — takové jsou pošetilcovy myšlenky [záměry] a jeho žádosti a domýšlivost jen vzrůstají"
+msgstr "'nechť si o mě myslí hospodáři i ti, co odešli do bezdomoví, že toto jsem udělal já sám, nechť sám rozhoduji co má být konáno a co ne' — takové jsou pošetilcovy myšlenky [záměry] a jeho žádosti a domýšlivost jen vzrůstají"
 
 msgid "75"
 msgstr "jiné je získávání materiální opory, jiné je to, co vede k odpoutání [vyhasnutí], toto pochopiv, mnich, který je žákem probuzeného by si neměl libovat v poctách a zachovávat si od nich odstup"
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "I dobrý člověk zakouší zlo dokud jeho dobro neuzraje, když však jeho dobro uzraje, pak dobrý člověk zakouší dobro"
 
 msgid "121"
-msgstr "nepodceňujte zlé skutky : „nic z toho se mi nevrátí“, i kapky vody padající vodou džbán naplní, tak naplní se pošetilec zlem, když trošku po trošce ho nahromadí"
+msgstr "nepodceňujte zlé skutky : 'nic z toho se mi nevrátí', i kapky vody padající vodou džbán naplní, tak naplní se pošetilec zlem, když trošku po trošce ho nahromadí"
 
 msgid "122"
-msgstr "nepodceňujte dobré skutky : „nic z toho se mi nevrátí“, i kapky vody padající vodou džbán naplní, tak naplní se moudrý dobrem, když trošku po trošce ho nahromadí"
+msgstr "nepodceňujte dobré skutky : 'nic z toho se mi nevrátí', i kapky vody padající vodou džbán naplní, tak naplní se moudrý dobrem, když trošku po trošce ho nahromadí"
 
 msgid "123"
 msgstr "jako [se vyhne] obchodník nebezpečné cestě, má-li malou karavanu a velký majetek, nebo člověk milující život [se vyhne] jedu, tak je třeba vyhýbat se zlu"
@@ -838,52 +838,52 @@ msgid "256"
 msgstr "není spravedlivý ten, kdo správnost neuváženě posuzuje, co je správné a co je nesprávné — obojí by měl moudrý rozvážit"
 
 msgid "257"
-msgstr "kdo uváženě, podle Dhammy a nestranně vede druhé, ten je ochráncem Dhammy a [pravým] mudrcem, ten je nazýván „spravedlivý“"
+msgstr "kdo uváženě, podle Dhammy a nestranně vede druhé, ten je ochráncem Dhammy a [pravým] mudrcem, ten je nazýván 'spravedlivý'"
 
 msgid "258"
-msgstr "není moudrým ten, kdo toho mnoho namluví, kdo zajišťuje bezpečí, kdo je prost zášti a prost strachu, ten je nazýván „moudrý“"
+msgstr "není moudrým ten, kdo toho mnoho namluví, kdo zajišťuje bezpečí, kdo je prost zášti a prost strachu, ten je nazýván 'moudrý'"
 
 msgid "259"
 msgstr "není držitelem Dhammy ten, kdo toho mnoho namluví, kdo však třeba jen málo vyslechl, Dhammu však svým tělem uzřel, ten je držitelem Dhammy, ten není nedbalý Dhammy"
 
 msgid "260"
-msgstr "není Thérou [Starším] ten, kdo má jen zšedlé vlasy na hlavě, někdo může být pokročilého věku, a [přesto] je nazýván „starý hlupák“"
+msgstr "není Thérou [Starším] ten, kdo má jen zšedlé vlasy na hlavě, někdo může být pokročilého věku, a [přesto] je nazýván 'starý hlupák'"
 
 msgid "261"
-msgstr "kdo je však naplněn pravdou a Dhammou, je nenásilný, ukázněný a zkrocený, ten je mudrcem bez poskvrny, ten je nazýván „Théra“"
+msgstr "kdo je však naplněn pravdou a Dhammou, je nenásilný, ukázněný a zkrocený, ten je mudrcem bez poskvrny, ten je nazýván 'Théra'"
 
 msgid "262"
 msgstr "ani ozdobná mluva, ani půvabný vzhled ne-dělají dobrého člověka, je-li závistivý, chamtivý a falešný"
 
 msgid "263"
-msgstr "kdo však takové [vlastnosti] vymýtil, vykořenil a zcela zavrhl, ten je mudrcem, jenž zanechal nenávisti, ten je nazýván „dobrý člověk“"
+msgstr "kdo však takové [vlastnosti] vymýtil, vykořenil a zcela zavrhl, ten je mudrcem, jenž zanechal nenávisti, ten je nazýván 'dobrý člověk'"
 
 msgid "264"
 msgstr "kdo má jen oholenou hlavu není asketou, nedbá-li etických zásad a mluví falešně, kdo je obdařen žádostmi a chtivostí, jak by mohl být asketou ?"
 
 msgid "265"
-msgstr "kdo však v sobě utišil zlé vlastnosti, ať malé či velké, všechny zlé vlastnosti kdo utišil, ten je nazýván „asketa“"
+msgstr "kdo však v sobě utišil zlé vlastnosti, ať malé či velké, všechny zlé vlastnosti kdo utišil, ten je nazýván 'asketa'"
 
 msgid "266"
 msgstr "není mnichem ten, kdo jen žije z almužních darů ostatních, kdo praktikuje odporné věci, ten vůbec není mnichem"
 
 msgid "267"
-msgstr "kdo se však nad dobro i zlo povznesl čistým životem a kráčí světem s rozvahou, ten je nazýván „mnich“"
+msgstr "kdo se však nad dobro i zlo povznesl čistým životem a kráčí světem s rozvahou, ten je nazýván 'mnich'"
 
 msgid "268"
 msgstr "ten, kdo jen mlčí není mudrcem je-li pošetilý a nevědoucí, kdo však jako na vahách považuje a vybírá to nejlepší, ten je moudrý"
 
 msgid "269"
-msgstr "kdo se vyvaruje zlých činů, ten je mudrcem, proto je mudrcem, kdo zná oba světy, ten je nazýván „mudrc“"
+msgstr "kdo se vyvaruje zlých činů, ten je mudrcem, proto je mudrcem, kdo zná oba světy, ten je nazýván 'mudrc'"
 
 msgid "270"
-msgstr "není ušlechtilým ten, kdo živým bytostem ubližuje, kdo neubližuje žádným živým bytostem, ten je nazýván „ušlechtilý“"
+msgstr "není ušlechtilým ten, kdo živým bytostem ubližuje, kdo neubližuje žádným živým bytostem, ten je nazýván 'ušlechtilý'"
 
 msgid "271"
 msgstr "ne[mysli si], že když jsi dbal etických zásad a mnoho studoval či získal soustředění nebo pobýval v odloučení :"
 
 msgid "272"
-msgstr "„dospěl jsem k blaženosti odříkání, kterou neprožívají obyčejní světští lidé“ — tuto důvěru v sobě ne-chovej, mnichu, dokud jsi nedosáhl odstranění zákalů"
+msgstr "'dospěl jsem k blaženosti odříkání, kterou neprožívají obyčejní světští lidé' — tuto důvěru v sobě ne-chovej, mnichu, dokud jsi nedosáhl odstranění zákalů"
 
 msgid "chap20"
 msgstr "Stezka"
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "vymyť sebelásku, jako bys na podzim vytrhl lilii, rozviň tuto stezku k míru a k odpoutání [vyhasnutí], kterou vykládá Blažený"
 
 msgid "286"
-msgstr "„zde strávím dobu dešťů, zde zimu, zde léto“ — tak uvažuje pošetilec, který nechápe nebezpečí"
+msgstr "'zde strávím dobu dešťů, zde zimu, zde léto' — tak uvažuje pošetilec, který nechápe nebezpečí"
 
 msgid "287"
 msgstr "kdo je opojen svými potomky a majetkem, člověk s ulpívající myslí, jako na spící vesnici velká povodeň, tak na něj přijde a uchvátí ho smrt"
@@ -955,10 +955,10 @@ msgid "293"
 msgstr "ale ti, kdo jsou správně upevnění, stále si uvědomují tělo, neprovádějí to, co by neměli a vytrvale konají to, co by měli, uvědomělí a jasně chápající — ti dojdou k ukončení zákalů"
 
 msgid "294"
-msgstr "když zabil matku [žádostivost] a otce [klam „já“], dva bojovné krále [víru ve věčnou existenci a víru v úplný zánik], a zničil království a jeho poddané [šest smyslových základen a vášeň], putuje bráhman prost strázně"
+msgstr "když zabil matku [žádostivost] a otce [klam 'já'], dva bojovné krále [víru ve věčnou existenci a víru v úplný zánik], a zničil království a jeho poddané [šest smyslových základen a vášeň], putuje bráhman prost strázně"
 
 msgid "295"
-msgstr "když zabil matku [žádostivost] a otce [klam „já“], dva učené krále [víru ve věčnou existenci a víru v úplný zánik], když zabil pětici tygrů [pět mentálních překážek], putuje bráhman prost strázně"
+msgstr "když zabil matku [žádostivost] a otce [klam 'já'], dva učené krále [víru ve věčnou existenci a víru v úplný zánik], když zabil pětici tygrů [pět mentálních překážek], putuje bráhman prost strázně"
 
 msgid "296"
 msgstr "jsou probuzení, zcela probuzení — vždy — Gótamovi žáci, kteří si dnem i nocí stále uvědomují [připomínají] Buddhu"
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "Peklo"
 
 msgid "306"
-msgstr "ti, kdo říkají nepravdu [lžou] odcházejí do pekla, stejně jako ti, kdo něco udělají a říkají: „neudělal jsem to“ [zapírají], oba si po smrti budou rovni — na onom světě — tito lidé nízkého konání"
+msgstr "ti, kdo říkají nepravdu [lžou] odcházejí do pekla, stejně jako ti, kdo něco udělají a říkají: 'neudělal jsem to' [zapírají], oba si po smrti budou rovni — na onom světě — tito lidé nízkého konání"
 
 msgid "307"
 msgstr "mnozí z těch, kdo se oděli oranžovým rouchem mají zlou povahu a jsou neukáznění, tito zlí se díky svým zlým činům znovuzrodí v pekle"
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "vyprázdni, mnichu, tento člun, prázdný pro tebe bude lehčí, odetneš-li vášeň a nenávist, dojdeš tím k odpoutání"
 
 msgid "370"
-msgstr "odetni pět [nižších pout], zanech pět [vyšších pout] a rozviň přednostně pět [řídících schopností], mnich, který překonal pět připoutaností je nazýván „ten, kdo překročil záplavu“"
+msgstr "odetni pět [nižších pout], zanech pět [vyšších pout] a rozviň přednostně pět [řídících schopností], mnich, který překonal pět připoutaností je nazýván 'ten, kdo překročil záplavu'"
 
 msgid "371"
-msgstr "cvič meditační pohroužení, mnichu, nebuď nedbalý, nenech svou mysl potulovat u pramenů smyslnosti, nespolkni z nedbalosti tuto žhavou železnou kouli, aby ses nespálil a nenaříkal : „to je utrpení“"
+msgstr "cvič meditační pohroužení, mnichu, nebuď nedbalý, nenech svou mysl potulovat u pramenů smyslnosti, nespolkni z nedbalosti tuto žhavou železnou kouli, aby ses nespálil a nenaříkal : 'to je utrpení'"
 
 msgid "372"
 msgstr "není meditační pohroužení u toho, kdo postrádá moudrost, není moudrost u toho, kdo postrádá meditační pohroužení, kdo je však obdařen meditačním pohroužením i moudrostí, ten je již v blízkosti odpoutání"
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "jako jasmín květů uvadlých se zbavuje, tak vášně a nenávisti zcela se zbavte, mniši"
 
 msgid "378"
-msgstr "kdo má mírné [klidné] tělo a mírnou řeč, je mírný a dobře soustředěný, mnich, který opustil světské návnady, ten je nazýván „umírněný“"
+msgstr "kdo má mírné [klidné] tělo a mírnou řeč, je mírný a dobře soustředěný, mnich, který opustil světské návnady, ten je nazýván 'umírněný'"
 
 msgid "379"
 msgstr "sám sebe napravuj [napomínej], sám sebe zkoumej, když střeží sám sebe a je uvědomělý, bude mnich prodlévat blaženě"
@@ -1252,7 +1252,7 @@ msgid "387"
 msgstr "slunce září ve dne, měsíc svítí v noci, bojovník září ve své zbroji, bráhman září v meditačním pohroužení, avšak po celý [každý] den i noc září svým jasem Probuzený"
 
 msgid "388"
-msgstr "„bráhman“ proto, že se zbavil zla, „asketa“ proto je někdo nazýván, že žije správně, že opustil vlastní poskvrnění, proto je někdo nazýván „ten, kdo opustil [odešel]“"
+msgstr "'bráhman' proto, že se zbavil zla, 'asketa' proto je někdo nazýván, že žije správně, že opustil vlastní poskvrnění, proto je někdo nazýván 'ten, kdo opustil [odešel]'"
 
 msgid "389"
 msgstr "nechť nikdo neudeří bráhmana a bráhman nechť nepovolí svému hněvu, hanba tomu, kdo napadne bráhmana, větší hanba, když ten povolí svému hněvu"

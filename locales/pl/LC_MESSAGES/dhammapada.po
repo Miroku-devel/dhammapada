@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Umysł poprzedza wszelkie myśli. Umysł jest ich zwierzchnikiem; umysł je kształtuje. Gdy ktoś mówi lub działa z czystym umysłem, szczęście podąża za taką osobą niczym nieopuszczający jej własny cień."
 
 msgid "3"
-msgstr "„Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie” — kto utrzymuje podobne myśli, nie uspokoi swej nienawiści."
+msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie' — kto utrzymuje podobne myśli, nie uspokoi swej nienawiści."
 
 msgid "4"
-msgstr "„Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie” — kto nie utrzymuje podobnych myśli, uspokaja swą nienawiść."
+msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie' — kto nie utrzymuje podobnych myśli, uspokaja swą nienawiść."
 
 msgid "5"
 msgstr "Nienawiści w tym świecie nigdy nie uspokoi się nienawiścią; jedynie przez nie-nienawiść nienawiść się uspokaja. To jest Odwieczne Prawo."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Dobroczyńca raduje się teraz i w następnym życiu; raduje się w obu światach. Raduje się i triumfuje, wspominając swe czyste uczynki."
 
 msgid "17"
-msgstr "Sprawca zła cierpi i teraz, i w następnym życiu; cierpi w obu światach. Myśl: „Uczyniłem zło” trapi go, a jeszcze bardziej napawa cierpieniem, gdy już odszedł do krainy cienia."
+msgstr "Sprawca zła cierpi i teraz, i w następnym życiu; cierpi w obu światach. Myśl: 'Uczyniłem zło' trapi go, a jeszcze bardziej napawa cierpieniem, gdy już odszedł do krainy cienia."
 
 msgid "18"
-msgstr "Sprawca dobra zachwyca się teraz i w następnym życiu; raduje się w obu światach. Myśl: „Uczyniłem dobro” zachwyca go, a jeszcze bardziej zachwyca, gdy już odszedł do krainy cienia."
+msgstr "Sprawca dobra zachwyca się teraz i w następnym życiu; raduje się w obu światach. Myśl: 'Uczyniłem dobro' zachwyca go, a jeszcze bardziej zachwyca, gdy już odszedł do krainy cienia."
 
 msgid "19"
 msgstr "Nawet jeśli ktoś recytuje święte teksty, lecz nie działa z nimi w zgodzie, to taki nieuważny człowiek jest niczym pasterz, który liczy jedynie cudze krowy — nie uczestniczy w błogosławieństwach świętego życia."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Gdyby poszukiwacz Prawdy nie znalazł lepszego lub równego sobie towarzysza, niech bez ociągania się podąża samotnym szlakiem; nie ma dlań wspólnoty z głupcem."
 
 msgid "62"
-msgstr "Głupiec martwi się, myśląc: „Mam synów, mam bogactwa”. Skoro naprawdę nawet on sam nie jest swoją własnością, to jakżeby jego synowie, jakżeby jego bogactwa?"
+msgstr "Głupiec martwi się, myśląc: 'Mam synów, mam bogactwa'. Skoro naprawdę nawet on sam nie jest swoją własnością, to jakżeby jego synowie, jakżeby jego bogactwa?"
 
 msgid "63"
 msgstr "Głupiec, który wie o swej głupocie, jest przynajmniej w tym mądry, lecz głupiec, który myśli, że jest mądry, dopiero jest głupcem."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Głupiec poszukuje niezasłużonego rozgłosu, pierwszeństwa wśród mnichów, zwierzchności nad klasztorami i zaszczytów od ludzi świeckich."
 
 msgid "74"
-msgstr "„Niech i mnisi, i ludzie świeccy myślą, iż ja tego dokonałem. Niech we wszystkich sprawach, i dużych, i drobnych, podążają za mną” — takie są ambicje głupca; tak wzbierają jego żądze i duma."
+msgstr "'Niech i mnisi, i ludzie świeccy myślą, iż ja tego dokonałem. Niech we wszystkich sprawach, i dużych, i drobnych, podążają za mną' — takie są ambicje głupca; tak wzbierają jego żądze i duma."
 
 msgid "75"
 msgstr "Czym innym jest poszukiwanie światowych zysków, a czymś zupełnie innym ścieżka ku Nibbanie. Niech mnich, uczeń Buddy, jasno to pojmując, nie da się zwieść świeckim honorom, lecz niech zamiast tego rozwija w sobie brak przywiązania do ziemskich spraw."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Czyniącemu dobro wszystko może wydawać się nie takie, jakie być powinno, dopóki dobro nie dojrzeje; lecz gdy już dojrzeje, wtedy widzi on przyjemne skutki swych dobrych czynów."
 
 msgid "121"
-msgstr "Nie lekceważ zła, myśląc: „To mnie nie dotknie”. Kropla po kropli napełnia się dzban wodą, i podobnie głupiec, gromadząc zło po trochę, cały się nim wypełnia."
+msgstr "Nie lekceważ zła, myśląc: 'To mnie nie dotknie'. Kropla po kropli napełnia się dzban wodą, i podobnie głupiec, gromadząc zło po trochę, cały się nim wypełnia."
 
 msgid "122"
-msgstr "Nie lekceważ dobra, mówiąc: „To mi nic nie da”. Kropla po kropli napełnia się dzban wodą, i podobnie mądry człowiek, gromadząc dobro po trochę, cały się nim wypełnia."
+msgstr "Nie lekceważ dobra, mówiąc: 'To mi nic nie da'. Kropla po kropli napełnia się dzban wodą, i podobnie mądry człowiek, gromadząc dobro po trochę, cały się nim wypełnia."
 
 msgid "123"
 msgstr "Jak kupiec z niewielką eskortą i cennymi towarami unika niebezpiecznego szlaku albo jak ktoś, komu życie miłe, unika trucizny — tak powinno się unikać zła."
@@ -604,7 +604,7 @@ msgid "183"
 msgstr "Unikaj zła, podtrzymuj dobro, oczyszczaj swój umysł — oto nauka Buddów."
 
 msgid "184"
-msgstr "Wytrwała cierpliwość to najlepszy rodzaj surowej prostoty. „Nibbana jest najwspanialsza”, mówi Budda. Nie jest prawdziwym mnichem ten, kto krzywdzi innych; nie wyrzekł się prawdziwie świata ktoś, kto gnębi innych."
+msgstr "Wytrwała cierpliwość to najlepszy rodzaj surowej prostoty. 'Nibbana jest najwspanialsza', mówi Budda. Nie jest prawdziwym mnichem ten, kto krzywdzi innych; nie wyrzekł się prawdziwie świata ktoś, kto gnębi innych."
 
 msgid "185"
 msgstr "Unikanie pogardy, unikanie krzywdzenia innych, powściągliwość zgodna z zasadami dyscypliny klasztornej, umiarkowanie w jedzeniu, życie w samotności, poświęcenie się medytacji — oto nauka Buddów."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Ludziom drogi jest ten, kto ucieleśnia cnotę i prawdziwy wgląd, kto przestrzega zasad, kto urzeczywistnił Prawdę i sam czyni to, co powinien czynić."
 
 msgid "218"
-msgstr "Kto jest nastawiony na to, co Niewysłowione i trwa z umysłem natchnionym, ten — już nie krępowany przez przyjemności zmysłowe — zwany jest „Kroczącym w Górę Strumienia”."
+msgstr "Kto jest nastawiony na to, co Niewysłowione i trwa z umysłem natchnionym, ten — już nie krępowany przez przyjemności zmysłowe — zwany jest 'Kroczącym w Górę Strumienia'."
 
 msgid "219"
 msgstr "Kiedy po długiej nieobecności człowiek bezpiecznie powraca z daleka, jego krewni, przyjaciele i ludzie dobrze mu życzący witają go z powrotem w jego domu."
@@ -883,7 +883,7 @@ msgid "271"
 msgstr "Nie powinniście zadowalać się jedynie przestrzeganiem zasad i wskazań ani nawet zdobyciem znacznej wiedzy; ani także osiągnięciem zatopienia w medytacji czy życiem w odosobnieniu."
 
 msgid "272"
-msgstr "Nie myślcie także: „Doznaję błogostanu wyrzeczenia się, którego nie doświadczają osoby świeckie”. O mnisi, nie powinno was zadowalać nic pomniejszego od osiągnięcia ostatecznego usunięcia skalań — od stanu Arahata."
+msgstr "Nie myślcie także: 'Doznaję błogostanu wyrzeczenia się, którego nie doświadczają osoby świeckie'. O mnisi, nie powinno was zadowalać nic pomniejszego od osiągnięcia ostatecznego usunięcia skalań — od stanu Arahata."
 
 msgid "chap20"
 msgstr "Ścieżka"
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Sami musicie się wysilać; Buddowie jedynie wskazują drogę. Ludzie nawykli do medytacji, którzy idą ścieżką, uwalniają się z więzów Mary."
 
 msgid "277"
-msgstr "„Wszystkie uwarunkowane rzeczy są nietrwałe” — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie uwarunkowane rzeczy są nietrwałe' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "278"
-msgstr "„Wszystkie uwarunkowane rzeczy są niezadowalające” — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie uwarunkowane rzeczy są niezadowalające' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "279"
-msgstr "„Wszystkie rzeczy nie są jaźnią” — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie rzeczy nie są jaźnią' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "280"
 msgstr "Próżniak, który nie wysila się wtedy, gdy powinien, który choć młody i silny, jest pełen lenistwa, którego umysł wypełniają próżne myśli — taki marny człowiek nie odnajduje ścieżki ku mądrości."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Odetnij swe namiętności, jak ktoś wyrywający własnymi rękami jesienny lotos. Kultywuj jedynie ścieżkę prowadzącą ku pokojowi, ku Nibbanie, którą oznajmił Czcigodny."
 
 msgid "286"
-msgstr "„Tu będę mieszkał w porze deszczowej, a tam zimą i latem” — tak rozmyśla głupiec. Nie uświadamia sobie niebezpieczeństwa nadejścia śmierci."
+msgstr "'Tu będę mieszkał w porze deszczowej, a tam zimą i latem' — tak rozmyśla głupiec. Nie uświadamia sobie niebezpieczeństwa nadejścia śmierci."
 
 msgid "287"
 msgstr "Jak wielka powódź porywa uśpioną wioskę, tak śmierć chwyta i zabiera człowieka, którego umysł czepia się poczucia zadowolenia ze swego potomstwa i trzód."
@@ -994,7 +994,7 @@ msgid "chap22"
 msgstr "Kraina Rozpaczy"
 
 msgid "306"
-msgstr "Kłamca idzie do krainy rozpaczy; także ten, kto uczyniwszy (źle), mówi: „Nie zrobiłem tego”. Ludzie dopuszczający się podłych czynów, odchodząc z tego świata, doznają takiego samego losu w innym świecie."
+msgstr "Kłamca idzie do krainy rozpaczy; także ten, kto uczyniwszy (źle), mówi: 'Nie zrobiłem tego'. Ludzie dopuszczający się podłych czynów, odchodząc z tego świata, doznają takiego samego losu w innym świecie."
 
 msgid "307"
 msgstr "Jest wielu złych ludzi i wiele pozbawionych samokontroli osób noszących żółte szaty. Ci występni ludzie z powodu swych złych czynów odrodzą się w krainie rozpaczy."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Odetnij wszystkie pięć, porzuć wszystkie pięć i kultywuj wszystkie pięć. Mnich, który przezwyciężył wszystkie pięć rodzajów więzów, zwany jest tym, który przekroczył powódź."
 
 msgid "371"
-msgstr "Medytuj, mnichu! Nie bądź nieuważny. Niech twój umysł nie krąży wokół zmysłowych przyjemności. Nie połknij przez nieuwagę rozżarzonej żelaznej kuli, byś potem, gdy zacznie cię palić, nie krzyczał: „To bolesne!”."
+msgstr "Medytuj, mnichu! Nie bądź nieuważny. Niech twój umysł nie krąży wokół zmysłowych przyjemności. Nie połknij przez nieuwagę rozżarzonej żelaznej kuli, byś potem, gdy zacznie cię palić, nie krzyczał: 'To bolesne!'."
 
 msgid "372"
 msgstr "Nie ma medytacyjnego skupienia dla kogoś, komu brak wglądu, i nie ma wglądu dla kogoś, komu brak medytacyjnego skupienia. Kto przejawia zarówno wgląd, jak i medytacyjne skupienie, ten jest prawdziwie blisko Nibbany."

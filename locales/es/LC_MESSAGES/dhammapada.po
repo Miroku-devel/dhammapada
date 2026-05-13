@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Todos los estados encuentran su origen en la mente. La mente es su fundamento y son creaciones de la mente. Si uno habla o actúa con un pensamiento puro, entonces la felicidad le sigue como una sombra que jamás le abandona."
 
 msgid "3"
-msgstr "«Me maltrató, me golpeó, me derrotó, me robó». El odio de aquellos que almacenan tales pensamientos jamás se extingue."
+msgstr "'Me maltrató, me golpeó, me derrotó, me robó'. El odio de aquellos que almacenan tales pensamientos jamás se extingue."
 
 msgid "4"
-msgstr "«Me maltrató, me golpeó, me derrotó, me robó». Quienes no albergan tales pensamientos se liberan del odio."
+msgstr "'Me maltrató, me golpeó, me derrotó, me robó'. Quienes no albergan tales pensamientos se liberan del odio."
 
 msgid "5"
 msgstr "El odio nunca se extingue por el odio en este mundo; solamente se apaga a través del amor. Tal es una antigua ley eterna."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "El bienhechor se regocija ahora y se regocija después. Tanto aquí como allí se regocija. Se regocija enormemente, percibiendo la pureza de sus propios actos."
 
 msgid "17"
-msgstr "Sufre ahora y sufre después. Sufre en ambos estados. «He actuado mal», se dice sufriendo. Además, sufre abocándose a un estado más doloroso. Así el que mal obra."
+msgstr "Sufre ahora y sufre después. Sufre en ambos estados. 'He actuado mal', se dice sufriendo. Además, sufre abocándose a un estado más doloroso. Así el que mal obra."
 
 msgid "18"
-msgstr "Goza ahora y goza después. En ambos estados es feliz. «He actuado bien», se dice feliz. Además, abocándose a un apacible estado es feliz. Así el que bien obra."
+msgstr "Goza ahora y goza después. En ambos estados es feliz. 'He actuado bien', se dice feliz. Además, abocándose a un apacible estado es feliz. Así el que bien obra."
 
 msgid "19"
 msgstr "Aunque uno recite muy a menudo las escrituras, si es negligente y no actúa en consecuencia, es como el vaquero que cuenta las vacas de los otros. No obtiene los frutos de la Vida Santa."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Si un hombre busca y no puede encontrar a alguien que sea mejor o igual que él, que prosiga reciamente la senda de la vida. No puede haber amistad con un necio."
 
 msgid "62"
-msgstr "«Tengo hijos, tengo riqueza», así contabiliza el necio en su mente. Pero él mismo no se pertenece a sí mismo. ¡Cuánto menos los hijos y la riqueza!"
+msgstr "'Tengo hijos, tengo riqueza', así contabiliza el necio en su mente. Pero él mismo no se pertenece a sí mismo. ¡Cuánto menos los hijos y la riqueza!"
 
 msgid "63"
 msgstr "Un necio consciente de su necedad es, por tal razón, un hombre sabio; pero el necio que piensa que es un sabio es verdaderamente un necio."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "El necio desea reputación y prioridad entre los monjes, autoridad en los monasterios y honores entre otras familias."
 
 msgid "74"
-msgstr "«Que laicos y monjes piensen que yo he hecho este trabajo», dice el necio. Así aumenta su ambición, sus deseos y su orgullo."
+msgstr "'Que laicos y monjes piensen que yo he hecho este trabajo', dice el necio. Así aumenta su ambición, sus deseos y su orgullo."
 
 msgid "75"
 msgstr "Uno es el sendero que conduce a las ganancias mundanas y otro el que lleva al Nibbana. Comprendiéndolo así, el monje no se regocija con los favores del mundo, sino que cultiva el desapego."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Incluso una buena persona puede experimentar dolor al obrar bien, pero en cuanto el fruto se produce, entonces experimenta los buenos resultados."
 
 msgid "121"
-msgstr "No penséis con ligereza sobre el mal diciéndoos «no vendrá a mí». Igual que un cántaro se llena gota a gota, del mismo modo el necio, acumulándolo poco a poco, se llena de maldad."
+msgstr "No penséis con ligereza sobre el mal diciéndoos 'no vendrá a mí'. Igual que un cántaro se llena gota a gota, del mismo modo el necio, acumulándolo poco a poco, se llena de maldad."
 
 msgid "122"
-msgstr "No penséis con ligereza sobre el bien diciéndoos «no vendrá a mí». Igual que un cántaro se llena gota a gota, del mismo modo el sabio, acumulándolo poco a poco, se llena de bondad."
+msgstr "No penséis con ligereza sobre el bien diciéndoos 'no vendrá a mí'. Igual que un cántaro se llena gota a gota, del mismo modo el sabio, acumulándolo poco a poco, se llena de bondad."
 
 msgid "123"
 msgstr "Igual que un comerciante con una pequeña caravana transportando mucha riqueza evitaría un camino peligroso, y así como un hombre que ama la vida evitaría el veneno, así uno debería evitar el mal."
@@ -808,7 +808,7 @@ msgid "247"
 msgstr "y sea adicto a los licores y tóxicos, en esta misma vida arrancará su propia raíz de felicidad."
 
 msgid "248"
-msgstr "Sepa entonces, ¡oh, buen hombre!, «no de fácil control son las cosas perniciosas». No dejes que el deseo y el odio te arrastren por el camino del sufrimiento durante largo tiempo."
+msgstr "Sepa entonces, ¡oh, buen hombre!, 'no de fácil control son las cosas perniciosas'. No dejes que el deseo y el odio te arrastren por el camino del sufrimiento durante largo tiempo."
 
 msgid "249"
 msgstr "La gente da de acuerdo con su bondad y como le place. Si uno está envidioso de comida o de bebida de los otros, no podrá hallar la paz ni de noche ni de día."
@@ -847,7 +847,7 @@ msgid "259"
 msgstr "No está uno versado en la Doctrina por hablar mucho. Aquel que, habiendo escuchado la Doctrina, no la ignora y la observa, ese tal es uno versado en la Doctrina."
 
 msgid "260"
-msgstr "No se es un Thera únicamente porque se tenga el cabello canoso. Ese tal puede ser solo maduro en edad, y de él se dirá que «es un hombre que ha envejecido en balde»."
+msgstr "No se es un Thera únicamente porque se tenga el cabello canoso. Ese tal puede ser solo maduro en edad, y de él se dirá que 'es un hombre que ha envejecido en balde'."
 
 msgid "261"
 msgstr "En aquel que hay verdad, perfecto comportamiento, no violencia, abstinencia y autocontrol, ese sabio que ha descartado las impurezas, sí es llamado un venerable."
@@ -883,7 +883,7 @@ msgid "271"
 msgstr "No es solo por la mera moralidad y la austeridad, ni por la erudición, ni por el desarrollo mental de la concentración, ni viviendo en retiro,"
 
 msgid "272"
-msgstr "ni pensando «gozo de la bendición de la renuncia negada a las personas mundanas», como uno debe sentirse satisfecho; el monje debe conseguir la extinción de todas las contaminaciones."
+msgstr "ni pensando 'gozo de la bendición de la renuncia negada a las personas mundanas', como uno debe sentirse satisfecho; el monje debe conseguir la extinción de todas las contaminaciones."
 
 msgid "chap20"
 msgstr "La Senda"
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Vosotros mismos tenéis que esforzaros. Budas solo son los que indican el camino. Aquellos que entran en el Sendero y cultivan la meditación se liberan de las garras de Mara."
 
 msgid "277"
-msgstr "«Todos los fenómenos condicionados son impermanentes». Cuando uno comprende esto con sabiduría, entonces uno se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
+msgstr "'Todos los fenómenos condicionados son impermanentes'. Cuando uno comprende esto con sabiduría, entonces uno se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
 
 msgid "278"
-msgstr "«Todos los fenómenos condicionados están sujetos al sufrimiento». Cuando uno comprende esto con sabiduría, se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
+msgstr "'Todos los fenómenos condicionados están sujetos al sufrimiento'. Cuando uno comprende esto con sabiduría, se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
 
 msgid "279"
-msgstr "«Todos los fenómenos son impersonales». Cuando uno comprende esto con sabiduría, entonces uno se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
+msgstr "'Todos los fenómenos son impersonales'. Cuando uno comprende esto con sabiduría, entonces uno se hastía de tal insatisfactoriedad. Este es el Sendero de la purificación."
 
 msgid "280"
 msgstr "El que no se esfuerza cuando es el momento de esforzarse; el que, aun joven y fuerte, es indolente; el que es bajo en mente y pensamiento, y perezoso, ese vago jamás encuentra el Sendero hacia la sabiduría."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Elimina tu arrogancia como se arranca la lila en otoño. Cultiva el Sendero de la paz. El Nibbana ha sido mostrado por el Iluminado."
 
 msgid "286"
-msgstr "«Aquí viviré en la estación de las lluvias; aquí viviré en el otoño y en el invierno»: así proyecta el necio. No se da cuenta del peligro de muerte."
+msgstr "'Aquí viviré en la estación de las lluvias; aquí viviré en el otoño y en el invierno': así proyecta el necio. No se da cuenta del peligro de muerte."
 
 msgid "287"
 msgstr "La muerte alcanza y se lleva a aquel cuya mente está anclada en sus hijos y rebaños, como un gran río anega a un pueblo mientras duerme."
@@ -952,7 +952,7 @@ msgid "292"
 msgstr "Lo que debería hacerse, no se hace. Lo que no debería hacerse, se hace: las impurezas y los impulsos contaminantes de tales personas, arrogantes y negligentes, crecen."
 
 msgid "293"
-msgstr "Aquellos que siempre persisten en la práctica de «la atención sobre el cuerpo», y no hacen lo que no debe hacerse, y constantemente hacen lo que debe hacerse, esos atentos y reflexivos ponen término a las corrupciones."
+msgstr "Aquellos que siempre persisten en la práctica de 'la atención sobre el cuerpo', y no hacen lo que no debe hacerse, y constantemente hacen lo que debe hacerse, esos atentos y reflexivos ponen término a las corrupciones."
 
 msgid "294"
 msgstr "Habiendo eliminado a la madre (avidez) y al padre (orgullo) y a los dos reyes (infinitismo y nihilismo), y habiendo destruido a un reino y sus habitantes (apego), uno se convierte en un iluminado."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Aunque reciba muy poco, el monje no lo desprecia, e incluso los dioses veneran a ese de vida pura y esforzada."
 
 msgid "367"
-msgstr "El que no piensa «yo» y «mío» con respecto a su mente y a su cuerpo, y que no se tribula por lo que es o no es, ese, por supuesto, es denominado un monje."
+msgstr "El que no piensa 'yo' y 'mío' con respecto a su mente y a su cuerpo, y que no se tribula por lo que es o no es, ese, por supuesto, es denominado un monje."
 
 msgid "368"
 msgstr "El monje que permanece en el amor benevolente, que goza en la Doctrina, alcanza el Nibbana, que es la superación de todos los fenómenos condicionados."
@@ -1195,10 +1195,10 @@ msgid "369"
 msgstr "Vacía, oh monje, esta barca (de la vida). Vaciada por ti, se moverá con celeridad. Eliminando la avidez y las pasiones, viajarás hacia el Nibbana."
 
 msgid "370"
-msgstr "Libérate de cinco cosas, rechaza cinco cosas, cultiva cinco cosas. El monje que va más allá de las cinco ataduras es denominado «El que cruza la corriente»."
+msgstr "Libérate de cinco cosas, rechaza cinco cosas, cultiva cinco cosas. El monje que va más allá de las cinco ataduras es denominado 'El que cruza la corriente'."
 
 msgid "371"
-msgstr "Medita, oh monje. No seas inatento. No dejes que tu mente se disperse con placeres sensuales. No permanezcas inatento y te dejes consumir como una bola de acero. Abrasándote, no tendrás que gritar: «Esto es sufrimiento»."
+msgstr "Medita, oh monje. No seas inatento. No dejes que tu mente se disperse con placeres sensuales. No permanezcas inatento y te dejes consumir como una bola de acero. Abrasándote, no tendrás que gritar: 'Esto es sufrimiento'."
 
 msgid "372"
 msgstr "No hay concentración para el que no tiene sabiduría; no hay sabiduría para el que no se concentra. En aquel que hay concentración y sabiduría, ese verdaderamente está próximo al Nibbana."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Como palidecen y caen las flores del jazmín, arrojad fuera y totalmente la avidez y la malevolencia."
 
 msgid "378"
-msgstr "El monje que es calmo en cuerpo, calmo en la palabra, calmo en la mente, bien dispuesto y que se ha despojado de las cosas mundanas, es verdaderamente denominado «uno en plena paz»."
+msgstr "El monje que es calmo en cuerpo, calmo en la palabra, calmo en la mente, bien dispuesto y que se ha despojado de las cosas mundanas, es verdaderamente denominado 'uno en plena paz'."
 
 msgid "379"
 msgstr "¡Oh, monje!, mírate a ti mismo con ojos críticos; examínate a ti mismo. Cuidando de ti mismo y vigilante, ¡oh, monje!, vivirás felizmente."
@@ -1243,7 +1243,7 @@ msgid "384"
 msgstr "Mediante la meditación y la Visión Cabal, el noble alcanza la más alta Sabiduría y, liberándose de toda atadura del que sabe, se extingue."
 
 msgid "385"
-msgstr "Aquel para el que no existe ni esto ni aquello, ni «yo» ni «mío», está alerta y liberado de las pasiones, a ese llamo yo un noble."
+msgstr "Aquel para el que no existe ni esto ni aquello, ni 'yo' ni 'mío', está alerta y liberado de las pasiones, a ese llamo yo un noble."
 
 msgid "386"
 msgstr "Al que es meditativo, puro y tranquilo, que ha llevado a cabo su deber y está libre de corrupciones, habiendo alcanzado la más Alta Meta, a ese llamo yo noble."

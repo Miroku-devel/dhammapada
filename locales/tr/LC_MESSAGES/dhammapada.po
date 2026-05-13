@@ -22,7 +22,7 @@ msgid "2"
 msgstr "Bugünkü yaşamımız dünkü düşüncelerimizin, yarınki yaşamımız da bugünkü düşüncelerimizin eseridir. Yaşam aklın eseridir. Tıpkı gölgesinin bir insanı izlemesi gibi, saf olan bir akılla konuşan ve davranan kişiyi de sevinç izler."
 
 msgid "3"
-msgstr "“Bu kişi bana hakaret etti, şu kişi bana zarar verdi, şu kişi beni yendi” şeklinde düşünen kişiler, hiçbir zaman nefretten kurtulamazlar."
+msgstr "'Bu kişi bana hakaret etti, şu kişi bana zarar verdi, şu kişi beni yendi' şeklinde düşünen kişiler, hiçbir zaman nefretten kurtulamazlar."
 
 msgid "4"
 msgstr "Nefretten ancak bu şekilde düşünmeyen kişiler kurtulabilirler."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "İyilik yapan kişi bu dünyada da öte dünyada da mutlu olur. Yaptığı iyilikleri gördüğü zaman mutluluk duyar ve sevinir."
 
 msgid "17"
-msgstr "Kötülük yapan kişi her iki dünyada da acı çeker. “Ben kötülük yaptım” diye ağlar ve üzüntü yolunda gider."
+msgstr "Kötülük yapan kişi her iki dünyada da acı çeker. 'Ben kötülük yaptım' diye ağlar ve üzüntü yolunda gider."
 
 msgid "18"
-msgstr "İyilik yapan kişi her iki dünyada da sevinir. “Ben iyilik yaptım” diye mutluluk duyar ve sevinç yolunda gider."
+msgstr "İyilik yapan kişi her iki dünyada da sevinir. 'Ben iyilik yaptım' diye mutluluk duyar ve sevinç yolunda gider."
 
 msgid "19"
 msgstr "Kutsal sözleri öğrenip de onları yaşamında uygulamayan düşüncesiz kişi kutsal yaşamın sevincine ulaşamaz; o insan efendisinin sığırlarını güden bir sığırtmaç gibidir."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Şayet büyük yaşam yolculuğunda, kişi daha iyi veya en az kendisi kadar iyi olan bir yoldaş bulamazsa, üzülmemeli ve sevinç içinde yoluna yalnız devam etmelidir. Çünkü aptal bir insanın yoldaşlığının ona yararı değil zararı dokunur."
 
 msgid "62"
-msgstr "Aptal kişi “Benim servetim şu kadardır, çocuklarım şunlardır” diye övünüp durur. Fakat aslında o değil onların, kendisinin dahi sahibi değildir."
+msgstr "Aptal kişi 'Benim servetim şu kadardır, çocuklarım şunlardır' diye övünüp durur. Fakat aslında o değil onların, kendisinin dahi sahibi değildir."
 
 msgid "63"
 msgstr "Kendini akıllı sanan kişi aslında aptal bir insandır; aptallığını görebilen kişi ise hiç olmazsa o konuda akıllı olur."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Çünkü aptal kişi şöhret sahibi olmak ister, herkesten sevgi ve saygı görmek ister."
 
 msgid "74"
-msgstr "İsteklerle ve gururla dolu olan aptal kişi, “Şu işi herkes benim yaptığımı zannediyor, herkes yapacağı ve yapmayacağı şeyleri bana soruyor” diye düşünür."
+msgstr "İsteklerle ve gururla dolu olan aptal kişi, 'Şu işi herkes benim yaptığımı zannediyor, herkes yapacağı ve yapmayacağı şeyleri bana soruyor' diye düşünür."
 
 msgid "75"
 msgstr "Dünya zenginliklerine giden bir yol vardır ve NİRVANA'ya giden bir yol vardır. Buddha'yı izleyen kişiler şan ve şöhret tutkusuna kapılmadan özgürlüğe ulaşmak için çalışırlar."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "İyiliği meyvesini vermediği sürece yaptığı iyilik nedeniyle acı çekebilir; ancak o iyiliğin meyvesi ortaya çıktığı zaman gerçekten iyiliği görür."
 
 msgid "121"
-msgstr "“Bu küçük bir şeydir” diye düşünerek, değeri az görülen bir günahı dahi sürdürmeyin. Damlaya damlaya göl olur. Aynı şekilde aptal kişi de küçük kötülüklerle sonunda kötülük dolu bir göl olur."
+msgstr "'Bu küçük bir şeydir' diye düşünerek, değeri az görülen bir günahı dahi sürdürmeyin. Damlaya damlaya göl olur. Aynı şekilde aptal kişi de küçük kötülüklerle sonunda kötülük dolu bir göl olur."
 
 msgid "122"
-msgstr "“Bu küçük bir şeydir” diye düşünerek, yaptığınız bir işin değerini küçük görmeyin. Damlaya damlaya göl olur. Aynı şekilde, akıllı kişi de küçük küçük iyiliklerle bir zaman sonra iyilik dolu bir göl olur."
+msgstr "'Bu küçük bir şeydir' diye düşünerek, yaptığınız bir işin değerini küçük görmeyin. Damlaya damlaya göl olur. Aynı şekilde, akıllı kişi de küçük küçük iyiliklerle bir zaman sonra iyilik dolu bir göl olur."
 
 msgid "123"
 msgstr "İnsan, tıpkı yanında çok para taşıyan fakat hiçbir koruyucusu olmayan bir tüccarın yoldaki tehlikelerden kaçınması veya yaşamayı seven bir kişinin zehirlenmekten kaçınması gibi, kötülüğün tehlikelerinden kaçınmalıdır."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Mükemmellik yolu DHAMMA'yı izleyen, sözleri ve davranışları doğru, fazilet ve görüş sahibi kişiyi tüm dünya sever."
 
 msgid "218"
-msgstr "Tüm aklını NİRVANA'ya ulaşma amacına yöneltmiş ve tüm duygusal zevklerden arınmış kişiye Uddhamsoto “akıntıya karşı giden insan” adı verilmiştir. Çünkü o kişi sonsuzluğun sevincine ulaşmak için dünya yaşamının korkunç dalgalarıyla boğuşmaktadır."
+msgstr "Tüm aklını NİRVANA'ya ulaşma amacına yöneltmiş ve tüm duygusal zevklerden arınmış kişiye Uddhamsoto 'akıntıya karşı giden insan' adı verilmiştir. Çünkü o kişi sonsuzluğun sevincine ulaşmak için dünya yaşamının korkunç dalgalarıyla boğuşmaktadır."
 
 msgid "219"
 msgstr "Bir insanın yaşamı süresince yaptığı tüm iyi işleri öte dünyada"
@@ -742,7 +742,7 @@ msgid "226"
 msgstr "Daima gözlemci olan, gece gündüz kendilerini inceleyen ve durmaksızın NİRVANA'ya ulaşmak için mücadele eden kişilerin tüm tutkuları yok olur."
 
 msgid "227"
-msgstr "Eski bir deyiş vardır: “İnsanlar sessiz olan kişiyi de, çok fazla konuşan kişiyi de, çok az konuşan kişiyi de suçlarlar.” Bu dünyada hiçbir insan suçlanmaktan kaçamaz."
+msgstr "Eski bir deyiş vardır: 'İnsanlar sessiz olan kişiyi de, çok fazla konuşan kişiyi de, çok az konuşan kişiyi de suçlarlar.' Bu dünyada hiçbir insan suçlanmaktan kaçamaz."
 
 msgid "228"
 msgstr "Ne geçmişte, ne şimdi, ne de gelecekte, daima suçlanan veya daima övülen bir insan yoktur."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "Geçmişin Büyük kişileri sadece yolu gösterirler. Çaba göstermesi ve bu yolda yürümesi gereken kişi sizsiniz. Derin derin düşünün ve bu yolu izleyerek tutkulardan ve yanılgılardan kurtulun."
 
 msgid "277"
-msgstr "“Her şey geçicidir”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+msgstr "'Her şey geçicidir'; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
 
 msgid "278"
-msgstr "“Her şey acı vericidir”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+msgstr "'Her şey acı vericidir'; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
 
 msgid "279"
-msgstr "“Her şey yalandır (benliksizdir)”; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
+msgstr "'Her şey yalandır (benliksizdir)'; kişi bu gerçeği gördüğü zaman, tüm acılardan kurtulur ve aydınlığa ulaşır."
 
 msgid "280"
 msgstr "Genç ve kuvvetli iken uyanmayan ve uyandığı zaman çaba göstermeyen, böylelikle tembelliğe ve karar yoksunluğuna düşen kişi, hiçbir zaman hikmet yolunu bulamaz."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Kendinize karşı olan sevgiyi, sonbaharda kökünden söküp attığınız solmuş bir çiçek gibi söküp atın. Ancak bu şekilde Buddha'nın gösterdiği mükemmellik yolunda yürüyebilirsiniz."
 
 msgid "286"
-msgstr "Aptal kişi: “Ben yağmur mevsiminde de, yazın da, kışın da burada kalacağım” diye düşünür; fakat ölümün her an kendisine yaklaştığının farkında bile olmaz."
+msgstr "Aptal kişi: 'Ben yağmur mevsiminde de, yazın da, kışın da burada kalacağım' diye düşünür; fakat ölümün her an kendisine yaklaştığının farkında bile olmaz."
 
 msgid "287"
 msgstr "Ölüm; görkemli bir güzelliği bir anda yok eden koca bir sel gibi, kendisini sahip olduğunu sandığı kişilerle ve nesnelerle doyuran kişiyi silip götürür."
@@ -1114,7 +1114,7 @@ msgid "343"
 msgstr "Şehvet peşinde koşan insanlar; işkence edilen tutsak bir insan gibi devamlı acı çekerler."
 
 msgid "344"
-msgstr "İsteklerden kurtulan kişi sevince ulaşır; ancak kurtulmuş bir insan eski yaşamına ve isteklerine geri dönerse, diğer insanlar onun için derler ki: “Kurtuldu fakat tutsaklığa geri döndü.”"
+msgstr "İsteklerden kurtulan kişi sevince ulaşır; ancak kurtulmuş bir insan eski yaşamına ve isteklerine geri dönerse, diğer insanlar onun için derler ki: 'Kurtuldu fakat tutsaklığa geri döndü.'"
 
 msgid "345"
 msgstr "Bilge kişi; tutku bağının; ipten, ağaçtan veya demirden yapılmış bütün bağlardan daha kuvvetli olduğunu söyler."
@@ -1186,7 +1186,7 @@ msgid "366"
 msgstr "Şayet münzevi başkalarından aldığı sunuları hor görmezse, onu tanrılar dahi över ve onun yaşamı saflığa ve görkemi ulaşır."
 
 msgid "367"
-msgstr "Bir münzevi, isim ve şekli gerçek olarak kabul etmez; hiçbir zaman “bu benimdir” duygusuna kapılmaz ve olmayan şeyler için üzüntü duymaz."
+msgstr "Bir münzevi, isim ve şekli gerçek olarak kabul etmez; hiçbir zaman 'bu benimdir' duygusuna kapılmaz ve olmayan şeyler için üzüntü duymaz."
 
 msgid "368"
 msgstr "Buddha kanunu çerçevesinde yaşayan sevgiyle dolu bir münzevi; tüm acıların sonu ve sonsuz sevinç olan NİRVANA yolunu izler."

@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar eller handlar med klar tanke, då följer en glädjen som en aldrig vikande skugga."
 
 msgid "3"
-msgstr "«Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig» — för dem som klagar så upphör inte hatet."
+msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig' — för dem som klagar så upphör inte hatet."
 
 msgid "4"
-msgstr "«Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig» — för dem som inte klagar så upphör hatet."
+msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig' — för dem som inte klagar så upphör hatet."
 
 msgid "5"
 msgstr "Aldrig någonsin upphör här hat genom hat. Blott genom kärlek upphör det. Detta är evig dhamma."
@@ -64,10 +64,10 @@ msgid "16"
 msgstr "Här gläds han, sedan gläds han, i båda världarna gläds den som väl gör. Han gläds, han jublar, då han sett sina rena gärningar."
 
 msgid "17"
-msgstr "Här brinner han, sedan brinner han, i båda världarna brinner den illa gör. «Ont har jag gjort», brinner han. Mer brinner han när han gått till en olycklig värld."
+msgstr "Här brinner han, sedan brinner han, i båda världarna brinner den illa gör. 'Ont har jag gjort', brinner han. Mer brinner han när han gått till en olycklig värld."
 
 msgid "18"
-msgstr "Här fröjdas han, sedan fröjdas han, i båda världarna fröjdas den väl gör. «Gott har jag gjort», fröjdas han. Mer fröjdas han när han gått till en lycklig värld."
+msgstr "Här fröjdas han, sedan fröjdas han, i båda världarna fröjdas den väl gör. 'Gott har jag gjort', fröjdas han. Mer fröjdas han när han gått till en lycklig värld."
 
 msgid "19"
 msgstr "Om han mycket läser texterna, men inte handlar efter dem, är den försumlige som en herde som räknar andras kor. Han har ingen del i sramanernas gemenskap."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Om man under sin vandring ej finner någon som är bättre eller lika, vandre man beslutsamt ensam. Ej finns gemenskap med den som inte vill veta."
 
 msgid "62"
-msgstr "«Söner har jag, rikedom har jag» — så går dåren och oroar sig. Inte ens sig själv har han. Har han då söner? Har han rikedom?"
+msgstr "'Söner har jag, rikedom har jag' — så går dåren och oroar sig. Inte ens sig själv har han. Har han då söner? Har han rikedom?"
 
 msgid "63"
 msgstr "Den dåre som inser sin dårskap är just därför vis. Den dåre som yvs över vishet må verkligen kallas dåre."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Gott rykte önskar han utan förtjänst, ära bland munkar, makt där människor bor, aktning från andra familjer."
 
 msgid "74"
-msgstr "«Att jag har gjort det vete lekmän och munkar. Av mig bero de om allt som må göras eller ej.» Sådan är dårens tanke. Önskan och stoltheten växer."
+msgstr "'Att jag har gjort det vete lekmän och munkar. Av mig bero de om allt som må göras eller ej.' Sådan är dårens tanke. Önskan och stoltheten växer."
 
 msgid "75"
 msgstr "Ett är medlet för vinst, annan är väg till nirvana. Så må detta förstå bhikkhun, Buddhas hörare. Ej honom glädje äran. Öve han avskildhet."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Även den gode ser det onda så länge det goda ej börjar koka. När det goda kokar, då ser den gode gott."
 
 msgid "121"
-msgstr "Förringa inte det onda — «Det kommer inte till mig.» Av vattendroppars fall fylls även ett vattenkärl. Så fylls den, som inte vill veta, av ondska som han samlar litet i taget."
+msgstr "Förringa inte det onda — 'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den, som inte vill veta, av ondska som han samlar litet i taget."
 
 msgid "122"
-msgstr "Förringa inte det goda — «Det kommer inte till mig.» Av vattendroppars fall fylls även ett vattenkärl. Så fylls den faste av förtjänst som han samlar litet i taget."
+msgstr "Förringa inte det goda — 'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den faste av förtjänst som han samlar litet i taget."
 
 msgid "123"
 msgstr "Som en köpman med litet skydd och mycket gods undviker skrämmande väg, och den livet älskar undviker gift, så må man undvika ondskan."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Skär av din böjelse som med handen höstens lotus. Odla fredsvägen. Nirvana visades av den väl utvecklade."
 
 msgid "286"
-msgstr "«Här skall jag bo under regnet, här under vintern och sommarn.» Så tänker dåren. Hinder känner han ej."
+msgstr "'Här skall jag bo under regnet, här under vintern och sommarn.' Så tänker dåren. Hinder känner han ej."
 
 msgid "287"
 msgstr "Den som blir rusig av barn och boskap, människan fylld av begär, rycks bort av döden som sovande by av en flodvåg."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Skär fem, lämna fem, odla också fem. Fem krokar besegrande bhikkhu kallas en som korsat störtfloden."
 
 msgid "371"
-msgstr "Samla sinnet, bhikkhu, var inte försumlig! Ej i sinnesnjutning virvle ditt sinne. Ej svälje du försumlig kopparkulan. Ej du klage «Detta är smärta!» när du brinner."
+msgstr "Samla sinnet, bhikkhu, var inte försumlig! Ej i sinnesnjutning virvle ditt sinne. Ej svälje du försumlig kopparkulan. Ej du klage 'Detta är smärta!' när du brinner."
 
 msgid "372"
 msgstr "Inte finns sinnets samling för ovis. Vishet finns inte för osamlat sinne. Den som i vishet samlar sitt sinne, han är nära nirvana."

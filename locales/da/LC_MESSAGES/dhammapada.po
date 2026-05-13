@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Alle Foreteelser er betinget af Tanken, er behersket af Tanken, udgøres af Tanken; den der taler eller handler med ren Tanke, ham følger Lykken i Hælene, uadskillelig som hans Skygge."
 
 msgid "3"
-msgstr "„Han har smædet mig“, — „Han har slaaet mig“, — „Han har besejret mig“, — „Han har røvet, hvad der var mit“: hos dem, der gør sig saadanne Tanker om andre, svinder Hadet aldrig."
+msgstr "'Han har smædet mig', — 'Han har slaaet mig', — 'Han har besejret mig', — 'Han har røvet, hvad der var mit': hos dem, der gør sig saadanne Tanker om andre, svinder Hadet aldrig."
 
 msgid "4"
-msgstr "„Han har smædet mig“, — „Han har slaaet mig“, — „Han har besejret mig“, — „Han har røvet, hvad der var mit“: hos dem, der ikke tænker saadan om andre, svinder Hadet."
+msgstr "'Han har smædet mig', — 'Han har slaaet mig', — 'Han har besejret mig', — 'Han har røvet, hvad der var mit': hos dem, der ikke tænker saadan om andre, svinder Hadet."
 
 msgid "5"
 msgstr "Thi aldrig bringes her i Verden Had til Ophør ved Had; ved Mildhed svinder Had; det er en evig Lov."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Hvis man paa sin Vandring ikke træffer nogen, der er bedre end en selv eller ens Ligemand, saa skal man trøstigt vandre alene; Daarer er intet Følgeskab."
 
 msgid "62"
-msgstr "„Jeg har Sønner, jeg har Rigdom“ — saadanne Bekymringer gør Taaben sig; han er ikke engang Herre over sig selv, hvor meget mindre over Sønner og Rigdom."
+msgstr "'Jeg har Sønner, jeg har Rigdom' — saadanne Bekymringer gør Taaben sig; han er ikke engang Herre over sig selv, hvor meget mindre over Sønner og Rigdom."
 
 msgid "63"
 msgstr "Den Taabe, der indser sin Daarskab, han er for saa vidt vis; men den Taabe, der anser sig for vis, han kan i Sandhed kaldes en Taabe."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Han vil stræbe efter slette Menneskers Agtelse, efter Forrang blandt Tiggermunkene, efter Herredømmet i Klostrene, efter Ære i andre Familier:"
 
 msgid "74"
-msgstr "„Baade Lægfolk og Munke skal regne med mine Handlinger; mig skal de underkaste sig i alt, hvad der skal gøres eller ikke gøres!“ — saadan er Taabens Ønske; og hans Begær og Indbildskhed vokser."
+msgstr "'Baade Lægfolk og Munke skal regne med mine Handlinger; mig skal de underkaste sig i alt, hvad der skal gøres eller ikke gøres!' — saadan er Taabens Ønske; og hans Begær og Indbildskhed vokser."
 
 msgid "75"
 msgstr "En Lære fører til Rigdom, en anden til Nirvâna; naar Tiggermunken, Buddhas Lærling, har indset det, saa vil han ikke glæde sig over Æresbevisninger, men hellige sig Ensomhed."
@@ -847,10 +847,10 @@ msgid "259"
 msgstr "En Hævder af Ret bliver man ikke ved at tale mange Ord; selv om man kun har lært lidet, men har en umiddelbar Forstaaelse af Retten, saa er man en Hævder af Ret, en som ikke forsømmer Retten."
 
 msgid "260"
-msgstr "En af „Menighedens Ældste“ bliver man ikke ved at ens Haar graaner; ens Alder kan være fremskreden, og alligevel kan man kaldes en, der er bleven gammel til ingen Nytte."
+msgstr "En af 'Menighedens Ældste' bliver man ikke ved at ens Haar graaner; ens Alder kan være fremskreden, og alligevel kan man kaldes en, der er bleven gammel til ingen Nytte."
 
 msgid "261"
-msgstr "Den hos hvem man finder Sandhed, Ret, Skaansomhed, Tugt og Selvbeherskelse; den som har udspyet alt Smuds og er vis, han regnes blandt „Menighedens Ældste“."
+msgstr "Den hos hvem man finder Sandhed, Ret, Skaansomhed, Tugt og Selvbeherskelse; den som har udspyet alt Smuds og er vis, han regnes blandt 'Menighedens Ældste'."
 
 msgid "262"
 msgstr "Ikke blot ved at gøre mange Ord eller ved et smukt Ydre bliver den misundelige, havesyge og uærlige Mand en brav Mand;"
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Bryd Kærligheden til Dit eget Jeg, ligesom Du med Haanden bryder Efteraarets Lotus; vælg Vejen til Fred, til Nirvâna, den som Buddha har anvist."
 
 msgid "286"
-msgstr "„Her vil jeg bo i Regntiden, her ved Vinter- og Sommertid“; saadan overvejer Taaben og tænker ikke paa Døden."
+msgstr "'Her vil jeg bo i Regntiden, her ved Vinter- og Sommertid'; saadan overvejer Taaben og tænker ikke paa Døden."
 
 msgid "287"
 msgstr "Døden fører med sig en Mand, der er optaget af Sønner og Kvæg, og hvis Tanke er andetsteds, ligesom Floden den sovende Landsby."
