@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 use adw::prelude::*;
 use adw::{Application, Window, HeaderBar};
 use gtk4::{Box, Button, Label, Orientation, ScrolledWindow, Scale, Adjustment, EventControllerScroll, EventControllerScrollFlags};
