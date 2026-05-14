@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Ha útja során nem találkozna kiválóbb vagy egyenrangú mesterrel, ne szegődjön ostoba mellé, inkább szilárd elhatározással folytassa egyedül az útját!"
 
 msgid "62"
-msgstr "Az ostobát kínozza a gondolat: 'ezek az én fiaim,’’ 'ez a vagyon az enyém.' Valójában azonban még saját magával sem rendelkezik. Hogyan rendelkezhetne akkor a fiaival, hogyan lehetne a gazdagság az övé?"
+msgstr "Az ostobát kínozza a gondolat: 'ezek az én fiaim,'' 'ez a vagyon az enyém.' Valójában azonban még saját magával sem rendelkezik. Hogyan rendelkezhetne akkor a fiaival, hogyan lehetne a gazdagság az övé?"
 
 msgid "63"
 msgstr "Az az ostoba, aki tisztában van ostobaságával — legalább ebben az egy vonatkozásban — bölcs. De aki annyira ostoba, hogy még bölcsnek is hiszi magát, az valóban rászolgált az ostoba névre."
@@ -1141,7 +1141,7 @@ msgid "352"
 msgstr "Aki megszabadult a szomjtól, nem akar többé semmit megszerezni, megelégszik azzal, hogy tudja és érti a régiek nyelvét, felfogja az egymásra következő betűkből összeálló szent szavak igazi értelmét; akinek ez az utolsó teste, azt igaz Megismeréssel bíró, nagy bölcsnek hívják az emberek."
 
 msgid "353"
-msgstr "Kire mutathatnék: ‘Íme a tanítóm.’? Mindentudó vagyok, mindent legyőző, mindenben tiszta, mindenről lemondó; megszűnt a szomj: íme, szabad vagyok már, a teljes tudás feltárult magától."
+msgstr "Kire mutathatnék: 'Íme a tanítóm.'? Mindentudó vagyok, mindent legyőző, mindenben tiszta, mindenről lemondó; megszűnt a szomj: íme, szabad vagyok már, a teljes tudás feltárult magától."
 
 msgid "354"
 msgstr "Az Erény adománya mindent felülmúl, az Erény illata mindent felülmúl, az Erény öröme mindent felülmúl. Ha a szomj megszűnik, nincs több szenvedés sem."

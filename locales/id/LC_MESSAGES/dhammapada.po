@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Bab-bab"
+
+msgid "fontsize"
+msgstr "Ukuran font"
+
+msgid "chap1"
+msgstr "Bait Berpasangan"
+
+msgid "1"
+msgstr "Segala perihal dipelopori oleh cipta, dipimpin oleh cipta, dibentuk oleh cipta. Jika dengan cipta keruh seseorang bertutur atau bertindak, derita akan mengikuti karenanya, bagaikan roda pedati mengikuti jejak kaki lembu penghela."
+
+msgid "2"
+msgstr "Segala perihal dipelopori oleh cipta, dipimpin oleh cipta, dibentuk oleh cipta. Jika dengan cipta jernih seseorang bertutur atau bertindak, kebahagiaan akan menyertai karenanya, bagaikan bayang-bayang tidak meninggalkan bendanya."
+
+msgid "3"
+msgstr "Barangsiapa menyimpan dendam, 'Dia mengumpatku, dia memukulku, dia mengalahkanku, dia merampas punyaanku,' kedengkian mereka akan tidak redam."
+
+msgid "4"
+msgstr "Sedangkan, barangsiapa tidak menyimpan dendam, 'Dia mengumpatku, dia memukulku, dia mengalahkanku, dia merampas punyaanku,' kedengkian mereka akan menjadi redam."
+
+msgid "5"
+msgstr "Kapan pun di dunia ini, kedengkian tidak redam oleh kedengkian, sebaliknya menjadi redam oleh ketidakdengkian. Ini adalah ajaran sepanjang zaman."
+
+msgid "6"
+msgstr "Sebagian orang lain tidak menyadari bahwa, 'Kita akan menjadi binasa dalam perhimpunan ini.' Pertikaian lerai oleh pihak yang menyadari."
+
+msgid "7"
+msgstr "Mara dapat menguasai ia yang memandang indah objek-objek, tidak berpengendalian indera, tidak berukuran dalam hal makan, malas, dan bersemangat rendah, bagaikan angin dapat menumbangkan pohon rapuh."
+
+msgid "8"
+msgstr "Sebaliknya, Mara tidak dapat menguasai ia yang memandang tidak indah objek-objek, berpengendalian indera, berukuran dalam hal makan, berkeyakinan, dan bergairah semangat, bagaikan angin tidak dapat mengusik gunung cadas."
+
+msgid "9"
+msgstr "Barangsiapa yang belum luntur wenternya mengenakan jubah berwenter; ia yang mengabaikan pelatihan batin dan satya itu belum pantas mengenakan jubah berwenter."
+
+msgid "10"
+msgstr "Sebaliknya, ia yang telah luntur wenternya, sangat teguh dalam tata susila, memegang pelatihan batin dan satya, sesungguhnya telah pantas mengenakan jubah berwenter."
+
+msgid "11"
+msgstr "Barangsiapa senantiasa memandang hal bukan inti pokok sebagai inti pokok dan memandang hal inti pokok sebagai bukan inti pokok; ia yang berada dalam lingkup pemikiran keliru ini akan tidak mencapai hal inti pokok."
+
+msgid "12"
+msgstr "Akan tetapi, barangsiapa mengetahui hal inti pokok sebagai inti pokok dan hal bukan inti pokok sebagai bukan inti pokok; ia yang berada dalam lingkup pemikiran benar ini akan mencapai hal inti pokok."
+
+msgid "13"
+msgstr "Sebagaimana air hujan dapat menerobos rumah beratap tiris, nafsu ragawi dapat menerobos cipta yang tidak terolah."
+
+msgid "14"
+msgstr "Sebagaimana air hujan tidak dapat menerobos rumah beratap rapat, nafsu ragawi tidak dapat menerobos cipta yang terolah baik."
+
+msgid "15"
+msgstr "Ia berdukacita di dunia ini. Ia berdukacita setelah ajal tiba. Pelaku keburukan berdukacita di kedua alam. Ia berdukacita, ia meratap melihat kekotoran perbuatan diri."
+
+msgid "16"
+msgstr "Ia bersukacita di dunia ini. Ia bersukacita setelah ajal tiba. Pelaku kebajikan bersukacita di kedua alam. Ia bersukacita, ia bergembira melihat kebersihan perbuatan diri."
+
+msgid "17"
+msgstr "Ia terbakar di dunia ini. Ia gelisah setelah ajal tiba. Pelaku keburukan terbakar di kedua alam. 'Keburukan telah aku lakukan,' demikian ia terbakar. Ia kian menjadi terbakar setelah sampai ke alam sengsara."
+
+msgid "18"
+msgstr "Ia bersenang di dunia ini. Ia bersenang setelah ajal tiba. Pembuat kebajikan bersenang di kedua alam. 'Kebajikan telah aku perbuat,' demikian ia bersenang. Ia kian bersenang setelah sampai ke alam bahagia."
+
+msgid "19"
+msgstr "Kalaupun seseorang banyak menuturkan dhamma nan bermanfaat, namun tidak melaksanakannya dan menjadi lengah, ia tidak mendapatkan bagian manfaat kepetapaan, bagaikan penggembala menghitung lembu-lembu milik orang lain."
+
+msgid "20"
+msgstr "Sebaliknya, kalaupun seseorang sedikit menuturkan dhamma nan bermanfaat, namun melaksanakan dhamma sebagaimana mestinya; menyingkirkan keserakahan, kebencian, dan kebodohan; berpengertian benar, berbatin telah terbebas sempurna; sirna kelekatannya di alam ini ataupun di alam lain – ia mendapatkan bagian manfaat kepetapaan."
+
+msgid "chap2"
+msgstr "Ketidaklengahan"
+
+msgid "21"
+msgstr "Ketidaklengahan adalah jalan menuju ketidakmatian. Kelengahan adalah jalan menuju kematian. Mereka yang tidak lengah tidak mati, sebaliknya yang lengah tak ubahnya telah mati."
+
+msgid "22"
+msgstr "Setelah mengetahuinya dengan jelas, mereka yang bijak berdiam dalam ketidaklengahan, bersukacita dalam ketidaklengahan, bergembira dalam kediaman para suciwan."
+
+msgid "23"
+msgstr "Mereka yang cendekia itu berpenatapan, tidak putus semangat, senantiasa teguh berusaha, mencapai nibbana nan aman dari pengikat tiada taranya."
+
+msgid "24"
+msgstr "Kehormatan berkembang pada ia yang rajin, penuh perhatian, berperilaku bersih, penuh pertimbangan, berpengendalian, berpenghidupan sesuai dhamma, dan tidak lengah."
+
+msgid "25"
+msgstr "Dengan kerajinan, ketidaklengahan, pengendalian, dan pelatihan, orang cendekia membuat pulau yang tak teterjang tenggelam oleh air bah."
+
+msgid "26"
+msgstr "Insan-insan dungu yang berkebijaksanaan dangkal terlena dalam kelengahan, sebaliknya insan-insan cendekia menjaga ketidaklengkahan bak menjaga harta paling berharga."
+
+msgid "27"
+msgstr "Janganlah terlena dalam kelengahan! Janganlah bergumul dengan pemuasan kesenangan inderawi! Karena, ia yang tidak lengah, mengembangkan penatapan – mencapai kebahagiaan berlimpah."
+
+msgid "28"
+msgstr "Tatkala memberantas kelengahan dengan ketidaklengahan, bijaksanawan menaiki menara kebijaksanaan, yang tiada kesedihan menyaksikan himpunan makhluk yang berkesedihan. Ia yang cendekia itu menyaksikan mereka yang dungu, bagaikan orang yang berdiri di atas gunung menyaksikan orang-orang di dataran."
+
+msgid "29"
+msgstr "Orang bijak, sementara yang lainnya lengah, tidak menjadi lengah; sementara yang lainnya terlelap, banyak terjaga; maju berkembang meninggalkan mereka di belakang, bagaikan kuda cekat berlari meninggalkan kuda lamban."
+
+msgid "30"
+msgstr "Karena ketidaklengahannya, Maghava menjadi yang paling utama di antara para dewa. Para bijaksanawan menyanjung ketidaklengahan, mencela kelengahan sepanjang masa."
+
+msgid "31"
+msgstr "Seorang bhikkhu yang bersenang dalam ketidaklengahan atau yang selalu sadar akan bahaya kelengahan, dapat membakar belenggu kecil ataupun besar, bagaikan api membakar umpan kecil ataupun besar."
+
+msgid "32"
+msgstr "Seorang bhikkhu yang bersenang dalam ketidaklengahan atau yang selalu sadar akan bahaya kelengahan, bukan pada posisinya menjadi merosot. Beradalah ia di sekitar nibbana."
+
+msgid "chap3"
+msgstr "Cipta"
+
+msgid "33"
+msgstr "Orang bijak meluruskan cipta yang melanglang, berpindah-pindah, sulit dijaga, sulit dicegah – bagaikan pembuat panah meluruskan anak panah."
+
+msgid "34"
+msgstr "Bagaikan ikan dientas dari air lalu dilempar ke darat, cipta ini akan menggelepar demi lepas dari jerat mara."
+
+msgid "35"
+msgstr "Adalah hal baik, menjinakkan cipta nan sulit dikekang, gesit, dan biasa mengembara ke objek menyenangkan. Cipta yang dijinakkan mendatangkan kebahagiaan."
+
+msgid "36"
+msgstr "Orang cendekia patut menjaga cipta nan sangat sulit diawasi, sangat lembut, biasa mengembara ke objek menyenangkan. Cipta yang terjaga mendatangkan kebahagiaan."
+
+msgid "37"
+msgstr "Mereka yang mengendalikan cipta yang jauh berpetualang, sendirian melanglang, tidak bertubuh, di goa berdiam - akan lolos dari jerat mara."
+
+msgid "38"
+msgstr "Kebijaksanaan tidak menjadi paripurna pada ia yang bercipta tidak teguh, tidak memahami dhamma sejati, dan berkeyakinan goyah."
+
+msgid "39"
+msgstr "Ketakutan tidak ditemukan pada ia yang bercipta tidak lengas oleh nafsu kesenangan, tidak tersentuh oleh emosi kebencian, telah meninggalkan kebajikan dan keburukan, dan berjaga."
+
+msgid "40"
+msgstr "Setelah mengetahui tubuh ini yang bagaikan periuk dan menegakkan cipta ini yang ibarat kota, seseorang patut memerangi mara dengan senjata kebijaksanaan. Ia, tanpa melekati, patut mempertahankan kemenangan."
+
+msgid "41"
+msgstr "Tidak lama lagi ya, tubuh ini akan tergeletak di tanah, tanpa indera pengetahu, dibuang laksana batang kayu tak berguna!"
+
+msgid "42"
+msgstr "Akibat buruk yang dilakukan oleh penjahat terhadap penjahat atau oleh dua pihak yang saling mendengki tidak seburuk cipta yang diarahkan salah."
+
+msgid "43"
+msgstr "Bukan bersebab ibu, ayah, ataupun sanak keluarga lainnya, melainkan bersebab cipta yang diarahkan secara benar seseorang menjadi mulia, lebih mulia daripada sebab itu."
+
+msgid "chap4"
+msgstr "Bunga"
+
+msgid "44"
+msgstr "Siapakah akan dapat melihat jelas pertiwi ini, alam yama, alam manusia beserta alam dewa ini? Siapakah akan dapat memilih ajaran kebenaran yang telah Kubabarkan dengan baik, seperti perangkai bunga yang terampil memilih bunga-bunga?"
+
+msgid "45"
+msgstr "Seorang sekha akan dapat melihat jelas pertiwi ini, alam yama, alam manusia beserta alam dewa ini. Seorang sekha akan dapat memilih ajaran kebenaran yang telah Kubabarkan dengan baik, seperti perangkai bunga yang terampil memilih bunga-bunga."
+
+msgid "46"
+msgstr "Seseorang yang memahami tubuh ini layaknya buih air, mengerti tubuh ini layaknya fatamorgana, dan telah memotong untaian bunga mara – menjadi kalis dari sorot Sang Raja Kematian."
+
+msgid "47"
+msgstr "Maccu akan menjemput pergi ia yang asyik mengumpulkan bunga-bunga, berbatin terikat pada aneka objek, bagaikan air bah besar menghanyutkan warga desa yang nyenyak terlelap."
+
+msgid "48"
+msgstr "Maccu, pengakhir hidup, membuat ia yang asyik mengumpulkan bunga-bunga, berbatin terikat pada aneka objek, dan tidak pernah kenyang oleh kesenangan inderawi – berada dalam kuasanya."
+
+msgid "49"
+msgstr "Tanpa merusak bunga, warna, dan wanginya, kumbang mengambil rasa lalu terbang pergi. Laksana itulah seorang muni berkelana di warga desa."
+
+msgid "50"
+msgstr "Seseorang semestinya tidak mengacuhkan tutur kata menyeramkan orang lain, semestinya tidak menghiraukan tuntas dan tidaknya pekerjaan orang lain, alih-alih mempedulikan tuntas dan tidaknya pekerjaan sendiri."
+
+msgid "51"
+msgstr "Laksana bunga indah bewarna-warni tapi tidak berbau (harum), pepatah indah tidak mendatangkan manfaat bagi yang tidak menjalankan."
+
+msgid "52"
+msgstr "Laksana bunga indah bewarna-warni dan berbau (harum), pepatah indah mendatangkan buah bagi yang menjalankan."
+
+msgid "53"
+msgstr "Bagaikan seorang perangkai bunga, dari tumpukan bunga-bunga membuat banyak untaian bunga, demikianlah makhluk fana patut menimbun banyak kebajikan."
+
+msgid "54"
+msgstr "Wangi bunga tidak bertebar melawan angin, demikian juga wangi cendana, mondokaki, atau melati. Sebaliknya, wangi orang bajik bertebar melawan angin. Orang bajik menebarkan wangi ke segala penjuru."
+
+msgid "55"
+msgstr "Di antara wewangian, seperti cendana, mondokaki, seroja, ataupun melati, wangi sila tiada tara."
+
+msgid "56"
+msgstr "Wangi mondokaki dan cendana tidak seberapa. Sebaliknya, wangi mereka yang ber-sila adalah terunggul, bertebar di himpunan dewa dan manusia."
+
+msgid "57"
+msgstr "Mara tidak mampu melacak jalan mereka yang berada dalam tata susila, berdiam tanpa kelengahan, dan telah terbebas karena mengetahui dengan benar."
+
+msgid "58"
+msgstr "Seperti halnya teratai nan wangi menyenangkan hati tumbuh di sarap sampah yang dibuang di tepian jalan besar,"
+
+msgid "59"
+msgstr "Siswa Sammasambuddha bercahaya cemerlang karena kebijaksanaannya di antara para puthujjana buta yang laksana sarap sampah."
+
+msgid "chap5"
+msgstr "Orang Dungu"
+
+msgid "60"
+msgstr "(Terasa) panjang, malam ia yang terjaga. (Terasa) panjang, se-yojana ia yang letih. (Terasa) panjang, perkelanaan para dungu yang tidak mengenal ajaran benar."
+
+msgid "61"
+msgstr "Jika seseorang, ketika melakukan perjalanan, tidak menemukan sahabat yang lebih mulia atau sebanding dengannya, seyogianya ia bersiteguh pergi sendirian. (Karena,) nilai persahabatan tidak ada pada si dungu."
+
+msgid "62"
+msgstr "'Putra ada padaku!', 'Harta ada padaku!' demikian si dungu merisaukan. Sebenarnya, diri pun bukan milik diri sendiri. Dari mana putra ada padanya; dari mana harta dimilikinya?"
+
+msgid "63"
+msgstr "Orang dungu yang menyadari kedunguannya adalah seorang bijak karena penyadaran itu. Sedangkan, si dungu yang beranggap bijak itulah si dungu sesungguhnya."
+
+msgid "64"
+msgstr "Orang dungu, andaipun berkumpul dengan orang bijak seumur hidup, tidak dapat menghayati dhamma, bagaikan sendok tidak mengetahui rasa sup."
+
+msgid "65"
+msgstr "Orang cendekia, andaipun berkumpul dengan orang bijak barang sejenak, dapat segera menghayati dhamma, bagaikan lidah mengetahui rasa sup."
+
+msgid "66"
+msgstr "Orang-orang dungu yang dangkal wawasan memperlakukan diri sendiri layaknya musuh, melakukan perbuatan buruk yang mendatangkan buah pedas."
+
+msgid "67"
+msgstr "Suatu perbuatan yang setelah dilakukan mendatangkan sesal, mengakibatkan deraian air mata dan ratap tangis; perbuatan itu bukan perbuatan baik."
+
+msgid "68"
+msgstr "Suatu perbuatan yang setelah dilakukan tidak mendatangkan sesal, membuahkan kepuasan dan sukacita; perbuatan itu adalah perbuatan baik."
+
+msgid "69"
+msgstr "Sepanjang perbuatan buruk belum masak, orang dungu menganggapnya sebagai madu. Akan tetapi, tatkala perbuatan buruk masak, ia jatuh menderita."
+
+msgid "70"
+msgstr "Upaya si dungu dengan menyantap makanan sekali sebulan dengan ujung ilalang belum mencapai ulas keenambelas mereka yang telah terhitung pencapaian dhammanya."
+
+msgid "71"
+msgstr "Perbuatan buruk yang orang lakukan adalah laksana susu yang baru saja diperah - belum berubah bentuk. Perbuatan buruk itu membuntut membakar si dungu, bagaikan bara di balik abu."
+
+msgid "72"
+msgstr "Pengetahuan yang muncul pada si dungu hanya demi kebinasaan. Pengetahuan itu meremukkan kepala si dungu, menghancurkan bagian putihnya."
+
+msgid "73"
+msgstr "Orang dungu menginginkan sanjungan kosong, menjadi yang terdepan di antara para bhikkhu, kekuasaan di tempat kediaman, dan penghormatan dari para perumahtangga."
+
+msgid "74"
+msgstr "Demikian pemikiran ada pada si dungu, 'Para perumahtangga dan para petapa harus menyadari bahwa karena aku, pekerjaan bisa tuntas. Seharusnya (mereka) tunduk hanya padaku dalam perihal kecil maupun besar.' (Karenanya,) keinginan dan pembandingan diri berkembang (padanya)."
+
+msgid "75"
+msgstr "Praktik dengan bergantungkan pada perolehan adalah satu hal lain. Praktik demi mencapai nibbana adalah satu hal lain. Setelah mengerti hal demikian, bhikkhu siswa Buddha tidak patut bersenang atas barang persembahan, patut mengembangkan kelengangan."
+
+msgid "chap6"
+msgstr "Orang Bijaksana"
+
+msgid "76"
+msgstr "Seseorang patut memandang ia yang cendekia, penunjuk kesalahan, penutur kata yang meredam sebagai layaknya pemberitahu harta karun. Ia patut bergaul dengan orang bijaksana demikian itu. (Karena,) persahabatan dengan orang demikian mendatangkan keluhuran, bukan kenistaan."
+
+msgid "77"
+msgstr "Ia yang menasihati, mewejang, dan mencegah dari hal buruk dicintai para bijaksanawan, diantipati para durjana."
+
+msgid "78"
+msgstr "Tak sepatutnya bergaul dengan teman-teman nista; tak sepatutnya bergaul dengan orang-orang durjana. Bergaullah dengan teman-teman baik, bergaullah dengan orang-orang mulia."
+
+msgid "79"
+msgstr "Ia yang bergiur dalam dhamma, berbatin jernih, akan hidup bahagia. Orang bijaksana senantiasa bergembira dalam dhamma yang telah dibabarkan oleh para ariya."
+
+msgid "80"
+msgstr "Petugas pengairan mengatur alur air. Pembuat anak panah mengeluk anak panah. Tukang kayu meliuk kayu. Bijaksanawan menggeladi diri."
+
+msgid "81"
+msgstr "Sebagaimana gunung batu bungkul tidak bergeming oleh angin, bijaksanawan tidak beranjak oleh karena celaan atau pujian."
+
+msgid "82"
+msgstr "Setelah mendengarkan dhamma, para bijaksanawan berseri, bagaikan danau dalam yang jernih dan tenang."
+
+msgid "83"
+msgstr "Para muliawan melepas segala hal. Mereka tidak menegur sapa karena hal kesenangan inderawi. Disentuh oleh suka ataupun duka, para bijaksanawan tidak menampakkan gelagat naik turun."
+
+msgid "84"
+msgstr "Orang bijak tidak melakukan keburukan karena diri sendiri ataupun karena orang lain. Orang bijak tidak semestinya menghendaki putra, harta, kerajaan; tidak semestinya menghendaki keberhasilan diri secara tidak benar. Ia semestinya menjadi orang yang bertata susila, berkebijaksanaan, dan berteguh dalam dhamma."
+
+msgid "85"
+msgstr "Di antara manusia-manusia, hanya sedikit tiba di pantai seberang, sedangkan himpunan manusia lainnya berselusur di pantai sini."
+
+msgid "86"
+msgstr "Mereka yang melaksanakan dhamma dalam dhamma yang telah dibabarkan dengan jelas akan lolos dari jerat Sang Maccu nan sulit dilepas, mencapai pantai seberang."
+
+msgid "87"
+msgstr "Orang bijak, setelah meninggalkan hal hitam, sepatutnya mengembangkan hal putih dengan keluar dari hal yang menimbulkan kelekatan untuk menuju ke hal yang tidak menimbulkan kelekatan."
+
+msgid "88"
+msgstr "La patut mengharap kebahagiaan dalam kelengangan nan sulit digemari orang. Setelah meninggalkan kesenangan inderawi, terbebas dari pencemas, orang bijak membersihkan diri dari kotoran-kotoran batin."
+
+msgid "89"
+msgstr "Barangsiapa mengembangkan batin dengan benar dalam faktor-faktor pencapaian penerangan, melepas kelekatan, bersenang dalam pelepasan kelekatan; mereka merupakan khinasava, bersinar terang, mencapai kepadaman di dunia."
+
+msgid "chap7"
+msgstr "Orang Suci"
+
+msgid "90"
+msgstr "Kepedihan tidak ditemukan pada ia yang telah tiba dari perjalanan jauh, tiada kesedihan, terbebas total, telah meninggalkan segala penjerat."
+
+msgid "91"
+msgstr "Orang-orang yang penuh kesadaran akan berusaha melatih diri, tidak bersenang pada kelekatan. Mereka melepas kelekatan, layaknya kawanan angsa meninggalkan rawa-rawa."
+
+msgid "92"
+msgstr "Jalur perjalanan mereka yang bukan si pengumpul, memahami hakekat makanan, memegang kebebasan dalam bentuk kekosongan dan dalam bentuk ketiadaan bayang-bayang sebagai objek - adalah sukar dilacak, sesukar melacak jalur perjalanan kawanan burung di angkasa."
+
+msgid "93"
+msgstr "Jejak mereka yang telah sirna pemeramnya, tidak bergantung pada makanan, memegang kebebasan dalam bentuk kekosongan dan dalam bentuk ketiadaan bayang-bayang sebagai objek - adalah sukar dilacak, sesukar melacak jejak kawanan burung di angkasa."
+
+msgid "94"
+msgstr "Para dewa pun terpikat pada ia yang teguh, berindera tenang laksana kuda yang telah dilatih baik oleh kusirnya, telah lenyap pembandingan dirinya, musnah pemeramnya."
+
+msgid "95"
+msgstr "Barangsiapa dapat merendah setara tanah, teguh laksana tugu kota, berperilaku patut, jernih bak danau tak berlumpur, tidak menjadi sengit (ataupun senang); ia yang teguh itu niscaya mengakhiri samsara."
+
+msgid "96"
+msgstr "Barangsiapa telah mencapai keterbebasan karena mengetahui dengan benar, telah padam, dan teguh – batinnya menjadi tenang, menjadi tenang pula ucapan dan tindakannya."
+
+msgid "97"
+msgstr "Ia yang tidak percaya, penembus 'yang tak terbentuk', pencongkel engsel, penutup celah, dan penanggal harapan adalah seorang mulia."
+
+msgid "98"
+msgstr "Di mana pun para arahanta berdiam, di pedusunan atau di hutan, di lembah atau di bukit; tempat itu menjadi tempat menyenangkan."
+
+msgid "99"
+msgstr "Hutan-hutan adalah tempat menyenangkan. Para pemusnah nafsu ragawi akan menggemari hutan yang tidak digemari orang – karena mereka bukan pencari kesenangan inderawi."
+
+msgid "chap8"
+msgstr "Yang Seribu"
+
+msgid "100"
+msgstr "Seandainya ada ucapan, kalaupun seribu kata, tidak berisi kata bermanfaat, sepatah kata yang bermanfaat adalah lebih baik, yang setelah didengar menjadikan damai."
+
+msgid "101"
+msgstr "Seandainya ada puisi, kalaupun seribu bait, tidak berisi bait bermanfaat, sebait puisi yang bermanfaat adalah lebih baik, yang setelah didengar menjadikan damai."
+
+msgid "102"
+msgstr "Seseorang, daripada mengucapkan seratus syair yang tidak berisi bait bermanfaat, mengucapkan sebait dhamma adalah lebih baik, yang setelah didengar menjadikan damai."
+
+msgid "103"
+msgstr "Ia yang mengalahkan sejuta musuh dalam peperangan tidak disebut yang terunggul di antara para pemenang perang. Sebaliknya, ia yang mengalahkan diri sendiri, yang seorang, sesungguhnya disebut yang terunggul di antara para pemenang perang."
+
+msgid "104"
+msgstr "Mengalahkan diri sendiri inilah lebih mulia dibandingkan mengalahkan orang-orang lain. Atas seseorang yang telah melatih diri dan senantiasa mengendalikan diri"
+
+msgid "105"
+msgstr "demikian itu, baik dewa, gandharwa, mara, beserta brahma tidak mampu membalik kemenangannya menjadi kekalahan."
+
+msgid "106"
+msgstr "Apalah arti bersesaji dengan seribu keping emas setiap bulan sepanjang seratus tahun. Pemujaan kepada satu orang yang terlatih diri, meski sesaat, lebih mulia daripada bersesaji sepanjang seratus tahun itu."
+
+msgid "107"
+msgstr "Apalah arti memuja api di hutan sepanjang seratus tahun. Pemujaan kepada satu orang yang terlatih diri, meski sesaat, lebih mulia daripada pemujaan (api) selama seratus tahun itu."
+
+msgid "108"
+msgstr "Apalah arti ia, si pengharap kebajikan, menyajikan sesuatu persembahan dan sesajian di dunia sepanjang tahun. Persembahan itu semua tidak sampai seperempat bagian penghormatan pada mereka yang telah menjurus ke jalan lurus."
+
+msgid "109"
+msgstr "Empat macam hal, yaitu: usia, paras, kebahagiaan, dan kekuatan berkembang pada ia yang selalu bertindak hormat, senantiasa berlaku santun kepada mereka yang dituakan."
+
+msgid "110"
+msgstr "Apalah arti ia yang dursila, berbatin goyah, hidup sepanjang seratus tahun. Kehidupan satu hari ia yang ber-sila, berdiam dalam jhana adalah lebih mulia."
+
+msgid "111"
+msgstr "Apalah arti ia yang berkebijaksanaan rendah, berbatin goyah, hidup sepanjang seratus tahun. Kehidupan satu hari ia yang bijak, berdiam dalam jhana adalah lebih mulia."
+
+msgid "112"
+msgstr "Apalah arti ia yang malas, lemah semangat, hidup sepanjang seratus tahun. Kehidupan satu hari ia yang rajin, bergairah semangat adalah lebih mulia."
+
+msgid "113"
+msgstr "Apalah arti ia yang tak melihat kemunculan dan kepadaman hidup sepanjang seratus tahun. Kehidupan satu hari ia yang melihat kemunculan dan kepadaman adalah lebih mulia."
+
+msgid "114"
+msgstr "Apalah arti ia yang tak mengetahui jalan amerta hidup sepanjang seratus tahun. Kehidupan satu hari ia yang mengetahui jalan amerta adalah lebih mulia."
+
+msgid "115"
+msgstr "Apalah arti ia yang tak mengetahui dhamma utama hidup sepanjang seratus tahun. Kehidupan satu hari ia yang mengetahui dhamma utama adalah lebih mulia."
+
+msgid "chap9"
+msgstr "Hal Buruk"
+
+msgid "116"
+msgstr "Sepatutnya seseorang bergegas berbuat baik, mencegah cipta dari keburukan. Karena, bila berlambat berbuat bajik, cipta akan bersenang dalam keburukan."
+
+msgid "117"
+msgstr "Jika melakukan keburukan, tak sepatutnya seseorang sering melakukan. Tak sepatutnya ia menumbuhkan kepuasan atasnya karena menimbun keburukan mendatangkan derita."
+
+msgid "118"
+msgstr "Jika melakukan kebajikan, hendaknya seseorang sering melakukan. Hendaknya ia menumbuhkan kepuasan atasnya karena menimbun kebajikan mendatangkan kebahagiaan."
+
+msgid "119"
+msgstr "Pelaku keburukan menganggap keburukan adalah hal baik sepanjang keburukan belum masak. Tatkala keburukan masak, ia baru menyadarinya sebagai hal buruk."
+
+msgid "120"
+msgstr "Pelaku kebaikan menganggap kebaikan adalah hal buruk sepanjang kebaikan belum masak. Tatkala kebaikan masak, ia baru menyadarinya sebagai hal baik."
+
+msgid "121"
+msgstr "Janganlah meremehkan keburukan (dengan berpikir), 'Keburukan sedikit akan tidak berakibat.' Belanga pun akan penuh dengan tetes demi tetes air. Demikianlah, orang bodoh dipenuhi keburukan yang ia timbun sedikit demi sedikit."
+
+msgid "122"
+msgstr "Janganlah meremehkan kebaikan (dengan berpikir), 'Kebaikan sedikit akan tidak berakibat.' Belanga pun akan penuh dengan tetes demi tetes air. Demikianlah, orang bijak dipenuhi kebaikan yang ia timbun sedikit demi sedikit."
+
+msgid "123"
+msgstr "Ibarat saudagar beharta banyak berpengawal sedikit menghindari jalan berbahaya, juga ibarat orang berharap hidup menghindari racun, demikianlah seseorang patut menghindari keburukan."
+
+msgid "124"
+msgstr "Jika tiada luka di tangan, seseorang dapat membawa racun dengan tangannya karena racun tidak meresap ke tangan tak berluka. Demikian pula, keburukan tidak ada pada bukan si pelaku."
+
+msgid "125"
+msgstr "Keburukan akan (balik) menimpa si dungu yang menyakiti orang yang tak menyakiti, bersih, tak berbintil – bagaikan debu halus ditebar melawan angin."
+
+msgid "126"
+msgstr "Sejumlah makhluk masuk rahim terlahir. Para pelaku keburukan masuk ke neraka. Para penimbun perbuatan sumber kebahagiaan masuk ke surga. Mereka yang tidak berpemeram mencapai kepadaman derita."
+
+msgid "127"
+msgstr "Tiada suatu kawasan di dunia, baik di angkasa, di tengah samudra, atau menyusup ke celah gegunungan – di mana pun berada, seseorang dapat lolos dari (akibat) perbuatan buruknya."
+
+msgid "128"
+msgstr "Tiada suatu kawasan di dunia, baik di atas angkasa, di tengah samudra, atau menyusup ke celah gegunungan – di mana pun berada, Sang Maccu tak mampu mendapati si pelaku keburukan."
+
+msgid "chap10"
+msgstr "Hukuman"
+
+msgid "129"
+msgstr "Semua makhluk gentar terhadap hukuman. Semua makhluk takut terhadap kematian. Setelah memisalkan diri, seseorang tak patut membunuh, tak patut menyuruh membunuh."
+
+msgid "130"
+msgstr "Semua makhluk gentar terhadap hukuman. Hidup adalah kecintaan semua makhluk. Setelah memisalkan diri, seseorang tak patut membunuh, tak patut menyuruh membunuh."
+
+msgid "131"
+msgstr "Makhluk-makhluk mendambakan kebahagiaan. Ia yang mencari kebahagiaan bagi diri dengan mencelakai makhluk lain dengan alat dera akan tidak mengenyam kebahagiaan setelah ajal tiba."
+
+msgid "132"
+msgstr "Makhluk-makhluk mendambakan kebahagiaan. Ia yang mencari kebahagiaan bagi diri tanpa mencelakai makhluk lain dengan alat dera akan mengenyam kebahagiaan setelah ajal tiba."
+
+msgid "133"
+msgstr "Janganlah berkata kasar kepada siapa pun! Mereka yang Engkau katai akan balik mengataimu. Sesungguhnya, pertengkaran adalah penderitaan, tuntut balas dapat menghampirimu."
+
+msgid "134"
+msgstr "Apabila dapat berdiam diri bak gong pecah, Engkau adalah pencapai nibbana. Pertengkaran tidak ada padamu."
+
+msgid "135"
+msgstr "Bagaikan penggembala menggiring lembu-lembu dengan tongkat ke lahan pangan, ketuaan dan kematian menggiring usia para makhluk."
+
+msgid "136"
+msgstr "Di kala melakukan keburukan-keburukan, si dungu tidak menyadari. Ia yang berkebijaksanaan dangkal itu akan menderita karena perbuatan sendiri, bak terbakar api."
+
+msgid "137"
+msgstr "Barangsiapa dengan alat dera mencelakai mereka yang tidak mencelakai dan tidak mendera, ia akan segera menemui salah satu di antara sepuluh keadaan:"
+
+msgid "138"
+msgstr "perasaan menyengat, keterpurukan, cacat tubuh, sakit keras, gangguan jiwa,"
+
+msgid "139"
+msgstr "usikan raja, hasutan menyakitkan, kehilangan sanak keluarga, kemusnahan harta benda,"
+
+msgid "140"
+msgstr "kebakaran rumah oleh api hutan, atau, setelah si dungu itu tiba ajal, masuk ke neraka."
+
+msgid "141"
+msgstr "Laku bertelanjang, bersanggul rambut, berlumur lumpur, berpuasa, tidur di atas tanah, beroles debu, atau berjinjit tumit tidak dapat menyucikan makhluk fana yang belum melepas keraguan."
+
+msgid "142"
+msgstr "Kalau pun berdandan, seseorang yang bertindak runtut, tenang, berpengendalian, berarah tentu, berlaku luhur, menanggalkan alat dera atas semua makhluk – disebut 'brahmana', disebut 'samana', disebut 'bhikkhu'."
+
+msgid "143"
+msgstr "Hanya ada beberapa saja di dunia, orang yang dengan rasa malu dapat menyingkirkan pemikiran buruk. Hanya ada beberapa saja, orang yang dengan mengusir nidera dapat terjaga, bagaikan kuda tangkas mengelak cambuk."
+
+msgid "144"
+msgstr "Bersemangatlah! Kerahkan kekuatan, seperti kuda tangkas tersabet cambuk! Dengan berlengkap keyakinan, tata susila, semangat, keteguhan batin, kemampuan menimbang, pengetahuan dan tindak tanduk sempurna, dan perhatian teguh, Kalian akan dapat melenyapkan derita nan tidak sedikit ini."
+
+msgid "145"
+msgstr "Petugas pengairan mengatur alur air. Pembuat anak panah mengeluk anak panah. Tukang kayu meliuk kayu. Orang yang mudah dinasihati menggeladi diri."
+
+msgid "chap11"
+msgstr "Ketuaan"
+
+msgid "146"
+msgstr "Tatkala makhluk segenap alam tiada henti terbakar, gelak tawa dan sukaria apakah yang Engkau geluti? Mengapa Engkau yang masih ditutup kegelapan tidak mencari pelita?"
+
+msgid "147"
+msgstr "Lihatlah tubuh nan fana dan rapuh, dihias memesona, berlubang borok, tegak (oleh keratan tulang rangka), gelisah, yang banyak dirindukan orang ini!"
+
+msgid "148"
+msgstr "Tubuh ini rungkuh, sarang penyakit, mengalami kehancuran. Tubuh yang busuk ini akan hancur terurai, karena hidup berpenghujung kematian."
+
+msgid "149"
+msgstr "Kesenangan apa didapat dari melihat tulang belulang yang dibuang berserakan bak buah labu di musim gugur, bewarna seperti merpati ini?"
+
+msgid "150"
+msgstr "Tubuh dibangun menjadi kota tulang belulang, berturap daging dan darah. Di tubuh ini ketuaan, kematian, pembanggaan diri, dan pelecehan orang lain menghuni."
+
+msgid "151"
+msgstr "Kereta raja yang indah memesona mengalami kerapuhan. Demikian pula, tubuh mengarah ke ketuaan. Akan tetapi, dhamma para muliawan tidak mengarah ke kerentaan. Demikian, para muliawan berbincang dengan orang-orang bajik."
+
+msgid "152"
+msgstr "Orang yang dangkal pengetahuan akan menjadi tua layaknya lembu – dagingnya bertambah, kebijaksanaannya tidak berkembang."
+
+msgid "153"
+msgstr "Aku mencari si pembuat rumah, ketika tidak menemukan, mengarungi perkelanaan di banyak kelahiran. Adalah penderitaan, terlahir berulang-ulang."
+
+msgid "154"
+msgstr "Wahai Pembuat Rumah, Engkau telah Kutemukan. Tak dapat membuat rumah lagi, Engkau. Pasak-pasak rumahmu telah Kupatahkan. Atap rumahmu telah Kurobohkan. Cipta-Ku mencapai pada keberadaan tanpa bentukan karena Aku telah mencapai kesirnaan tanha."
+
+msgid "155"
+msgstr "Si dungu yang tidak menindakkan laku luhur, tidak mendapatkan harta semasa muda – akan merana bak bangau tua di rawa tak berikan."
+
+msgid "156"
+msgstr "Si dungu yang tidak menindakkan laku luhur, tidak mendapatkan harta semasa muda – akan menggeletak menyesali masa lampau bak anak panah terlesat dari busur."
+
+msgid "chap12"
+msgstr "Diri"
+
+msgid "157"
+msgstr "Jika menyadari bahwa diri sendiri adalah tercinta, seseorang patut merawat diri dengan baik. Orang bijak patut menjaga diri sepanjang salah satu di antara tiga kurun waktu."
+
+msgid "158"
+msgstr "Orang bijak patut menempatkan diri di hal patut dulu, baru lalu memberitahu orang lain. (Dengan demikian,) ia tidak bernoda."
+
+msgid "159"
+msgstr "Seseorang patut menindakkan diri sebagaimana menasihati orang lain. Berlatihlah sebelum melatih karena, konon, diri sendiri sulit dilatih."
+
+msgid "160"
+msgstr "Diri sendirilah pelindung diri. Sosok lain siapakah dapat menjadi pelindung? Dengan ini, seseorang yang berdiri terlatih baik, akan mendapat perlindungan nan sulit didapat."
+
+msgid "161"
+msgstr "Oleh diri sendiri keburukan dilakukan, lahir dari diri, berasal dari diri. Keburukan itu akan mencelakai si dungu, laksana berlian melukai intan."
+
+msgid "162"
+msgstr "Kedursilaan yang akut melilit si pelaku, layaknya ara pencekik melilit pohon sala. Ia memperlakukan diri sendiri sebagaimana penjahat menghendaki."
+
+msgid "163"
+msgstr "Perbuatan buruk dan merugikan diri amat mudah dilakukan, sebaliknya perbuatan baik dan bermanfaat amat sulit dilakukan."
+
+msgid "164"
+msgstr "Karena pandangan nistanya, orang dungu menyangkal ajaran para suciwan nan mulia, hidup sesuai dhamma. Pandangan nistanya muncul demi membunuh diri, layaknya buah bambu muncul demi membunuh pohonnya."
+
+msgid "165"
+msgstr "Oleh diri sendiri keburukan dilakukan, oleh diri sendiri pula seseorang menjadi kotor. Oleh diri sendiri keburukan tak dilakukan, oleh diri sendiri pula seseorang menjadi suci. Suci tidak suci adalah perihal pribadi. Tiada sosok lain dapat menyucikan lainnya."
+
+msgid "166"
+msgstr "Tidak semestinya seseorang mengabaikan manfaat diri karena manfaat orang lain, kalaupun banyak. Setelah menyadari manfaat bagi diri, ia patut mengupayakan manfaat diri sendiri."
+
+msgid "chap13"
+msgstr "Dunia"
+
+msgid "167"
+msgstr "Tak sepantasnya seseorang bergelut dengan hal rendahan, tak sepatutnya bergumul dengan kelengahan, tak semestinya berpegang pada pandangan keliru, tak seyogianya menjadi pengeruh dunia."
+
+msgid "168"
+msgstr "Petapa tak patut gegabah dalam hal makanan yang ia terima dengan bangkit berdiri. Sepatutnya ia menindakkan hal itu dengan baik. Ia yang senantiasa menindakkannya akan berbahagia di dunia ini dan di dunia lain."
+
+msgid "169"
+msgstr "Sepatutnya ia menindakkan hal itu dengan baik, tidak menindakkannya dengan buruk. Ia yang senantiasa menindakkannya akan berbahagia di dunia ini dan di dunia lain."
+
+msgid "170"
+msgstr "Sang Raja Kematian tak dapat melihat orang yang melihat dunia, layaknya melihat buih air, layaknya melihat fatamorgana."
+
+msgid "171"
+msgstr "Datang dan lihatlah dunia nan elok ibarat kereta raja ini, tempat para dungu menyelam! (Akan tetapi,) penjerat tidak ada bagi mereka yang telah memahami."
+
+msgid "172"
+msgstr "Ia yang dulunya lengah menjadi tidak lengah di kemudian waktu dapat menerangi dunia ini, laksana bulan terbebas dari awan."
+
+msgid "173"
+msgstr "Ia yang membendung perbuatan buruk yang dilakukan dengan kebaikan dapat menerangi dunia ini, laksana bulan terbebas dari awan."
+
+msgid "174"
+msgstr "Makhluk dunia ini buta. Di dunia ini sedikit makhluk melihat jelas. Ibarat burung dapat lolos dari jaring pengurung, sedikit makhluk tiba ke alam bahagia."
+
+msgid "175"
+msgstr "Kawanan angsa terbang di jalan surya. Orang-orang sakti terbang di angkasa dengan kesaktiannya. Setelah mengalahkan mara beserta laskarnya, para cendekia hengkang dari dunia."
+
+msgid "176"
+msgstr "Tiada keburukan tak terlakukan oleh ia yang meninggalkan hal utama, si pendusta, peninggal alam mendatang."
+
+msgid "177"
+msgstr "Mereka yang kikir tidak pergi ke alam dewa. Para dungu tidak menyanjung derma. Sebaliknya, bijaksanawan turut bersukacita atas pemberian, dan karenanya ia berbahagia di alam lain."
+
+msgid "178"
+msgstr "Sotapattiphala lebih mulia daripada menjadi raja tunggal di atas pertiwi, daripada pergi ke surga, atau daripada menjadi penguasa segenap dunia."
+
+msgid "chap14"
+msgstr "Buddha"
+
+msgid "179"
+msgstr "Dengan jejak apa Kalian melacak Buddha nan tak berjejak, berobjek batin tak terbatas, berkemenangan tak terkalahkan balik, telah meredam kotoran batin apa pun di dunia yang tak bangkit membuntuti-Nya."
+
+msgid "180"
+msgstr "Dengan jejak apa Kalian melacak Buddha nan tak berjejak; berobjek batin tak terbatas; tak beserta tanha yang bak jaring, mengandung racun, membawa ke mana-mana."
+
+msgid "181"
+msgstr "Para dewa pun terpesona pada para bijaksanawan yang menekuni jhana, bersenang dalam ketenangan yang muncul dari pelepasan, mencapai penerangan sempurna, dan penuh perhatian."
+
+msgid "182"
+msgstr "Mendapat kehidupan sebagai manusia adalah sulit. Adalah sulit, kehidupan makhluk fana. Mendengar ajaran kebenaran adalah sulit. Adalah sulit, kemunculan para buddha."
+
+msgid "183"
+msgstr "Tidak berbuat segala keburukan, berolah kebajikan, membersihkan batin sendiri – ini adalah ajaran para buddha."
+
+msgid "184"
+msgstr "Kesabaran, ketabahan adalah cara melatih batin tertinggi. Para buddha bersabda, 'nibbana adalah tertinggi'. Seseorang yang melukai orang lain, menyakiti orang lain bukan petapa, bukan samana."
+
+msgid "185"
+msgstr "Tidak menghujat, tidak menyakiti, terkendali dalam pokok-pokok aturan, tahu ukuran dalam hal makan, berdiam di tempat lengang, berusaha mengembangkan cipta mulia – ini adalah ajaran para buddha."
+
+msgid "186"
+msgstr "Kesenangan inderawi tidak pernah bisa kenyang oleh hujan kepingan emas. Kesenangan inderawi mengandung sekelumit suka, mendatangkan duka. Setelah memahami demikian,"
+
+msgid "187"
+msgstr "orang bijak tidak mengejar kesenangan inderawi walau yang bersifat surgawi. Siswa Sammasambuddha bersenang dalam kemusnahan tanha."
+
+msgid "188"
+msgstr "Banyak manusia, karena dicekam ketakutan, menjadikan gunung-gunung, hutan-hutan, padepokan, pepohonan, dan kepunden sebagai objek perlindungan."
+
+msgid "189"
+msgstr "Perlindungan itu bukanlah perlindungan aman. Perlindungan itu bukan perlindungan utama. Dengan berpegang pada perlindungan itu, orang takkan bebas dari segala derita."
+
+msgid "190"
+msgstr "Sedangkan, barangsiapa menjadikan Buddha, dhamma, dan sangha sebagai objek perlindungan, ia, melalui kebijaksanaan yang benar, akan melihat empat kebenaran ariya,"
+
+msgid "191"
+msgstr "yakni: duka, sebab kemunculan duka, kepadaman duka, dan jalan ariya berunsur delapan menuju kepadaman duka."
+
+msgid "192"
+msgstr "Perlindungan itulah perlindungan aman. Perlindungan itu adalah perlindungan utama. Dengan berpegang pada perlindungan itu, orang terbebas dari segala derita."
+
+msgid "193"
+msgstr "Manusia unggul jarang ditemukan. Ia tidak terlahir di sebarang tempat. Di keluarga mana manusia unggul terlahir, keluarga itu mengenyam kebahagiaan."
+
+msgid "194"
+msgstr "Kemunculan para buddha mendatangkan kebahagiaan. Mendatangkan kebahagiaan, pembabaran dhamma sejati. Kebersamaan sebuah perhimpunan mendatangkan kebahagiaan. Mendatangkan kebahagiaan, perlatihan mereka yang memiliki kebersamaan."
+
+msgid "195"
+msgstr "Bagi seseorang yang memuja mereka yang patut dipuja, yakni para buddha atau para siswa buddha, yang telah melampaui pelamban, telah menanggalkan kesedihan dan tangisan;"
+
+msgid "196"
+msgstr "tidak ada siapa pun yang dengan cara apa pun mampu menghitung bahwa, 'sekian ini saja' kebajikan dia, si pemuja mereka yang demikian itu, yang telah padam, tiada ketakutan."
+
+msgid "chap15"
+msgstr "Kebahagiaan"
+
+msgid "197"
+msgstr "Betapa nyaman hidup kami yang tidak bermusuh di antara orang-orang yang bermusuh! Di antara orang yang bermusuh, kami hidup tidak bermusuh."
+
+msgid "198"
+msgstr "Betapa nyaman hidup kami yang tidak gelisah di antara orang-orang yang gelisah! Di antara orang yang gelisah, kami hidup tidak gelisah."
+
+msgid "199"
+msgstr "Betapa nyaman hidup kami yang tidak bersusah payah di antara orang-orang yang bersusah payah! Di antara orang yang bersusah payah, kami hidup tidak bersusah payah."
+
+msgid "200"
+msgstr "Betapa nyaman hidup kami yang tidak berpencemas! Kami akan mendapatkan kegiuran sebagai menu makan, laksana para dewa abhassara."
+
+msgid "201"
+msgstr "Pemenang mendapati seteru. Pecundang hidup menderita. Seseorang, setelah meninggalkan kemenangan dan kekalahan, berbatin damai, hidup bahagia."
+
+msgid "202"
+msgstr "Tiada api menyamai nafsu ragawi. Tiada pengrusak menyamai kebencian. Tiada derita menyamai gugusan-gugusan. Tiada kebahagiaan mengungguli kedamaian."
+
+msgid "203"
+msgstr "Kelaparan adalah penyakit terakut. Bentukan-bentukan adalah derita tak terperikan. Setelah menghayati ini sebagaimana adanya, bijaksanawan mencapai nibbana. Nibbana adalah kebahagiaan termulia."
+
+msgid "204"
+msgstr "Kesehatan adalah perolehan terbesar. Kesentosaan adalah harta terunggul. Keakraban adalah kerabat terdekat. Nibbana adalah kebahagiaan termulia."
+
+msgid "205"
+msgstr "Ia yang meminum rasa kelengangan, rasa keredaman, dan rasa kegiuran yang timbul dari pencapaian dhamma – terbebas dari kegelisahan maupun kenistaan."
+
+msgid "206"
+msgstr "Adalah hal baik, bertemu dengan para suciwan. Berdiam bersama mereka mendatangkan kebahagiaan sepanjang masa. Seseorang tentu senantiasa berbahagia tidak bertemu dengan para dungu."
+
+msgid "207"
+msgstr "Sebab, berdiam bersama orang-orang dungu mendatangkan kesedihan dalam lama waktu. Berkumpul dengan mereka senantiasa membawa derita, tak ubahnya berkumpul dengan seteru. Sebaliknya, bijaksanawan memiliki kediaman bersama yang menyenangkan, layaknya himpunan sanak keluarga."
+
+msgid "208"
+msgstr "Karenanya, bergaullah dengan orang demikian itu, yang cendekia, bijaksana, berpengetahuan luas, mengemban kewajiban, bertata tertib, berbatin bersih, budiman, arif, laksana candra berada pada orbit purnamanya!"
+
+msgid "chap16"
+msgstr "Kecintaan"
+
+msgid "209"
+msgstr "Dengan melibatkan diri dalam hal tak yogia, tidak bergelut dalam hal yogia, dan mengabaikan manfaat, pemburu kesenangan akan mengiri pada orang yang mengemban diri dalam hal yogia."
+
+msgid "210"
+msgstr "Janganlah sampai bergumul dengan hal-hal memikat dan tak memikat! (Karena,) terpisah dari hal memikat dan mendapati hal tak memikat mendatangkan derita."
+
+msgid "211"
+msgstr "Karenanya, seseorang tak patut menjadikan hal sebagai pikatan karena berpisah dengan pikatan adalah keterpurukan. Tiada penjerat bagi mereka yang terbebas dari hal memikat dan tidak memikat."
+
+msgid "212"
+msgstr "Hal memikat adalah sumber kesedihan. Hal memikat adalah sumber ketakutan. Pada ia yang terbebas dari hal memikat, kesedihan tidak ada; dari mana ketakutan datang."
+
+msgid "213"
+msgstr "Cinta adalah sumber kesedihan. Cinta adalah sumber ketakutan. Pada ia yang terbebas dari cinta, kesedihan tidak ada; dari mana ketakutan datang."
+
+msgid "214"
+msgstr "Kegirangan adalah sumber kesedihan. Kegirangan adalah sumber ketakutan. Pada ia yang terbebas dari kegirangan, kesedihan tidak ada; dari mana ketakutan datang."
+
+msgid "215"
+msgstr "Kesenangan inderawi adalah sumber kesedihan. Kesenangan inderawi adalah sumber ketakutan. Pada ia yang terbebas dari kesenangan inderawi, kesedihan tidak ada; dari mana ketakutan datang."
+
+msgid "216"
+msgstr "Kegandrungan adalah sumber kesedihan. Kegandrungan adalah sumber ketakutan. Pada ia yang terbebas dari kegandrungan, kesedihan tidak ada; dari mana ketakutan datang."
+
+msgid "217"
+msgstr "Ia yang bulat sila dan wawasannya, berpijak pada dhamma, senantiasa menembus kebenaran, menuntaskan tugas diri – diposisikan orang sebagai yang dicinta."
+
+msgid "218"
+msgstr "Ia yang menghendaki hal yang tak terkatakan, sebagai makhluk yang diisi batin maupun sebagai makhluk berbatin tak terikat – disebut 'si pemilik arus atas'."
+
+msgid "219"
+msgstr "Para kerabat, sahabat, dan kenalan akan bergirang hati melihat ia di kejauhan datang dari perantauan dengan selamat."
+
+msgid "220"
+msgstr "Demikian pula, kebajikan akan menyambut pelakunya yang telah meninggal dari alam ini menuju ke alam lain, seperti kerabat yang menyambut kedatangan anggota keluarga tercinta."
+
+msgid "chap17"
+msgstr "Kemarahan"
+
+msgid "221"
+msgstr "Sepatutnya orang meredam kemarahan, menyisihkan pembandingan diri, menyingkirkan segala belenggu. Derita tidak menimpa ia yang tak terikat pada batin dan jasmani, tak ditenggeri pencemas."
+
+msgid "222"
+msgstr "Ia yang mengendalikan kemarahan yang bergolak, laksana pengendara kereta yang melaju itulah Aku sebut 'kusir', orang lainnya hanya Kusebut 'si pemegang tali kendali'."
+
+msgid "223"
+msgstr "Seseorang patut menaklukkan kemarahan dengan ketidakmarahan; menaklukkan ketidakbaikan dengan kebaikan; menaklukkan kekikiran dengan derma; menaklukkan ucapan dusta dengan kebenaran."
+
+msgid "224"
+msgstr "Seseorang hendaknya bertutur kata benar, tidak marah, mau memberi kala diminta sedikit. Melalui tiga dasar ini, ia dapat tiba di kediaman para dewa."
+
+msgid "225"
+msgstr "Para muni nan bukan pencelaka, senantiasa mengendalikan jasmani, akan tiba ke tempat nan bebas dari kematian, yang setelah dicapai tidak bersedih."
+
+msgid "226"
+msgstr "Barangsiapa senantiasa berjaga, berlatih siang dan malam, dan bertujuan ke nibbana – pemeramnya tiba pada kemusnahan."
+
+msgid "227"
+msgstr "Wahai Atula, celaan dan pujian itu adalah perihal lama. Itu bukan laksana hanya ada di hari ini. Mereka mencela ia yang diam, mencela ia yang banyak bicara, mencela ia yang bicara secukupnya. Tiada siapa pun di dunia bebas dari celaan."
+
+msgid "228"
+msgstr "Belum pernah ada, akan tidak ada, dan tidak ada di saat ini, seseorang yang melulu mendapat celaan atau melulu mendapat pujian."
+
+msgid "229"
+msgstr "Jika para bijaksanawan, setelah menimbang matang, memuji ia yang bertindak tidak bolong, cendekia, teguh dalam kebijaksanaan dan kesusilaan,"
+
+msgid "230"
+msgstr "siapakah pantas mencelanya yang bagaikan emas jambonada. Para dewa pun memujinya, demikian pula brahma."
+
+msgid "231"
+msgstr "Seseorang patut menjaga luapan jasmani, mengendalikan jasmani. Setelah menjauhi laku buruk melalui jasmani, ia patut berlaku baik melalui jasmani."
+
+msgid "232"
+msgstr "Seseorang patut menjaga luapan ucapan, mengendalikan ucapan. Setelah menjauhi laku buruk melalui ucapan, ia patut berlaku baik melalui ucapan."
+
+msgid "233"
+msgstr "Seseorang patut menjaga luapan batin, mengendalikan batin. Setelah menjauhi laku buruk melalui batin, ia patut berlaku baik melalui batin."
+
+msgid "234"
+msgstr "Para cendekia adalah mereka yang telah mengendalikan jasmani, juga adalah mereka yang telah mengendalikan ucapan. Para cendekia adalah mereka yang telah mengendalikan batin. Mereka sungguh adalah orang yang telah berpengendalian secara menyeluruh dengan baik."
+
+msgid "chap18"
+msgstr "Noda"
+
+msgid "235"
+msgstr "Kini, Engkau bagaikan daun menguning. Para petugas Yama pun telah tampak padamu. Engkau telah berada di ambang keuzuran. Bekal perjalanan pun belum ada padamu."
+
+msgid "236"
+msgstr "(Karena itu,) buatlah pulau bagi diri! Lekaslah berupaya! Jadilah orang bijak! Setelah menghancurkan noda, tiada bintil, Engkau akan tiba di alam kedewaan para muliawan."
+
+msgid "237"
+msgstr "Kini telah tergiring usiamu. Engkau berkemas untuk pergi ke kediaman Raja Yama. Peristirahatan di tengah perjalanan tidak ada bagimu. Bekal perjalanan pun belum ada padamu."
+
+msgid "238"
+msgstr "(Karena itu,) buatlah pulau bagi diri! Lekaslah berupaya! Jadilah orang bijak! Setelah menghancurkan noda, tiada bintil, Engkau tidak mengalami kelahiran dan ketuaan lagi."
+
+msgid "239"
+msgstr "Ia yang cendekia patut mengikis noda diri sedikit demi sedikit secara bersinambung dari waktu ke waktu, seperti pandai perak menggosok perak."
+
+msgid "240"
+msgstr "Bagaikan karat muncul dari besi yang setelah muncul mengerat besinya, perbuatan sendiri mengantar si pelaku yang berkebiasaan menyalahi dhona menuju ke alam sengsara."
+
+msgid "241"
+msgstr "Tidak merapalkan adalah noda mantra. Tidak rajin (merawat) adalah noda rumah. Kemalasan adalah noda rupawan. Kelengahan adalah noda penjaga."
+
+msgid "242"
+msgstr "Perbuatan nista adalah noda wanita. Kekikiran adalah noda pemberi. Tindak buruk adalah noda di dunia ini dan di dunia lain."
+
+msgid "243"
+msgstr "Aku menunjukkan noda yang melampaui noda tersebut. Avijja adalah noda terakut. Setelah menyingkirkan noda itu, o para Bhikkhu, jadilah orang-orang tak bernoda."
+
+msgid "244"
+msgstr "Hidup adalah mudah bagi ia yang tidak tahu malu, berani laksana gagak, biasa ingkar budi orang, suka mencari muka, lepas kendali, dan penuh kekotoran."
+
+msgid "245"
+msgstr "Sebaliknya, hidup adalah sulit bagi ia yang tahu malu, senantiasa berupaya pada laku suci, tidak melekat, terkendali, berpenghidupan bersih, dan menyadari (hakekat penghidupan bersih)."
+
+msgid "246"
+msgstr "Barangsiapa di dunia ini membunuh kehidupan makhluk lain, bertutur kata bohong, mengambil barang yang tidak diberikan, dan menggauli istri orang lain,"
+
+msgid "247"
+msgstr "juga barangsiapa biasa minum arak dan barang ragian, ia disebut sedang mencabut akar tunggang sendiri di dunia ini."
+
+msgid "248"
+msgstr "Wahai Sobat, ketahuilah, bahwa orang-orang nista adalah mereka yang tidak berpengendalian! Janganlah keserakahan dan keburukan merusak Anda demi penderitaan yang lama!"
+
+msgid "249"
+msgstr "Demikianlah orang melakukan derma seyakinnya, seperkenannya. Ia yang kecewa atas minuman dan makanan orang lain tidak mencapai keteguhan batin di siang ataupun malam."
+
+msgid "250"
+msgstr "Bahwasanya, setelah menyingkirkan kekecewaan dan mencabut akarnya, seseorang mencapai keteguhan batin di siang ataupun malam."
+
+msgid "251"
+msgstr "Tiada api menyamai nafsu ragawi. Tiada penerkam menyamai kebencian. Tiada jala menyamai kebodohan. Tiada sungai menyamai tanha."
+
+msgid "252"
+msgstr "Noda orang lain mudah dilihat. Noda sendiri, sebaliknya, sulit dilihat. Karena itu, orang menebar noda orang lain seperti menampi dedak, sebaliknya menutupi noda sendiri bagaikan pemburu burung menyelinap di balik semak."
+
+msgid "253"
+msgstr "Pemeram berkembang pada ia yang selalu mencari tahu noda orang lain, senantiasa berhasrat menuduh. Orang demikian berada jauh dari kesirnaan pemeram."
+
+msgid "254"
+msgstr "Jejak tidak ada di angkasa. Petapa tidak ada di ajaran luar. Orang-orang bersenang dalam pelamban, sedangkan para suciwan terbebas dari pelamban."
+
+msgid "255"
+msgstr "Jejak tidak ada di angkasa. Petapa tidak ada di ajaran luar. Bentukan-bentukan tidak ada yang bersifat kekal. Penggoyah tidak ada pada para buddha."
+
+msgid "chap19"
+msgstr "Tegak dalam Dhamma"
+
+msgid "256"
+msgstr "Bukan karena bergegas menuntaskan perkara seseorang disebut yang tegak dalam Dhamma, melainkan bijaksanawan yang dapat menimbang kedua hal, yaitu yang menjadi perkara dan bukan perkara."
+
+msgid "257"
+msgstr "Ia yang memeriksa orang-orang dengan tidak terburu, berlandaskan dhamma, sesuai kaidah, penjaga dhamma, dan cendekia itulah disebut 'yang tegak dalam Dhamma'."
+
+msgid "258"
+msgstr "Bukan sekadar karena bicara banyak seseorang disebut bijaksanawan, melainkan ia yang tenteram, tidak bermusuh, dan tidak berpenakut itulah disebut 'bijaksanawan'."
+
+msgid "259"
+msgstr "Bukan sekadar karena bicara banyak seseorang disebut penyandang dhamma, melainkan ia yang, meskipun sedikit pengetahuan, dapat melihat dhamma secara batiniah dan tidak melalaikannya itulah sesungguhnya disebut 'penyandang dhamma'."
+
+msgid "260"
+msgstr "Bukan karena berkepala beruban seseorang disebut sesepuh. Ia yang berusia lanjut itu disebut 'si tua hampa'."
+
+msgid "261"
+msgstr "Sebaliknya, ia yang menembus kebenaran, meraih dhamma, tidak menyakiti, berpengendalian, terlatih, telah melunturkan noda, dan cendekia itulah disebut 'sesepuh'."
+
+msgid "262"
+msgstr "Bukan sekadar karena bertutur teratur atau berperawakan rupawan seseorang yang masih memiliki keirihatian, kekikiran, dan kecongkakan disebut budiman,"
+
+msgid "263"
+msgstr "melainkan ia yang telah menumbangkan keirihatian, kekikiran, kecongkakan, mencabut akarnya – melunturkan kebencian, and cendekia itulah disebut 'budiman'."
+
+msgid "264"
+msgstr "Bukan sekadar karena berkepala gundul, seseorang yang tidak berdisiplin, bertutur dusta Aku sebut 'samana'. Mana mungkin orang yang berlumur ambisi dan loba sebagai samana."
+
+msgid "265"
+msgstr "Akan tetapi, ia yang meredam total keburukan kecil dan besar itulah Aku sebut 'samana' karena keberadaannya sebagai peredam keburukan."
+
+msgid "266"
+msgstr "Bukan sekadar karena meminta orang lain, seseorang yang memegang pandangan buruk disebut bhikkhu."
+
+msgid "267"
+msgstr "Akan tetapi dalam Ajaran ini, ia yang telah menghanyutkan kebajikan dan keburukan, berkehidupan luhur, menjelajah di dunia dengan pengetahuan itulah disebut 'bhikkhu'."
+
+msgid "268"
+msgstr "Bukan sekadar karena bersikap diam seseorang yang dungu, tidak berilmu disebut muni, sebaliknya ia yang bijaksana, membawa dhamma nan luhur laksana menjunjung neraca,"
+
+msgid "269"
+msgstr "menjauhi keburukan-keburukan itulah disebut 'muni'. Disebabkan hal itulah ia disebut 'muni'. Seseorang disebut muni karena mengetahui kedua dunia."
+
+msgid "270"
+msgstr "Bukan karena mencelakai makhluk-makhluk lain seseorang disebut ariya, sebaliknya disebut 'ariya' karena tidak mencelakai segala jenis makhluk."
+
+msgid "271"
+msgstr "Bukan sekadar karena memiliki sila dan brata, banyak pengetahuan, mencapai keteguhan batin, dan berdiam di tempat sunyi,"
+
+msgid "272"
+msgstr "wahai Bhikkhu, seseorang yang belum mencapai kepadaman pemeram patut berlega hati bahwa, 'Aku merasakan kebahagiaan dalam pelepasan yang tidak dirasakan oleh para awam.'"
+
+msgid "chap20"
+msgstr "Jalan"
+
+msgid "273"
+msgstr "Di antara banyak jalan, jalan ariya berunsur delapan adalah terunggul. Di antara banyak kata kebenaran, empat kata kebenaran adalah terunggul. Di antara banyak keberadaan, keberadaan bebas dari nafsu ragawi adalah terunggul. Dan, di antara banyak manusia, sang penglihat adalah terunggul."
+
+msgid "274"
+msgstr "Hanya ada jalan ini, tiada jalan lain, menuju ke kemurnian pandangan. Karena itu, menapaklah Kalian ke jalan ini, jalan yang mengecohkan mara!"
+
+msgid "275"
+msgstr "Setelah menapak ke jalan ini, Kalian akan mencapai ke penghujung derita. Jalan untuk mencabut duri, setelah Aku ketahui, Aku beritakan ke Kalian."
+
+msgid "276"
+msgstr "Kalian patut menapaknya sendiri. Para tathagata sekadar penunjuk jalan. Mereka yang telah menapak, senantiasa berpenatapan, terbebas dari jerat mara."
+
+msgid "277"
+msgstr "Pada saat seseorang melihat secara bijaksana, bahwa segala bentukan adalah tidak kekal, ia jenuh pada derita. Kejenuhan pada derita itu adalah jalan kesucian."
+
+msgid "278"
+msgstr "Pada saat seseorang melihat secara bijaksana, bahwa segala bentukan adalah duka, ia jenuh pada derita. Kejenuhan pada derita itu adalah jalan kesucian."
+
+msgid "279"
+msgstr "Pada saat seseorang melihat secara bijaksana, bahwa segala keberadaan adalah bukan diri, ia jenuh pada derita. Kejenuhan pada derita itu adalah jalan kesucian."
+
+msgid "280"
+msgstr "Ia yang masih muda, berkekuatan, (namun) tidak bersemangat ketika layak bersemangat, berkutat dalam kemalasan, berbatin diliputi pemikiran yang tenggelam, penuh keengganan, berlamban-lamban – akan tidak mencapai Jalan dengan kebijaksanaan."
+
+msgid "281"
+msgstr "Ia yang senantiasa menjaga ucapan, mengendalikan batin, dan tidak bertindak buruk lewat jasmani – memurnikan ketiga jalur perbuatan ini, pantas bersukacita dalam jalan yang dikumandangkan para resi."
+
+msgid "282"
+msgstr "Kebijaksanaan tumbuh karena mengolahnya. Kebijaksanaan padam karena menelantarkannya. Ia yang telah mengetahui kedua jalan, jalan kemajuan dan jalan kemerosotan, itu patut menempatkan diri sejauh kebijaksanaan dapat berkembang."
+
+msgid "283"
+msgstr "Tebanglah hutan! Jangan tebang pohon! Karena hutan, muncul ketakutan. Wahai para Bhikkhu, setelah menebang hutan beserta semaknya, jadilah orang tak berhutan!"
+
+msgid "284"
+msgstr "Karena, sepanjang semak seorang lelaki pada wanita belum ditumbangkan, meskipun sedikit, ia masih berbatin melekat, bagaikan pedet masih menyusu induknya."
+
+msgid "285"
+msgstr "Cabutlah kecintaan dalam diri, laksana orang mencabut bunga kumuda yang tumbuh di musim gugur dengan tangan! Kembangkanlah jalan kedamaian. (Karena,) nibbana telah ditunjukkan Sang Sugata!"
+
+msgid "286"
+msgstr "Si dungu yang berangan, 'Aku akan berdiam di sini sepanjang musim hujan, (akan berdiam) di sana sepanjang musim dingin dan musim panas,' tidak menyadar akan datangnya petaka."
+
+msgid "287"
+msgstr "Maccu menggiring pergi orang yang mabuk pada putra dan ternaknya, berbatin terikat pada aneka objek, bagaikan air bah besar menghanyutkan warga desa yang nyenyak terlelap."
+
+msgid "288"
+msgstr "Putra, ayah, ataupun kerabat tidak ada yang dapat menangkal. Ketika seseorang dicengkeram maut, tiada satu sanak pun dapat menjadi penangkal."
+
+msgid "289"
+msgstr "Setelah menyadari itu, orang bijak patut berkendali dalam tata susila dan segera merangai marga menuju nibbana."
+
+msgid "chap21"
+msgstr "Rampai"
+
+msgid "290"
+msgstr "Jika dengan melepas kebahagiaan lumrahan orang dapat menemukan kebahagiaan agung, ia yang bijak, yang menemukan kebahagiaan agung itu patut melepas kebahagiaan lumrahan."
+
+msgid "291"
+msgstr "Barangsiapa berharap kebahagiaan diri dengan bertumpu pada derita orang lain, ia yang tersangkut pendengkian itu tidak akan bebas dari pendengkian."
+
+msgid "292"
+msgstr "Pemeram berkembang pada mereka yang melalaikan kewajiban, sebaliknya mengerjakan hal tak layak, congkak bak gelagah menjelangak, dan bertindak gegabah."
+
+msgid "293"
+msgstr "Sebaliknya, pemeram menjadi padam pada mereka yang senantiasa bergairah dalam perenungan badan, melaksanakan kewajiban dengan rapi, menjauhi hal tak layak, serta penuh perhatian dan penghayatan."
+
+msgid "294"
+msgstr "Ia yang membunuh ibu dan bapak, membantai kedua raja kesatria, dan menaklukkan kerajaan beserta pemungut upetinya disebut brahmana, hidup tanpa derita."
+
+msgid "295"
+msgstr "Ia yang membunuh ibu dan bapak, membantai kedua raja brahmana, dan memusnahkan jalan tapak macan loreng sebagai yang kelima disebut brahmana, hidup tanpa derita."
+
+msgid "296"
+msgstr "Mereka yang senantiasa merenungkan Buddha siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik sepanjang masa."
+
+msgid "297"
+msgstr "Mereka yang senantiasa merenungkan dhamma siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik sepanjang masa."
+
+msgid "298"
+msgstr "Mereka yang senantiasa merenungkan sangha siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik sepanjang masa."
+
+msgid "299"
+msgstr "Mereka yang senantiasa merenungkan tubuh siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik sepanjang masa."
+
+msgid "300"
+msgstr "Mereka yang senantiasa berbatin gembira dalam ahimsa siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik sepanjang masa."
+
+msgid "301"
+msgstr "Mereka yang senantiasa berbatin gembira dalam pengembangan batin siang dan malam adalah para siswa Gotama, mencapai pencerahan dengan baik di sepanjang masa."
+
+msgid "302"
+msgstr "Adalah sulit, menjadi petapa. Sulit pula, bergembira dalam kepetapaan. Kehidupan berumahtangga diwarnai kesulitan, disertai derita. Berdiam bersama orang yang tidak setara adalah derita. Menempuh perjalanan jauh dibuntuti derita. Karena itu, tak sepantasnya seseorang beperjalanan jauh, tak semestinya dibuntuti derita."
+
+msgid "303"
+msgstr "Ia yang berkeyakinan, bertata susila, beharkat, dan beharta akan dihargai di mana pun berada."
+
+msgid "304"
+msgstr "Orang-orang mulia, berada di jauh, tetap tampak, laksana Gunung Himalaya. Sebaliknya, orang nista, berada di dekat sini, tidak tampak, bak anak panah melesat di malam hari."
+
+msgid "305"
+msgstr "Seseorang yang bersendiri duduk, bersendiri baring, tanpa gontai bersendiri berkelana, bersendiri menggeladi diri – layak mengenyam sukacita di tepian hutan."
+
+msgid "chap22"
+msgstr "Neraka"
+
+msgid "306"
+msgstr "Ia yang biasa menuduhkan hal tidak benar akan masuk neraka. Begitu pula, ia yang setelah berbuat berkata, 'Aku tidak berbuat.' Keduanya adalah manusia pelaku perbuatan rendah yang, sepeninggalnya menuju ke alam lain, akan bernasib sama."
+
+msgid "307"
+msgstr "Banyak mereka yang berlingkar jubah di leher memiliki hal-hal buruk dan tidak berpengendalian. Mereka yang buruk itu akan masuk ke neraka oleh perbuatan buruknya."
+
+msgid "308"
+msgstr "Menelan bongkah besi panas laksana berlidah api adalah lebih baik. Apatah mulianya ia yang dursila, tidak berpengendalian, memakan gumpalan nasi penduduk."
+
+msgid "309"
+msgstr "Ia yang lengah, biasa menggauli istri orang lain, akan menemui empat keadaan (, yakni): mendapati kesialan, tidak bisa tidur sesukanya, mendapatkan celaan sebagai yang ketiga, dan masuk neraka sebagai yang keempat."
+
+msgid "310"
+msgstr "Karena sebab-sebab harus mendapati kesialan, jatuh ke kenistaan, mendapat kesenangan hanya sekejap bagi pria dan wanita yang tercekam ketakutan, dan menerima hukuman berat dari raja, seseorang tak sepatutnya menggauli istri orang lain."
+
+msgid "311"
+msgstr "Ilalang yang dipegang tidak tepat dapat melukai tangan sendiri, begitu pula kepetapaan yang dijalani tidak tepat dapat mengusung ke neraka."
+
+msgid "312"
+msgstr "Laku yang kendur, brata yang bernoda, dan pelaksanaan kehidupan luhur yang diliputi kerisauan tidak membuahkan pahala besar."
+
+msgid "313"
+msgstr "Jika melaksanakan sesuatu, seseorang patut melaksanakannya sungguh-sungguh, patut dengan teguh memperjuangkan karena kepetapaan yang dilaksanakan kendur akan kian menebar duli."
+
+msgid "314"
+msgstr "Perbuatan buruk, tidak dilakukan adalah lebih baik karena perbuatan buruk akan menggarang (si pelaku) di kemudian waktu. Sebaliknya, perbuatan baik, dilakukan adalah lebih baik yang, setelah dilakukan, tidak mendatangkan sesal."
+
+msgid "315"
+msgstr "Jagalah diri di dalam dan di luarnya, laksana orang menjaga wilayah perbatasan! Janganlah membiarkan waktu berlalu karena mereka yang membiarkannya berlalu mendapati kesedihan, berdesak sesak di neraka!"
+
+msgid "316"
+msgstr "Barangsiapa malu terhadap hal tak memalukan, tidak malu terhadap hal memalukan; mereka yang memegang pandangan keliru itu akan menuju ke alam sengsara."
+
+msgid "317"
+msgstr "Juga, barangsiapa takut terhadap hal tak menakutkan, tidak takut terhadap hal menakutkan; mereka yang memegang pandangan keliru itu akan menuju ke alam sengsara."
+
+msgid "318"
+msgstr "Barangsiapa menganggap tercela terhadap hal tak tercela, menganggap tak tercela terhadap hal tercela; mereka yang memegang pandangan keliru itu akan menuju ke alam sengsara."
+
+msgid "319"
+msgstr "Sebaliknya, barangsiapa menyadari hal tercela sebagai yang tercela, menyadari hal tak tercela sebagai yang tak tercela; mereka yang memegang pandangan benar itu akan menuju ke alam bahagia."
+
+msgid "chap23"
+msgstr "Gajah Besar"
+
+msgid "320"
+msgstr "Bagaikan gajah di medan perang bertabah terhadap anak panah yang melesat dari busur, Aku akan bertabah terhadap ucapan lancang karena banyak orang adalah dursila."
+
+msgid "321"
+msgstr "Orang-orang membawa hewan terlatih ke tempat pertemuan. Raja bertunggang hewan terlatih. Orang terlatih bertabah terhadap ucapan lancang, menjadi yang termulia di antara para manusia."
+
+msgid "322"
+msgstr "Kuda bagal, kuda sindhava, dan gajah besar kunjara terlatih adalah hewan-hewan ulung. (Akan tetapi,) orang yang telah melatih diri lebih ulung daripada mereka."
+
+msgid "323"
+msgstr "Bukan dengan kendaraan-kendaraan itu, orang dapat pergi ke arah yang belum pernah ia kunjungi, melainkan dengan pelatihan diri, dengan pelatihan diri dengan baik, ia yang terlatih dapat pergi ke arah yang belum pernah ia kunjungi."
+
+msgid "324"
+msgstr "Gajah bernama Dhanapalaka menjadi gusar besar, sukar dicegah. Ia, yang diikat, tidak (berkenan) menyantap makanan. Hutan Nagavana, ia merindukan."
+
+msgid "325"
+msgstr "Bila seseorang bersantap banyak, acap kali mengantuk, dan biasa tidur berguling gantang bak babi besar dimanja makanan, ia yang menjadi bebal itu acap kali masuk perbaringan."
+
+msgid "326"
+msgstr "Dulu, cipta ini berkelana ke objek perkelanaan semaunya, sesenangnya, sesukanya. Kini, Aku akan menundukkannya dengan cermat seperti seorang pawang menjinakkan gajah binal dengan gancu."
+
+msgid "327"
+msgstr "Bergembiralah dalam ketidaklengahan! Jagalah cipta Kalian masing-masing! Entaskan diri dari kubangan, bak gajah yang terjerembab di lelumpuran dapat mengentas diri!"
+
+msgid "328"
+msgstr "Andaikata seseorang mendapatkan orang yang cermat, bercara hidup baik, dan cendekia sebagai kawan berjalan, ia layak mengatasi segala rintangan; dapat berlega hati dan menegakkan perhatian – berjalan dengannya."
+
+msgid "329"
+msgstr "Andaikata seseorang tidak mendapatkan orang yang cermat, bercara hidup baik, dan cendekia sebagai kawan berjalan, ia layak berjalan sendirian, laksana seorang raja pergi meninggalkan wilayah taklukkan, laksana gajah besar Matanga berjalan sendirian di hutan."
+
+msgid "330"
+msgstr "Berjalan sendirian adalah lebih baik karena nilai persahabatan tidak ada pada si dungu. Ia patut berjalan sendirian, seperti gajah besar Matanga yang bersahaja berjalan di hutan, dan tak semestinya berbuat buruk."
+
+msgid "331"
+msgstr "Ketika timbul suatu pengharapan, para sahabat mendatangkan kebahagiaan. Mendatangkan kebahagiaan, berpuas dengan seadanya. Ketika ajal tiba, kebajikan mendatangkan kebahagiaan. Mendatangkan kebahagiaan, pelenyapan segala derita."
+
+msgid "332"
+msgstr "Berlaku baik kepada ibunda mendatangkan kebahagiaan di dunia. Begitu pula, mendatangkan kebahagiaan, berlaku baik kepada ayahanda. Berlaku baik kepada para petapa mendatangkan kebahagiaan. Begitu pula, mendatangkan kebahagiaan, berlaku baik kepada para brahmana."
+
+msgid "333"
+msgstr "Tata susila mendatangkan kebahagiaan hingga hari tua. Mendatangkan kebahagiaan, keyakinan tertancap kuat. Pencapaian kebijaksanaan mendatangkan kebahagiaan. Mendatangkan kebahagiaan, tidak bertindak buruk."
+
+msgid "chap24"
+msgstr "Kegandrungan"
+
+msgid "334"
+msgstr "Tanha, laksana ara pencekik, tumbuh berkembang pada orang yang bertindak lengah. Orang itu bermondar-mandir di alam kecil dan besar layaknya monyet yang menginginkan buah bermondar-mandir di hutan."
+
+msgid "335"
+msgstr "Kesedihan meruak pada ia yang dikuasai tanha nan nista, yang membentang ke aneka objek di dunia, bagaikan umbi rumput teki yang tersiram hujan, marak bertunas."
+
+msgid "336"
+msgstr "Sebaliknya, barangsiapa dapat menaklukkan tanha nan nista yang sukar dilampaui oleh siapa pun di dunia, ia akan terbebas dari kesedihan, bagaikan tetes air jatuh dari daun teratai."
+
+msgid "337"
+msgstr "Oleh karena itu, Aku berujar kepada Kalian, 'Majulah Kalian yang berhimpun di sini! Cabutlah akar tanha layaknya orang yang menginginkan rumput teki mencabut umbinya! Jangan (biarkan) mara berulang kali membinasakan Kalian, bak arus air menerpa gelagah!"
+
+msgid "338"
+msgstr "Pohon, meskipun telah ditebang, akan tumbuh bersemi lagi sepanjang akarnya kokoh, tidak rusak. Demikian pula, derita muncul berulang kali sepanjang tanha, si pendompleng, belum dibasmi."
+
+msgid "339"
+msgstr "Barangsiapa dibanjiri oleh ketigapuluh enam arus yang mengalir deras ke objek-objek menyenangkan; pemikiran-pemikiran kuat yang ditumpangi oleh nafsu ragawi akan menghanyutkan si penyandang pandangan nista itu."
+
+msgid "340"
+msgstr "Arus-arus (tanha) mengalir ke segala objek, bagaikan liana yang, setelah tumbuh, bercokol. Lihatlah arus-arus bagaikan liana yang tumbuh itu, lalu potonglah akarnya dengan kebijaksanaan!"
+
+msgid "341"
+msgstr "Kesenangan-kesenangan yang bertebar dan bergetah lengket ada pada makhluk-makhluk. Mereka, karena dorongan nafsu kesenangan, mencari kebahagiaan. Mereka itulah orang-orang yang mengalami kelahiran dan ketuaan."
+
+msgid "342"
+msgstr "Makhluk-makhluk yang dipenjara trisna akan meronta, bak kelinci terperangkap. Mereka yang terkait belenggu dan ketujuh penjerat akan berulang kali menderita dalam waktu lama."
+
+msgid "343"
+msgstr "Makhluk-makhluk yang dipenjara trisna akan meronta, bak kelinci terperangkap. Karena itu, seorang bhikkhu yang mendambakan ketiadaan nafsu ragawi bagi diri patut membasmi trisna."
+
+msgid "344"
+msgstr "Seseorang, setelah meninggalkan hutan, mengarah menuju hutan. Akan tetapi, setelah lepas dari hutan, ia berbalik ke hutan lagi. Lihatlah orang demikian itu yang, setelah terbebas, kembali menuju jerat!"
+
+msgid "345"
+msgstr "Pengikat berupa rantai besi, pasung kayu, and tali rami tidak disebut pengikat kuat oleh para bijaksanawan, melainkan kepikatan mereka yang dilumuri nafsu ragawi pada anting-anting berhias mutu manikam, and kesayangan pada anak dan istri."
+
+msgid "346"
+msgstr "Kepikatan dan kesayangan itulah para bijaksanawan sebut 'pengikat kuat', yang biasa manggandul kendur, namun sukar dilepas. Para bijaksanawan, setelah memotong pengikat itu, tiada kerinduan, dan menyingkirkan kebahagiaan dari kesenangan inderawi – memasuki pertapaan."
+
+msgid "347"
+msgstr "Makhluk-makhluk yang terayu oleh nafsu ragawi akan berada di arus tanha, laksana laba-laba bertengger di sarang yang ia buat sendiri. Para bijaksanawan, setelah memotong arus tanha itu, tidak merindukannya – terbebas dari segala derita."
+
+msgid "348"
+msgstr "Singkirkan yang di masa lampau! Singkirkan yang di masa mendatang! Singkirkan yang di masa ini! Dengan demikian, Engkau akan mencapai pantai seberang, berbatin bebas dari segala hal, tidak mengalami kelahiran dan ketuaan lagi."
+
+msgid "349"
+msgstr "Tanha kian mengembang besar pada orang yang dicemari pemikiran keliru, penggenggam nafsu ragawi kuat, dan pemandang indah objek-objek. Sebenarnya, ia sedang mengencangkan ikatan."
+
+msgid "350"
+msgstr "Sebaliknya, barangsiapa gemar pada dhamma peredam pemikiran keliru, mengembangkan batin pada ketidakindahan objek, dan penuh perhatian, ia dapat melakukan pemadaman (tanha), memotong jerat mara."
+
+msgid "351"
+msgstr "Barangsiapa telah mencapai tujuan, tiada kegentaran, tiada tanha, tiada bintil, dan telah mematahkan anak panah pengantar ke alam-alam; ia disebut 'yang bertubuh ada di penghujung'."
+
+msgid "352"
+msgstr "Barangsiapa bebas dari tanha, bebas dari kelekatan, cergas dalam perkataan beserta seluk-beluknya, mengetahui gugusan aksara-aksara, dan mengerti pangkal ujungnya; ia disebut 'yang bertubuh ada di penghujung', 'yang berkebijaksanaan tinggi', 'orang besar'."
+
+msgid "353"
+msgstr "Aku penguasa segalanya, pengetahu segalanya, tidak terikat dalam segalanya, meninggalkan segalanya, telah terbebas karena sirnanya tanha, dan oleh diri sendiri telah memahaminya. Siapakah lalu patut Aku junjung (selaku guru)?"
+
+msgid "354"
+msgstr "Pemberian dhamma mengalahkan segala pemberian. Rasa dhamma mengalahkan segala rasa. Kesenangan dalam dhamma mengalahkan segala kesenangan. Kemusnahan tanha menumbangkan segala derita."
+
+msgid "355"
+msgstr "Harta membunuh si dungu, sebaliknya tidak membunuh para pencari pantai seberang. Karena kegandrungannya pada harta, orang dungu membunuh diri, layaknya orang lain membunuhnya."
+
+msgid "356"
+msgstr "Rumput adalah noda sawah ladang. Nafsu ragawi adalah noda para makhluk. Karena itu, dana yang diberikan kepada mereka yang tidak bernafsu ragawi mendatangkan pahala besar."
+
+msgid "357"
+msgstr "Rumput adalah noda sawah ladang. Kebencian adalah noda para makhluk. Karena itu, dana yang diberikan kepada mereka yang tidak berkebencian mendatangkan pahala besar."
+
+msgid "358"
+msgstr "Rumput adalah noda sawah ladang. Kebodohan adalah noda para makhluk. Karena itu, dana yang diberikan kepada mereka yang tidak berkebodohan mendatangkan pahala besar."
+
+msgid "359"
+msgstr "Rumput adalah noda sawah ladang. Keinginan adalah noda para makhluk. Karena itu, dana yang diberikan kepada mereka yang tidak berkeinginan mendatangkan pahala besar."
+
+msgid "chap25"
+msgstr "Bhikkhu"
+
+msgid "360"
+msgstr "Pengendalian melalui indera penglihat adalah hal baik. Adalah hal baik, pengendalian melalui indera pendengar. Pengendalian melalui indera pencium adalah hal baik. Adalah hal baik, pengendalian melalui indera pengecap."
+
+msgid "361"
+msgstr "Pengendalian melalui indera peraba adalah hal baik. Adalah hal baik, pengendalian melalui ucapan. Pengendalian melalui batin adalah hal baik. Adalah hal baik, pengendalian melalui segala pintu indera. Seorang bhikkhu yang berpengendalian melalui segala pintu indera niscaya terbebas dari segala derita."
+
+msgid "362"
+msgstr "Ia yang terkendali tangannya, terkendali kakinya, terkendali ucapannya, terkendali dirinya, senang pada perihal dalam, berbatin teguh, bersendiri, bersenang dalam kesendirian itu disebut 'bhikkhu'."
+
+msgid "363"
+msgstr "Tutur kata seorang bhikkhu yang terkendali mulutnya, cakap bicara, tidak buyar, menyampaikan uraian dan pokok ajaran – manis didengar."
+
+msgid "364"
+msgstr "Seorang bhikkhu yang bersenang dalam dhamma, menyenangi dhamma, menelaah dhamma, mengingat-ingat dhamma – tidak merosot dari hakekat dhamma."
+
+msgid "365"
+msgstr "Seorang bhikkhu tidak sepantasnya meremehkan perolehan sendiri, tidak sepantasnya memikati perolehan orang lain. Ia yang memikati perolehan orang lain tidak mencapai keteguhan batin."
+
+msgid "366"
+msgstr "Kalaupun memperoleh sedikit, seorang bhikkhu tidak meremehkan perolehan sendiri. Para dewa memuji ia yang demikian sebagai 'yang berpenghidupan bersih', 'yang tidak gontai'."
+
+msgid "367"
+msgstr "Ia yang sama sekali tidak berpandangan bahwa 'batin dan jasmani adalah milikku', and tidak bersedih atas kesirnaannya itu Aku sebut 'bhikkhu'."
+
+msgid "368"
+msgstr "Seorang bhikkhu yang senantiasa hidup dalam cinta kasih dan memiliki rasa salut pada ajaran Buddha akan mencapai tujuan nan damai, menyenangkan, keredaman segala bentukan."
+
+msgid "369"
+msgstr "Wahai Bhikkhu, kuraslah perahu ini! Perahu yang telah kau kuras akan melaju pesat. Potonglah nafsu ragawi dan kebencian, setelah itu Engkau akan mencapai nibbana."
+
+msgid "370"
+msgstr "Seorang bhikkhu patut memotong lima hal, menyingkirkan lima hal dan mengembangkan lima hal. Ia yang telah melampaui kelima penjerat Aku sebut 'si penyeberang air bah'."
+
+msgid "371"
+msgstr "Wahai Bhikkhu, menataplah! Janganlah lengah! Janganlah ciptamu berkitar pada ikatan kesenangan inderawi! Jangan lengah lalu menelan bongkahan besi (panas)! Janganlah setelah terbakar baru meratap, 'Ini derita!'"
+
+msgid "372"
+msgstr "Tiada jhana bagi ia yang tidak memiliki panna. Tiada panna bagi ia yang tidak memiliki jhana. Pada siapa jhana dan panna terdapat, padanya nibbana berada dekat."
+
+msgid "373"
+msgstr "Kegembiraan yang tidak dirasakan oleh umumnya manusia akan dimiliki oleh seorang bhikkhu yang memasuki pondok kosong, berbatin damai, memahami dhamma dengan benar."
+
+msgid "374"
+msgstr "Dengan sesuatu cara seorang bhikkhu merenungkan kemunculan dan kepadaman gugusan-gugusan, cara itu membuatnya memperoleh kegiuran dan sukacita. Perolehan kegiuran dan sukacita itu adalah amerta bagi para pemaham."
+
+msgid "375"
+msgstr "Hal-hal berikut ini, yaitu: penjagaan indera, kesentosaan, and pengendalian dalam pokok-pokok aturan merupakan mula buka amerta bagi seorang bhikkhu bijaksana dalam Ajaran ini."
+
+msgid "376"
+msgstr "Bergaullah dengan sahabat yang baik, berpenghidupan bersih, and tidak gontai! Seseorang patut bersikap menyambut, and terampil dalam bertindak layak. Dengan begitu, ia yang penuh sukacita itu akan mengakhiri derita."
+
+msgid "377"
+msgstr "Wahai para Bhikkhu, tanggalkanlah nafsu ragawi dan kebencian, seperti rumpun melati menanggalkan bunga-bunga layu!"
+
+msgid "378"
+msgstr "Seorang bhikkhu yang berjasmani tenang, berucapan tenang, berbatin tenang, penuh keteguhan, telah melepas umpan dunia Aku sebut 'yang tenang damai'."
+
+msgid "379"
+msgstr "Tegurlah diri oleh diri sendiri! Periksalah diri oleh diri sendiri! Wahai Bhikkhu, Engkau yang telah menjaga diri dan penuh hati-hati akan hidup bahagia."
+
+msgid "380"
+msgstr "Diri sendirilah pelindung diri. Diri sendirilah penentu arah diri. Karena itu, kendalikan diri, layaknya saudagar mengendalikan kuda tangkasnya!"
+
+msgid "381"
+msgstr "Seorang bhikkhu yang banyak diliputi sukacita, salut pada ajaran Buddha akan mencapai tujuan nan damai, menyenangkan, keredaman segala bentukan."
+
+msgid "382"
+msgstr "Seorang bhikkhu yang dari muda bergeladi dalam ajaran Buddha akan menerangi dunia ini, laksana bulan terbebas dari awan."
+
+msgid "chap26"
+msgstr "Brahmana"
+
+msgid "383"
+msgstr "Wahai Brahmana, berusaha potonglah arus tanha! Redamlah kesenangan-kesenangan inderawi! Setelah mengetahui kepadaman bentukan-bentukan, wahai Brahmana, Engkau akan memahami 'keberadaan tanpa bentukan'."
+
+msgid "384"
+msgstr "Di kala seorang brahmana mencapai keberhasilan dalam dua perihal, ia yang berpenglihatan itu dapat mematahkan segala belenggu."
+
+msgid "385"
+msgstr "Barangsiapa tidak mendiami pantai seberang, bukan pantai seberang, ataupun kedua-duanya; ia yang telah menyingkirkan kegelisahan dan telah terbebas itu Aku sebut 'brahmana'."
+
+msgid "386"
+msgstr "Ia yang berpenatapan, bebas dari duli, bersendiri, telah menuntaskan tugas, tidak berpemeram, dan mencapai manfaat tertinggi itu Aku sebut 'brahmana'."
+
+msgid "387"
+msgstr "Surya bersinar di siang hari. Candra bercahaya di malam hari. Perwira berkilau ketika berseragam. Brahmana yang berpenatapan menjadi cemerlang. Tetapi, Buddha gilang gemilang sepanjang siang dan malam oleh kecerahan-Nya."
+
+msgid "388"
+msgstr "Ia yang telah menghanyutkan keburukan Aku sebut 'brahmana'. Ia yang senantiasa bertindak layak Aku sebut 'samana'. Ia yang menyiangi noda diri Aku sebut 'pabbajita'."
+
+msgid "389"
+msgstr "Seorang tidak patut menyakiti brahmana. Brahmana tidak memusuhi ia yang menyakiti. Sungguh tercela ia yang menyakiti. Lebih tercela lagi ia yang memusuhi."
+
+msgid "390"
+msgstr "Tidak berbalas dendam mendatangkan keluhuran tidak kecil bagi brahmana. Penyingkiran batin dari hal-hal menyenangkan mendatangkan keluhuran tidak kecil. Bersebab dari sesuatu hal kehendak menyakiti dapat berbalik kembali, dari sebab itulah derita mereda."
+
+msgid "391"
+msgstr "Ia yang tidak ada keburukan jasmaniah, ucapan, dan batiniah – berpengendalian melalui ketiga landasan itu Aku sebut 'brahmana'."
+
+msgid "392"
+msgstr "Dari siapapun seseorang mengetahui dhamma yang telah diajarkan Sammasambuddha, ia patut membungkuk hormat padanya, seperti brahmana menghormat api."
+
+msgid "393"
+msgstr "Seseorang menjadi brahmana bukan karena bersanggul rambut, bukan karena keturunan, atau bukan karena trah. Sebaliknya, ia yang memiliki sacca dan dhamma itu Aku sebut 'yang suci', Aku sebut 'brahmana'."
+
+msgid "394"
+msgstr "Wahai si Dungu, apa guna sanggul bagimu? Apa pula guna jubah kulit rusa bagimu? Dalammu kotor, luarmu kau hiasi."
+
+msgid "395"
+msgstr "Ia yang bersandang kain buangan, kurus, bertimbulan uratnya, bersendiri di hutan, berpenatapan itu Aku sebut 'brahmana'."
+
+msgid "396"
+msgstr "Aku tidak menyebut ia yang lahir secara biologisnya, lahir dari ibu sebagai 'brahmana'. Jika sebagai orang yang masih disertai pencemas, ia dinamai 'si penyapa Bho'. Ia yang tidak berpencemas, tidak melekat itulah Aku sebut 'brahmana'."
+
+msgid "397"
+msgstr "Setelah mematahkan segala belenggu, seseorang bebas dari kegentaran. Ia yang melampaui penjerat dan telah terbebas itu Aku sebut 'brahmana'."
+
+msgid "398"
+msgstr "Ia yang telah memotong sabuk, ban, simpul, beserta pengencangnya; telah mencabut selot dan mencapai pencerahan itu Aku sebut 'brahmana'."
+
+msgid "399"
+msgstr "Barangsiapa tidak terusik, sabar terhadap hujatan, deraan, dan pasungan; ia yang memiliki kekuatan kesabaran, memiliki bala tentara kesabaran itu Aku sebut 'brahmana'."
+
+msgid "400"
+msgstr "Ia yang biasa tidak marah, bertata laku, bertata susila, tidak mengembung (tanha-nya), terlatih, penyandang tubuh terakhir itu Aku sebut 'brahmana'."
+
+msgid "401"
+msgstr "Ia yang tidak berlumur kesenangan inderawi, bagaikan air di daun teratai, bagaikan biji sawi di ujung jarum itu Aku sebut 'brahmana'."
+
+msgid "402"
+msgstr "Barangsiapa dalam Ajaran ini mengetahui jelas henti derita diri; ia yang telah meletakkan beban dan telah terbebas itu Aku sebut 'brahmana'."
+
+msgid "403"
+msgstr "Ia yang berkebijaksanaan dalam, cendekia, tangkas dalam hal yang sebagai jalan dan bukan jalan, telah mencapai tujuan utama itu Aku sebut 'brahmana'."
+
+msgid "404"
+msgstr "Ia yang tidak bergumul dengan kedua status orang, yakni: perumahtangga dan petapa, tidak mengenang hal-hal yang membawa kerinduan, berkemauan sedikit itu Aku sebut 'brahmana'."
+
+msgid "405"
+msgstr "Ia yang meluruhkan ancaman pada makhluk-makhluk, baik yang gentar ataupun yang tegar; tidak membunuh dan tidak menyuruh membunuh itu Aku sebut 'brahmana'."
+
+msgid "406"
+msgstr "Ia yang tidak mendendam di antara mereka yang mendendam, meredam (ancaman) di antara mereka yang mengancam, tidak melekat di antara mereka yang berkelekatan itu Aku sebut 'brahmana'."
+
+msgid "407"
+msgstr "Nafsu ragawi, kebencian, pembandingan diri, dan pelecehan orang telah seseorang tanggalkan, laksana biji sawi yang jatuh dari ujung jarum. Aku menyebutnya 'brahmana'."
+
+msgid "408"
+msgstr "Ia yang bertutur kata tidak kasar, jelas, benar, dan tidak mengundang kemarahan siapa pun itu Aku sebut 'brahmana'."
+
+msgid "409"
+msgstr "Ia yang di dunia ini tidak mengambil barang yang tidak diberikan, baik yang panjang ataupun pendek, yang kecil ataupun besar, yang indah ataupun jelek itu Aku sebut 'brahmana'."
+
+msgid "410"
+msgstr "Ia yang telah memutus asa di alam ini ataupun di alam lain, tidak berpamrih, dan telah terbebas itu Aku sebut 'brahmana'."
+
+msgid "411"
+msgstr "Ia yang bebas dari kerinduan, penuh pemahaman, tiada keraguan, telah mencapai amerta, dan telah menelusurinya itu Aku sebut 'brahmana'."
+
+msgid "412"
+msgstr "Barangsiapa telah melampaui kebajikan dan keburukan, keduanya, beserta penjeratnya di dunia ini; ia yang tiada kesedihan, tiada duli, dan telah bersih itu Aku sebut 'brahmana'."
+
+msgid "413"
+msgstr "Ia yang bersih, cerlang, tidak keruh, sirna hasratnya pada alam-alam menyenangkan, bagaikan bulan tak bernoda itu Aku sebut 'brahmana'."
+
+msgid "414"
+msgstr "Ia yang telah melampaui jalan melingkar, berlubang; melampaui lingkar perkelanaan dan kebodohan; telah menyeberang dan tiba di pantai seberang, berpenatapan, tiada penggoda, tiada keraguan, tidak melekat, dan telah padam itu Aku sebut 'brahmana'."
+
+msgid "415"
+msgstr "Barangsiapa telah menyingkirkan kesenangan inderawi di dunia ini, meninggalkan kehidupan berumah, menempuh kehidupan tanpa rumah; ia yang sirna kesenangan inderawi beserta dumadinya itu Aku sebut 'brahmana'."
+
+msgid "416"
+msgstr "Barangsiapa telah menyingkirkan tanha di dunia ini, meninggalkan kehidupan berumah, menempuh kehidupan tanpa rumah; ia yang sirna tanha beserta dumadinya itu Aku sebut 'brahmana'."
+
+msgid "417"
+msgstr "Barangsiapa meninggalkan pengikat yang ada di alam manusia, melepas pengikat yang ada di alam kedewaan; ia yang terbebas dari segala jenis pengikat itu Aku sebut 'brahmana'."
+
+msgid "418"
+msgstr "Ia yang telah meninggalkan kesenangan dan kesengitan, menjadi dingin, tidak dirasuki kotoran batin, menguasai seluruh dunia, sebagai pendekar itu Aku sebut 'brahmana'."
+
+msgid "419"
+msgstr "Barangsiapa secara rinci mengetahui kematian dan kelahiran makhluk-makhluk; ia yang tidak terikat, telah pergi dengan baik, telah mencapai pencerahan itu Aku sebut 'brahmana'."
+
+msgid "420"
+msgstr "Ia yang tak terlacak jalur perjalanannya oleh para dewa, para gandharwa, dan himpunan manusia, telah sirna pemeramnya, dan telah suci itu Aku sebut 'brahmana'."
+
+msgid "421"
+msgstr "Pada siapapun pencemas di saat lampau, di saat mendatang, dan di saat ini tidak ditemukan; ia yang tak berpencemas dan tanpa kelekatan itu Aku sebut 'brahmana'."
+
+msgid "422"
+msgstr "Ia yang tegar, ulung, sebagai pendekar, sebagai resi agung, pemenang gemilang, tidak goyah, telah mandi, dan telah mencapai pencerahan itu Aku sebut 'brahmana'."
+
+msgid "423"
+msgstr "Barangsiapa mengetahui kehidupan lampau, mengetahui alam surga dan alam kemerosotan, mencapai akhir kelahiran, menuntaskan kewajiban karena telah melihat jelas, sebagai muni; ia yang telah menamatkan pelaksanaan kehidupan luhur itu Aku sebut 'brahmana'."

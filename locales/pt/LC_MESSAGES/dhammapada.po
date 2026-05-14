@@ -199,7 +199,7 @@ msgid "58"
 msgstr "Sobre um monte de esterco na valeta à beira da estrada, cresce um lótus, agradável e com fragrância."
 
 msgid "59"
-msgstr "Da mesma maneira, no monte de esterco dos cegos mortais, o discípulo d’Aquele que se Iluminou de forma Exímia brilha resplandecente em sabedoria."
+msgstr "Da mesma maneira, no monte de esterco dos cegos mortais, o discípulo d'Aquele que se Iluminou de forma Exímia brilha resplandecente em sabedoria."
 
 msgid "chap5"
 msgstr "O Louco"

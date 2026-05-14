@@ -871,7 +871,7 @@ msgid "267"
 msgstr "Joka on hyvän ja pahan yläpuolella, joka on puhdas, joka huolellisena vaeltaa läpi maailman, häntä todella on sanottava bhikshuksi."
 
 msgid "268"
-msgstr "Ihminen ei ole Muni sen tähden, että hän noudattaa vaitioloa, jos hän on tyhmä ja tietämätön; mutta viisas, joka ikäänkuin vaa’alla punniten valitsee hyvän ja välttää pahan,"
+msgstr "Ihminen ei ole Muni sen tähden, että hän noudattaa vaitioloa, jos hän on tyhmä ja tietämätön; mutta viisas, joka ikäänkuin vaa'alla punniten valitsee hyvän ja välttää pahan,"
 
 msgid "269"
 msgstr "hän on Muni ja on Muni juuri sen kautta; joka tässä maailmassa punnitsee molempia puolia, häntä sanotaan Muniksi."

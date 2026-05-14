@@ -1249,7 +1249,7 @@ msgid "386"
 msgstr "Die meditatief is, die vlekkeloos en geconcentreerd is, wiens werk erop zit, die vrij van bezoedelingen is, die het allerhoogste doel heeft bereikt ; hij is degene die ik een brahmaan noem."
 
 msgid "387"
-msgstr "De zon straalt overdag, de maan verlicht ‘s nachts, de krijger glanst in zijn pantserbekleding, de brahmaan straalt in zijn meditatie. Maar de Boeddha schittert de gehele dag en ook de gehele nacht."
+msgstr "De zon straalt overdag, de maan verlicht 's nachts, de krijger glanst in zijn pantserbekleding, de brahmaan straalt in zijn meditatie. Maar de Boeddha schittert de gehele dag en ook de gehele nacht."
 
 msgid "388"
 msgstr "Omdat hij bevrijd is van het kwade wordt hij 'brahmaan' genoemd ; omdat hij edel van gedrag is, wordt hij 'heilige' genoemd ; omdat hij zichzelf ontdaan heeft van al zijn onzuiverheden, wordt een persoon een 'verzaker' genoemd."

@@ -64,10 +64,10 @@ msgid "16"
 msgstr "v tomto světě se raduje, na onom světě se raduje, kdo koná dobro, v obou světech se raduje, raduje se a těší se, když obzírá své očištěné konání"
 
 msgid "17"
-msgstr "v tomto světě je trýzněn, na onom světě je trýzněn, kdo koná zlo, v obou světech je trýzněn, při pomyšlení: ‘konal jsem zlo’ je trýzněn a ještě více je trýzněn, když dojde do strastného stavu bytí"
+msgstr "v tomto světě je trýzněn, na onom světě je trýzněn, kdo koná zlo, v obou světech je trýzněn, při pomyšlení: 'konal jsem zlo' je trýzněn a ještě více je trýzněn, když dojde do strastného stavu bytí"
 
 msgid "18"
-msgstr "v tomto světě je potěšen, na onom světě je potěšen, kdo koná dobro [zásluhy], v obou světech je potěšen, při pomyšlení: ‘konal jsem dobro [zásluhy]’ je potěšen a ještě více je potěšen, když dojde do šťastného stavu bytí"
+msgstr "v tomto světě je potěšen, na onom světě je potěšen, kdo koná dobro [zásluhy], v obou světech je potěšen, při pomyšlení: 'konal jsem dobro [zásluhy]' je potěšen a ještě více je potěšen, když dojde do šťastného stavu bytí"
 
 msgid "19"
 msgstr "i když mnoho posvátné texty cituje, ale nekoná podle toho — nedbalý člověk, jako pastýř sčítající krávy, jež patří jiným, ten nemá podíl na asketickém životě"
