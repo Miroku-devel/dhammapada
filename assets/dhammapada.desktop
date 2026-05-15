@@ -2,6 +2,7 @@
 Type=Application
 Name=Dhammapada
 Comment=A multilingual Dhammapada reader
+Comment[af]=’n Meertalige Dhammapada-leser
 Comment[ar]=قارئ الدامابادا متعدد اللغات
 Comment[bg]=Многоезичен четец на Джамапада
 Comment[bn]=একটি বহুভাষিক ধম্মপদ পাঠক

@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Hoofstukke"
+
+msgid "fontsize"
+msgstr "Lettergrootte"
+
+msgid "chap1"
+msgstr "Pare"
+
+msgid "1"
+msgstr "Denke lei, bepaal en vorm ervarings: as 'n mens uit troebel dink praat of doen volg verdriet jou soos 'n wiel die poot van 'n trekos."
+
+msgid "2"
+msgstr "Denke lei, bepaal en vorm ervarings: as 'n mens uit helder dink praat of doen volg geluk jou soos 'n skadu wat altyd by jou bly."
+
+msgid "3"
+msgstr "'Hy het my beledig, aangerand, oorrompel, beroof!' Wie 'n wrok teenoor so 'n mens koester se haat bedaar nie."
+
+msgid "4"
+msgstr "'Hy het my beledig, aangerand, oorrompel, beroof!' Wie nie 'n wrok teenoor so 'n mens koester nie se haat bedaar."
+
+msgid "5"
+msgstr "Want in hierdie wêreld bedaar haat nooit deur haat nie; haat bedaar deur nie-haat – dit is 'n tydlose wet."
+
+msgid "6"
+msgstr "Party mense besef nie dat ons almal hier tot 'n einde kom nie, maar wie dit besef se twiste kom tot 'n einde."
+
+msgid "7"
+msgstr "Soos die wind 'n swak boom, so oorwin Māra 'n mens wat op die uitkyk na plesier leef, sintuiglik onbeheers, onmatig in voedsel, ledig en lui."
+
+msgid "8"
+msgstr "So min as die wind 'n berg van klip, so min oorwin Māra 'n mens wat op die uitkyk na onplesier leef, sintuiglik beheers, matig in voedsel, getrou en vasberade."
+
+msgid "9"
+msgstr "'n Mens wat die geel kleed omhang al is hy nie sonder smet nie en van selfbeheer en waarheid ontdaan is die geel kleed nie werd nie."
+
+msgid "10"
+msgstr "Maar 'n mens wat van smette gereinig in deugde gevestig en met selfbeheer og waarheid beklee is, só een is die geel kleed werd."
+
+msgid "11"
+msgstr "Wie dink dat onwesenlik wesenlik is en wesenlik vir onwesenlik aansien, wei in verkeerde voornemens en bereik nie wat wesenlik is nie."
+
+msgid "12"
+msgstr "Wie wesenlik as wesenlik ken en onwesenlik as onwesenlik, wei in regte voornemens en bereik wat wesenlik is."
+
+msgid "13"
+msgstr "Soos reën in 'n sleg bedekte huis inlek so lek in 'n swak ontwikkelde gemoed begeerte in."
+
+msgid "14"
+msgstr "Soos reën nie in 'n goed bedekte huis inlek nie so lek in 'n sterk ontwikkelde gemoed begeerte nie in nie."
+
+msgid "15"
+msgstr "Hy is hier ongelukkig og hy is hierna ongelukkig; die boosdoener is in albei ongelukkig – is ongelukkig og kry swaar as hy die vlek van sy eie handeling sien."
+
+msgid "16"
+msgstr "Hy is hier gelukkig og hy is hierna gelukkig; die weldoener is in albei gelukkig – is gelukkig, intens gelukkig as hy die suiwerheid van sy eie handeling sien."
+
+msgid "17"
+msgstr "Hy ly hier og hy ly hierna; die boosdoener ly in albei – hy ly as hy besef: 'ek het boos gedoen' en hy ly nog meer as hy die bestemming van onheil bereik het."
+
+msgid "18"
+msgstr "Hy is hier bly og hy is hierna bly; die weldoener is in albei bly – hy is bly as hy besef: 'ek het goed gedoen' en hy is nog blyer as hy die bestemming van heil bereik het."
+
+msgid "19"
+msgstr "As iemand groot dele van die geskrifte opsê og voorsê maar nie 'n doener daarvan is nie, is hy 'n nalatige mens; soos 'n beeswagter wat ander se beeste tel deel hy nie in die swerwersbestaan nie."
+
+msgid "20"
+msgstr "As iemand min uit die geskrifte opsê maar volgens die waarheid leef: onsae van begeerte, weersin og verblinding, noulettend, met bevryde gees, aan niks hier of daar verkleef nie, deel hy in die swerwersbestaan."
+
+msgid "chap2"
+msgstr "Agsaamheid"
+
+msgid "21"
+msgstr "Agsaamheid is die pad van nie-dood, onagsaamheid die pad van dood; agsames sterf nie, onagsames is soos dood."
+
+msgid "22"
+msgstr "Wie hierdie onderskeid ken, vind, in agsaamheid geskoold, vreugde in die agsaamheid en geluk in die edeles se domein."
+
+msgid "23"
+msgstr "Wie bestendig mediteer, deurlopend volhardend inspannend, ervaar nibbāna: die allervryste losmaak uit gebondenheid."
+
+msgid "24"
+msgstr "Ontsag vir een wat agsaam is, neem toe – een wat vasberade en aandagtig in helder og oorwoë daad beheers is en die waarheid leef."
+
+msgid "25"
+msgstr "Met vasberadenheid og agsaamheid beheersdheid og matigheid sal 'n wyse mens 'n eiland bou wat geen vloed sal kan oorstroom nie."
+
+msgid "26"
+msgstr "Onvolwasse dwase gee hulle oor aan agloosheid maar 'n wyse mens koester agsaamheid as die grootste rykdom."
+
+msgid "27"
+msgstr "Gee julle nie oor aan agloosheid en die ervaring van plesiergenot; wie agsaam mediteer verkry oorvloedige geluk."
+
+msgid "28"
+msgstr "Wanneer 'n wyse mens agloosheid met agsaamheid verdryf bestyg hy leedloos die burg van insig en neem as sterk-wyse die lydende mensdom waar soos een wat op 'n berg staan, die onwetende mensdom daaronder."
+
+msgid "29"
+msgstr "Agsaam onder onagsames onder slapendes helder wakker − soos 'n gewillige perd 'n steeks perd agterlaat gaan 'n waarlik wyse mens vooruit."
+
+msgid "30"
+msgstr "Deur agsaamheid het Maghavā voorrang onder die gode verkry; hulle prys agsaamheid, onagsaamheid word altyd afgekeur."
+
+msgid "31"
+msgstr "Die monnik wat in agsaamheid vreugde vind og in onagsaamheid gevaar sien, beweeg soos vuur, verbrand elke belemmering, gering og grof."
+
+msgid "32"
+msgstr "Die monnik wat in agsaamheid vreugde vind og in onagsaamheid gevaar sien, sal nie val nie, is naby nibbāna."
+
+msgid "chap3"
+msgstr "Gemoed"
+
+msgid "33"
+msgstr "Sy onseker trillende gemoed moeilik om te hanteer en beheer buig 'n wyse mens reguit soos 'n pylmaker 'n steel."
+
+msgid "34"
+msgstr "oos ’n vis uit sy watertuiste geruk en op droë grond gegooi, sidder die gemoed; ontsnap uit Māra se domein."
+
+msgid "35"
+msgstr "Dit is moeilik om die gemoed te beheer want dit fladder vinnig na hartelus rond; om dit te tem, is goed – 'n getemde gemoed gee geluk."
+
+msgid "36"
+msgstr "Dit is moeilik om die gemoed waar te neem want dit fladder vlugtig na hartelus rond; laat die wyse mens dit bewaak – 'n bewaakte gemoed gee geluk."
+
+msgid "37"
+msgstr "Sonder lyf loop die gemoed ver, dwaal alleen, skuil in 'n grot − van die bande van die Bose sal julle loskom as julle die gemoed in toom kan hou."
+
+msgid "38"
+msgstr "'n Mens met onstandvastige gemoed wat die goeie waarheid nie deeglik ken nie en net weifelend vertrou se wysheid bly onvolmaak."
+
+msgid "39"
+msgstr "'n Ontwaakte mens wie se gemoed nie deurweek is en nie getreiter word nie og goed en boos agtergelaat het is vreesloos."
+
+msgid "40"
+msgstr "Weet dat die liggaam soos 'n kleipot is maar laat die gemoed soos 'n vesting staan; beveg die Bose met die wapen van wysheid en beskerm jou buit – maar bly onverknog."
+
+msgid "41"
+msgstr "Ja, hierdie lyf sal gou bewusloos verlate soos 'n verrottende stomp op die grond gaan lê."
+
+msgid "42"
+msgstr "Jou eie verkeerd-gerigte gemoed doen jouself veel meer kwaad as die kwaad wat vyand aan vyand of hater aan hater sou kon doen."
+
+msgid "43"
+msgstr "Jou eie wel-gerigte gemoed doen jouself veel meer goed as die goed wat moeder of vader of ander familie sou kon doen."
+
+msgid "chap4"
+msgstr "Blomme"
+
+msgid "44"
+msgstr "Wie sal hierdie aarde bemeester en die domeine van Yama en die gode? Wie sal die wel-onderwese waarheidsweg kies soos 'n kenner 'n blom?"
+
+msgid "45"
+msgstr "'n Leerling sal hierdie aarde bemeester en die domeine van Yama en die gode. 'n Leerling sal die wel-onderwese waarheidsweg kies soos 'n kenner 'n blom."
+
+msgid "46"
+msgstr "Weet dat hierdie liggaam soos skuim is, besef dat waan sy wese is; breek Māra se blompuntpyle en jy sal buite sig van die Doodsvors beweeg."
+
+msgid "47"
+msgstr "Mens, as jy met begerende gees blomme pluk sleur die dood jou mee soos 'n groot vloed 'n slapende dorp."
+
+msgid "48"
+msgstr "Mens, as jy met begerende gees wat nooit genoeg geniet nie blomme pluk oorweldig die Beëindiger jou."
+
+msgid "49"
+msgstr "Soos 'n by nektar opneem en van die blom af wegvlieg sonder om kleur of geur te skaad so beweeg 'n wyse mens in die dorp."
+
+msgid "50"
+msgstr "Laat 'n mens let nie op ander se oortredings en hulle doen en nie-doen nie maar alleenlik op jou eie."
+
+msgid "51"
+msgstr "Soos 'n mooi blom vol kleur maar sonder geur is 'n mooi woord vrugteloos as doen dit nie volg nie."
+
+msgid "52"
+msgstr "Soos 'n mooi blom vol kleur en vol geur is 'n mooi woord vrugbaar as doen dit volg."
+
+msgid "53"
+msgstr "Soos uit 'n massa blomme 'n mens baie kranse kan vleg sal 'n gebore sterfling menige mooi daad kan vleg."
+
+msgid "54"
+msgstr "Die geur van blomme versprei nie windop nie selfs nie die geur van sandel of tagara of jasmyn nie; maar die geur van deugsames versprei windop − 'n goeie mens geur in alle rigtings."
+
+msgid "55"
+msgstr "Soeter as die geur van sandelhout en tagara waterlelie en jasmyn is die geur van deug."
+
+msgid "56"
+msgstr "Gering is die geur van tagara en sandelhout maar groots is die geur van deugsames − dit sweef op tot by die gode."
+
+msgid "57"
+msgstr "Māra vind nie the weg van hulle wat waarlik deugsaam is, in agsaamheid woon en deur die hoogste wete vry is nie."
+
+msgid "58"
+msgstr "Op 'n afvalhoop langs die grootpad verwerp groei 'n lotus welriekend geesverblydend."
+
+msgid "59"
+msgstr "Te midde van vervalle wesens − 'n verblinde mensemassa − skyn in helder wysheid 'n volgeling van die Volverligte."
+
+msgid "chap5"
+msgstr "Dwase"
+
+msgid "60"
+msgstr "Lank is die nag vir 'n slaaplose lank is die skof vir 'n moeë lank is die kringloop van bestaan vir dwase wat die goeie waarheid nie ken nie."
+
+msgid "61"
+msgstr "As jy op jou reis niemand ontmoet wat jou meerdere of gelyke is nie, reis dan vasberade alleen wen 'n dwaas is geen metgesel nie."
+
+msgid "62"
+msgstr "'Ek het seuns, ek het rykdom' dink die dwaas angstig; hy het nie eens homself nie, waar kom hy aan seuns en rykdom?"
+
+msgid "63"
+msgstr "'n Dwaas wat sy dwaasheid besef, is dáárom wys maar 'n dwaas wat hom verbeel hy is wys, wordt tereg 'n dwaas genoem."
+
+msgid "64"
+msgstr "Al verkeer 'n dwaas lewenslank in die geselskap van 'n wyse mens verstaan hy die waarheid net so min as 'n lepel die smaak van sop."
+
+msgid "65"
+msgstr "Al verkeer 'n oordeelkundige net 'n oomblik lank in die geselskap van 'n wyse mens verstaan hy die waarheid net so gou as 'n tong die smaak van sop."
+
+msgid "66"
+msgstr "Dwase dool dom rond en is hul eie vyand terwyl hulle verkeerde dade doen wat wrange vrugte dra."
+
+msgid "67"
+msgstr "'n Daad wat 'n mens berou en waarvan jy met trane op jou lippe die vrugte pluk, was nie 'n goeie daad nie."
+
+msgid "68"
+msgstr "'n Daad wat 'n mens nie berou nie en waarvan jy gelukkig en tevrede die vrugte pluk, was 'n goeie daad."
+
+msgid "69"
+msgstr "Voor 'n slegte daad vrugte dra, dink die dwaas dis heuningsoet, maar as die vrugte ryp is, stort hy in ellende neer."
+
+msgid "70"
+msgstr "Al eet 'n dwaas maand na maand sy kos met die punt van 'n kusa-spriet is hy nie 'n sestiende werd van hulle wat die waarheid begryp nie."
+
+msgid "71"
+msgstr "Gedane kwaad is soos melk wat nie dadelik versuur nie; dit volg en brand die dwaas soos kole onder as bedek."
+
+msgid "72"
+msgstr "Slegs till sy nadeel bekom 'n dwaas kennis; dit vernietig sy geluk en breek sy kop."
+
+msgid "73"
+msgstr "Die dwaas soek 'n onwesenlike reputasie, voorrang onder monnike, mag in kloosters en eerbetoon by families."
+
+msgid "74"
+msgstr "'Laat leke en monnike dink dat ék dit gedoen het, laat hulle in hul doen en late aan mý onderdanig wees'; dit is die dwaas se strewe en sy ambisie en arrogansie groei."
+
+msgid "75"
+msgstr "'n Middel tot wins is een ding, die pad na nibbāna 'n ander; laat the monnik, leerling van die Boeddha, dit deur ervaring weet, in roem nie vreugde vind nie maar afgeskeidenheid koester."
+
+msgid "chap6"
+msgstr "Die wyse"
+
+msgid "76"
+msgstr "Gaan met 'n wyse mens om wat foute opmerk en verstandig teregwys soos met iemand wat jou na 'n verborge skat toe lei; om met so 'n mens om te gaan, hou geen nadeel in nie, net voordeel."
+
+msgid "77"
+msgstr "Laat hom raadgee und onderrig en jou van kwaad weerhou; by deugsames is hy geliefd, by ondeugsames ongeliefd."
+
+msgid "78"
+msgstr "Gaan nie om met vriende gemeen en laag nie; gaan om met vriende goed en hoogstaande."
+
+msgid "79"
+msgstr "Wie waarheid drink, leef rustig met helder gemoed; aan waarheid deur edeles onderrig, het 'n wyse immer vreugde."
+
+msgid "80"
+msgstr "Ingenieurs lei water, pylmakers buig stele, houtwerkers vorm hout, wyses bemeester hulleself."
+
+msgid "81"
+msgstr "Soos 'n vaste rots voor geen wind wyk nie so swig wyse mense nie voor blaam of loflied nie."
+
+msgid "82"
+msgstr "Soos 'n diep dam helder en kalm word wyse mense stil: hulle het die leringe gehoor."
+
+msgid "83"
+msgstr "Deugsames laat alle dinge kom og gaan, goeies babbel nie smagtend na plesier nie; wyses deur plesier en pyn geraak vlieg nie hoog of sak in dieptes weg nie."
+
+msgid "84"
+msgstr "'n Mens wat nie ter wille van homself of iemand anders nageslag of rykdom of koninkryk begeer en wens vir eie voordeel onregmatig verkry nie, is deugsaam, wys en waaragtig."
+
+msgid "85"
+msgstr "Min mensekinders kom anderkant uit, die meeste draf op die wal aan die duskant rond;"
+
+msgid "86"
+msgstr "maar mense wat in die waarheid en die goeie lering daarvan leef, bereik die ander kant; oorsteek van die doodsdomein is swaar."
+
+msgid "87"
+msgstr "Laat die wyse mens die donker weg verlaat en steeds verder op die helder weg beweeg van huislikheid na afgeskeie huisloosheid, so moeilik te geniet."
+
+msgid "88"
+msgstr "Laat die wyse mens niks besit, sintuiglike genot oorskry, hom van gemoedsonsuiwerhede reinig, uitsien na genoeë dáár."
+
+msgid "89"
+msgstr "Menses van wie die gemoed goed ontwikkeld is in die faktore van verligting en wat vreugde vind in nie-vashou aan prysgee van vasgryp nie, het van die gif ontslae geraak en is helder-ligtendes: bereik in die wêreld nibbāna volledig."
+
+msgid "chap7"
+msgstr "Die arahant"
+
+msgid "90"
+msgstr "Iemand wat die reis voltooi het, leedloos volkome vry is en alle bande verbreek het word nie deur koors gekwel nie."
+
+msgid "91"
+msgstr "Aandagtiges vertrek, vind vreugde nie in 'n woning, verlaat skuiling na skuiling soos swane 'n dam."
+
+msgid "92"
+msgstr "Mense wat nie opgaar nie en wys is wat voedsel betref, wie se element leegheid is en vryheid sonder kenmerk se weg is moeilik om te volg soos dié van voëls in die luig."
+
+msgid "93"
+msgstr "'n Mens wat van smette skoon is en aan voedsel nie verslaaf nie, wie se element leegheid is en vryheid sonder kenmerk, se pad is moeilik om te volg soos dié van voëls in die lug."
+
+msgid "94"
+msgstr "Selfs die gode beny 'n smetlose mens, een met ydelheid uitgeskakel en sintuie gekalmeer soos getemde perde."
+
+msgid "95"
+msgstr "Iemand onskokbaar soos die aarde, stewig soos 'n pilaar van Indra helder soos 'n poel sonder slyk dool nie rond in kringlope van bestaan nie."
+
+msgid "96"
+msgstr "Stil die dink, stil die taal en stil die daad van 'n mens wat waarlik weet en waarlik vry bedaard is."
+
+msgid "97"
+msgstr "'n Mens wat nie glo nie, maar die ongemaakte verstaan, elke band verbreek, elke moontlikheid afgesny en elke begeerte uitgewerp het, is waarlik die hoogste mens."
+
+msgid "98"
+msgstr "Lieflik is die plek waar arahante woon - hetsy dorp of woud, vlakte of berg."
+
+msgid "99"
+msgstr "Wonderlik is wildernisse: waar adjective behae nie vind nie, sal hartstogloses gelukkig wees, hulle wat plesier nie soek nie."
+
+msgid "chap8"
+msgstr "Duisende"
+
+msgid "100"
+msgstr "Beter as 'n duisend nuttelose woorde saamgestring, is één nuttige woord hoor en rustig word."
+
+msgid "101"
+msgstr "Beter as 'n duisend nuttelose verse saamgestring, is één nuttige versreël hoor en rustig word."
+
+msgid "102"
+msgstr "Beter as 'n honderd saamgestringde nuttelose verse opsê, is één waarheidswoord hoor en rustig word."
+
+msgid "103"
+msgstr "In 'n veldslag kan één man 'n duisend maal duisend ander oorwin; 'n ander oorwin één: homself − en is die grootste oorwinnaar."
+
+msgid "104"
+msgstr "Beter is dit om jouself te oorwin as om ander te oorwin."
+
+msgid "105"
+msgstr "Selfs nie god of halfgod of Māra of Brahmā omskep oorwinning in nederlaag in 'n wese wat homself getem het en immer geïntegreerd leef nie."
+
+msgid "106"
+msgstr "Beter as om 'n honderd jaar lank maand na maand duisendmaal offerandes uit te voer, is dit om vir 'n enkele oomblik lank aan 'n enkele persoon van ontwikkelde gees eer te betoon."
+
+msgid "107"
+msgstr "Beter as om 'n honderd jaar lank die heilige vuur in die woud te bedien, is dit om vir 'n enkele oomblik lank aan 'n enkele persoon van ontwikkelde gees eer te betoon."
+
+msgid "108"
+msgstr "Al die gawes en offers in die wêreld wat 'n verdienste-soeker in 'n jaar sou kon bring, hou nie 'n kwart soveel voordeel in as eerbetoon aan hulle wat reguit loop nie."
+
+msgid "109"
+msgstr "In 'n mens wat uit inbors agting betoon en ontwikkeldes immer eer, ontwikkel vier kwaliteite: gesondheid, skoonheid, geluk en krag."
+
+msgid "110"
+msgstr "Dit is beter om 'n dag lank deugsaam und mediterend te leef as 'n eeu lank deugloos og koersloos."
+
+msgid "111"
+msgstr "Dit is beter om 'n dag lank wys und mediterend te leef as 'n eeu lank onwys og koersloos."
+
+msgid "112"
+msgstr "Dit is beter om 'n dag lank aktief met krag te leef as 'n eeu lank lui en swak."
+
+msgid "113"
+msgstr "Dit is beter om 'n dag lank te leef en ontstaan-vergaan in te sien as om 'n eeu lank te leef sonder om ontstaan-vergaan in te sien."
+
+msgid "114"
+msgstr "Dit is beter om 'n dag lank te leef en die weg na nie-dood in te sien as om 'n eeu lank te leef sonder om die weg na nie-dood in te sien."
+
+msgid "115"
+msgstr "Dit is beter om 'n dag lank te leef en die hoogste waarheid in te sien as om 'n eeu lank te leef sonder om die hoogste waarheid in te sien."
+
+msgid "chap9"
+msgstr "Boosheid"
+
+msgid "116"
+msgstr "Maak gou om goed te doen en weerhou jou gemoed van boosheid; die gees van een wat traag goed doen geniet boosheid."
+
+msgid "117"
+msgstr "As iemand sleg sou doen, laat hom dit nie keer op keer weer doen nie, laat hom nie daarna begeer nie; leed is vermenigvuldiging van slegdoen."
+
+msgid "118"
+msgstr "As iemand reg sou doen, laat hom dit keer op keer weer doen, laat hom daarna verlang; geluk is vermenigvuldiging van regdoen."
+
+msgid "119"
+msgstr "Selfs 'n boosdoener ervaar goedheid solank die bose nie ryp geword het nie; maar wanneer die bose ryp geword het, ervaar 'n boosdoener die bose."
+
+msgid "120"
+msgstr "Selfs 'n goeddoener ervaar boosheid solank die goeie nie ryp geword het nie; maar wanneer die goeie ryp geword het, ervaar 'n goeddoener die goeie."
+
+msgid "121"
+msgstr "Dink nie gering van boosheid: 'dit kom tog nie na my toe terug nie' − 'n kruik word druppel vir druppel vol; van boosheid bietjie-bietjie doen, vul 'n dwaas homself met boosheid."
+
+msgid "122"
+msgstr "Dink nie gering van goedheid: 'dit kom tog nie na my toe terug nie' − 'n kruik word druppel vir druppel vol; van goedheid bietjie-bietjie doen, vul 'n wyse homself met goedheid."
+
+msgid "123"
+msgstr "Laat 'n mens bose dade vermy soos 'n handelaar met groot rykdom maar 'n klein karavaan 'n gevaarlike roete vermy og 'n mens wat sy lewe liefhet gif vermy."
+
+msgid "124"
+msgstr "As daar geen wond aan 'n hand is nie, kan mens gif in daardie hand dra; gif tas 'n hand sonder wond nie aan nie en daar is geen kwaad vir wie geen kwaad doen nie."
+
+msgid "125"
+msgstr "As jy 'n mens sonder kwaad kwaad aandoen – 'n mens vlekloos skoon – waai jou boosheid teen jouself terug soos stof teen die wind gegooi."
+
+msgid "126"
+msgstr "Sommige word in 'n moeder gebore, boosdoeners in 'n hel, wie goed leef, gaan hemel toe, onbesoedeldes bereik volkome bevryding."
+
+msgid "127"
+msgstr "Nêrens op aarde of in die luig of die diepte van die see of 'n grot in 'n berg is daar 'n skuilplek waar jy van 'n slegte daad kan loskom nie."
+
+msgid "128"
+msgstr "Nêrens op aarde of in die luig of die diepte van die see of 'n grot in 'n berg is daar 'n skuilplek waar die dood jou nie sal oorweldig nie."
+
+msgid "chap10"
+msgstr "Die knuppel"
+
+msgid "129"
+msgstr "Almal is bang vir 'n knuppel, almal beef voor die dood; plaas jouself in ander se plek: moenie doodmaak of laat doodmaak nie."
+
+msgid "130"
+msgstr "Almal is bang vir 'n knuppel, almal is lief vir die lewe; plaas jouself in ander se plek: moenie doodmaak of laat doodmaak nie."
+
+msgid "131"
+msgstr "Wie sy eie geluk nastreef en met 'n knuppel leed doen aan ander wesens wat ook geluk begeer, vind nie geluk as hy heengaan nie."
+
+msgid "132"
+msgstr "Wie sy eie geluk nastreef en nie met 'n knuppel leed doen aan ander wesens wat ook geluk begeer nie, vind geluk as hy heengaan."
+
+msgid "133"
+msgstr "Praat met niemand ru nie; met wie jy so praat, sal so terugpraat. Harde woorde is lyding, wedergeweld sal jou tref."
+
+msgid "134"
+msgstr "As jy stil is soos 'n gekraakte ghong het jy nibbāna bereik: daar is geen woede in jou nie."
+
+msgid "135"
+msgstr "Soos 'n beeswagter met 'n kierie beeste aanjaag weiveld toe, so jaag ouderdom en dood die lewe van lewende wesens aan."
+
+msgid "136"
+msgstr "Terwyl hy bose dade doen, besef die dwaas nie wat sal volg nie: 'n dom mens word deur sy eie dade verteer soos een deur vuur verbrand."
+
+msgid "137"
+msgstr "Wie die knuppel laat reën op onskadelike weerloses ondergaan self gou een van tien state:"
+
+msgid "138"
+msgstr "wrede pyn, broodsgebrek, 'n gebroke liggaam, ernstige siekte, geestesversteuring,"
+
+msgid "139"
+msgstr "moeilikheid met die koning, erge aantygings, afstaan van verwante, verlies van besittings,"
+
+msgid "140"
+msgstr "of vuur verbrand sy huise – en as sy liggaam ontbind, word die dwaas in 'n hel herbore."
+
+msgid "141"
+msgstr "Nóg naak leef nóg vuil leef met gekoekte hare nóg vas nóg op die harde grond slaap nóg stof nóg modder nóg hurkend boete doen, reinig 'n sterfling wat twyfel nie oorkom nie."
+
+msgid "142"
+msgstr "'n Ewewigtige mens, selfs goed gekleed, wat rustig, beheers en met vertroue die edel lewe leef en geweld teenoor alle wesens aflê − so 'n mens is 'n brahmaan, swerwer, monnik."
+
+msgid "143"
+msgstr "In die wêreld is 'n mens wat deur gewete beteuel teregwysing voorkom soos 'n edel perd wat 'n sweepslag voorkom. Wees vurig wakker soos 'n edel perd deur die piets van 'n peits beheer."
+
+msgid "144"
+msgstr "Mit vertroue en deug en inspanning, met konsentrasie en onderskeiding van die waarheid, volmaak in weet en leef asook aandagtig sal julle die groot lyding agterlaat."
+
+msgid "145"
+msgstr "Ingenieurs lei water, pylmakers buig stele, houtwerkers vorm hout, deugsames bemeester hulleself."
+
+msgid "chap11"
+msgstr "Ouderdom"
+
+msgid "146"
+msgstr "Vanwaar gelag, vanwaar geluk gedagtig dat alles altyd brand? In duisternis gehul, soek julle dan nie lig nie?"
+
+msgid "147"
+msgstr "Aanskou die opgesmukte vorm, die trotse versameling sere vol siekte en ambisie, nie-blywend nie-standhoudend."
+
+msgid "148"
+msgstr "Volledig vervalle is hierdie vorm, kortstondige broeiplek van siekte; 'n versameling vuil vergaan, want lewe eindig in dood."
+
+msgid "149"
+msgstr "Soos pampoendoppe in die herfs weggegooi is hierdie duif-grys beendere; kyk mooi daarna: het jy plesier?"
+
+msgid "150"
+msgstr "In 'n vesting van been gebou en met vleis en bloed gepleister, word verval en dood en trots en voorgee weggesteek."
+
+msgid "151"
+msgstr "Versierde koetse van konings verval og die liggaam gaan tot niet maar die boodskap van goeie mense verval nie, want hulle deel dit aan goeie mense mee."
+
+msgid "152"
+msgstr "'n Mens wat nie hoor nie, word oud soos 'n os: sy vleis word meer, sy wysheid nie."
+
+msgid "153"
+msgstr "Deur die rondgang van talle geboortes malend het ek die bouer van die huis gesoek maar nie gevind nie; oor en oor gebore word, is lyding."
+
+msgid "154"
+msgstr "O, bouer van die huis, jy is gesien! Dié huis bou jy nie weer nie! Al die balke is gebreek en die nok aan stukke. Die gemoed is van samkhāra's vry, het die einde van begeertes bereik."
+
+msgid "155"
+msgstr "Wie die edel lewe nie geleef en in hul jeug die skat versamel het nie, kwyn weg soos afgeleefde reiers in 'n dam sonder vis."
+
+msgid "156"
+msgstr "Wie die edel lewe nie geleef en in hul jeug die skat versamel het nie, lê soos pyle uit boë weggeskiet treurend oor wat was."
+
+msgid "chap12"
+msgstr "Die self"
+
+msgid "157"
+msgstr "'n Mens wat homself waardevol ag, sal homself goed bewaak; deur minstens een van drie wake sal 'n wyse waaksaam wees."
+
+msgid "158"
+msgstr "Vestig eers jouself in wat reg is vóór jy raad aan ander gee; 'n wyse mens doen so nie skade nie."
+
+msgid "159"
+msgstr "Maak jouself só soos jy ander leer weer − laat 'n goed-getemde ander tem; waarlik, die self is moeilik tembaar."
+
+msgid "160"
+msgstr "Self is self se redder – wie anders kan redder wees? Deur jouself onder beheer te bring, bekom jy wat moeilik bekombaar is: 'n redder."
+
+msgid "161"
+msgstr "Die kwaad deur 'n mens self gedoen, uit 'n mens self gebore, deur 'n mens self voortgebring vergruis 'n dwaas soos 'n diamant 'n ander edelsteen."
+
+msgid "162"
+msgstr "As ondeug geil mens verstrengel soos 'n māluva-ranker 'n sāla-boom bring 'n mens oor jouself wat 'n vyand jou toewens."
+
+msgid "163"
+msgstr "Maklik is om te doen wat sleg is en jou skaad; uiters moeilik is om te doen wat nuttig is en goed."
+
+msgid "164"
+msgstr "Vanuit 'n verwronge perspektief minag 'n dwaas die boodskap van die edel arahante wat waarheid leef en soos die katthaka-riet bring hy vrugte voort tot sy eie vernietiging."
+
+msgid "165"
+msgstr "Jy self doen kwaad, deur jouself word jy vuil; jy self doen kwaad nie, deur jouself kom jy skoon; suiwer en onsuiwer is joune alone, niemand reinig 'n ander nie."
+
+msgid "166"
+msgstr "Skeep jou eie saak en taak nie af vir dié van 'n ander nie al is syne hoe groot; ken jou eie welsyn goed en jy sal die ware welsyn dien."
+
+msgid "chap13"
+msgstr "Die wêreld"
+
+msgid "167"
+msgstr "Hang 'n mindere waarheid nie aan en leef nie agloos nie; hang 'n verwronge siening nie aan en bevestig die wêreld nie."
+
+msgid "168"
+msgstr "Staan regop, wees nie agloos nie; leef die waarheid, die goeie lewe; wie die waarheid leef, is gelukkig in hierdie wêreld en die volgende."
+
+msgid "169"
+msgstr "Leef die waarheid, die goeie lewe, leef 'n lae lewe nie; wie die waarheid leef, is gelukkig in hierdie wêreld en die volgende."
+
+msgid "170"
+msgstr "Iemand wat die wêreld sien as 'n lugbel, 'n lugspieëling – hom sien Koning Dood nie."
+
+msgid "171"
+msgstr "Kom kyk na hierdie wêreld blink soos die koets van 'n koning; wie nie weet nie, swig, wie werklik weet, bly ongeheg."
+
+msgid "172"
+msgstr "Wie agloos was maar agloos nie meer is nie, verlig hierdie wêreld soos die maan uit 'n wolk bevry."
+
+msgid "173"
+msgstr "Wie se gedane slegte daad deur 'n goeie oordek word, verlig hierdie wêreld soos die maan uit 'n wolk bevry."
+
+msgid "174"
+msgstr "Verblind is die wêreld, min het helder insig; min styg hemelwaarts soos 'n voël uit 'n net bevry."
+
+msgid "175"
+msgstr "Swane sweef in die sonpad, met krag vlieg mense deur die luig, wyses styg bo die wêreld uit: het die Bose en sy bende oorwin."
+
+msgid "176"
+msgstr "Vir 'n mens wat die een waarheid loën, onwaarheid verkondig en sy rug op die ander wêreld keer, is geen kwaad ondoenbaar nie."
+
+msgid "177"
+msgstr "Suiniges betree die godewêreld nie en dwase beveel gee nie aan nie; 'n wyse vind genoeë in gee en is dus hierna gelukkig."
+
+msgid "178"
+msgstr "Beter as alleenmag oor die aarde of heengaan na 'n hemel or opperheerskappy oor alle wêrelde is die vrug van stroombetreding."
+
+msgid "chap14"
+msgstr "Die Verligte"
+
+msgid "179"
+msgstr "Langs watter weg sal julle die spoorlose opsoor: die Verligte in die ruimte van eindeloosheid wat sy oorwinning nie sal verloor nie en wie se stryd hom nie volg nie?"
+
+msgid "180"
+msgstr "Langs watter weg sal julle die spoorlose opsoor: die Verligte in die ruimte van eindeloosheid wat nêrens heen gesleep word in die net van verkleefdheid en begeerte nie?"
+
+msgid "181"
+msgstr "Selfs die gode beny die wyses wat meditasie beoefen en geluk vind in die vrede van afstand doen: die aandagtiges, die Volverligtes."
+
+msgid "182"
+msgstr "Moeilik is dit om die menslike staat te bereik; moeilik die lewe van sterflinge; moeilik is dit om die goeie leer te hore te kom; moeilik die wording van Verligtes."
+
+msgid "183"
+msgstr "Geen boosheid doen nie, die goeie ontwikkel, die gees suiwer – dit is die boodskap van Boeddhas."
+
+msgid "184"
+msgstr "Volhardende geduld is die hoogste dissipline en nibbāna die hoogste staat, leer Boeddhas; die huislose doen geen geweld nie, the swerwer geen leed nie."
+
+msgid "185"
+msgstr "Nie krenkend praat nie, nie leed aandoen nie, in die perke van die kode leef, matig eet, eenkant lê en sit, jou aan dieper wete wy − dit is die boodskap van Boeddhas."
+
+msgid "186"
+msgstr "Geluk word in plesiere nie gevond nie al reën dit geld; die wyse weet plesier bevredig nie en bring pyn"
+
+msgid "187"
+msgstr "en raak nie in vervoering nie al is dit hemels; wie geluk vind in die kwytraak van begeerte volg die Volverligte."
+
+msgid "188"
+msgstr "Angsbevange neem talle toevlug in berge en woude en parke met heilige bome."
+
+msgid "189"
+msgstr "Inderdaad is dié toevlug nie vas en seker nie, dié toevlug die beste nie; wie dáár toevlug geneem het, word nie van alle lyding vry nie."
+
+msgid "190"
+msgstr "Maar wie toevlug geneem het in die Verligte, die Leer en die Gemeenskap sien met volle insig die vier edel waarhede:"
+
+msgid "191"
+msgstr "lyding, die verskyning van lyding, die verdwyning van lyding, die agtvoudige pad wat lei na die verdwyning van lyding."
+
+msgid "192"
+msgstr "Inderdaad is dié toevlug vas en seker, dié toevlug die beste; wie dáár toevlug geneem het, word van alle lyding vry."
+
+msgid "193"
+msgstr "'n Edel mens word moeilik gevind, word nie enige plek gebore nie; gelukkig is die familie waar so 'n wyse gebore word."
+
+msgid "194"
+msgstr "Geluk is die verskyning van Verligtes, geluk die meedeel van die ware Leer, geluk die eendrag van die Gemeenskap, geluk die Dissipline van Eendragtiges."
+
+msgid "195"
+msgstr "Een wat eerbiedwaardiges eer − Boeddhas en hulle dissipels wat die verstrooiings oorkom en jammerkla oorskry het,"
+
+msgid "196"
+msgstr "vrede gevind het en niks meer vrees nie − so een se verdienste kan nie bereken word nie."
+
+msgid "chap15"
+msgstr "Geluk"
+
+msgid "197"
+msgstr "Hoe gelukkig leef ons sonder haat onder mense wat haat; onder mense wat haat, woon ons sonder haat."
+
+msgid "198"
+msgstr "Hoe gelukkig leef ons sonder kwelling onder mense wat gekweld is; onder mense wat gekweld is, woon ons sonder kwelling."
+
+msgid "199"
+msgstr "Hoe gelukkig leef ons sonder onrus onder mense wat onrustig is; onder mense wat onrustig is, woon ons sonder onrus."
+
+msgid "200"
+msgstr "Hoe gelukkig leef ons wat niks het nie; ons sal van vreugde leef soos stralende gode."
+
+msgid "201"
+msgstr "Wie wen, skep haat, wie verloor, slaap sleg; wie wen en verloor laat vaar, slaap gelukkig: kalm mens."
+
+msgid "202"
+msgstr "Geen vuur is daar soos begeer, geen onheil soos haat, geen lyding soos die khandhas, geen vreugde groter as vrede."
+
+msgid "203"
+msgstr "Honger is die ergste siekte, samkhāras die ergste lyding; om dit werklik te weet, is die hoogste geluk: nibbāna."
+
+msgid "204"
+msgstr "Gesondheid is die grootste skat, tevredenheid die grootste rykdom, vertroue die grootste verwantskap, nibbāna die grootste geluk."
+
+msgid "205"
+msgstr "'n Mens wat afsondering gesmaak en vrede geproe het is sonder leed og kwaad en drink die vreugde van waarheid."
+
+msgid "206"
+msgstr "Om edeles te sien is goed, samesyn met sulkes bring altyd geluk; deur dwase nie te sien sal mens blywend gelukkig wees."
+
+msgid "207"
+msgstr "Wie in die geselskap van dwase beweeg, ly lank; met dwase saamleef, is so ellendig soos slepende vyandskap; met 'n bestendig-wyse mens saamleef, is gelukkig soos saamwees van verwante."
+
+msgid "208"
+msgstr "Vergesel dons 'n bestendig-wyse mens − 'n mens met insig en wete, getrou en toegewy, edel, deugsaam en intelligent - vergesel so 'n mens soos die maan 'n sterrebeeld op weg."
+
+msgid "chap16"
+msgstr "Behae"
+
+msgid "209"
+msgstr "As jy jou inspan vir wat moeite nie werd is nie en vir wat moeite wel werd is jou nie inspan nie, as jy wat saak maak versaak og aan behae verknog is, sal jy 'n mens beny wat hom inspan vir wat saak maak."
+
+msgid "210"
+msgstr "Heg jou nie aan wat behaag og nie aan wat nie behaag; om nie te sien wat behaag og te sien wat nie behaag, is lyding."
+
+msgid "211"
+msgstr "Skep dus geen behae nie want verlies van behae is verdriet; vir wie nóg behae nóg onbehae tel bestaan daar geen boeie nie."
+
+msgid "212"
+msgstr "Uit behae spruit hartseer, uit behae spruit vrees; 'n mens van behae bevry het geen hartseer nie; vanwaar vrees?"
+
+msgid "213"
+msgstr "Uit geneigdheid spruit hartseer, uit geneigdheid spruit vrees; 'n mens van geneigdheid bevry het geen hartseer nie; vanwaar vrees?"
+
+msgid "214"
+msgstr "Uit lus spruit hartseer, uit lus spruit vrees; 'n mens van lus bevry het geen hartseer nie; vanwaar vrees?"
+
+msgid "215"
+msgstr "Uit begeerte spruit hartseer, uit begeerte spruit vrees; 'n mens van begeerte bevry het geen hartseer nie; vanwaar vrees?"
+
+msgid "216"
+msgstr "Uit smagting spruit hartseer, uit smagting spruit vrees; 'n mens van smagting bevry het geen hartseer nie; vanwaar vrees?"
+
+msgid "217"
+msgstr "Mense het behae in iemand wat met deug en insig toegerus og aan die dhamma toegewy die waarheid praat og so sy eie taak volvoer."
+
+msgid "218"
+msgstr "'n Mens met ingebore heimwee na wat nie benoem kan word nie, sy gees deurdrenk daarvan og onverstrik deur sinplesiere − so een word genoem 'stroomoorsteker'."
+
+msgid "219"
+msgstr "As 'n mens lank ver weg was og veilig terugkeer, vier familie, vriende en kennisse sy tuiskoms;"
+
+msgid "220"
+msgstr "so verwelkom sy deugsame dade 'n deugsame mens wanneer hy vertrek."
+
+msgid "chap17"
+msgstr "Woede"
+
+msgid "221"
+msgstr "Lê woede af, sluit ydelheid uit en laat elke binding agter; geen leed oorval 'n mens wat ongeheg aan naam-en-vorm aan niks kleef nie."
+
+msgid "222"
+msgstr "Wie opstuiwende woede beheer soos 'n slingerende koets noem ek 'koetsier'; ander hou net die teuels."
+
+msgid "223"
+msgstr "Oorwin woede met sagmoedigheid boosheid met goedheid gierigheid met vrygewigheid leuenagtigheid met waarheid."
+
+msgid "224"
+msgstr "Praat die waarheid, word nie kwaad nie en gee as jy gevra word al het jy min; deur hierdie drie optredes kom 'n mens digby die gode."
+
+msgid "225"
+msgstr "Wyses wat sonder geweld die liggaam immer beheer, bereik die staat van nie-dood; daar treur hulle nie."
+
+msgid "226"
+msgstr "Wie altyd waaksaam dag en nag oefen en op nibbāna gerig is se sere verdwyn."
+
+msgid "227"
+msgstr "So was dit altyd, Atula, nie net vandag nie: hulle vind fout as 'n mens niks praat, hulle vind fout as 'n mens veel praat, hulle vind fout as 'n mens min praat; met niemand in hierdie wêreld word fout nie gevind nie."
+
+msgid "228"
+msgstr "There was nooit 'n mens en daar sal nooit een wees en daar is nou nie een met wie totaal fout gevind word of wat totaal geprys word nie."
+
+msgid "229"
+msgstr "Maar een deur wyses geprys ná langdurige waarneming se gedrag is sonder barste en hy is wys, met insig en deug geïntegreer."
+
+msgid "230"
+msgstr "Wie is werd om fout te vind met so 'n sieraad van Jambu-goud? Selfs die gode loof so 'n mens; selfs deur Brahmā word hy geloof."
+
+msgid "231"
+msgstr "Waak teen woede in liggaam, wees beheers in liggaam; verwerp wangedrag in liggaam, leef goed in liggaam."
+
+msgid "232"
+msgstr "Waak teen woede in woorde, wees beheers in woorde; verwerp wangedrag in woorde, leef goed in woorde."
+
+msgid "233"
+msgstr "Waak teen woede in denke, wees beheers in denke; verwerp wangedrag in denke, leef goed in denke."
+
+msgid "234"
+msgstr "Wyses is beheers in liggaam, beheers in woorde, beheers in denke; wyses is waarlik volkome beheers."
+
+msgid "chap18"
+msgstr "Smette"
+
+msgid "235"
+msgstr "'n Verlepte blaar, so is jy nou, die boodskappers van Yama wag al, jy staan op die drumpel van vertrek − en jy het nie voorberei nie."
+
+msgid "236"
+msgstr "Maak 'n eiland vir jouself: span jou terstond in en word wys, van smette skoon en van vlekke gereinig − und jy sal die goddelike staat van edeles binnegaan."
+
+msgid "237"
+msgstr "Naby jou einde is jy nou, bevind jou in die buurt van Yama, het intussen selfs geen rusplek nie − en jy het nie voorberei nie."
+
+msgid "238"
+msgstr "Maak 'n eiland vir jouself: span jou terstond in en word wys, van smette skoon en van vlekke gereinig − und jy sal gebore en oud word nie weer binnegaan nie."
+
+msgid "239"
+msgstr "Geleidelik, bietjie vir bietjie, oomblik na oomblik sal 'n wyse mens sy eie smette uitsuiwer soos 'n smid onsuiwerheid uit silwer."
+
+msgid "240"
+msgstr "Soos roes wat uit yster ontstaan, wegvreet waaruit dit ontstaan, so lei onmatig lewendes se eie dade hulle tot 'n staat van leed."
+
+msgid "241"
+msgstr "Nie-inoefening besoedel die woorde, nie-opruiming besoedel wonings, nie-versorging besoedel voorkoms, nalatigheid besoedel 'n wagter."
+
+msgid "242"
+msgstr "Die smet van 'n vrou is wangedrag, die smet van 'n gewer suinigheid; slegte sentimente is smette in hierdie lewe en hierna."
+
+msgid "243"
+msgstr "'n Erger smet nog as dit is onkunde, die aller-ergste smet; verwyder hierdie smet en word smetteloos, o monnike."
+
+msgid "244"
+msgstr "Lekker leef 'n kraai-mens: skaamteloos gewetensloos, brutaal, spoggerig, voortvarend, korrup;"
+
+msgid "245"
+msgstr "swaar leef 'n gewetensvolle mens: immer suiwerheidsoekend, onverknog, beskeie, skoon lewend, skerpsiende."
+
+msgid "246"
+msgstr "'n Man wat in die wêreld asem vernietig, onwaarheid verkondig, neem wat nie gegee is nie, 'n ander man se vrou besoek en"
+
+msgid "247"
+msgstr "hom aan sterk drank verslaaf, ontwortel homself in hierdie einste wêreld."
+
+msgid "248"
+msgstr "Weet dít, goeie vriend: verkeerde dade ruk handuit; moenie dat hebsug en wangedrag jou in langdurige ellende dompel nie."
+
+msgid "249"
+msgstr "Mense gee volgens oortuiging en neiging; wie ontsteld is oor ander se kos en drank sal dag of nag nooit konsentrasie bereik nie."
+
+msgid "250"
+msgstr "Maar iemand by wie hierdie ontsteltenis verwyder, radikaal uitgeroei en vernietig is sal dag of nag konsentrasie bereik."
+
+msgid "251"
+msgstr "Geen vuur is soos hartstog, geen houvas soos haat, geen strik soos verwarring, geen rivier soos dors."
+
+msgid "252"
+msgstr "Maklik is dit om die fout van andere raak te sien, moeilik om jou eie raak te sien; 'n mens wan andere se foute soos kaf, verdoesel jou eie soos 'n slu dobbelaar sy skelmstreek."
+
+msgid "253"
+msgstr "'n Mens wat gedurig foutvinderig uitkyk vir die foute van ander se eie onsuiwerhede neem toe; ver van die beëindiging van onsuiwerhede is hy."
+
+msgid "254"
+msgstr "In die oopte is geen weg en geen swerwer is daarbuite; die mensdom is lief vir denkkonstrukte maar Tathāgatas is vry van denkkonstrukte."
+
+msgid "255"
+msgstr "In die oopte is geen weg en geen swerwer is daarbuite; saamgestelde dinge is nie ewig nie en Boeddhas is vry van onsekerheid."
+
+msgid "chap19"
+msgstr "In Die Waarheid Staande"
+
+msgid "256"
+msgstr "Wie willekeurig oor 'n saak beslis staan nie in die waarheid nie; wie albei kante opweeg is 'n wyse mens."
+
+msgid "257"
+msgstr "Wie geweldloos en onpartydig ander volgens die waarheid rig, want self deur die waarheid gelei en verstandig, word 'waaragtig' genoem."
+
+msgid "258"
+msgstr "Wys is 'n mens nie omdat hy baie praat nie; 'wys' word 'n mens genoem wat vredevol, vriendelik en vreesloos is."
+
+msgid "259"
+msgstr "Waarheidsdraer is 'n mens nie omdat hy baie praat nie; waarheidsdraer is 'n mens wat al het hy min daarvan verneem waarheid aan sy eie lyf ervaar en waarheid nie laat vaar."
+
+msgid "260"
+msgstr "Senior is 'n mens nie omdat sy hare grys is nie; 'n mens can ryp in jare wees en tog 'vergeefs vergrys' genoem word."
+
+msgid "261"
+msgstr "'Senior' word 'n mens tereg genoem in wie waarheid en waaragtigheid is, wat geweldloos, beheersd en matig is en wys, van onsuiwerheid ontslae."
+
+msgid "262"
+msgstr "Eerbiedwaardig is 'n mens nie as hy welsprekend en indrukwekkend van voorkoms maar afgunstig, selfsugtig en bedrieglik is nie."
+
+msgid "263"
+msgstr "'Eerbiedwaardig' word 'n mens tereg genoem in wie hierdie drie smette wortel en tak uitgeroei is: 'n wyse mens van haat ontslae."
+
+msgid "264"
+msgstr "Swerwer is 'n mens nie as hy met kaalgeskeerde kruin sy taak versaak en 'n leuen leef nie: hoe sal 'n mens vol gierige begeerte swerwer wees?"
+
+msgid "265"
+msgstr "'Swerwer' word 'n mens tereg genoem wat alle boosheid fyn en grof laat bedaar, verstil."
+
+msgid "266"
+msgstr "Monnik is 'n mens nie net as hy bij ander bedel nie; en monnik is 'n mens nie as hy 'n slegte lewenskode volg nie."
+
+msgid "267"
+msgstr "'Monnik' word hy tereg genoem wat anderkant goed en kwaad 'n hoër lewe leef en onderskeidend deur die wêreld reis."
+
+msgid "268"
+msgstr "Denker is 'n mens nie net omdat hy swyg nie – dalk verward verdwaas; die wyse mens wat weeg, die goeie behou"
+
+msgid "269"
+msgstr "en die kwade vermy, is dáárom waarlik denker; wie albei in die wêreld deurgrond word 'denker' genoem."
+
+msgid "270"
+msgstr "Edel is 'n mens nie as hy lewende wesens geweld aandoen nie; wie lewende wesens geen geweld aandoen nie, word 'edel' genoem."
+
+msgid "271"
+msgstr "Nie met die uitleef van morele reëls of die nakom van rituele voorskrifte of groot geleerdheid of diep meditasie of apart leef"
+
+msgid "272"
+msgstr "(denkend: 'ek geniet die geluk van wêreldversaking voor gewone mense onbeskore') moet jy, o monnik, tevrede wees solank jy nie smetloos is nie."
+
+msgid "chap20"
+msgstr "Die pad"
+
+msgid "273"
+msgstr "Van paaie is die agtvoudige die beste; van waarhede, die vier beginsels; van geestesgesteldhede is afgeskeidenheid die beste; van tweebenige wesens, die heldersiende."
+
+msgid "274"
+msgstr "Dit is die pad wat lei na suiwerheid van insig, die enigste; volg hierdie pad wat lei na die verblinding van Māra."
+
+msgid "275"
+msgstr "As julle hierdie pad betree sal julle 'n einde aan lyding maak; ek het die dorings leer uithaal en die pad bekend gemaak."
+
+msgid "276"
+msgstr "Volvoer self jul taak met ywer want Tathāgatas bied net lering; wie dié pad mediterend betree kom los uit die binding van Māra."
+
+msgid "277"
+msgstr "'Nie-blywend is alle saamgestelde dinge'; wanneer 'n mens dit met wysheid insien draai jy weg van lyding: dit is die weg na suiwerheid."
+
+msgid "278"
+msgstr "'Nie-bevredigend is alle saamgestelde dinge'; wanneer mens dit met wysheid insien draai jy weg van lyding: dit is the weg na suiwerheid."
+
+msgid "279"
+msgstr "'Nie-selfgenoegsaam is alle verskynsels'; wanneer mens dit met wysheid insien draai jy weg van lyding: dit is die weg na suiwerheid."
+
+msgid "280"
+msgstr "'n Sterk maar trae jongmens wat nie betyds opstaan nie maar letargies bly lê met 'n gees vol onderdrukte gedagtes is lui en vind die weg na wysheid nie."
+
+msgid "281"
+msgstr "Bewaak spraak, beheers gedagtes en handel met lyf nie verkeerd nie: louter die drie paaie van daad en bereik so die weg deur sieners onthul."
+
+msgid "282"
+msgstr "Waarlik, deur dissipline ontstaan wysheid en deur versuim vergaan wysheid; bewus van die dubbelpad of vooruitgang en agteruitgang behoort mens die koers in te slaan waarlangs wysheid toeneem."
+
+msgid "283"
+msgstr "Verwyder die oerwoud en nie net 'n boom nie want uit oerwoud word vrees gebore; verwyder boombos en kreupelbos: wees begeerteloos, o monnike."
+
+msgid "284"
+msgstr "Solank kreupelbos-begeerte hoe gering ook al van 'n man na vroue nie verwyder is nie, bly sy gees gebonde soos 'n suipkalf aan sy ma."
+
+msgid "285"
+msgstr "Maak self-verknogtheid tot niet soos 'n mens met jou hand 'n wit lotus in herfstyd pluk; koester slegs die pad na kalmte: nibbāna deur die Sugata onderrig."
+
+msgid "286"
+msgstr "'Hier sal ek in die reënseisoen vertoef en hier in die winter en die somer' dink die dwaas sonder nadink oor verhindering."
+
+msgid "287"
+msgstr "Soos 'n stormvloed 'n slapende dorp oorval, sleur die dood die man mee wat begerig van gees op sy kinders en vee versot is."
+
+msgid "288"
+msgstr "Vir 'n mens in die greep van die Beëindiger bied naasbestaandes geen beskerming nie: nóg seuns nóg vader nóg verwante kan skuiling bied."
+
+msgid "289"
+msgstr "In die besef van hierdie onomstootlikheid sal die wyse, deur deug beheer, betyds die pad skoonmaak wat na nibbāna lei."
+
+msgid "chap21"
+msgstr "Allerlei"
+
+msgid "290"
+msgstr "As 'n mens deur prysgawe van 'n geringe geluk 'n groot geluk sou aanskou, sal 'n wyse mens die geringe geluk laat vaar met die oog op die groot geluk."
+
+msgid "291"
+msgstr "Wie geluk vir homself wens deur ander wesens te laat ly, bly in die strik van haat gevang, word nie van haat bevry nie."
+
+msgid "292"
+msgstr "Wat gedoen behoort te word, word verwaarloos en wat nie gedoen behoort te word nie word gedoen – en die swere van ydel, agtelosige mense bly deurentyd groei."
+
+msgid "293"
+msgstr "Maar die swere verdwyn van diegene wat aandagtig en noulettend is, wie se aandag altyd vas op die liggaam gevestig is, wat nie doen wat nie gedoen moet word nie maar volhardend doen wat gedoen moet word."
+
+msgid "294"
+msgstr "Die edel mens het moeder en vader en twee krygerkonings doodgemaak en 'n koninkryk met sy bevolking vernietig en beweeg onverskrokke voort."
+
+msgid "295"
+msgstr "Die edel mens het moeder en vader en twee geleerde konings doodgemaak e die vyftallige tier vernietig en beweeg onverskrokke voort."
+
+msgid "296"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul aandag dag en nag bly by die Ontwaakte."
+
+msgid "297"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul aandag dag en nag bly by die waarheid."
+
+msgid "298"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul aandag dag en nag bly by die gemeenskap."
+
+msgid "299"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul aandag dag en nag bly by die liggaam."
+
+msgid "300"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul gees vind dag en nag vreugde in geweldloosheid."
+
+msgid "301"
+msgstr "Die volgelinge van Gotama ontwaak immer helder wakker: hul gees vind dag en nag vreugde in meditasie."
+
+msgid "302"
+msgstr "Swaar en swaar om te geniet is die huislose staat en swaar is die huislike staat; swaar is die lewenstaat saam met ongelykes en swaarkry oorval dwalendes. Wees dus 'n dwalende nie en word deur swaarkry nie oorval nie."
+
+msgid "303"
+msgstr "'n Mens vol vertroue en toegerus met deug verwerf aansien en welvaart en word geëer oral waar hy kom."
+
+msgid "304"
+msgstr "Grootse mense word van ver gesien soos sneeubedekte pieke; swakkes bly hier ongesien, soos pyle in die nag geskiet."
+
+msgid "305"
+msgstr "Een wat alleen sit, alleen lê, alleen loop, homself onvermoeid alleen tem, sal aan die rand van die woud gelukkig weer."
+
+msgid "306"
+msgstr "'n Mens wat sê wat nie is nie en een wat onreg pleeg e dan sê 'ek het dit nie gedoen nie' gaan hul ondergang tegemoet; nadoods hiernamaals is hierdie mensgeborenes eenders: albei ewe laag van daad og lot."
+
+msgid "chap22"
+msgstr "Ondergang"
+
+msgid "307"
+msgstr "Talle met 'n geel kleed behang, is swak van inbors en onbeheersd; hierdie slegtes word in ellende herbore as gevolg van hul bose dade."
+
+msgid "308"
+msgstr "Vir 'n monnik is dit beter om 'n vurig gloeiende ysterbal in te sluk as om ondeugsaam onbeheers 'n land se voedsel te verorber."
+
+msgid "309"
+msgstr "'n Roekelose man wat 'n ander se vrou opsoek maak met vier dinge kennis: vergelding, sleg slaap, skande en ondergang;"
+
+msgid "310"
+msgstr "vergelding, slegte bestemming, min plesier van 'n bang man by 'n bang vrou en swaar straf deur die koning. Dus: laat 'n man 'n ander se vrou nie opsoek nie."
+
+msgid "311"
+msgstr "Soos kusa-gras verkeerd gegryp die hand sny, lei swerwerskap verkeerd hanteer tot ondergang."
+
+msgid "312"
+msgstr "'n Trae daad, geskonde kode en skyn-edel lewe lewer nie 'n goeie oes op nie."
+
+msgid "313"
+msgstr "Doen wat gedoen moet word met alle krag; 'n halfhartige swerwer skop homself vol stof."
+
+msgid "314"
+msgstr "Die nie-doen van sleg-doen is beter, want sleg-doen folter later, maar die wel-doen van reg-doen is beter, want reg-doen berou 'n mens nooit."
+
+msgid "315"
+msgstr "Bewaak julleself soos 'n vestingstad op 'n grens binnekant en buitekant bewaak word; laat geen oomblik ontglip nie, want wie die geleentheid laat glip, betreur dit, aan ondergang uitgelewer."
+
+msgid "316"
+msgstr "Menge wat slegte sienings huldig, is beskaamd waar skaamte nie pas nie en skaamteloos waar skaamte pas, en beweeg op 'n slegte weg."
+
+msgid "317"
+msgstr "Mense wat slegte sienings huldig, is bevrees waar vrees nie pas nie en onbevrees waar vrees pas, en beweeg op 'n slegte weg."
+
+msgid "318"
+msgstr "Mense wat slegte sienings huldig, vind fout waar geen fout is nie en sien geen fout nie waar wel fout is, en beweeg op 'n slegte weg."
+
+msgid "319"
+msgstr "Mense wat regte sienings huldig weet dat fout fout is en dat reg reg is, en beweeg op 'n regte weg."
+
+msgid "chap23"
+msgstr "Die olifant"
+
+msgid "320"
+msgstr "Soos 'n olifant in 'n veldslag 'n pyl uit 'n boog verduur sal ek krenktaal verduur, want boos is die mensdom."
+
+msgid "321"
+msgstr "Hulle lei 'n getemde olifant tussen 'n skare mense in en 'n koning bestyg 'n getemde een; 'n getemde mens wat krenktaal verduur is onder mensekinders die beste."
+
+msgid "322"
+msgstr "Voortreflik is getemde muile, volbloed Sindhu-perde en groottand-olifante, maar veel voortrefliker is 'n self-getemde mens."
+
+msgid "323"
+msgstr "Nie op hierdie voertuie sou 'n mens die onbegane land bereik nie, want dáár kom net 'n getemde met 'n goed getemde self."
+
+msgid "324"
+msgstr "Die olifant genaamd Dhanapālaka is met paartyd moeilik beheerbaar; vasgebind vreet hy niks, onthou net die olifantwoud."
+
+msgid "325"
+msgstr "Traag en verknog soos 'n vark wat heeldag vreet en slaap word 'n luiaard oor en oor gebore."
+
+msgid "326"
+msgstr "Tot dusver het hierdie gees rondgedwaal agter lus aan net waar en wanneer e soos dit wou, maar van vandag af sal ek dit metodies beheer soos 'n olifanttemmer 'n bronstige bul."
+
+msgid "327"
+msgstr "Vind genoeë in agsaamheid, bewaak jou eie gees, lig jouself op uit die moeraspad soos 'n olifant in modder weggesink."
+
+msgid "328"
+msgstr "As jy 'n verstandige metgesel vind, 'n reisgenoot wat alle gevare oorwin het en deugsaam e bestendig leef, reis dan gelukkig en aandagtig saam met so 'n mens."
+
+msgid "329"
+msgstr "As jy 'n verstandige metgesel, 'n reisgenoot wat deugsaam e bestendig leef, nie vind nie, moet jy soos 'n koning wat 'n oorwonne ryk verlaat het, soos 'n olifant in die Mātanga-woud, alleen loop."
+
+msgid "330"
+msgstr "Alleen loop is verkieslik want met 'n dwaas is daar nie vriendskap nie; loop alleen sonder boos doen, sorgloos soos 'n olifant in die Mātanga-woud."
+
+msgid "331"
+msgstr "Geluk is vriendskap in 'n tyd van nood, vrede in elke sin, verdienste by die lewensend, agterlaat van alle leed."
+
+msgid "332"
+msgstr "Geluk is eerbied vir 'n moeder, eerbied vir 'n vader, eerbied vir 'n swerwer, eerbied vir 'n edel mens."
+
+msgid "333"
+msgstr "Geluk is deug tot in die ouderdom, vertroue vas gevestig, bereiking van insig, nie-doen van boosheid."
+
+msgid "chap24"
+msgstr "Begeerte"
+
+msgid "334"
+msgstr "Die begeerte van 'n mensgeborene wat agloos leef, groei soos 'n māluvā-ranker e so 'n mens swaai van bestaan tot bestaan soos 'n woud-aap wat vrugte begeer."
+
+msgid "335"
+msgstr "Wie in hierdie wêreld oorwin word deur begeerte waardeloos e verstrengelend se smarte skiet op so 'n reën-deurweekte bīrana-gras."
+
+msgid "336"
+msgstr "Wie in hierdie wêreld oorwin oor begeerte waardeloos e moeilik om van los te kom se smarte gly af soos druppels water van 'n lotusblaar."
+
+msgid "337"
+msgstr "Heil maak ek julle bekend, julle almal hier vergader: grawe die wortel van begeerte uit soos 'n mens op soek na die soetruik-wortel van bīrana-gras. Laat Māra julle nie oor e oor oorweldig soos 'n rivier met rietgras doen nie."
+
+msgid "338"
+msgstr "'n Afgekapte boom loop immer uit solank sy wortel sterk e onbeskadig bly; so bot lyding oor e oor solank die neiging van begeerte onvernietig bly."
+
+msgid "339"
+msgstr "'n Mens wat 'n verkeerde siening huldig, by wie die ses-en-dertig strome sterk na aangename dinge vloei, word deur sy lus-behepte denke meegesleur."
+
+msgid "340"
+msgstr "Oral vloei die strome e die ranker spruit uit e bly staan; sien die opgeskote ranker e kap sy wortel met wysheid uit."
+
+msgid "341"
+msgstr "Strome klewende plesiere wel in mense op; plesiersoekers aan bevrediging geheg hou aan gebore-en-oud word."
+
+msgid "342"
+msgstr "Van begeerte deurtrek skarrel mense soos verskrikte hase rond; gebind met kettings e boeie ly hul oor e oor e lank."
+
+msgid "343"
+msgstr "Van begeerte deurtrek skarrel mense soos verskrikte hase rond; 'n monnik wat begeerteloosheid soek sal begeerte uit homself verwyder."
+
+msgid "344"
+msgstr "Aanskou daardie mens: eers was hy los uit die bos van begeerte e gerig op die woud van verwydering; maar, eens bevry van begeerte, haas hy hom terug na begeerte; bevry, yl hy terug na gevangenskap."
+
+msgid "345"
+msgstr "Die wyses sê 'n band van yster, hout of tou is nie sterk nie, maar gehegtheid aan edelstene e juwele e begeerte na seuns e vroue"
+
+msgid "346"
+msgstr "is 'n sterk band, na benede slepend, slap maar moeilik om uit los te kom."
+
+msgid "347"
+msgstr "Lusbeheptes val in die maalstroom, is soos 'n spinnekop in haar self-gemaakte web; die wyses sny hulleself los om begeerteloos alle leed te verlaat e voort te beweeg."
+
+msgid "348"
+msgstr "Laat vaar wat voorlê, laat vaar wat verby is e laat vaar wat tussen-in kom; bereik die ander oewer van bestaan e met 'n gees in alle opsigte vry kom jy by gebore word e oud word nie weer nie."
+
+msgid "349"
+msgstr "In 'n mens met wroegende denke gulsig begerend op die uitkyk na bevrediging groei begeerte al geiler – so 'n mens maak sy gebondenheid vaster."
+
+msgid "350"
+msgstr "Maar 'n mens wat behae vind in die bedaring van denke e immer aandagtig mediteer oor wat geen bevrediging bied sal begeerte tot 'n einde bring, die binding van Māra verbreek."
+
+msgid "351"
+msgstr "Wie die doel bereik het is vreesloos e begeerteloos: vlekloos, e het die pyle van bestaan verwyder; dit is sy laaste liggaam."
+
+msgid "352"
+msgstr "'n Mens sonder begeerte e vry van klewing, 'n kenner van die taal e komposisie van die skrifte, word tereg 'belewer van die laaste liggaam', 'groot wyse', 'groot mens' genoem."
+
+msgid "353"
+msgstr "Oorwinnaar oor alles e kenner van alles is ek aan niks gebind nie; bevry deur verval van begeerte het ek alles verlaat; self het ek tot insig gekom – wie sou ek meester noem?"
+
+msgid "354"
+msgstr "Die gawe van waarheid oortref alle gawes, die smaak van waarheid oortref alle smake, die genoeë van waarheid oortref alle genoeëns, die verval van begeerte oorwin alle leed."
+
+msgid "355"
+msgstr "Rykdom vernietig die dwaas, maar nie hulle wat die ander oewer soek nie; met sy begeerte na rykdom vernietig die dwaas homself soos ander."
+
+msgid "356"
+msgstr "Onkruid besmet landerye e begeerte besmet die mensdom; 'n gawe aan mense vry van begeerte lewer oorvloedige vrug."
+
+msgid "357"
+msgstr "Onkruid besmet landerye e haat besmet die mensdom; 'n gawe aan mense vry van haat lewer oorvloedige vrug."
+
+msgid "358"
+msgstr "Onkruid besmet landerye e verblinding besmet die mensdom; 'n gawe aan mense vry van verblinding lewer oorvloedige vrug."
+
+msgid "359"
+msgstr "Onkruid besmet landerye e lus besmet die mensdom; 'n gawe aan mense vry van lus lewer oorvloedige vrug."
+
+msgid "chap25"
+msgstr "Die monnik"
+
+msgid "360"
+msgstr "Beheer oor die oog is goed, goed is beheer oor die oor; beheer oor die neus is goed, goed is beheer oor die tong;"
+
+msgid "361"
+msgstr "beheer oor die liggaam is goed, goed is beheer oor die taal; beheer oor die gees is goed, goed is beheer in alle opsigte; die monnik in alle opsigte beheers is van alle leed vry."
+
+msgid "362"
+msgstr "Wie beheers is van hand, voet, spraak en denke, in innerlikheid behae vind en aandagtig as alleenling gelukkig is – hóm noem hulle 'monnik'."
+
+msgid "363"
+msgstr "Soet is die taal van 'n monnik wat beheers in spraak nederig en met insig praat en die boodskap en sy strekking so verhelder."
+
+msgid "364"
+msgstr "Die monnik wat in die waarheid woon, in die waarheid vreugde vind, oor die waarheid nadink en die waarheid in gedagte hou, val nie van die hoë waarheid weg nie."
+
+msgid "365"
+msgstr "Laat 'n bedelmonnik nie minag wat hy kry nie en ander hul wins nie beny nie; wie ander hul wins beny bereik nie konsentrasie nie."
+
+msgid "366"
+msgstr "Selfs die gode loof 'n monnik wat slegs weinig kry en tog nie minag wat hy kry nie, maar suiwer werksaam leef."
+
+msgid "367"
+msgstr "Wie ongeheg aan naam-en-vorm nie treur oor what nie is nie, word waarlik 'monnik' genoem."
+
+msgid "368"
+msgstr "Die monnik wie se tuiste liefde is en vreugde vind in die Boeddha-leer sal die staat van vrede bereik, die stilword van emosie-en-wil: geluk."
+
+msgid "369"
+msgstr "Monnik, skep hierdie skip leeg, want leeg sal dit lig beweeg; as jy lus en afsku afsny sal jy nibbāna bereik."
+
+msgid "370"
+msgstr "Sny vyf af gee vyf prys ontwikkel vyf van vyf boeie los word 'n monnik 'stroomoorsteker' genoem."
+
+msgid "371"
+msgstr "Monnik, mediteer en wees nie agloos nie, laat jou gees in sinplesier nie dwaal nie, sluk nie nalatig 'n gloeiende metaalbal in en jammer dan brandend 'dit is pynlik' nie."
+
+msgid "372"
+msgstr "Daar is geen diep meditasie by wie insig kortkom nie en geen insig by wie diep meditasie kortkom nie; een by wie diep meditasie sowel as insig voorkom is waarlik naby nibbāna."
+
+msgid "373"
+msgstr "'n Monnik wat die leë tuiste binnegaan, sy gees tot kalm bedaring bring en die waarheid helder insien, ervaar geluk meer as menslik."
+
+msgid "374"
+msgstr "Deeglik denkend oor khandhas se verskyning en verdwyning beleef hy vreugde en genoeë: nie-dood vir wie verstaan."
+
+msgid "375"
+msgstr "Hier is die vertrekpunt vir 'n wyse monnik: bewaking van die vermoëns, tevredenheid, dissipline in die monnikskode en omgang met edel vriende wat suiwer en standvastig leef."
+
+msgid "376"
+msgstr "Laat hom wellewend in die omgang wees en vaardig in gedrag – dan sal hy vol vreugde lyding beëindig."
+
+msgid "377"
+msgstr "O monnike, skud lus en haat af soos jasmyn verlepte blomme."
+
+msgid "378"
+msgstr "'n Monnik rustig ferm, kalm van liggaam, woord en gees en van wêreldslus ontslae word 'bedaard' genoem."
+
+msgid "379"
+msgstr "Deur jouself bemoedig, deur jouself beteuel, self-beheersd en aandagtig sal jy, o monnik, gelukkig leef."
+
+msgid "380"
+msgstr "Jyself is jou toevlug en jyself is jou gids; beheer dus jouself soos 'n handelaar 'n edel perd."
+
+msgid "381"
+msgstr "'n Monnik vol vreugde and vertroue in die Boeddha-leer sal the staat van vrede and geluk bereik: die bedaring van gekondisioneerde dinge."
+
+msgid "382"
+msgstr "'n Monnik wat hom in sy jeug aan die Boeddha-leer verbind, bestraal die wêreld waarlik soos die maan van wolke vry."
+
+msgid "chap26"
+msgstr "Edel Mens"
+
+msgid "383"
+msgstr "Edel mens, span jou in og klief die stroom; laat sintuiglike begeertes vaar en weet dat samestellings ontbind; dan ken jy nie-gevormdheid, is jy edel mens."
+
+msgid "384"
+msgstr "Wanneer 'n edel mens in albei dimensies die ander oewer bereik het, is hy 'n mens wat weet en val al sy boeie weg."
+
+msgid "385"
+msgstr "'n Mens wat vanished het aan oorkant of duskant of albei, onbevrees en onverbonde, noem ek 'edel mens'."
+
+msgid "386"
+msgstr "'n Suiwer mens wat bestendig mediteer, gedoen het wat gedoen moet word en smetteloos die hoogste peil bereik het, noem ek 'edel mens'."
+
+msgid "387"
+msgstr "Bedags skyn die son snags glim die maan bewapen blink the kryger mediterend gloei die edel mens maar immer dag en nag skitter die Verligte."
+
+msgid "388"
+msgstr "Wie boosheid verban, word daarom edel mens, wie kalm leef daarom askeet en wie eie kwaad versaak daarom versaker genoem."
+
+msgid "389"
+msgstr "Slaan 'n edel mens nie – maar laat 'n geslaande edel mens geen woede uiter nie; 'n skande is dit om 'n edel mens te slaan – maar 'n groter skande is dit as die edel mens voor woede swig."
+
+msgid "390"
+msgstr "Vir 'n edel mens is daar niks beter nie as om sy gees van plesiersug te weerhou; namate die drang om te beseer verdwyn, bedaar lyding."
+
+msgid "391"
+msgstr "Een wat nie verkeerd doen in liggaam woord en gedagte nie maar in al drie opsigte beheersd is noem ek 'edel mens'."
+
+msgid "392"
+msgstr "Soos 'n brahmaan aan 'n offervuur moet jy opreg eerbied betoon aan een by wie jy die dhamma leer ken – die dhamma deur die Volmaak Verligte onderrig."
+
+msgid "393"
+msgstr "Edel mens is jy nie omrede van jou gekoekte haarstyl, afkoms of geboorte nie; edel mens suiwer is jy as waarheid en waaragtigheid in jou woon."
+
+msgid "394"
+msgstr "O dwaas, waardeloos is 'n gekoekte haarstyl en kleed van antiloopvel; in jou groei 'n geil bosgasie al is jy buite hoe fyn uitgevat."
+
+msgid "395"
+msgstr "'n Mensekind geklee in lappe van 'n rommelhoop uitgeteer met are sigbaar oor sy hele lyf alone in 'n woud mediterend noem ek 'edel mens'."
+
+msgid "396"
+msgstr "Ek noem niemand 'edel mens' vanweë sy afkoms of vername moeder nie (so een is welaf en sê 'meneer'). Nee, iemand wat niks het en niks wil hê nie noem ek 'edel mens'."
+
+msgid "397"
+msgstr "Wie alle belemmeringe afgesny het en onbevrees is, alle verknogthede oorkom het en vry is, noem ek 'edel mens'."
+
+msgid "398"
+msgstr "Wie tou en toom en teuel en stang gebreek, die dwarsbalke gelig het en verlig is noem ek 'edel mens'."
+
+msgid "399"
+msgstr "Wie belediging, aanranding en inkerkering sonder bitterheid verduur met duldkrag so sterk soos 'n weermag noem ek 'edel mens'."
+
+msgid "400"
+msgstr "Wie sonder woede plig volbring, sonder lus deugsaam leef en beheersd die laaste liggaam dra noem ek 'edel mens'."
+
+msgid "401"
+msgstr "Aan wie sinplesier nie kleef nie so min as water aan 'n lotusblaar of mosterdsaad aan 'n naald se punt noem ek 'edel mens'."
+
+msgid "402"
+msgstr "Wie in hierdie lewe die las neerlê en volkome vry die einde van sy leed ervaar noem ek 'edel mens'."
+
+msgid "403"
+msgstr "Wie diepe kennis het en wys is, regte pad van slegte pad can onderskei en die hoogste goed bereik het noem ek 'edel mens'."
+
+msgid "404"
+msgstr "Wie onverbonde bly aan huisbewoners en -verlaters, woningloos swerf en weinig wens noem ek 'edel mens'."
+
+msgid "405"
+msgstr "Wie die knuppel neerlê voor wesens swak of sterk en nie doodmaak of laat doodmaak nie noem ek 'edel mens'."
+
+msgid "406"
+msgstr "Wie by vyandiges vriendelik is, bij geweldenaars rustig en by gieriges vrygewig noem ek 'edel mens'."
+
+msgid "407"
+msgstr "Van wie begeerte en haat en trots en huigel afgeval het soos mosterdsaad van 'n naald se punt noem ek 'edel mens'."
+
+msgid "408"
+msgstr "Wie se woorde aangenaam, insiggewend en waar is en niemand kwets nie noem ek 'edel mens'."
+
+msgid "409"
+msgstr "Wie in hierdie wêreld nie neem wat nie gegee wordt nie hetsy lank of kort, klein of groot, mooi of lelik noem ek 'edel mens'."
+
+msgid "410"
+msgstr "Wie wensloos en vry na niks hunker nie nóg in hierdie wêreld nóg hierna noem ek 'edel mens'."
+
+msgid "411"
+msgstr "Wie sonder verknogthede deur insig by twyfel verby nie-dood bereik noem ek 'edel mens'."
+
+msgid "412"
+msgstr "Wie in hierdie wêreld die bande van goed sowel as kwaad oorkom e leedloos smetloos suiwer is noem ek 'edel mens'."
+
+msgid "413"
+msgstr "Wie soos die moon smetloos suiwer helder kalm is, ontdaan van smagting na bestaan, noem ek 'edel mens'."
+
+msgid "414"
+msgstr "Wie hierdie moerassige maling van bestaan, bedrieglik e moeilik begaanbaar, deurkruis e oorgesteek e die ander kant bereik het e sonder drif e weifel aan niks verknog nie mediterend uitgewoed is noem ek 'edel mens'."
+
+msgid "415"
+msgstr "Wie hier van genot ontslae woningloos swerf, bestaansbegeerte geblus, noem ek 'edel mens'."
+
+msgid "416"
+msgstr "Wie hier van gesmag ontslae woningloos swerf, bestaansgesmag geblus, noem ek 'edel mens'."
+
+msgid "417"
+msgstr "Wie van menslike binding los e van goddelike binding ontslae van alle bindinge volkome vry is, noem ek 'edel mens'."
+
+msgid "418"
+msgstr "Wie van behae e onbehae ontslae afgekoel e van die grondslae vry helder-oorwinnaar oor die hele wêreld is, noem ek 'edel mens'."
+
+msgid "419"
+msgstr "Wie onverbonde, gelukkig e verlig in elke opsig ervaringskennis dra van die verdwyning e verskyning van wesens noem ek 'edel mens'."
+
+msgid "420"
+msgstr "Wie se bestemmingsgang gode, halfgode e mense nie ken nie, een van onsuiwerhede skoon, 'n arahant, noem ek 'edel mens'."
+
+msgid "421"
+msgstr "Wie onverknog vashou aan niks in verlede, hede of toekoms nie noem ek 'edel mens'."
+
+msgid "422"
+msgstr "Wie edel stier e held is, groot wyse e oorwinnaar begeerteloos ontwaak in louter wete noem ek 'edel mens'."
+
+msgid "423"
+msgstr "Wie sy voriges lewens ken, hemele e helle sien e die einde van geboortes bereik het, wie as wyse hoër wete verwerf e volmaaktheid volkome volmaak het, noem ek 'edel mens'."
