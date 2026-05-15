@@ -307,16 +307,16 @@ msgid "91"
 msgstr "Yüksek düşünceli kişiler aynı yerde kalmaktan mutlu olmayıp daima mücadele ederler. Gölleri terk ederek gökyüzüne uçan kuğular gibi, bulundukları yerlerde barınamayıp daha yükseklere tırmanmak için çaba sarf ederler."
 
 msgid "92"
-msgstr "Aşırı beslenmekten kaçınarak yetkinliğe ulaşmış ve sonsuz boşluk —özgürlük göğünde— uçan kişinin yolunu kim izleyebilir? O kişinin yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
+msgstr "Aşırı beslenmekten kaçınarak yetkinliğe ulaşmış ve sonsuz boşluk özgürlük göğünde uçan kişinin yolunu kim izleyebilir? O kişinin yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
 
 msgid "93"
-msgstr "İstekleri susmuş, zevklerin etkisinden kurtulmuş ve başlangıcı olmayan sonsuz boşluk —özgürlük göğünde— uçan insanın yolunu kim izleyebilir? Onun yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
+msgstr "İstekleri susmuş, zevklerin etkisinden kurtulmuş ve başlangıcı olmayan sonsuz boşluk özgürlük göğünde uçan insanın yolunu kim izleyebilir? Onun yolunu izlemek, gökyüzünde uçan kuşların yolunu izlemek kadar zordur."
 
 msgid "94"
 msgstr "Duygularını, iyi bir sürücünün atlarını yönetmesi gibi kontrol altına alabilen, gururdan ve aşağılık tutkulardan kurtulmuş kişiyi tanrılar bile över."
 
 msgid "95"
-msgstr "O kişi, toprak gibi sakin, bir sütun gibi sağlam ve temiz bir göl gibi saftır. Ölümle son bulan yaşam ırmağından —Samsara— kurtulmuştur o kişi."
+msgstr "O kişi, toprak gibi sakin, bir sütun gibi sağlam ve temiz bir göl gibi saftır. Ölümle son bulan yaşam ırmağından Samsara kurtulmuştur o kişi."
 
 msgid "96"
 msgstr "O kişi görüşünün verdiği ışıkta özgürlüğünü bulmuştur; onun düşünceleri, sözleri ve davranışları huzur içindedir."
@@ -325,7 +325,7 @@ msgid "97"
 msgstr "Ve o kişi NİRVANA'yı gördükten sonra saf inançlardan, tüm isteklerden ve tüm bağlardan kurtulmuştur, günahların çok ötesindedir. Diğer insanlar arasında gerçekten daha büyüktür."
 
 msgid "98"
-msgstr "Kutsal kişiler her nerede otururlarsa otursunlar —bir şehir veya bir orman, bir vadi veya bir dağın tepesi— o yer gerçekten bir sevinç kaynağıdır."
+msgstr "Kutsal kişiler her nerede otururlarsa otursunlar bir şehir veya bir orman, bir vadi veya bir dağın tepesi o yer gerçekten bir sevinç kaynağıdır."
 
 msgid "99"
 msgstr "Onlar, diğer insanların oturamadıkları yerleri bile cennete çevirirler. Çünkü onlar isteklerin yükünden kurtulmuş ve başkalarının bulamadıkları sevince ulaşmış kişilerdir."
@@ -859,7 +859,7 @@ msgid "263"
 msgstr "Güzel sözleri ve görünümleri var diye onurlu kişi addedilemez. Ancak bu üç günahtan arınmış, içi sevgi dolu bilge bir insan gerçekten onurlu kişidir."
 
 msgid "264"
-msgstr "Rahiplere özgü tıraş edilmiş bir başı var diye her insan bir rahip —Samana— olamaz. Dinsel görevlerini yerine getirmeyen, doğruyu konuşmayan, isteklerden ve kendini beğeniden kurtulamamış bir insan nasıl bir samana olabilir?"
+msgstr "Rahiplere özgü tıraş edilmiş bir başı var diye her insan bir rahip Samana olamaz. Dinsel görevlerini yerine getirmeyen, doğruyu konuşmayan, isteklerden ve kendini beğeniden kurtulamamış bir insan nasıl bir samana olabilir?"
 
 msgid "265"
 msgstr "Gerçek bir samana, büyük veya küçük her kötülüğü huzura dönüştüren kişidir."
@@ -892,7 +892,7 @@ msgid "273"
 msgstr "Gerçeğe giden yolların en iyisi sekiz aşamalı olan yoldur. Gerçeklerin en büyüğü dört tanedir. En iyi durum, tüm tutkulardan kurtulma halidir. Ve insanlar içinde en iyisi, görmesini bilen kişidir."
 
 msgid "274"
-msgstr "Gerçeğe giden başka bir yol yoktur. Bu yolda yürüyün ve yanılgının doğuracağı kötülüklerden —Mara'dan— kurtulun."
+msgstr "Gerçeğe giden başka bir yol yoktur. Bu yolda yürüyün ve yanılgının doğuracağı kötülüklerden Mara'dan kurtulun."
 
 msgid "275"
 msgstr "Bu yolda yürüyen kişi, tüm acılardan kurtulur. Ben bu yolu buldum ve tüm dünyaya gösterdim."
@@ -1171,13 +1171,13 @@ msgid "361"
 msgstr "Bedenin, sözlerin, zihnin ve bütün manevi yaşamınızın kontrol altına alınması çok yararlı bir durumdur. Kendini kontrol etme yetisini kazanmış bir münzevi, tüm acıları geride bırakır."
 
 msgid "362"
-msgstr "Her şeyde kendini kontrol edebilen; ellerini, ayaklarını, sözlerini ve zihnini kontrol edebilen; manevi ve sarsılmaz huzuru bulmuş insan —Ben böyle bir insana münzevi derim."
+msgstr "Her şeyde kendini kontrol edebilen; ellerini, ayaklarını, sözlerini ve zihnini kontrol edebilen; manevi ve sarsılmaz huzuru bulmuş insan Ben böyle bir insana münzevi derim."
 
 msgid "363"
 msgstr "Konuşmaları kontrol altında, huzur dolu ve bilgece olan, alçak gönüllü ve kutsal metinlerin anlamını bilen münzevi kişinin sözleri güzel ve verimlidir."
 
 msgid "364"
-msgstr "DHAMMA'nın gerçeğine ulaşmış, DHAMMA'nın sevincini bulmuş, DHAMMA üzerinde düşünen ve devamlı olarak DHAMMA'nın gerçeğini anımsayan münzevi, hiçbir zaman DHAMMA'dan —Gerçekten— ayrılmaz."
+msgstr "DHAMMA'nın gerçeğine ulaşmış, DHAMMA'nın sevincini bulmuş, DHAMMA üzerinde düşünen ve devamlı olarak DHAMMA'nın gerçeğini anımsayan münzevi, hiçbir zaman DHAMMA'dan Gerçekten ayrılmaz."
 
 msgid "365"
 msgstr "Kişi kendisine verilen sunuları hor görmemeli ve başkalarını kıskanmamalı; çünkü kıskançlık duyan bir münzevi hiçbir zaman derin düşünmeyi başaramaz."
@@ -1195,7 +1195,7 @@ msgid "369"
 msgstr "Yaşam sandalınızı boşaltın ey insanlar; sandal ancak bomboş olduğu zaman süratle yol alır. Ancak yaşam sandalınız boş olduğu zaman NİRVANA ülkesine gitmeye hazır olursunuz."
 
 msgid "370"
-msgstr "Şu beş şeyden kendinizi kurtarın: bencillik, şüphe, yanlış sofuluk ve ibadet, şehvet, nefret; şu diğer beş şeyi de üzerinizden defedin: bir bedenle doğmak isteği veya bedensiz olarak doğmak isteği, inatçılık, rahatsızlık ve cehalet; fakat şu beş şey vardır ki onları beslemelisiniz: inanç, gözlemcilik, enerji, derin düşünme ve görüş. İnsanı tutsak eden şu beş bağı da —şehvet, nefret, aldanış, gurur ve yanlış görüşler— koparan kişi, diğer kıyıya ulaşmış bir kimsedir."
+msgstr "Şu beş şeyden kendinizi kurtarın: bencillik, şüphe, yanlış sofuluk ve ibadet, şehvet, nefret; şu diğer beş şeyi de üzerinizden defedin: bir bedenle doğmak isteği veya bedensiz olarak doğmak isteği, inatçılık, rahatsızlık ve cehalet; fakat şu beş şey vardır ki onları beslemelisiniz: inanç, gözlemcilik, enerji, derin düşünme ve görüş. İnsanı tutsak eden şu beş bağı da şehvet, nefret, aldanış, gurur ve yanlış görüşler koparan kişi, diğer kıyıya ulaşmış bir kimsedir."
 
 msgid "371"
 msgstr "Gözlemci olun, yüksek düşünceler içinde olun ve hiçbir zaman zevkleri düşünmeyin."

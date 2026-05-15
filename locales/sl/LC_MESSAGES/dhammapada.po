@@ -136,7 +136,7 @@ msgid "38"
 msgstr "Čigar misli so nemirne in ne pozna resnice, kdor je poln omahovanja, ne bo spoznal nibbāne."
 
 msgid "39"
-msgstr "Čigar misli so brez želja, v srcu pa je brez sovraštva, kdor je onkraj dobrega in zla, je buden — strahu ne pozna."
+msgstr "Čigar misli so brez želja, v srcu pa je brez sovraštva, kdor je onkraj dobrega in zla, je buden  strahu ne pozna."
 
 msgid "40"
 msgstr "Ko spoznaš, da je telo kot krhek vrč, si utrdi misli kot trdnjavo – z mečem modrosti premagaj Māro, in ne naveži se na svojo zmago!"
@@ -544,7 +544,7 @@ msgid "165"
 msgstr "Človek si sam stori vse zlo in sam zato tudi trpi, človek se sam izogne zlu, sam se ga osvobodi – vsak nosi v sebi svoje zlo, nihče drug ga ne more očistiti."
 
 msgid "166"
-msgstr "Ne zanemarjaj svojih dolžnosti, pa čeprav pomagaš drugim, ko spoznaš pravo dolžnost, se ji posveti — išči le nibbāno!"
+msgstr "Ne zanemarjaj svojih dolžnosti, pa čeprav pomagaš drugim, ko spoznaš pravo dolžnost, se ji posveti  išči le nibbāno!"
 
 msgid "chap13"
 msgstr "Svet"
@@ -943,7 +943,7 @@ msgid "chap21"
 msgstr "Razni Izreki"
 
 msgid "290"
-msgstr "Če lahko zamenjaš majhne užitke za veliko srečo, bodi moder — pusti užitke in spoznaj veliko srečo!"
+msgstr "Če lahko zamenjaš majhne užitke za veliko srečo, bodi moder  pusti užitke in spoznaj veliko srečo!"
 
 msgid "291"
 msgstr "Kdor razmišlja le o lastni sreči, drugim pa povzroči trpljenje, se zla ne bo osvobodil, saj je ves ovit v sovraštvo."
@@ -1093,7 +1093,7 @@ msgid "336"
 msgstr "Če pa premaga nizkotne želje in obvlada navezanost na svet, zdrsi z njega vse trpljenje kot kaplja vode z lotosa."
 
 msgid "337"
-msgstr "Zato vam pravim — bodite srečni, vsi, ki ste zdaj sem prišli! Uničite vse želje, kot izruva zeliščar korenine! Naj vas Māra več ne zlomi kot povodenj šibek trs!"
+msgstr "Zato vam pravim  bodite srečni, vsi, ki ste zdaj sem prišli! Uničite vse želje, kot izruva zeliščar korenine! Naj vas Māra več ne zlomi kot povodenj šibek trs!"
 
 msgid "338"
 msgstr "Če so korenine močne in zdrave, bo posekano drevo popolno zraslo – dokler ne uničiš vseh želja, se bo stalno vračalo trpljenje."
@@ -1117,16 +1117,16 @@ msgid "344"
 msgstr "Poglejte tega neumnega človeka – bil je svoboden, užival je v samoti, potem pa se vrnil v gozd želja – resnično, sam si je nadel okove!"
 
 msgid "345"
-msgstr "Vezi iz železa, lesa ali konoplje niso močne — pravijo modri – dosti močnejša je navezanost na zlato, dragulje, žene in sinove."
+msgstr "Vezi iz železa, lesa ali konoplje niso močne  pravijo modri – dosti močnejša je navezanost na zlato, dragulje, žene in sinove."
 
 msgid "346"
-msgstr "Ta vez je močna — pravijo – voljna je, a trdna in nezlomljiva. Modri jo posekajo in so brez želja, nenavezani na svet, vse užitke zapustijo."
+msgstr "Ta vez je močna  pravijo – voljna je, a trdna in nezlomljiva. Modri jo posekajo in so brez želja, nenavezani na svet, vse užitke zapustijo."
 
 msgid "347"
 msgstr "Kdor je poln strasti, bo padel v tok želja kot pajek, ki se ujame v lastno mrežo – modri vse posekajo in so brez želja, nenavezani na svet, vso dukkho zapustijo."
 
 msgid "348"
-msgstr "Pusti preteklost, pusti prihodnost, pusti sedanjost — pojdi na oni breg! Ko bodo tvoje misli res svobodne, ne boš več star, ne boš se več rodil."
+msgstr "Pusti preteklost, pusti prihodnost, pusti sedanjost  pojdi na oni breg! Ko bodo tvoje misli res svobodne, ne boš več star, ne boš se več rodil."
 
 msgid "349"
 msgstr "Zmeden človek, ki je poln strasti in išče le prijetnosti, si neprestano množi želje in z njimi veča si vezi."
@@ -1198,7 +1198,7 @@ msgid "370"
 msgstr "Pet jih posekaj, pet zapusti, pet pa še naprej razvijaj – bhikkhu, ki je posekal pet vezi, je zapustil tok želja."
 
 msgid "371"
-msgstr "Zberi se, bhikkhu, ne bodi lahkomiseln, naj misli ti ne bledijo med čutnimi užitki! Bodi pazljiv, da ne požreš žareče krogle, saj potem boš gorel in vpil — to je muka!"
+msgstr "Zberi se, bhikkhu, ne bodi lahkomiseln, naj misli ti ne bledijo med čutnimi užitki! Bodi pazljiv, da ne požreš žareče krogle, saj potem boš gorel in vpil  to je muka!"
 
 msgid "372"
 msgstr "Brez modrosti ni zbranosti, brez zbranosti pa ni modrosti – kdor je moder in zbran, je prestopil prag nibbāne."

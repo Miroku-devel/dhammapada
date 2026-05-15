@@ -73,7 +73,7 @@ msgid "19"
 msgstr "Encara que reciti molt les escriptures, qui està distret no les està complint. Com un pastor que compta les vaques d'algú altre, aquest no fa vida d'asceta."
 
 msgid "20"
-msgstr "Encara que reciti poc les escriptures, qui es comporta segons l'ensenyament, abandona l'engany —odi i desig—, es manté atent i té la ment lliure perquè no s'agafa a això ni a allò, aquest és digne de la vida d'asceta."
+msgstr "Encara que reciti poc les escriptures, qui es comporta segons l'ensenyament, abandona l'engany odi i desig, es manté atent i té la ment lliure perquè no s'agafa a això ni a allò, aquest és digne de la vida d'asceta."
 
 msgid "chap2"
 msgstr "L'Atenció"
@@ -100,7 +100,7 @@ msgid "27"
 msgstr "Les distraccions no li calen, ni aficionar-se als plaers; meditant i estant atent, obté la joia més gran."
 
 msgid "28"
-msgstr "Quan el savi amb l'atenció desvia tota distracció, encimbellat al palau del coneixement, estable com una muntanya, contempla —ell que no té neguit— el patiment dels necis."
+msgstr "Quan el savi amb l'atenció desvia tota distracció, encimbellat al palau del coneixement, estable com una muntanya, contempla ell que no té neguit el patiment dels necis."
 
 msgid "29"
 msgstr "Atent entre els distrets, ben despert entre adormits, l'assenyat va al davant, com el cavall veloç avança el feble."
@@ -223,7 +223,7 @@ msgid "65"
 msgstr "Però si l'assenyat s'asseu un sol moment amb el mestre, al punt tasta la veritat; és com la llengua, que coneix el gust de la sopa."
 
 msgid "66"
-msgstr "Els necis —desassenyats!— són enemics de si mateixos, perquè fan males accions que tenen un fruit amarg."
+msgstr "Els necis desassenyats! són enemics de si mateixos, perquè fan males accions que tenen un fruit amarg."
 
 msgid "67"
 msgstr "Una acció no és bona si causa penediment, si hom en rep el resultat amb llàgrimes i plors."
@@ -250,7 +250,7 @@ msgid "74"
 msgstr "'Que vegin el que jo faig tant els monjos com els laics, que depenguin de mi en tot pel que cal o no cal fer.' Quan el neci pensa això, el desig i l'orgull creixen."
 
 msgid "75"
-msgstr "Però l'un és el camí del guany, l'altre, el que duu a l'estat de pau. Sabent això, el monjo —el deixeble del Despert—, que no celebri l'honor i aprengui a discriminar."
+msgstr "Però l'un és el camí del guany, l'altre, el que duu a l'estat de pau. Sabent això, el monjo el deixeble del Despert, que no celebri l'honor i aprengui a discriminar."
 
 msgid "chap6"
 msgstr "Savi"
@@ -388,7 +388,7 @@ msgid "116"
 msgstr "Cal afanyar-se en el bé i apartar la ment del que és nociu, car la ment s'hi acostuma si hom és lent en els actes meritoris."
 
 msgid "117"
-msgstr "Si hom fa una acció nociva, que no la repeteixi —que no es converteixi en hàbit!—: acumular demèrit és dolorós."
+msgstr "Si hom fa una acció nociva, que no la repeteixi que no es converteixi en hàbit!: acumular demèrit és dolorós."
 
 msgid "118"
 msgstr "Si hom fa una acció beneficiosa, que la repeteixi i la converteixi en hàbit: acumular mèrit és agradable."
@@ -412,7 +412,7 @@ msgid "124"
 msgstr "Qui no té la mà ferida pot agafar-hi el verí; el verí no penetra la mà sana, no hi ha demèrit per a qui no el fa."
 
 msgid "125"
-msgstr "Si un home fa mal a qui no està ofuscat, s'ha transformat i no té defectes, la seva mala acció li retorna —neci!—, com la pols fina llançada contra el vent."
+msgstr "Si un home fa mal a qui no està ofuscat, s'ha transformat i no té defectes, la seva mala acció li retorna neci!, com la pols fina llançada contra el vent."
 
 msgid "126"
 msgstr "Alguns reneixen a l'úter, els que fan demèrit van a l'infern, els que tenen un bon destí van al cel, els que no tenen residu s'extingeixen."
@@ -469,7 +469,7 @@ msgid "142"
 msgstr "Si va vestit però és equànime, calmat, dominat, controlat, cast, i deposa la violència contra les criatures, és un home superior, un asceta, un monjo."
 
 msgid "143"
-msgstr "¿Qui, en aquest món, censura l'home que té vergonya i es conté, i que no coneix el retret —com el bon cavall no coneix el fuet?"
+msgstr "¿Qui, en aquest món, censura l'home que té vergonya i es conté, i que no coneix el retret com el bon cavall no coneix el fuet?"
 
 msgid "144"
 msgstr "Com el bon cavall, atent al fuet, sigueu amatents i ràpids a respondre. Amb confiança, virtut i energia, concentració i discerniment, seny i bona conducta, eliminareu aquesta gran angoixa."
@@ -577,7 +577,7 @@ msgid "175"
 msgstr "Els cignes van pel camí del sol, els mags van per l'espai; els savis deixen el món conquerint Mara i el seu exèrcit."
 
 msgid "176"
-msgstr "Per a la persona que menteix —que ha faltat una llei sola—, quan traspassa a l'altre món, no hi ha mal que es pugui desfer."
+msgstr "Per a la persona que menteix que ha faltat una llei sola, quan traspassa a l'altre món, no hi ha mal que es pugui desfer."
 
 msgid "177"
 msgstr "Els gasius no van al món dels déus, la generositat per al neci no és res; però el savi, que dona amb alegria, és feliç al més enllà."
@@ -604,13 +604,13 @@ msgid "183"
 msgstr "Abstenir-se d'accions nocives, fer allò que és beneficiós i purificar els pensaments; això és el que ensenyen els desperts."
 
 msgid "184"
-msgstr "La paciència és l'austeritat màxima, l'acceptació l'absència de desig suprema —diuen els desperts. No és monjo qui mata l'altre, ni asceta qui li fa mal."
+msgstr "La paciència és l'austeritat màxima, l'acceptació l'absència de desig suprema diuen els desperts. No és monjo qui mata l'altre, ni asceta qui li fa mal."
 
 msgid "185"
 msgstr "No criticar, no cometre violència, seguir la regla monàstica, ésser mesurat en l'aliment, jeure i seure en solitud i practicar la meditació; això és el que ensenyen els desperts."
 
 msgid "186"
-msgstr "Ni acompanyats d'una pluja de monedes els plaers podrien satisfer. 'Els plaers són penosos i insípids' —així reflexiona el savi."
+msgstr "Ni acompanyats d'una pluja de monedes els plaers podrien satisfer. 'Els plaers són penosos i insípids' així reflexiona el savi."
 
 msgid "187"
 msgstr "Ni tan sols troba gust en els plaers dels déus; el deixeble del Ben Despert gaudeix de la fi de la set."
@@ -640,7 +640,7 @@ msgid "195"
 msgstr "Els desperts o els que els escolten són dignes de devoció; han superat les obsessions i han travessat l'aiguat de les penes."
 
 msgid "196"
-msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit senza mesura —ningú no pot dir: 'fa tant'."
+msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit senza mesura ningú no pot dir: 'fa tant'."
 
 msgid "chap15"
 msgstr "Feliços"
@@ -733,7 +733,7 @@ msgid "223"
 msgstr "La ira es venç amb l'absència d'ira, amb el bé es venç el que no està bé, donant es venç la gasiveria i amb la veritat, la falsedat."
 
 msgid "224"
-msgstr "Qui diu la veritat, no s'enfada, i dóna a qui demana —encara que sigui poc—; amb aquestes tres condicions es pot presentar davant dels déus."
+msgstr "Qui diu la veritat, no s'enfada, i dóna a qui demana encara que sigui poc; amb aquestes tres condicions es pot presentar davant dels déus."
 
 msgid "225"
 msgstr "Els ascetes en qui no hi ha violència, amb el cos sempre controlat, van a un lloc immutable on qui hi ha anat ja no es lamenta."
@@ -772,13 +772,13 @@ msgid "235"
 msgstr "Ets com una fulla seca, els servents de Yama t'esperen; has d'emprendre la tasca, però no duus provisions."
 
 msgid "236"
-msgstr "Fes-te una illa a tu mateix, esforça't —de pressa!— i esdevingues savi; quan hagis eliminat els teus defectes, immaculat, arribaràs a la divina terra dels nobles."
+msgstr "Fes-te una illa a tu mateix, esforça't de pressa! i esdevingues savi; quan hagis eliminat els teus defectes, immaculat, arribaràs a la divina terra dels nobles."
 
 msgid "237"
 msgstr "Has complert el temps, has arribat davant de Yama; no et queda temps de vida i no duus provisions."
 
 msgid "238"
-msgstr "Fes-te una illa a tu mateix, esforça't —de pressa!— i esdevingues savi; quan hagis eliminat els teus defectes, immaculat, no tornaràs a passar pel naixement i la vellesa."
+msgstr "Fes-te una illa a tu mateix, esforça't de pressa! i esdevingues savi; quan hagis eliminat els teus defectes, immaculat, no tornaràs a passar pel naixement i la vellesa."
 
 msgid "239"
 msgstr "L'assenyat, a poc a poc, de mica en mica, poleix els seus defectes, un rere l'altre, com l'orfebre treballa l'argent."
@@ -805,7 +805,7 @@ msgid "246"
 msgstr "Qui occeix els éssers que respiren, parla amb falsedat, pren el que no li donen, va amb la dona d'altri,"
 
 msgid "247"
-msgstr "i s'afecciona a la beguda, aquí mateix —en aquest món— talla la seva pròpia rel."
+msgstr "i s'afecciona a la beguda, aquí mateix en aquest món talla la seva pròpia rel."
 
 msgid "248"
 msgstr "Així doncs, sàpigues, home, que la manca de domini és nociva; que la cobdícia i el desordre no et subjectin gaire més temps al sofriment."
@@ -874,7 +874,7 @@ msgid "268"
 msgstr "El mer silenci no el fa a un savi, quan s'és ignorant i extraviat; però sospesar tot i optar només pel que és noble, porta com a benedicció la saviesa."
 
 msgid "269"
-msgstr "Qui fa conscient el món intern i el món extern —havent adquirit aquesta saviesa—, es desfà del mal per complet, és un veritable savi."
+msgstr "Qui fa conscient el món intern i el món extern havent adquirit aquesta saviesa, es desfà del mal per complet, és un veritable savi."
 
 msgid "270"
 msgstr "El que danya als éssers vius no pot ser un home noble; només el respecte per la vida el fa a un digne d'aquest nom."
@@ -1054,7 +1054,7 @@ msgid "324"
 msgstr "Quan l'elefant Dhanapalaka està encadenat, no menja ni un mos i és incontrolable: es comporta com si estigués en zel, recordant amb nostàlgia la seva vida lliure en el bosc."
 
 msgid "325"
-msgstr "Un ximple ple de golafreria —adormit i empastifat com un porc farcit que s'alimenta amb porqueria—, renaixerà una vegada i una altra."
+msgstr "Un ximple ple de golafreria adormit i empastifat com un porc farcit que s'alimenta amb porqueria, renaixerà una vegada i una altra."
 
 msgid "326"
 msgstr "Anteriorment, aquesta erràtica ment vagava per on li plaïa; però ara l'he controlat sàviament, com un entrenador controla a l'elefant en zel."

@@ -103,16 +103,16 @@ msgid "28"
 msgstr "When the astute dispel negligence by means of diligence, ascending the palace of wisdom, sorrowless, they behold this generation of sorrow, as an attentive one on a mountain top beholds the fools below."
 
 msgid "29"
-msgstr "Heedful among the heedless, wide awake while others sleep— a true sage leaves them behind, like a swift horse passing a feeble."
+msgstr "Heedful among the heedless, wide awake while others sleep a true sage leaves them behind, like a swift horse passing a feeble."
 
 msgid "30"
 msgstr "Maghavā became chief of the gods by means of diligence. People praise diligence, while negligence is always deplored."
 
 msgid "31"
-msgstr "A mendicant who loves diligence, seeing fear in negligence— advances like fire, burning up fetters big and small."
+msgstr "A mendicant who loves diligence, seeing fear in negligence advances like fire, burning up fetters big and small."
 
 msgid "32"
-msgstr "A mendicant who loves diligence, seeing fear in negligence— such a one can't decline, and has drawn near to extinguishment."
+msgstr "A mendicant who loves diligence, seeing fear in negligence such a one can't decline, and has drawn near to extinguishment."
 
 msgid "chap3"
 msgstr "The Mind"
@@ -187,7 +187,7 @@ msgid "54"
 msgstr "The fragrance of flowers doesn't spread upwind, nor sandalwood, pinwheel, or jasmine; but the fragrance of the good spreads upwind; a true person's virtue spreads in every direction."
 
 msgid "55"
-msgstr "Among all the fragrances—sandalwood or pinwheel or lotus or jasmine— the fragrance of virtue is supreme."
+msgstr "Among all the fragrancessandalwood or pinwheel or lotus or jasmine the fragrance of virtue is supreme."
 
 msgid "56"
 msgstr "Faint is the fragrance of sandal or pinwheel; but the fragrance of the virtuous floats to the highest gods."
@@ -208,10 +208,10 @@ msgid "60"
 msgstr "Long is the night for the wakeful; long is the league for the weary; long transmigrate the fools who don't understand the true teaching."
 
 msgid "61"
-msgstr "If while wandering you find no partner equal or better than yourself, then firmly resolve to wander alone—there's no fellowship with fools."
+msgstr "If while wandering you find no partner equal or better than yourself, then firmly resolve to wander alonethere's no fellowship with fools."
 
 msgid "62"
-msgstr "'Sons are mine, wealth is mine'—thus the fool frets. For even your self is not your own, let alone your sons or wealth."
+msgstr "'Sons are mine, wealth is mine'thus the fool frets. For even your self is not your own, let alone your sons or wealth."
 
 msgid "63"
 msgstr "The fool who thinks they're a fool is wise at least to that extent. But the true fool is said to be one who imagines that they are wise."
@@ -466,7 +466,7 @@ msgid "141"
 msgstr "Not nudity, nor matted hair, nor mud, nor fasting, nor lying on bare ground, nor wearing dust and dirt, or squatting on the heels, will cleanse a mortal not free of doubt."
 
 msgid "142"
-msgstr "Dressed up they may be, but if they live well—peaceful, tamed, committed to the spiritual path, having laid aside violence towards all creatures— they are a brahmin, an ascetic, a mendicant."
+msgstr "Dressed up they may be, but if they live wellpeaceful, tamed, committed to the spiritual path, having laid aside violence towards all creatures they are a brahmin, an ascetic, a mendicant."
 
 msgid "143"
 msgstr "Can a person constrained by conscience be found in the world? Who shies away from blame, like a fine horse from the whip?"
@@ -475,7 +475,7 @@ msgid "144"
 msgstr "Like a fine horse under the whip, be keen and full of urgency. With faith, ethics, and energy, immersion, and investigation of principles, accomplished in knowledge and conduct, mindful, give up this vast suffering."
 
 msgid "145"
-msgstr "While irrigators guide water, fletchers shape arrows, and carpenters carve timber — those true to their vows tame themselves."
+msgstr "While irrigators guide water, fletchers shape arrows, and carpenters carve timber  those true to their vows tame themselves."
 
 msgid "chap11"
 msgstr "Old Age"
@@ -490,16 +490,16 @@ msgid "148"
 msgstr "This body is decrepit and frail, a nest of disease. This foul carcass falls apart, for life ends in death."
 
 msgid "149"
-msgstr "These dove-grey bones are tossed away like dried gourds in the autumn— what joy is there in such a sight?"
+msgstr "These dove-grey bones are tossed away like dried gourds in the autumn what joy is there in such a sight?"
 
 msgid "150"
 msgstr "In this city built of bones, plastered with flesh and blood, old age and death are stashed away, along with conceit and contempt."
 
 msgid "151"
-msgstr "Fancy chariots of kings wear out, and even this body gets old. But the truth of the good never gets old—so the good proclaim to the good."
+msgstr "Fancy chariots of kings wear out, and even this body gets old. But the truth of the good never gets oldso the good proclaim to the good."
 
 msgid "152"
-msgstr "A person of little learning ages like an ox— their flesh grows, but not their wisdom."
+msgstr "A person of little learning ages like an ox their flesh grows, but not their wisdom."
 
 msgid "153"
 msgstr "Transmigrating through countless rebirths, I've journeyed without reward, searching for the house-builder; painful is birth again and again."
@@ -538,7 +538,7 @@ msgid "163"
 msgstr "It's easy to do bad things harmful to oneself, but good things that are helpful are the hardest things to do."
 
 msgid "164"
-msgstr "On account of wicked views—scorning the guidance of the perfected ones, the noble ones living righteously—the idiot begets their own self's demise, like the bamboo bearing fruit."
+msgstr "On account of wicked viewsscorning the guidance of the perfected ones, the noble ones living righteouslythe idiot begets their own self's demise, like the bamboo bearing fruit."
 
 msgid "165"
 msgstr "For it is by oneself that evil's done, one is corrupted by oneself. It's by oneself that evil's not done, one is purified by oneself. Purity and impurity are personal matters, no one can purify another."
@@ -577,7 +577,7 @@ msgid "175"
 msgstr "Swans fly by the sun's path, psychic sages fly through space. The attentive leave the world, having vanquished Māra with his legions."
 
 msgid "176"
-msgstr "When a personage, spurning the hereafter, transgresses in just one thing— lying—there is no evil they would not do."
+msgstr "When a personage, spurning the hereafter, transgresses in just one thing lyingthere is no evil they would not do."
 
 msgid "177"
 msgstr "The miserly don't ascend to heaven, it takes a fool to not praise giving. The attentive celebrate giving, and so find happiness in the hereafter."
@@ -607,7 +607,7 @@ msgid "184"
 msgstr "Patient acceptance is the ultimate fervor. Extinguishment is the ultimate, say the Buddhas. No true renunciate injures another, nor does an ascetic hurt another."
 
 msgid "185"
-msgstr "Not speaking ill nor doing harm; restraint in the monastic code; moderation in eating; staying in remote lodgings; commitment to the higher mind—this is the instruction of the Buddhas."
+msgstr "Not speaking ill nor doing harm; restraint in the monastic code; moderation in eating; staying in remote lodgings; commitment to the higher mindthis is the instruction of the Buddhas."
 
 msgid "186"
 msgstr "Even if it were raining money, you'd not be sated in sensual pleasures. An astute person understands that sensual pleasures offer little gratification and much suffering."
@@ -637,10 +637,10 @@ msgid "194"
 msgstr "Happy, the arising of Buddhas! Happy, the teaching of Dhamma! Happy is the harmony of the Saṅgha, and the striving of the harmonious is happy."
 
 msgid "195"
-msgstr "When a person venerates the worthy—the Buddha or his disciple, who have transcended proliferation, and have left behind grief and lamentation,"
+msgstr "When a person venerates the worthythe Buddha or his disciple, who have transcended proliferation, and have left behind grief and lamentation,"
 
 msgid "196"
-msgstr "quenched, fearing nothing from any quarter—the merit of one venerating such as these, cannot be calculated by anyone, saying it is just this much."
+msgstr "quenched, fearing nothing from any quarterthe merit of one venerating such as these, cannot be calculated by anyone, saying it is just this much."
 
 msgid "chap15"
 msgstr "Happiness"
@@ -670,7 +670,7 @@ msgid "204"
 msgstr "Health is the ultimate blessing; contentment, the ultimate wealth; trust is the ultimate family; extinguishment, the ultimate happiness."
 
 msgid "205"
-msgstr "Having drunk the nectar of seclusion and the nectar of peace— free of stress, free of evil, drink the joyous nectar of truth."
+msgstr "Having drunk the nectar of seclusion and the nectar of peace free of stress, free of evil, drink the joyous nectar of truth."
 
 msgid "206"
 msgstr "It's good to see the noble ones, staying with them is always good. Were you not to see fools, you'd always be happy."
@@ -874,7 +874,7 @@ msgid "268"
 msgstr "You don't become a sage by being sagelike, while still confused and ignorant. The astute one who holds the scales, taking only the best,"
 
 msgid "269"
-msgstr "and shunning the bad—that is a sage, and that is how one becomes a sage. One who sagely weighs both in the world, is thereby said to be a sage."
+msgstr "and shunning the badthat is a sage, and that is how one becomes a sage. One who sagely weighs both in the world, is thereby said to be a sage."
 
 msgid "270"
 msgstr "You don't become a noble one by harming living beings. One harmless towards all living beings is said to be a noble one."
@@ -901,13 +901,13 @@ msgid "276"
 msgstr "You yourselves must do the work, the Realized Ones just show the way. Meditators practicing absorption are released from Māra's bonds."
 
 msgid "277"
-msgstr "All conditions are impermanent—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
+msgstr "All conditions are impermanentwhen this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
 
 msgid "278"
-msgstr "All conditions are suffering—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
+msgstr "All conditions are sufferingwhen this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
 
 msgid "279"
-msgstr "All things are not-self—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
+msgstr "All things are not-selfwhen this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity."
 
 msgid "280"
 msgstr "They don't get going when it's time to start; they're young and strong, but given to sloth. Their mind depressed in sunken thought, lazy and slothful, they can't discern the path."
@@ -916,7 +916,7 @@ msgid "281"
 msgstr "Guarded in speech, restrained in mind, doing no unskillful bodily deed. Purify these three ways of performing deeds, and win the path known to seers."
 
 msgid "282"
-msgstr "From meditation springs wisdom, without meditation, wisdom ends. Knowing these two paths—of progress and decline— you should conduct yourself so that wisdom grows."
+msgstr "From meditation springs wisdom, without meditation, wisdom ends. Knowing these two pathsof progress and decline you should conduct yourself so that wisdom grows."
 
 msgid "283"
 msgstr "Cut down the jungle, not just a tree; from the jungle springs fear. Having cut down jungle and snarl, be free of jungles, mendicants!"
@@ -1021,7 +1021,7 @@ msgid "314"
 msgstr "A bad deed is better left undone, for it will plague you later on. A good deed is better done, one that does not plague you."
 
 msgid "315"
-msgstr "As a frontier city is guarded inside and out, so you should ward yourselves— don't let the moment pass you by. For if you miss your moment you'll grieve when sent to hell."
+msgstr "As a frontier city is guarded inside and out, so you should ward yourselves don't let the moment pass you by. For if you miss your moment you'll grieve when sent to hell."
 
 msgid "316"
 msgstr "Unashamed of what is shameful, ashamed of what is not shameful; beings who uphold wrong view go to a bad place."
@@ -1201,7 +1201,7 @@ msgid "371"
 msgstr "Practice absorption, don't be negligent! Don't let the mind delight in the senses! Don't heedlessly swallow a hot iron ball! And when it burns, don't cry, 'Oh, the pain!'"
 
 msgid "372"
-msgstr "No absorption for one without wisdom, no wisdom for one without absorption. But one with absorption and wisdom—they have truly drawn near to extinguishment."
+msgstr "No absorption for one without wisdom, no wisdom for one without absorption. But one with absorption and wisdomthey have truly drawn near to extinguishment."
 
 msgid "373"
 msgstr "A mendicant who enters an empty hut with mind at peace finds a superhuman delight as they rightly discern the Dhamma."

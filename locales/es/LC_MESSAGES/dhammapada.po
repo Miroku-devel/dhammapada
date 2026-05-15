@@ -340,7 +340,7 @@ msgid "101"
 msgstr "Mejor que mil versos de palabras inútiles, es uno con una simple y beneficiosa línea que al escucharla uno se serene."
 
 msgid "102"
-msgstr "Mejor es una simple palabra de la Doctrina —que pacifica al que la oye— que cien versos de innumerables palabras."
+msgstr "Mejor es una simple palabra de la Doctrina que pacifica al que la oye que cien versos de innumerables palabras."
 
 msgid "103"
 msgstr "Más grande que la conquista en batalla de mil veces mil hombres es la conquista de uno mismo."
@@ -1120,7 +1120,7 @@ msgid "345"
 msgstr "Aquello que es fuerte no es la atadura hecha de hierro, madera o cuerda, sino el apego a piedras preciosas y adornos, el anhelo de mujer e hijos; tal es la gran atadura."
 
 msgid "346"
-msgstr "La atadura es fuerte, dicen los sabios. Pero incluso esta atadura que amarra a los seres —que se afloja, pero tan difícil es de cortar totalmente—, los sabios acaban cortándola definitivamente y, abandonando los placeres de los sentidos, libres de anhelos, renuncian."
+msgstr "La atadura es fuerte, dicen los sabios. Pero incluso esta atadura que amarra a los seres que se afloja, pero tan difícil es de cortar totalmente, los sabios acaban cortándola definitivamente y, abandonando los placeres de los sentidos, libres de anhelos, renuncian."
 
 msgid "347"
 msgstr "Aquellos que están infatuados con la codicia penetran en una corriente que les atrapa como la tela que la araña ha tejido de sí misma. Por esta razón, el sabio corta con todo ello y se aleja abandonando toda tribulación."

@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Umysł poprzedza wszelkie myśli. Umysł jest ich zwierzchnikiem; umysł je kształtuje. Gdy ktoś mówi lub działa z czystym umysłem, szczęście podąża za taką osobą niczym nieopuszczający jej własny cień."
 
 msgid "3"
-msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie' — kto utrzymuje podobne myśli, nie uspokoi swej nienawiści."
+msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie'  kto utrzymuje podobne myśli, nie uspokoi swej nienawiści."
 
 msgid "4"
-msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie' — kto nie utrzymuje podobnych myśli, uspokaja swą nienawiść."
+msgstr "'Skrzywdził mnie, uderzył mnie, pokonał mnie, ograbił mnie'  kto nie utrzymuje podobnych myśli, uspokaja swą nienawiść."
 
 msgid "5"
 msgstr "Nienawiści w tym świecie nigdy nie uspokoi się nienawiścią; jedynie przez nie-nienawiść nienawiść się uspokaja. To jest Odwieczne Prawo."
@@ -70,10 +70,10 @@ msgid "18"
 msgstr "Sprawca dobra zachwyca się teraz i w następnym życiu; raduje się w obu światach. Myśl: 'Uczyniłem dobro' zachwyca go, a jeszcze bardziej zachwyca, gdy już odszedł do krainy cienia."
 
 msgid "19"
-msgstr "Nawet jeśli ktoś recytuje święte teksty, lecz nie działa z nimi w zgodzie, to taki nieuważny człowiek jest niczym pasterz, który liczy jedynie cudze krowy — nie uczestniczy w błogosławieństwach świętego życia."
+msgstr "Nawet jeśli ktoś recytuje święte teksty, lecz nie działa z nimi w zgodzie, to taki nieuważny człowiek jest niczym pasterz, który liczy jedynie cudze krowy  nie uczestniczy w błogosławieństwach świętego życia."
 
 msgid "20"
-msgstr "Nawet jeśli ktoś rzadko recytuje święte teksty, lecz stosuje Naukę w praktyce, porzucając żądze, nienawiść i ułudę, z prawdziwą mądrością i oswobodzonym umysłem, nie trzymając się kurczowo niczego ani w tym świecie, ani w żadnym innym — ktoś taki prawdziwie uczestniczy w błogosławieństwach świętego życia."
+msgstr "Nawet jeśli ktoś rzadko recytuje święte teksty, lecz stosuje Naukę w praktyce, porzucając żądze, nienawiść i ułudę, z prawdziwą mądrością i oswobodzonym umysłem, nie trzymając się kurczowo niczego ani w tym świecie, ani w żadnym innym  ktoś taki prawdziwie uczestniczy w błogosławieństwach świętego życia."
 
 msgid "chap2"
 msgstr "Uważność"
@@ -106,7 +106,7 @@ msgid "29"
 msgstr "Uważny wśród nieuważnych, w pełni przebudzony pośród śpiących, mędrzec postępuje naprzód niczym rączy rumak, co pozostawia za sobą marne wierzchowce."
 
 msgid "30"
-msgstr "Przez swoją czujność Indra został zwierzchnikiem bogów. Uważność zawsze jest godna pochwały, a nieuważność — zawsze pogardy."
+msgstr "Przez swoją czujność Indra został zwierzchnikiem bogów. Uważność zawsze jest godna pochwały, a nieuważność  zawsze pogardy."
 
 msgid "31"
 msgstr "Mnich, który rozkoszuje się uważnością, a lęka nieuważności, postępuje naprzód niczym ogień przepalający wszelkie więzy, zarówno drobne, jak i wielkie."
@@ -118,7 +118,7 @@ msgid "chap3"
 msgstr "Umysł"
 
 msgid "33"
-msgstr "Tak jak wytwórca strzał prostuje strzałę, tak też uważny człowiek prostuje swój umysł — jakże rozbiegany i niestały, jakże trudny do upilnowania i opanowania."
+msgstr "Tak jak wytwórca strzał prostuje strzałę, tak też uważny człowiek prostuje swój umysł  jakże rozbiegany i niestały, jakże trudny do upilnowania i opanowania."
 
 msgid "34"
 msgstr "Jak ryba wyciągnięta z wody i wyrzucona na ziemię, co rzuca się i szamocze, taki jest rozgorączkowany umysł. Winno się więc opuścić sferę żądz."
@@ -145,7 +145,7 @@ msgid "41"
 msgstr "Niebawem, ach! To ciało spocznie na ziemi pozbawione opieki i życia, niczym zbędna kłoda."
 
 msgid "42"
-msgstr "Cokolwiek by uczynił wróg wrogowi czy ktoś pełen nienawiści innemu — źle nakierowany umysł wyrządza człowiekowi dalece większą krzywdę."
+msgstr "Cokolwiek by uczynił wróg wrogowi czy ktoś pełen nienawiści innemu  źle nakierowany umysł wyrządza człowiekowi dalece większą krzywdę."
 
 msgid "43"
 msgstr "Ani matka, ani ojciec, ani żaden inny krewny nie może przynieść człowiekowi większego dobra niż jego własny, dobrze nakierowany umysł."
@@ -172,13 +172,13 @@ msgid "49"
 msgstr "Tak jak pszczoła zbiera miód z kwiatu, nie niszcząc ani jego barwy, ani zapachu, tak mędrzec obchodzi wioskę prosząc o ofiary."
 
 msgid "50"
-msgstr "Niech nikt nie wynajduje błędów u innych; niech nie wypatruje zaniedbań i złych postępków u innych. Niech widzi swe własne czyny — co zrobił, a czego nie uczynił."
+msgstr "Niech nikt nie wynajduje błędów u innych; niech nie wypatruje zaniedbań i złych postępków u innych. Niech widzi swe własne czyny  co zrobił, a czego nie uczynił."
 
 msgid "51"
-msgstr "Niczym piękny kwiat, pełen barw, lecz pozbawiony zapachu — tak bezowocne są piękne słowa kogoś, kto nie postępuje zgodnie z nimi."
+msgstr "Niczym piękny kwiat, pełen barw, lecz pozbawiony zapachu  tak bezowocne są piękne słowa kogoś, kto nie postępuje zgodnie z nimi."
 
 msgid "52"
-msgstr "Niczym piękny kwiat, pełen barw i zapachu — tak owocne są piękne słowa kogoś, kto zgodnie z nimi postępuje."
+msgstr "Niczym piękny kwiat, pełen barw i zapachu  tak owocne są piękne słowa kogoś, kto zgodnie z nimi postępuje."
 
 msgid "53"
 msgstr "Tak jak z wielkiej sterty kwiatów można zrobić wiele girland, tak też ten, kto urodził się śmiertelnym, winien dokonać wielu dobrych czynów."
@@ -187,7 +187,7 @@ msgid "54"
 msgstr "Pod wiatr nie popłynie słodki zapach kwiatów, aromat drzewa sandałowego, tagary czy jaśminu. Lecz aromat tego, co cnotliwe, popłynie nawet pod wiatr. Człowiek cnotliwy prawdziwie nasyca wszystkie kierunki aromatem swej prawości."
 
 msgid "55"
-msgstr "Z wszystkich wonnych zapachów — sandału, tagary, błękitnego lotosu i jaśminu — aromat cnoty jest najsłodszy."
+msgstr "Z wszystkich wonnych zapachów  sandału, tagary, błękitnego lotosu i jaśminu  aromat cnoty jest najsłodszy."
 
 msgid "56"
 msgstr "Delikatny jest zapach tagary i sandału, lecz aromat tego, co cnotliwe, jest najwspanialszy, roznosząc się nawet wśród bogów."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Głupiec poszukuje niezasłużonego rozgłosu, pierwszeństwa wśród mnichów, zwierzchności nad klasztorami i zaszczytów od ludzi świeckich."
 
 msgid "74"
-msgstr "'Niech i mnisi, i ludzie świeccy myślą, iż ja tego dokonałem. Niech we wszystkich sprawach, i dużych, i drobnych, podążają za mną' — takie są ambicje głupca; tak wzbierają jego żądze i duma."
+msgstr "'Niech i mnisi, i ludzie świeccy myślą, iż ja tego dokonałem. Niech we wszystkich sprawach, i dużych, i drobnych, podążają za mną'  takie są ambicje głupca; tak wzbierają jego żądze i duma."
 
 msgid "75"
 msgstr "Czym innym jest poszukiwanie światowych zysków, a czymś zupełnie innym ścieżka ku Nibbanie. Niech mnich, uczeń Buddy, jasno to pojmując, nie da się zwieść świeckim honorom, lecz niech zamiast tego rozwija w sobie brak przywiązania do ziemskich spraw."
@@ -295,22 +295,22 @@ msgid "88"
 msgstr "Porzuciwszy przyjemności zmysłów, wolny od przywiązań, mędrzec winien oczyszczać się ze skalań umysłu."
 
 msgid "89"
-msgstr "Ci, których umysły osiągnęły pełną doskonałość w tym, co prowadzi do oświecenia, którzy wyrzekłszy się zachłanności, radują się nieczepianiem się niczego — uwolnieni od niszczycielskich wpływów jaśnieją mądrością i osiągnęli Nibbanę w tym właśnie życiu."
+msgstr "Ci, których umysły osiągnęły pełną doskonałość w tym, co prowadzi do oświecenia, którzy wyrzekłszy się zachłanności, radują się nieczepianiem się niczego  uwolnieni od niszczycielskich wpływów jaśnieją mądrością i osiągnęli Nibbanę w tym właśnie życiu."
 
 msgid "chap7"
 msgstr "Doskonały"
 
 msgid "90"
-msgstr "Dla kogoś, kto dopełnił swej podróży, kto jest wolny od smutku, całkowicie wyzwolony i zerwał wszelkie krępujące więzy — nie istnieje już gorączka namiętności."
+msgstr "Dla kogoś, kto dopełnił swej podróży, kto jest wolny od smutku, całkowicie wyzwolony i zerwał wszelkie krępujące więzy  nie istnieje już gorączka namiętności."
 
 msgid "91"
 msgstr "Ludzie rozumni ponaglają sami siebie. Nieprzywiązani do żadnego domu pozostawiają za sobą jeden po drugim, niczym łabędzie porzucające jeziora."
 
 msgid "92"
-msgstr "Tych, co nie gromadzą rzeczy i są rozumni co do pożywienia, których celem jest Pustka, niczym nieuwarunkowana wolność — ich szlaków, tak jak śladów ptaków w powietrzu, nie da się wyśledzić."
+msgstr "Tych, co nie gromadzą rzeczy i są rozumni co do pożywienia, których celem jest Pustka, niczym nieuwarunkowana wolność  ich szlaków, tak jak śladów ptaków w powietrzu, nie da się wyśledzić."
 
 msgid "93"
-msgstr "Kto usunął niszczące skalania i kto nie jest przywiązany do pożywienia, kto ma za swój cel Pustkę, niczym nieuwarunkowaną wolność — tego ścieżki, tak jak śladów ptaków w powietrzu, nie da się wytropić."
+msgstr "Kto usunął niszczące skalania i kto nie jest przywiązany do pożywienia, kto ma za swój cel Pustkę, niczym nieuwarunkowaną wolność  tego ścieżki, tak jak śladów ptaków w powietrzu, nie da się wytropić."
 
 msgid "94"
 msgstr "Nawet bogowie cenią ludzi mądrych, których zmysły są opanowane niczym konie dobrze ujeżdżone przez woźnicę rydwanu, których duma została usunięta i którzy są uwolnieni od niszczycielskich skalań."
@@ -322,7 +322,7 @@ msgid "96"
 msgstr "Spokojne są myśli, spokojna jest mowa i spokojne są czyny tego, kto prawdziwie wiedząc, jest całkowicie wolny, doskonale spokojny i mądry."
 
 msgid "97"
-msgstr "Człowiek, który jest wolny od ślepej wiary, który zna to, co nie zostało stworzone, przeciął wszelkie krępujące więzy, usunął wszelkie przyczyny i który odrzucił wszelkie pożądanie — jest prawdziwie najwybitniejszym z ludzi."
+msgstr "Człowiek, który jest wolny od ślepej wiary, który zna to, co nie zostało stworzone, przeciął wszelkie krępujące więzy, usunął wszelkie przyczyny i który odrzucił wszelkie pożądanie  jest prawdziwie najwybitniejszym z ludzi."
 
 msgid "98"
 msgstr "Prawdziwie inspirujące jest miejsce, gdzie przebywają Arahatowie, czy to wioska czy las, czy dolina czy też wzgórze."
@@ -358,7 +358,7 @@ msgid "107"
 msgstr "Gdyby ktoś przez cały wiek podtrzymywał w lesie ofiarny ogień, a inny tylko przez chwilę czcił tych, co rozwinęli swój umysł, to cześć oddana przez tego drugiego jest naprawdę lepsza niż stulecie ofiar."
 
 msgid "108"
-msgstr "Czego by nie ofiarował przez cały rok ktoś poszukujący zasług w tym świecie — nie byłoby to warte nawet czwartej części prawdziwie wspaniałej zasługi, zyskiwanej przez oddawanie czci Szlachetnym."
+msgstr "Czego by nie ofiarował przez cały rok ktoś poszukujący zasług w tym świecie  nie byłoby to warte nawet czwartej części prawdziwie wspaniałej zasługi, zyskiwanej przez oddawanie czci Szlachetnym."
 
 msgid "109"
 msgstr "Kto, zawsze gorliwy, poważa starszych i służy im, tego spotykają cztery błogosławieństwa: długie życie i uroda, szczęście i moc."
@@ -406,7 +406,7 @@ msgid "122"
 msgstr "Nie lekceważ dobra, mówiąc: 'To mi nic nie da'. Kropla po kropli napełnia się dzban wodą, i podobnie mądry człowiek, gromadząc dobro po trochę, cały się nim wypełnia."
 
 msgid "123"
-msgstr "Jak kupiec z niewielką eskortą i cennymi towarami unika niebezpiecznego szlaku albo jak ktoś, komu życie miłe, unika trucizny — tak powinno się unikać zła."
+msgstr "Jak kupiec z niewielką eskortą i cennymi towarami unika niebezpiecznego szlaku albo jak ktoś, komu życie miłe, unika trucizny  tak powinno się unikać zła."
 
 msgid "124"
 msgstr "Jeśli dłoń jest wolna od ran, można w nią brać nawet truciznę. Trucizna nie dosięgnie kogoś wolnego od ran, a dla wolnego od zła nie ma rzeczy niewłaściwych."
@@ -466,13 +466,13 @@ msgid "141"
 msgstr "Ani chodzenie bez okrycia, ani zmierzwione włosy, ani znoszenie brudu, ani głodowanie, ani leżenie na ziemi, ani posypywanie się popiołem i kurzem, ani przesiadywanie na własnych piętach nie może oczyścić śmiertelnika, który nie pokonał niestałości umysłu."
 
 msgid "142"
-msgstr "Ktoś może nosić bogate stroje, lecz jeśli jest zrównoważony, spokojny, opanowany i ugruntowany w świętym życiu, i jeśli odrzucił przemoc wobec wszelkich istot — to jest prawdziwym świętym, kimś, kto się wyrzekł, mnichem."
+msgstr "Ktoś może nosić bogate stroje, lecz jeśli jest zrównoważony, spokojny, opanowany i ugruntowany w świętym życiu, i jeśli odrzucił przemoc wobec wszelkich istot  to jest prawdziwym świętym, kimś, kto się wyrzekł, mnichem."
 
 msgid "143"
 msgstr "Rzadko zdarza się na tym świecie ktoś, kim kieruje skromność i kto unika nagany, tak jak koń pełnej krwi, co nie potrzebuje bata."
 
 msgid "144"
-msgstr "Niczym koń pełnej krwi trącony batem, natężaj się, niech wypełnia cię duchowa tęsknota. Przez wiarę i moralną czystość, wysiłek i medytację, dociekanie prawdy, bogactwo nauki i cnót oraz uważność — zniszcz to niezmierzone cierpienie."
+msgstr "Niczym koń pełnej krwi trącony batem, natężaj się, niech wypełnia cię duchowa tęsknota. Przez wiarę i moralną czystość, wysiłek i medytację, dociekanie prawdy, bogactwo nauki i cnót oraz uważność  zniszcz to niezmierzone cierpienie."
 
 msgid "145"
 msgstr "Budowniczowie kanałów regulują bieg wód; wytwórcy strzał prostują je; cieśle nadają kształt drewnu; ludzie dobrzy panują nad sobą."
@@ -484,7 +484,7 @@ msgid "146"
 msgstr "Gdy ten świat nieustannie płonie, jakże się śmiać, jakże szukać uciech? Spowity przez ciemność, czemu nie poszukujesz światła?"
 
 msgid "147"
-msgstr "Zważ na to ciało, malowaną figurę, nagromadzoną masę ran — niezdrowe, pełne pożądań, bez niczego stałego czy trwałego."
+msgstr "Zważ na to ciało, malowaną figurę, nagromadzoną masę ran  niezdrowe, pełne pożądań, bez niczego stałego czy trwałego."
 
 msgid "148"
 msgstr "Zużyte ciało, kruche gniazdo chorób. Gnijąca masa rozpada się, gdyż śmierć jest kresem życia."
@@ -538,10 +538,10 @@ msgid "163"
 msgstr "Łatwo robić rzeczy, które są dla nas złe i szkodliwe, lecz niezmiernie trudno czynić rzeczy, które są dobre i korzystne."
 
 msgid "164"
-msgstr "Kto z powodu zdeprawowanych poglądów szkaluje nauki Arahatów, Szlachetnych wiodących prawe życie — ten głupiec, niczym trzcina bambusowa, wydaje jedynie owoce swej własnej zguby."
+msgstr "Kto z powodu zdeprawowanych poglądów szkaluje nauki Arahatów, Szlachetnych wiodących prawe życie  ten głupiec, niczym trzcina bambusowa, wydaje jedynie owoce swej własnej zguby."
 
 msgid "165"
-msgstr "Samemu czyni się zło, samemu sprowadza się na siebie skalania. Samemu można zło odwrócić, samemu można samego siebie oczyścić. Czystość i nieczystość zależą od nas samych — nikt nie może oczyścić drugiego."
+msgstr "Samemu czyni się zło, samemu sprowadza się na siebie skalania. Samemu można zło odwrócić, samemu można samego siebie oczyścić. Czystość i nieczystość zależą od nas samych  nikt nie może oczyścić drugiego."
 
 msgid "166"
 msgstr "Niech nikt nie zaniedbuje własnego dobra na rzecz czyjegoś dobra, jakkolwiek wielkiego. Jasno rozumiejąc swój własny dobrobyt, winno się być nastawionym na czynienie dobra."
@@ -583,7 +583,7 @@ msgid "177"
 msgstr "Skąpcy nie trafiają do krainy niebieskiej, głupcy nie pochwalają szczodrości. Lecz człowiek mądry raduje się obdarowywaniem innych i już przez to tylko staje się szczęśliwym w przyszłym życiu."
 
 msgid "178"
-msgstr "Lepsze niż władztwo nad całą ziemią, lepsze niż pójście do nieba, lepsze nawet niż panowanie nad wszystkimi światami — jest spełnienie się wejścia w Strumień."
+msgstr "Lepsze niż władztwo nad całą ziemią, lepsze niż pójście do nieba, lepsze nawet niż panowanie nad wszystkimi światami  jest spełnienie się wejścia w Strumień."
 
 msgid "chap14"
 msgstr "Budda"
@@ -595,19 +595,19 @@ msgid "180"
 msgstr "Na której ze ścieżek wytropiłbyś nieskrępowanego żadnymi utartymi szlakami Buddę o nieograniczonej wolności, w którym nie ma już więcej pożądań podtrzymujących odradzanie się, i pragnień, co wikłają i zaplątują?"
 
 msgid "181"
-msgstr "Ludzi mądrych, którzy poświęcają się medytacji i rozkoszują się spokojem wyrzeczenia — takich uważnych, Najszlachetniejszych Buddów poważają nawet bogowie."
+msgstr "Ludzi mądrych, którzy poświęcają się medytacji i rozkoszują się spokojem wyrzeczenia  takich uważnych, Najszlachetniejszych Buddów poważają nawet bogowie."
 
 msgid "182"
 msgstr "Trudno narodzić się jako człowiek, trudno jest żyć istocie śmiertelnej. Trudno jest mieć okazję usłyszenia Głębokiej Prawdy i prawdziwie trudno jest doświadczyć pojawienia się Buddów."
 
 msgid "183"
-msgstr "Unikaj zła, podtrzymuj dobro, oczyszczaj swój umysł — oto nauka Buddów."
+msgstr "Unikaj zła, podtrzymuj dobro, oczyszczaj swój umysł  oto nauka Buddów."
 
 msgid "184"
 msgstr "Wytrwała cierpliwość to najlepszy rodzaj surowej prostoty. 'Nibbana jest najwspanialsza', mówi Budda. Nie jest prawdziwym mnichem ten, kto krzywdzi innych; nie wyrzekł się prawdziwie świata ktoś, kto gnębi innych."
 
 msgid "185"
-msgstr "Unikanie pogardy, unikanie krzywdzenia innych, powściągliwość zgodna z zasadami dyscypliny klasztornej, umiarkowanie w jedzeniu, życie w samotności, poświęcenie się medytacji — oto nauka Buddów."
+msgstr "Unikanie pogardy, unikanie krzywdzenia innych, powściągliwość zgodna z zasadami dyscypliny klasztornej, umiarkowanie w jedzeniu, życie w samotności, poświęcenie się medytacji  oto nauka Buddów."
 
 msgid "186"
 msgstr "Nawet deszczem złotych monet nie zaspokoi się pragnień zmysłowych, gdyż rozkosze zmysłów niosą niewiele zadowolenia, a wiele bólu."
@@ -616,7 +616,7 @@ msgid "187"
 msgstr "Pojąwszy to, mędrcy nie zachwycają się nawet niebiańskimi rozkoszami. Uczeń Najwyższego Buddy zachwyca się wykorzenieniem pożądań."
 
 msgid "188"
-msgstr "Ludzie wiedzeni strachem chronią się w wielu miejscach — na wzgórzach, w lasach, w gajach, na drzewach i w świątyniach."
+msgstr "Ludzie wiedzeni strachem chronią się w wielu miejscach  na wzgórzach, w lasach, w gajach, na drzewach i w świątyniach."
 
 msgid "189"
 msgstr "Nie są to bezpieczne schronienia; nie są to najdoskonalsze schronienia. To nie w takich schronieniach można uwolnić się od całego cierpienia."
@@ -637,7 +637,7 @@ msgid "194"
 msgstr "Dobroczynne są narodziny Buddy; dobroczynne jest głoszenie świętej Nauki; dobroczynna jest Harmonia w Zakonie; dobroczynne i błogosławione jest duchowe dążenie zjednoczonych poszukiwaczy prawdy."
 
 msgid "195"
-msgstr "Kto czci godnych czczenia, Buddów i ich uczniów, którzy przekroczyli wszelkie przeszkody i przeszli poza zasięg smutku i rozpaczy —"
+msgstr "Kto czci godnych czczenia, Buddów i ich uczniów, którzy przekroczyli wszelkie przeszkody i przeszli poza zasięg smutku i rozpaczy "
 
 msgid "196"
 msgstr "kto poważa tych pełnych pokoju i nieustraszonych ludzi, tego zasług nie da się zmierzyć żadną miarą."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "Ludziom drogi jest ten, kto ucieleśnia cnotę i prawdziwy wgląd, kto przestrzega zasad, kto urzeczywistnił Prawdę i sam czyni to, co powinien czynić."
 
 msgid "218"
-msgstr "Kto jest nastawiony na to, co Niewysłowione i trwa z umysłem natchnionym, ten — już nie krępowany przez przyjemności zmysłowe — zwany jest 'Kroczącym w Górę Strumienia'."
+msgstr "Kto jest nastawiony na to, co Niewysłowione i trwa z umysłem natchnionym, ten  już nie krępowany przez przyjemności zmysłowe  zwany jest 'Kroczącym w Górę Strumienia'."
 
 msgid "219"
 msgstr "Kiedy po długiej nieobecności człowiek bezpiecznie powraca z daleka, jego krewni, przyjaciele i ludzie dobrze mu życzący witają go z powrotem w jego domu."
@@ -733,13 +733,13 @@ msgid "223"
 msgstr "Zwyciężaj gniewnego nie-gniewem; zwyciężaj złego dobrocią; zwyciężaj skąpego szczodrością; zwyciężaj kłamcę prawdą."
 
 msgid "224"
-msgstr "Mów prawdę; nie ulegaj gniewowi; poproszony — dawaj, nawet jeśli masz niewiele. Dzięki tym trzem — można znaleźć się wśród bogów."
+msgstr "Mów prawdę; nie ulegaj gniewowi; poproszony  dawaj, nawet jeśli masz niewiele. Dzięki tym trzem  można znaleźć się wśród bogów."
 
 msgid "225"
 msgstr "Ci mędrcy, którzy nikogo nie krzywdzą i zawsze panują nad swymi ciałami, idą do Krainy, która jest poza śmiercią, gdzie już nigdy nie doznają żalu."
 
 msgid "226"
-msgstr "Ci, którzy są zawsze czujni, którzy dniem i nocą przestrzegają dyscypliny i zawsze dążą do Nibbany — usuwają swe skalania."
+msgstr "Ci, którzy są zawsze czujni, którzy dniem i nocą przestrzegają dyscypliny i zawsze dążą do Nibbany  usuwają swe skalania."
 
 msgid "227"
 msgstr "O Atulo! Jest to naprawdę stara sprawa, nie tycząca się jedynie obecnych czasów: winią tych, którzy pozostają niemi, winią tych, którzy wiele mówią, winią tych, którzy mówią z umiarem. Nie ma na tym świecie nikogo, kto by nie był obwiniany."
@@ -802,7 +802,7 @@ msgid "245"
 msgstr "Trudne jest życie kogoś skromnego, kto zawsze szuka czystości, ustępuje innym i jest niepozorny, wiedzie czyste życie i jest uważny."
 
 msgid "246"
-msgstr "Kto niszczy życie, kłamie, bierze, co nie jest mu dane, odwiedza żony innych mężczyzn i używa oszałamiających trunków —"
+msgstr "Kto niszczy życie, kłamie, bierze, co nie jest mu dane, odwiedza żony innych mężczyzn i używa oszałamiających trunków "
 
 msgid "247"
 msgstr "taki ktoś podkopuje swe korzenie już na tym świecie."
@@ -823,7 +823,7 @@ msgid "252"
 msgstr "Łatwo widzi się błędy innych, lecz trudno dostrzec własne. Błędy innych rozdmuchuje się niczym plewy z ziarna, lecz własne skrywa się tak, jak zręczny myśliwy maskuje się za ściętymi gałęziami."
 
 msgid "253"
-msgstr "Kto zawsze wyszukuje błędy u innych, kto jest zawsze krytyczny — ten tylko rozwija swe własne skazy. Jest daleki od ich usuwania."
+msgstr "Kto zawsze wyszukuje błędy u innych, kto jest zawsze krytyczny  ten tylko rozwija swe własne skazy. Jest daleki od ich usuwania."
 
 msgid "254"
 msgstr "Nie ma drogi gdzieś na niebie ani schronienia gdzieś na zewnątrz poza naukami buddyjskimi. Zwykli ludzie lubują się w sprawach ziemskich, lecz Buddowie są od nich wolni."
@@ -850,28 +850,28 @@ msgid "260"
 msgstr "Nie nazywamy mnicha Czcigodnym Starszym tylko z tego powodu, że jego włosy są siwe; jeśli dojrzały jest jedynie wiekiem, zwany jest kimś, kto zestarzał się na próżno."
 
 msgid "261"
-msgstr "W kim żyje prawdomówność, cnota, łagodność, powściągliwość i samoopanowanie, kto jest wolny od skalań i mądry — tego prawdziwie zwiemy Czcigodnym Starszym."
+msgstr "W kim żyje prawdomówność, cnota, łagodność, powściągliwość i samoopanowanie, kto jest wolny od skalań i mądry  tego prawdziwie zwiemy Czcigodnym Starszym."
 
 msgid "262"
 msgstr "Nie poprzez elokwencję czy piękno ciała człowiek staje się doskonałym, gdy jest przy tym zazdrosny, samolubny i zwodniczy."
 
 msgid "263"
-msgstr "Lecz w kim tamte złe cechy zostały usunięte, wykorzenione i wygasły, kto odrzucił nienawiść — ten mądry człowiek jest prawdziwie doskonały."
+msgstr "Lecz w kim tamte złe cechy zostały usunięte, wykorzenione i wygasły, kto odrzucił nienawiść  ten mądry człowiek jest prawdziwie doskonały."
 
 msgid "264"
 msgstr "Człowiek, który jest niezdyscyplinowany i fałszywy, nie staje się mnichem poprzez zgolenie głowy. Jakże mógłby być mnichem, będąc pełnym pożądań i chciwości?"
 
 msgid "265"
-msgstr "Kto całkowicie opanował wszelkie przejawy zła, i wielkie, i drobne — tego możemy zwać mnichem, gdyż przezwyciężył całe zło."
+msgstr "Kto całkowicie opanował wszelkie przejawy zła, i wielkie, i drobne  tego możemy zwać mnichem, gdyż przezwyciężył całe zło."
 
 msgid "266"
 msgstr "Nie jest się mnichem tylko z tego powodu, że żyje się z ofiar innych. Nie poprzez przyjęcie zewnętrznej formy można stać się prawdziwym mnichem."
 
 msgid "267"
-msgstr "Kto prowadzi święte życie i przechodzi ze zrozumieniem przez ten świat, przekraczając zarówno zasługę, jak i przewinę — ten prawdziwie zwany jest mnichem."
+msgstr "Kto prowadzi święte życie i przechodzi ze zrozumieniem przez ten świat, przekraczając zarówno zasługę, jak i przewinę  ten prawdziwie zwany jest mnichem."
 
 msgid "268"
-msgstr "Nie poprzez przestrzeganie milczenia ktoś staje się mędrcem, jeśli jest głupcem i ignorantem. Lecz człowiek roztropny, niczym ktoś trzymający w ręku wagę, przyjmuje jedynie dobro, a odrzuca zło — ten jest prawdziwie mędrcem."
+msgstr "Nie poprzez przestrzeganie milczenia ktoś staje się mędrcem, jeśli jest głupcem i ignorantem. Lecz człowiek roztropny, niczym ktoś trzymający w ręku wagę, przyjmuje jedynie dobro, a odrzuca zło  ten jest prawdziwie mędrcem."
 
 msgid "269"
 msgstr "Ponieważ rozumie on oba światy (obecny i przyszły), zwany jest mędrcem."
@@ -883,7 +883,7 @@ msgid "271"
 msgstr "Nie powinniście zadowalać się jedynie przestrzeganiem zasad i wskazań ani nawet zdobyciem znacznej wiedzy; ani także osiągnięciem zatopienia w medytacji czy życiem w odosobnieniu."
 
 msgid "272"
-msgstr "Nie myślcie także: 'Doznaję błogostanu wyrzeczenia się, którego nie doświadczają osoby świeckie'. O mnisi, nie powinno was zadowalać nic pomniejszego od osiągnięcia ostatecznego usunięcia skalań — od stanu Arahata."
+msgstr "Nie myślcie także: 'Doznaję błogostanu wyrzeczenia się, którego nie doświadczają osoby świeckie'. O mnisi, nie powinno was zadowalać nic pomniejszego od osiągnięcia ostatecznego usunięcia skalań  od stanu Arahata."
 
 msgid "chap20"
 msgstr "Ścieżka"
@@ -901,22 +901,22 @@ msgid "276"
 msgstr "Sami musicie się wysilać; Buddowie jedynie wskazują drogę. Ludzie nawykli do medytacji, którzy idą ścieżką, uwalniają się z więzów Mary."
 
 msgid "277"
-msgstr "'Wszystkie uwarunkowane rzeczy są nietrwałe' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie uwarunkowane rzeczy są nietrwałe'  gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "278"
-msgstr "'Wszystkie uwarunkowane rzeczy są niezadowalające' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie uwarunkowane rzeczy są niezadowalające'  gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "279"
-msgstr "'Wszystkie rzeczy nie są jaźnią' — gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
+msgstr "'Wszystkie rzeczy nie są jaźnią'  gdy dzięki mądrości człowiek to dostrzega, odwraca się od cierpienia. To jest ścieżka wiodąca do oczyszczenia."
 
 msgid "280"
-msgstr "Próżniak, który nie wysila się wtedy, gdy powinien, który choć młody i silny, jest pełen lenistwa, którego umysł wypełniają próżne myśli — taki marny człowiek nie odnajduje ścieżki ku mądrości."
+msgstr "Próżniak, który nie wysila się wtedy, gdy powinien, który choć młody i silny, jest pełen lenistwa, którego umysł wypełniają próżne myśli  taki marny człowiek nie odnajduje ścieżki ku mądrości."
 
 msgid "281"
 msgstr "Niech człowiek uważny w mowie, z opanowanym umysłem, nie dopuszcza się swoim ciałem zła. Niech oczyszcza te trzy rodzaje czynów i osiąga ścieżkę, którą głosił Wielki Mędrzec."
 
 msgid "282"
-msgstr "Mądrość wypływa z medytacji, bez medytacji mądrość zanika. Niech człowiek — wiedząc o tych dwóch ścieżkach, rozwoju i upadku — tak kieruje sobą, by jego mądrość mogła wzrastać."
+msgstr "Mądrość wypływa z medytacji, bez medytacji mądrość zanika. Niech człowiek  wiedząc o tych dwóch ścieżkach, rozwoju i upadku  tak kieruje sobą, by jego mądrość mogła wzrastać."
 
 msgid "283"
 msgstr "Zetnij las żądz, a nie jedno drzewo. Z lasu żądz wypływa strach. Wytrzebiwszy las i jego poszycie pragnień, o mnisi, bądźcie wolni od namiętności!"
@@ -928,13 +928,13 @@ msgid "285"
 msgstr "Odetnij swe namiętności, jak ktoś wyrywający własnymi rękami jesienny lotos. Kultywuj jedynie ścieżkę prowadzącą ku pokojowi, ku Nibbanie, którą oznajmił Czcigodny."
 
 msgid "286"
-msgstr "'Tu będę mieszkał w porze deszczowej, a tam zimą i latem' — tak rozmyśla głupiec. Nie uświadamia sobie niebezpieczeństwa nadejścia śmierci."
+msgstr "'Tu będę mieszkał w porze deszczowej, a tam zimą i latem'  tak rozmyśla głupiec. Nie uświadamia sobie niebezpieczeństwa nadejścia śmierci."
 
 msgid "287"
 msgstr "Jak wielka powódź porywa uśpioną wioskę, tak śmierć chwyta i zabiera człowieka, którego umysł czepia się poczucia zadowolenia ze swego potomstwa i trzód."
 
 msgid "288"
-msgstr "W kogo uderza śmierć, tego nie ochronią bliscy. Nikt go nie może uratować — ani synowie, ani ojciec, ani krewni."
+msgstr "W kogo uderza śmierć, tego nie ochronią bliscy. Nikt go nie może uratować  ani synowie, ani ojciec, ani krewni."
 
 msgid "289"
 msgstr "Zrozumiawszy to, niech człowiek, który jest mądry, powściągliwy i moralny, śpieszy utorować sobie ścieżkę wiodącą ku Nibbanie."
@@ -949,10 +949,10 @@ msgid "291"
 msgstr "Kto poszukuje własnego szczęścia, sprowadzając ból na innych, nigdy nie uwolni się od nienawiści, zaplątany w więzy."
 
 msgid "292"
-msgstr "U ludzi, którzy są aroganccy i niedbali, którzy nie czynią tego, co powinno być zrobione, a czynią to, czego nie powinni — skalania będą tylko wzrastały."
+msgstr "U ludzi, którzy są aroganccy i niedbali, którzy nie czynią tego, co powinno być zrobione, a czynią to, czego nie powinni  skalania będą tylko wzrastały."
 
 msgid "293"
-msgstr "U ludzi, którzy zawsze usilnie praktykują przytomność ciała i umysłu, którzy nie ulegają temu, co nie powinno być czynione, a wytrwale czynią to, co winno być uczynione, uważni i jasno pojmujący — skalania znikną."
+msgstr "U ludzi, którzy zawsze usilnie praktykują przytomność ciała i umysłu, którzy nie ulegają temu, co nie powinno być czynione, a wytrwale czynią to, co winno być uczynione, uważni i jasno pojmujący  skalania znikną."
 
 msgid "294"
 msgstr "Zabiwszy matkę (pragnienie), ojca (próżność ego), dwóch zbrojnych królów (wiarę w wieczność i nihilizm) i zniszczywszy cały kraj (organy zmysłów i przedmioty zmysłów) wraz ze strażnikiem jego skarbu (przywiązaniem i żądzą), święty człowiek podąża naprzód bez żalu."
@@ -982,7 +982,7 @@ msgid "302"
 msgstr "Trudno jest żyć jako mnich, trudno rozkoszować się mnisim życiem. Lecz życie rodzinne jest także trudne i pełne zmartwień. Cierpienie bierze się ze związków z nierównymi sobie, cierpienie bierze się z wędrowania wśród samsary. Zatem nie bądź kimś błąkającym się bez celu, nie podążaj za cierpieniem."
 
 msgid "303"
-msgstr "Kto jest pełen wiary i cnót, posiada dobre imię i bogactwa — jest wszędzie szanowany, do jakiegokolwiek kraju by się nie udał."
+msgstr "Kto jest pełen wiary i cnót, posiada dobre imię i bogactwa  jest wszędzie szanowany, do jakiegokolwiek kraju by się nie udał."
 
 msgid "304"
 msgstr "Ludzie dobrzy jaśnieją z daleka, niczym szczyty Himalajów. A ludzie źli są niewidoczni, niczym strzały wystrzelone z łuku nocą."
@@ -1012,7 +1012,7 @@ msgid "311"
 msgstr "Tak jak trawa kusa, gdy ją źle chwycić, przecina dłoń, tak też życie mnisie, gdy je źle prowadzić, wiedzie do krainy rozpaczy."
 
 msgid "312"
-msgstr "Nieuważne składanie ofiar, niewłaściwy ceremoniał, życie w wątpliwym celibacie— żaden z tych czynów nie wyda dobrych owoców."
+msgstr "Nieuważne składanie ofiar, niewłaściwy ceremoniał, życie w wątpliwym celibacie żaden z tych czynów nie wyda dobrych owoców."
 
 msgid "313"
 msgstr "Jeśli coś jest do zrobienia, winno się to zrobić z zapałem i energią. Niedbałe życie mnisie jedynie mocniej wzbija kurz pożądań."
@@ -1024,16 +1024,16 @@ msgid "315"
 msgstr "Strzeż siebie dobrze niczym granicznego miasta, i z zewnątrz, i od wewnątrz. Nie zaniedbuj sposobności (rozwoju duchowego). Ci, którzy przepuszczają takie sposobności, lamentują, gdy są skazani na krainę rozpaczy."
 
 msgid "316"
-msgstr "Ci, którzy są zawstydzeni tym, czego nie powinni się wstydzić, a nie wstydzą się tego, co powinno ich zawstydzać—mają niewłaściwe poglądy i trafiają do krainy rozpaczy."
+msgstr "Ci, którzy są zawstydzeni tym, czego nie powinni się wstydzić, a nie wstydzą się tego, co powinno ich zawstydzaćmają niewłaściwe poglądy i trafiają do krainy rozpaczy."
 
 msgid "317"
-msgstr "Ci, którzy dostrzegają powód do lęku tam, gdzie nie ma czego się bać, a nie widzą powodu do lęku w tym, czego należy się obawiać—mają niewłaściwe poglądy i trafiają do krainy rozpaczy."
+msgstr "Ci, którzy dostrzegają powód do lęku tam, gdzie nie ma czego się bać, a nie widzą powodu do lęku w tym, czego należy się obawiaćmają niewłaściwe poglądy i trafiają do krainy rozpaczy."
 
 msgid "318"
-msgstr "Ci, którzy wyobrażają sobie zło tam, gdzie nie ma żadnego, a nie widzą zła tam, gdzie ono jest—mają niewłaściwe poglądy i trafiają do krainy rozpaczy."
+msgstr "Ci, którzy wyobrażają sobie zło tam, gdzie nie ma żadnego, a nie widzą zła tam, gdzie ono jestmają niewłaściwe poglądy i trafiają do krainy rozpaczy."
 
 msgid "319"
-msgstr "Ci, którzy postrzegają zło jako zło, a dobro jako dobro—mają właściwe poglądy i trafiają do krainy zachwytu."
+msgstr "Ci, którzy postrzegają zło jako zło, a dobro jako dobromają właściwe poglądy i trafiają do krainy zachwytu."
 
 msgid "chap23"
 msgstr "Słoń"
@@ -1054,10 +1054,10 @@ msgid "324"
 msgstr "Gdy przychodzi okres rui, nie sposób opanować słonia o imieniu Dhanapalaka. Trzymany w niewoli, nie tknie on nawet kęsa pożywienia, lecz z utęsknieniem przywołuje w umyśle las, w którym żyją inne słonie."
 
 msgid "325"
-msgstr "Gdy człowiek jest ociężały, żarłoczny i leniwy, wyleguje się w łożu niczym tłusty wieprz— to taki próżniak odradza się wciąż na nowo."
+msgstr "Gdy człowiek jest ociężały, żarłoczny i leniwy, wyleguje się w łożu niczym tłusty wieprz to taki próżniak odradza się wciąż na nowo."
 
 msgid "326"
-msgstr "Przedtem ten umysł wędrował do woli, gdzie chciał, zgodnie ze swymi upodobaniami— lecz teraz poprzez mądrość opanuję go zupełnie, tak jak powożący panuje nad słoniem, nawet będącym w okresie rui."
+msgstr "Przedtem ten umysł wędrował do woli, gdzie chciał, zgodnie ze swymi upodobaniami lecz teraz poprzez mądrość opanuję go zupełnie, tak jak powożący panuje nad słoniem, nawet będącym w okresie rui."
 
 msgid "327"
 msgstr "Rozkoszuj się uwagą! Dobrze pilnuj swoich myśli! Wydobądź siebie z tego grzęzawiska zła, tak jak słoń wydobywa się z błota."
@@ -1066,10 +1066,10 @@ msgid "328"
 msgstr "Gdy znajdziesz towarzystwo mądrego i roztropnego przyjaciela, kogoś, kto wiedzie dobre życie, powinieneś przezwyciężyć wszystkie przeciwności, by radośnie i uważnie podtrzymywać jego towarzystwo."
 
 msgid "329"
-msgstr "Kiedy zaś nie znajdziesz towarzystwa mądrego i roztropnego przyjaciela, kogoś, kto wiedzie dobre życie—wtedy tak jak król, który pozostawia za sobą pokonane królestwo, albo samotny słoń w puszczy, powinieneś samotnie podążać swoją drogą."
+msgstr "Kiedy zaś nie znajdziesz towarzystwa mądrego i roztropnego przyjaciela, kogoś, kto wiedzie dobre życiewtedy tak jak król, który pozostawia za sobą pokonane królestwo, albo samotny słoń w puszczy, powinieneś samotnie podążać swoją drogą."
 
 msgid "330"
-msgstr "Lepsze jest życie w samotności niż towarzystwo głupca. Żyj samotnie i nie czyń zła—bądź wolny od trosk niczym słoń w głębokiej puszczy."
+msgstr "Lepsze jest życie w samotności niż towarzystwo głupca. Żyj samotnie i nie czyń złabądź wolny od trosk niczym słoń w głębokiej puszczy."
 
 msgid "331"
 msgstr "Dobrze mieć prawdziwych przyjaciół w potrzebie; dobrze być zadowolonym z tego, co się posiada; Dobrze jest mieć zasługi, gdy życie się kończy; i dobrze jest porzucić wszelkie cierpienie (poprzez stan Arahata)."
@@ -1117,7 +1117,7 @@ msgid "344"
 msgstr "Są tacy, którzy odwracając się od gęstwiny pragnień (życia domowego), podejmują życie w gęstwinach lasów (jako mnisi). Lecz uwolniwszy się już od domostw, przybiegają do nich z powrotem. Zważcie na tych ludzi! Choć wyswobodzeni, pędzą z powrotem w sam środek swych więzów!"
 
 msgid "345"
-msgstr "Mędrcy mówią: nie te więzy są mocne, które są zrobione z żelaza, drewna czy konopnych powrozów. Zauroczenie i tęsknota za klejnotami i ozdobami, dziećmi i żonami — te są dużo mocniejszymi więzami,"
+msgstr "Mędrcy mówią: nie te więzy są mocne, które są zrobione z żelaza, drewna czy konopnych powrozów. Zauroczenie i tęsknota za klejnotami i ozdobami, dziećmi i żonami  te są dużo mocniejszymi więzami,"
 
 msgid "346"
 msgstr "które ściągają człowieka w dół i, choć na pozór luźne, są trudne do zrzucenia. Mędrcy odcinają również te więzy. Porzuciwszy przyjemności zmysłowe i wyzbywszy się pragnień, wyrzekają się świata."
@@ -1132,13 +1132,13 @@ msgid "349"
 msgstr "Człowiek dręczony złymi myślami, opanowany przez namiętności i oddany pogoni za przyjemnościami, doznaje coraz to mocniejszych pragnień. Czyni to więzy naprawdę mocnymi."
 
 msgid "350"
-msgstr "Kto raduje się przezwyciężaniem złych myśli, kto medytuje nad nieczystościami i jest zawsze przytomny — ten położy kres pragnieniom i zerwie okowy Mary."
+msgstr "Kto raduje się przezwyciężaniem złych myśli, kto medytuje nad nieczystościami i jest zawsze przytomny  ten położy kres pragnieniom i zerwie okowy Mary."
 
 msgid "351"
-msgstr "Kto osiągnął cel, jest nieustraszony, wolny od pragnień, wolny od namiętności, pousuwał ciernie istnienia — dla tego człowieka obecne śmiertelne ciało jest już ostatnim."
+msgstr "Kto osiągnął cel, jest nieustraszony, wolny od pragnień, wolny od namiętności, pousuwał ciernie istnienia  dla tego człowieka obecne śmiertelne ciało jest już ostatnim."
 
 msgid "352"
-msgstr "Kto jest wolny od pragnień i przywiązań, doskonale biegły w odsłanianiu prawdziwego znaczenia Nauki i zna prawidłową kolejność świętych tekstów — dla tego człowieka obecne śmiertelne ciało jest już ostatnim. Prawdziwie zwany jest na wskroś mądrym, wielkim."
+msgstr "Kto jest wolny od pragnień i przywiązań, doskonale biegły w odsłanianiu prawdziwego znaczenia Nauki i zna prawidłową kolejność świętych tekstów  dla tego człowieka obecne śmiertelne ciało jest już ostatnim. Prawdziwie zwany jest na wskroś mądrym, wielkim."
 
 msgid "353"
 msgstr "Zwycięzcą jestem nad wszystkim, wszystko poznałem, lecz nie przywiązałem się do niczego, co poznane i pokonane. Porzucając wszystko, staję się wolny poprzez niszczenie pragnień. Wszystko sam zrozumiałem, kogóż więc powinienem zwać swoim nauczycielem?"
@@ -1171,22 +1171,22 @@ msgid "361"
 msgstr "Dobra jest powściągliwość w uczynkach cielesnych; dobra jest powściągliwość w mowie; dobra jest powściągliwość w myśleniu. Powściągliwość we wszystkim jest dobra. Powściągliwy we wszystkim mnich uwalnia się od całego cierpienia."
 
 msgid "362"
-msgstr "Kto panuje nad swymi rękami, stopami i językiem, kto jest w pełni opanowany, rozkoszuje się medytacją, jest wewnętrznie zatopiony w skupieniu i zadowolony — tego ludzie zwą mnichem."
+msgstr "Kto panuje nad swymi rękami, stopami i językiem, kto jest w pełni opanowany, rozkoszuje się medytacją, jest wewnętrznie zatopiony w skupieniu i zadowolony  tego ludzie zwą mnichem."
 
 msgid "363"
-msgstr "Mnich, który panuje nad swym językiem, jest umiarkowany w mowie, skromny i objaśnia literę i ducha Nauki — sprawia przyjemność wszystkimi swymi słowami."
+msgstr "Mnich, który panuje nad swym językiem, jest umiarkowany w mowie, skromny i objaśnia literę i ducha Nauki  sprawia przyjemność wszystkimi swymi słowami."
 
 msgid "364"
-msgstr "Mnich, który trwa w Dhammie, rozkoszuje się Dhammą, medytuje nad Dhammą i niewzruszenie utrzymuje Dhammę w umyśle — nie oddziela się od subtelnej Dhammy."
+msgstr "Mnich, który trwa w Dhammie, rozkoszuje się Dhammą, medytuje nad Dhammą i niewzruszenie utrzymuje Dhammę w umyśle  nie oddziela się od subtelnej Dhammy."
 
 msgid "365"
 msgstr "Nie powinno się pogardzać tym, co się otrzymało w ofierze, ani zazdrościć tego, co zyskują inni. Mnich, który zazdrości innym tego, co otrzymali, nie osiąga pełnego pogrążenia się w medytacji."
 
 msgid "366"
-msgstr "Mnicha, który nie pogardza niczym, co otrzymał w ofierze, choćby było tego niewiele, który żyje w czystości i nie ustaje w wysiłku — takiego chwalą nawet bogowie."
+msgstr "Mnicha, który nie pogardza niczym, co otrzymał w ofierze, choćby było tego niewiele, który żyje w czystości i nie ustaje w wysiłku  takiego chwalą nawet bogowie."
 
 msgid "367"
-msgstr "Kto nie ma żadnych przywiązań, ani cielesnych, ani umysłowych, kto nie smuci się brakiem czegokolwiek — ten prawdziwie zwany jest mnichem."
+msgstr "Kto nie ma żadnych przywiązań, ani cielesnych, ani umysłowych, kto nie smuci się brakiem czegokolwiek  ten prawdziwie zwany jest mnichem."
 
 msgid "368"
 msgstr "Mnich, który trwa w uniwersalnej miłości i jest głęboko oddany Nauce Buddy, osiąga spokój Nibbany, rozkosz ustania wszystkiego, co uwarunkowane."
@@ -1210,7 +1210,7 @@ msgid "374"
 msgstr "Gdy poprzez wgląd ktoś dostrzega powstawanie i upadek składników istnienia, jest pełen radości i szczęścia. Dla kogoś uważnego jest to odbicie tego, co Bezśmiertelne."
 
 msgid "375"
-msgstr "Opanowanie zmysłów, zadowolenie, powściągliwość — płynące z zasad dyscypliny klasztornej — stanowią dla mądrego mnicha podstawę świętego życia na tym świecie."
+msgstr "Opanowanie zmysłów, zadowolenie, powściągliwość  płynące z zasad dyscypliny klasztornej  stanowią dla mądrego mnicha podstawę świętego życia na tym świecie."
 
 msgid "376"
 msgstr "Niech obcuje z przyjaciółmi, którzy są szlachetni, energiczni i żyją w czystości; niech będzie serdeczny i ma wyszukane maniery. Poprzez to radośnie położy kres cierpieniu."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Niczym jaśminowy powój zrzucający swe zwiędnięte kwiaty, powinniście, mnisi, całkowicie porzucić żądzę i nienawiść!"
 
 msgid "378"
-msgstr "Mnich, który jest spokojny w czynach, spokojny w mowie, spokojny w myślach, który jest dobrze opanowany i odrzucił wszystko to, co ziemskie — jest prawdziwie zwany pogodnym."
+msgstr "Mnich, który jest spokojny w czynach, spokojny w mowie, spokojny w myślach, który jest dobrze opanowany i odrzucił wszystko to, co ziemskie  jest prawdziwie zwany pogodnym."
 
 msgid "379"
 msgstr "Samemu trzeba siebie osądzać i dokładnie sprawdzać. Mnich, który sam siebie pilnuje i jest uważny, będzie zawsze żył w szczęściu."
@@ -1240,13 +1240,13 @@ msgid "383"
 msgstr "Wysilaj się, święty człowieku! Odetnij strumień pragnień i porzuć zmysłowe pożądanie. Wiedząc o rozpadzie wszystkich uwarunkowanych rzeczy, stań się, o święty człowieku, tym, kto poznaje to, co nie zostało stworzone."
 
 msgid "384"
-msgstr "Gdy święty człowiek osiągnął szczyt dwóch ścieżek — medytacyjnego skupienia i wglądu — poznaje Prawdę and wszystkie jego okowy pękają."
+msgstr "Gdy święty człowiek osiągnął szczyt dwóch ścieżek  medytacyjnego skupienia i wglądu  poznaje Prawdę and wszystkie jego okowy pękają."
 
 msgid "385"
-msgstr "Dla kogo nie ma ani tego brzegu, ani drugiego brzegu, ani też obu, kto jest wolny od trosk i więzów — tego zwę świętym człowiekiem."
+msgstr "Dla kogo nie ma ani tego brzegu, ani drugiego brzegu, ani też obu, kto jest wolny od trosk i więzów  tego zwę świętym człowiekiem."
 
 msgid "386"
-msgstr "Kto oddaje się medytacji i jest bez skazy, kto jest stały i czyni, co powinien czynić, kto jest wolny od jątrzących skalań i kto osiągnął najwyższy cel — tego zwę świętym człowiekiem."
+msgstr "Kto oddaje się medytacji i jest bez skazy, kto jest stały i czyni, co powinien czynić, kto jest wolny od jątrzących skalań i kto osiągnął najwyższy cel  tego zwę świętym człowiekiem."
 
 msgid "387"
 msgstr "Słońce jaśnieje za dnia, księżyc jaśnieje nocą. Wojownik jaśnieje w swej zbroi, święty człowiek jaśnieje w medytacji. Zaś Budda jaśnieje bez ustanku, lśniąc dniem i nocą."
@@ -1261,100 +1261,100 @@ msgid "390"
 msgstr "Dla świętego człowieka nie ma lepszej rzeczy, niż gdy powstrzymuje swój umysł od rzeczy, które są drogie ziemskiemu sercu. Na ile wykrusza się sama myśl uczynienia komuś krzywdy, na tyle ustępuje cierpienie."
 
 msgid "391"
-msgstr "Kto nie dopuszcza się zła w czynie, słowie ani w myśli, kto jest powściągliwy na te trzy sposoby — tego zwę świętym człowiekiem."
+msgstr "Kto nie dopuszcza się zła w czynie, słowie ani w myśli, kto jest powściągliwy na te trzy sposoby  tego zwę świętym człowiekiem."
 
 msgid "392"
 msgstr "Tak jak bramiński duchowny czci swój ofiarny ogień, tak należy z oddaniem poważać kogoś, od kogo poznało się Dhammę, której nauczał Budda."
 
 msgid "393"
-msgstr "Nie poprzez zaplecione włosy, nie przez pochodzenie czy urodzenie ktoś staje się świętym człowiekiem. W kim są żywe prawda i prawość — ten jest czysty, ten jest świętym człowiekiem."
+msgstr "Nie poprzez zaplecione włosy, nie przez pochodzenie czy urodzenie ktoś staje się świętym człowiekiem. W kim są żywe prawda i prawość  ten jest czysty, ten jest świętym człowiekiem."
 
 msgid "394"
 msgstr "Jakiż pożytek z twych zaplecionych włosów, niemądry człowieku? Jakiż pożytek z twego stroju ze skóry antylopy? Nadal kłębią się w tobie namiętności, tylko zewnętrznie się oczyszczasz."
 
 msgid "395"
-msgstr "Kto nosi szatę zszytą ze szmat, kto jest chudy, na czyim ciele widać wszędzie żyły i kto samotnie medytuje w lasach — tego zwę świętym człowiekiem."
+msgstr "Kto nosi szatę zszytą ze szmat, kto jest chudy, na czyim ciele widać wszędzie żyły i kto samotnie medytuje w lasach  tego zwę świętym człowiekiem."
 
 msgid "396"
-msgstr "Nie nazwę człowieka świętym z powodu linii, z której się wywodzi, czy dla wysokiego urodzenia jego matki. Jeśli pozostaje pod wpływem krępujących przywiązań, jest on jedynie wyniosłym świeckim człowiekiem. Kogoś, kto jest wolny od przeszkód i przywiązań — tego zwę świętym człowiekiem."
+msgstr "Nie nazwę człowieka świętym z powodu linii, z której się wywodzi, czy dla wysokiego urodzenia jego matki. Jeśli pozostaje pod wpływem krępujących przywiązań, jest on jedynie wyniosłym świeckim człowiekiem. Kogoś, kto jest wolny od przeszkód i przywiązań  tego zwę świętym człowiekiem."
 
 msgid "397"
-msgstr "Kto odciąwszy wszystkie więzy nie drży już z lęku, kto przezwyciężył wszelkie przywiązania i jest wyzwolony — tego zwę świętym człowiekiem."
+msgstr "Kto odciąwszy wszystkie więzy nie drży już z lęku, kto przezwyciężył wszelkie przywiązania i jest wyzwolony  tego zwę świętym człowiekiem."
 
 msgid "398"
-msgstr "Kto przeciął rzemień nienawiści, wstęgę pragnienia i powróz fałszywych poglądów wraz z uprzężą złych skłonności, kto usunął zaporę niewiedzy i jest oświecony — tego zwę świętym człowiekiem."
+msgstr "Kto przeciął rzemień nienawiści, wstęgę pragnienia i powróz fałszywych poglądów wraz z uprzężą złych skłonności, kto usunął zaporę niewiedzy i jest oświecony  tego zwę świętym człowiekiem."
 
 msgid "399"
-msgstr "Kto bez urazy znosi zniewagi, ciosy i kary, kogo prawdziwą mocą i siłą jest cierpliwość — tego zwę świętym człowiekiem."
+msgstr "Kto bez urazy znosi zniewagi, ciosy i kary, kogo prawdziwą mocą i siłą jest cierpliwość  tego zwę świętym człowiekiem."
 
 msgid "400"
-msgstr "Kto jest wolny od gniewu, oddany, cnotliwy, pozbawiony pragnień, samoopanowany, kto przybrał swe ostatnie już fizyczne ciało — tego zwę świętym człowiekiem."
+msgstr "Kto jest wolny od gniewu, oddany, cnotliwy, pozbawiony pragnień, samoopanowany, kto przybrał swe ostatnie już fizyczne ciało  tego zwę świętym człowiekiem."
 
 msgid "401"
-msgstr "Kto nie czepia się przyjemności zmysłowych niczym woda liścia lotosu czy ziarno gorczycy ostrza igły — tego zwę świętym człowiekiem."
+msgstr "Kto nie czepia się przyjemności zmysłowych niczym woda liścia lotosu czy ziarno gorczycy ostrza igły  tego zwę świętym człowiekiem."
 
 msgid "402"
-msgstr "Kto w tym właśnie życiu urzeczywistnia kres swego cierpienia, kto odłożył brzemię i wyzwolił się — tego zwę świętym człowiekiem."
+msgstr "Kto w tym właśnie życiu urzeczywistnia kres swego cierpienia, kto odłożył brzemię i wyzwolił się  tego zwę świętym człowiekiem."
 
 msgid "403"
-msgstr "Ktoś o dogłębnej wiedzy, mądry, zręczny w rozróżnianiu pomiędzy złymi i właściwymi ścieżkami, kto osiągnął najwyższy cel — tego zwę świętym człowiekiem."
+msgstr "Ktoś o dogłębnej wiedzy, mądry, zręczny w rozróżnianiu pomiędzy złymi i właściwymi ścieżkami, kto osiągnął najwyższy cel  tego zwę świętym człowiekiem."
 
 msgid "404"
-msgstr "Kto trzyma się na uboczu zarówno od tych, co mają własne domostwa, jak i od ascetów, kto podróżuje bez stałego miejsca pobytu i ma jedynie nieliczne potrzeby — tego zwę świętym człowiekiem."
+msgstr "Kto trzyma się na uboczu zarówno od tych, co mają własne domostwa, jak i od ascetów, kto podróżuje bez stałego miejsca pobytu i ma jedynie nieliczne potrzeby  tego zwę świętym człowiekiem."
 
 msgid "405"
-msgstr "Kto wyrzekł się gwałtu wobec wszystkich żywych istot, i słabych, i silnych, kto ani nie zabija, ani nie powoduje innych do zabijania — tego zwę świętym człowiekiem."
+msgstr "Kto wyrzekł się gwałtu wobec wszystkich żywych istot, i słabych, i silnych, kto ani nie zabija, ani nie powoduje innych do zabijania  tego zwę świętym człowiekiem."
 
 msgid "406"
-msgstr "Kto jest przyjazny pośród wrogich, spokojny pośród gwałtownych i wolny od przywiązań pośród ludzi skrępowanych przywiązaniami — tego zwę świętym człowiekiem."
+msgstr "Kto jest przyjazny pośród wrogich, spokojny pośród gwałtownych i wolny od przywiązań pośród ludzi skrępowanych przywiązaniami  tego zwę świętym człowiekiem."
 
 msgid "407"
-msgstr "Od kogo żądza i nienawiść, duma i hipokryzja odpadły niczym ziarna gorczycy od ostrza igły — tego zwę świętym człowiekiem."
+msgstr "Od kogo żądza i nienawiść, duma i hipokryzja odpadły niczym ziarna gorczycy od ostrza igły  tego zwę świętym człowiekiem."
 
 msgid "408"
-msgstr "Kto wypowiada słowa delikatne, pouczające i prawdziwe, kto nikogo nie gani — tego zwę świętym człowiekiem."
+msgstr "Kto wypowiada słowa delikatne, pouczające i prawdziwe, kto nikogo nie gani  tego zwę świętym człowiekiem."
 
 msgid "409"
-msgstr "Kto w tym świecie nie bierze niczego, co nie zostało mu dane, czy by to było długie czy krótkie, małe czy wielkie, dobre czy złe — tego zwę świętym człowiekiem."
+msgstr "Kto w tym świecie nie bierze niczego, co nie zostało mu dane, czy by to było długie czy krótkie, małe czy wielkie, dobre czy złe  tego zwę świętym człowiekiem."
 
 msgid "410"
-msgstr "Kto nie chce niczego ani z tego świata, ani z następnego, kto jest wolny od pragnień i wyswobodzony — tego zwę świętym człowiekiem."
+msgstr "Kto nie chce niczego ani z tego świata, ani z następnego, kto jest wolny od pragnień i wyswobodzony  tego zwę świętym człowiekiem."
 
 msgid "411"
-msgstr "Kto nie ma przywiązań, kto poprzez doskonałą mądrość jest wolny od wątpliwości i zanurzył się w Bezśmiertelność — tego zwę świętym człowiekiem."
+msgstr "Kto nie ma przywiązań, kto poprzez doskonałą mądrość jest wolny od wątpliwości i zanurzył się w Bezśmiertelność  tego zwę świętym człowiekiem."
 
 msgid "412"
-msgstr "Kto w tym świecie wyszedł poza więzy zasług i skalań, kto jest wolny od żalu, nieskazitelny i czysty — tego zwę świętym człowiekiem."
+msgstr "Kto w tym świecie wyszedł poza więzy zasług i skalań, kto jest wolny od żalu, nieskazitelny i czysty  tego zwę świętym człowiekiem."
 
 msgid "413"
-msgstr "Kto niczym księżyc jest bez skazy, czysty, pogodny i jasny, kto wyszedł poza rozkoszowanie się istnieniem — tego zwę świętym człowiekiem."
+msgstr "Kto niczym księżyc jest bez skazy, czysty, pogodny i jasny, kto wyszedł poza rozkoszowanie się istnieniem  tego zwę świętym człowiekiem."
 
 msgid "414"
-msgstr "Kto przekroczywszy to grząskie, niebezpieczne i złudne koło istnienia, przeszedł i dotarł na drugi brzeg, skupiony w medytacji, cichy i wolny od wątpliwości, do niczego nie przywiązany osiągnął Nibbanę — tego zwę świętym człowiekiem."
+msgstr "Kto przekroczywszy to grząskie, niebezpieczne i złudne koło istnienia, przeszedł i dotarł na drugi brzeg, skupiony w medytacji, cichy i wolny od wątpliwości, do niczego nie przywiązany osiągnął Nibbanę  tego zwę świętym człowiekiem."
 
 msgid "415"
-msgstr "Kto porzuciwszy rozkosze zmysłowe, wyrzekł się życia rodzinnego i wybrał bezdomność, zniszczył zarówno pragnienia zmysłowe, jak i podtrzymujące się istnienie — tego zwę świętym człowiekiem."
+msgstr "Kto porzuciwszy rozkosze zmysłowe, wyrzekł się życia rodzinnego i wybrał bezdomność, zniszczył zarówno pragnienia zmysłowe, jak i podtrzymujące się istnienie  tego zwę świętym człowiekiem."
 
 msgid "416"
-msgstr "Kto porzuciwszy pożądanie, wyrzekł się życia rodzinnego i wybrał bezdomność, kto pokonał zarówno pragnienia zmysłowe, jak i podtrzymujące się istnienie — tego zwę świętym człowiekiem."
+msgstr "Kto porzuciwszy pożądanie, wyrzekł się życia rodzinnego i wybrał bezdomność, kto pokonał zarówno pragnienia zmysłowe, jak i podtrzymujące się istnienie  tego zwę świętym człowiekiem."
 
 msgid "417"
-msgstr "Kto odrzuciwszy ludzkie związki i przekroczywszy poza niebiańskie więzy, jest zupełnie wyzwolony od wszelkich ograniczeń — tego zwę świętym człowiekiem."
+msgstr "Kto odrzuciwszy ludzkie związki i przekroczywszy poza niebiańskie więzy, jest zupełnie wyzwolony od wszelkich ograniczeń  tego zwę świętym człowiekiem."
 
 msgid "418"
-msgstr "Kto odrzuciwszy wszystkie upodobania i niechęci, stał się spokojny, odrzucił głębsze pokłady istnienia i niczym bohater pokonał wszelkie światy — tego zwę świętym człowiekiem."
+msgstr "Kto odrzuciwszy wszystkie upodobania i niechęci, stał się spokojny, odrzucił głębsze pokłady istnienia i niczym bohater pokonał wszelkie światy  tego zwę świętym człowiekiem."
 
 msgid "419"
-msgstr "Kto pod każdym względem zna śmierć i odradzanie się wszystkich istot, kto jest całkowicie nieprzywiązany, błogosławiony i oświecony — tego zwę świętym człowiekiem."
+msgstr "Kto pod każdym względem zna śmierć i odradzanie się wszystkich istot, kto jest całkowicie nieprzywiązany, błogosławiony i oświecony  tego zwę świętym człowiekiem."
 
 msgid "420"
-msgstr "Kogo śladów nie wytropią ani bogowie, ani aniołowie, ani ludzie — Arahata, który zniszczył wszelkie palące skalania — tego zwę świętym człowiekiem."
+msgstr "Kogo śladów nie wytropią ani bogowie, ani aniołowie, ani ludzie  Arahata, który zniszczył wszelkie palące skalania  tego zwę świętym człowiekiem."
 
 msgid "421"
-msgstr "Kto nie lgnie do niczego, co przeszłe, obecne czy przyszłe, kto nie ma przywiązań i niczego się nie trzyma — tego zwę świętym człowiekiem."
+msgstr "Kto nie lgnie do niczego, co przeszłe, obecne czy przyszłe, kto nie ma przywiązań i niczego się nie trzyma  tego zwę świętym człowiekiem."
 
 msgid "422"
-msgstr "On, Szlachetny, Wspaniały, Bohaterski, Wielki Mędrzec, Zwycięzca, Wolny od Namiętności, Czysty, Oświecony — jego zwę świętym człowiekiem."
+msgstr "On, Szlachetny, Wspaniały, Bohaterski, Wielki Mędrzec, Zwycięzca, Wolny od Namiętności, Czysty, Oświecony  jego zwę świętym człowiekiem."
 
 msgid "423"
-msgstr "Kto zna swe poprzednie narodziny, dostrzega niebo i piekło, kto dotarł do kresu narodzin i osiągnął doskonały wgląd, kto jest mędrcem, który dotarł do szczytu duchowej wspaniałości — tego zwę świętym człowiekiem."
+msgstr "Kto zna swe poprzednie narodziny, dostrzega niebo i piekło, kto dotarł do kresu narodzin i osiągnął doskonały wgląd, kto jest mędrcem, który dotarł do szczytu duchowej wspaniałości  tego zwę świętym człowiekiem."
