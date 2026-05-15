@@ -28,7 +28,7 @@ msgid "4"
 msgstr "'Sértegetett engem, megvert engem, legyőzött engem, kirabolt engem!' Akik nem ápolnak ilyen gondolatokat, azokban meg fog szűnni a gyűlölet."
 
 msgid "5"
-msgstr "A gyűlöletet sohasem szünteti meg gyűlölet, csak a szeretet.Ez az örökkévaló Törvény."
+msgstr "A gyűlöletet sohasem szünteti meg gyűlölet, csak a szeretet. Ez az örökkévaló Törvény."
 
 msgid "6"
 msgstr "Sokan nincsenek tudatában annak, hogy egyszer mindenki meghal. Akik ráébrednek erre, azonnal abbahagyják az ellenségeskedést."
@@ -157,7 +157,7 @@ msgid "44"
 msgstr "Ki fogja legyőzni ezt a világot, a halál birodalmát, és az istenekét? Ki fogja jó kertészként az erény igaz módon felmutatott útját választani?"
 
 msgid "45"
-msgstr "A tanítvány fogja legyőzni ezt a világot, a halál birodalmát, és az istenekét. A tanítvány fogjamint jó kertész a megfelelő virágotaz erény útját választani."
+msgstr "A tanítvány fogja legyőzni ezt a világot, a halál birodalmát, és az istenekét. A tanítvány fogja mint jó kertész a megfelelő virágo taz erény útját választani."
 
 msgid "46"
 msgstr "Amint ráébredt, buborék a teste, és csak délibábtermészet az övé, a vágy minden virágszárát kitépte, a Halál Királya nem lel rá többé."
@@ -214,7 +214,7 @@ msgid "62"
 msgstr "Az ostobát kínozza a gondolat: 'ezek az én fiaim,'' 'ez a vagyon az enyém.' Valójában azonban még saját magával sem rendelkezik. Hogyan rendelkezhetne akkor a fiaival, hogyan lehetne a gazdagság az övé?"
 
 msgid "63"
-msgstr "Az az ostoba, aki tisztában van ostobaságávallegalább ebben az egy vonatkozásbanbölcs. De aki annyira ostoba, hogy még bölcsnek is hiszi magát, az valóban rászolgált az ostoba névre."
+msgstr "Az az ostoba, aki tisztában van ostobaságával legalább ebben az egy vonatkozásban bölcs. De aki annyira ostoba, hogy még bölcsnek is hiszi magát, az valóban rászolgált az ostoba névre."
 
 msgid "64"
 msgstr "A balga leélheti egész életét a bölcs társaságában anélkül, hogy ráébredne az Igazságra, ahogyan a kanál sem tud meg semmit a leves ízéről."
@@ -406,7 +406,7 @@ msgid "122"
 msgstr "Senki ne becsülje le a jóságot, mondván: 'Én már a közelébe se kerülhetek a jónak!' A vizeskanna akkor is megtelik, ha csak cseppenként hullik bele a víz. A bölcs éppígy megtelik jóval, még ha apránként gyűlik is össze."
 
 msgid "123"
-msgstr "Amikor sok kincset szállít és nincs erős kísérete, a kereskedő megpróbálja elkerülni a veszélyes utat; aki szereti az életét, igyekszik elkerülni a mérgeketugyanígy a bölcs is távol tartja magát a bűntől."
+msgstr "Amikor sok kincset szállít és nincs erős kísérete, a kereskedő megpróbálja elkerülni a veszélyes utat; aki szereti az életét, igyekszik elkerülni a mérgeket ugyanígy a bölcs is távol tartja magát a bűntől."
 
 msgid "124"
 msgstr "Akinek nincs sérülés a kezén, megfoghatja a mérget, mert a méreg nem árt annak, akinek a bőre ép. A bűn éppígy nem árt a bűntelennek."
@@ -466,7 +466,7 @@ msgid "141"
 msgstr "A mezítelenség, a kócos haj, a sár, a böjt, a csupasz földön alvás, a por és korom nem tisztítják meg bűneitől a halandót, amíg nem győzi le magában a kétkedést."
 
 msgid "142"
-msgstr "Aki szenvedélyek nélkül, lecsendesülten, szüzességben él nem ártva semmilyen élőlénynek, azjárjon bár díszes ruhábanvalóban bráhmana, remete s kolduló barát."
+msgstr "Aki szenvedélyek nélkül, lecsendesülten, szüzességben él nem ártva semmilyen élőlénynek, az járjon bár díszes ruhában valóban bráhmana, remete s kolduló barát."
 
 msgid "143"
 msgstr "Van-e itt olyan derék ember, akinek mindvégig sikerült elkerülnie a szemrehányást, mint jó lónak a korbácsot?"
@@ -502,7 +502,7 @@ msgid "152"
 msgstr "Mint az ökör, úgy vénül meg, aki nem tanul eleget; csupán húsa gyarapszik, de tudása egyre kevesebb."
 
 msgid "153"
-msgstr "Számtalan születésen át rohantam egyre hasztalan kutatva Építő utánújraszületni szenvedés!"
+msgstr "Számtalan születésen át rohantam egyre hasztalan kutatva Építő után újraszületni szenvedés!"
 
 msgid "154"
 msgstr "Építő végre láttalak! Nem építed már házadat, szétroppantak a szarufák, a szelemenfa összetört, s a szankhárák kihunyta után megszűnt az elmében a szomj."
@@ -517,7 +517,7 @@ msgid "chap12"
 msgstr "Önmaga"
 
 msgid "157"
-msgstr "Ha önmagát szeretné igazán megismerni, Arra figyeljen, aki jól figyelt ama éjszakánaz őrség idejénés átjutott! Bölcsek, legyetek éberek!"
+msgstr "Ha önmagát szeretné igazán megismerni, Arra figyeljen, aki jól figyelt ama éjszakán az őrség idején és átjutott! Bölcsek, legyetek éberek!"
 
 msgid "158"
 msgstr "Aki a jóban először önmagát alapozza meg, s azután tanít másokat, azt a bölcset nem éri kín."
@@ -529,7 +529,7 @@ msgid "160"
 msgstr "Énnek én a menedéke, mi más lehetne menedék? Aki magát megfékezte, az biztos menedékre lel."
 
 msgid "161"
-msgstr "Maga szülte s hozta létre a maga elkövette bűnt, melymint követ a gyémántporrá zúzza az ostobát."
+msgstr "Maga szülte s hozta létre a maga elkövette bűnt, mely mint követ a gyémánt porrá zúzza az ostobát."
 
 msgid "162"
 msgstr "Ahogyan a málu körülfolyja és elpusztítja a szálafát, úgy hálózza be és teszi tönkre a gonoszság az embert. A bűnös azt teszi magával, amit az ellensége szeretne tenni vele."
@@ -781,7 +781,7 @@ msgid "238"
 msgstr "Magad készíts menedéket magadnak, igyekezz, légy bölcs, távolíts el magadból minden tisztátalanságot! Bűntelen élj, hogy ne kelljen többé belépned a keletkezésbe-pusztulásba!"
 
 msgid "239"
-msgstr "Ahogyan az ötvösmester apránként megtisztítja az ezüstöt, úgy szabadítsátok meg ti is magatokat apránkéntújra meg újra megpróbálvaminden tisztátalanságtól!"
+msgstr "Ahogyan az ötvösmester apránként megtisztítja az ezüstöt, úgy szabadítsátok meg ti is magatokat apránként újra meg újra megpróbálva minden tisztátalanságtól!"
 
 msgid "240"
 msgstr "Ahogyan a vasat a saját tisztátalansága rágja szét, ugyanúgy a bűnöst is a saját cselekedetei viszik a szenvedés poklába."
@@ -793,7 +793,7 @@ msgid "242"
 msgstr "Az asszony tisztátalansága a ledérség, az adakozó tisztátalansága a szűkmarkúság; a bűnös dharmák tisztátalanok e világon és ezen túl is."
 
 msgid "243"
-msgstr "De minden tisztátalanságnál tisztátalanabb a tudatlanságez a legnagyobb tisztátalanság. Ettől szabaduljatok meg, szerzetesek, és akkor minden tisztátalanságtól megszabadultok!"
+msgstr "De minden tisztátalanságnál tisztátalanabb a tudatlanság ez a legnagyobb tisztátalanság. Ettől szabaduljatok meg, szerzetesek, és akkor minden tisztátalanságtól megszabadultok!"
 
 msgid "244"
 msgstr "Könnyű boldogulni az arcátlan szájhősnek, aki erőszakos, törtető, gőgös és romlott."
@@ -862,7 +862,7 @@ msgid "264"
 msgstr "A leborotvált hajtól még nem lesz valakiből szamana, ha nem él a fogadalmai szerint, ha hazugságot beszél. Hogyan lehetne szamana az, aki vágyakkal és kapzsisággal van tele?"
 
 msgid "265"
-msgstr "Aki mindenkis és nagybűnt kioltott magában, aki minden bűnt megsemmisített, azt hívják szamanának az emberek."
+msgstr "Aki minden kis és nagy bűnt kioltott magában, aki minden bűnt megsemmisített, azt hívják szamanának az emberek."
 
 msgid "266"
 msgstr "Attól nem lesz kolduló barát valaki, mert alamizsnát kér, az igazi koldus a Törvényt követi mindenben."
@@ -871,7 +871,7 @@ msgid "267"
 msgstr "Aki kitépvén a jó és a rossz gyökerét, valódi szüzességben él, s miután számbavett [mindent], [szabadon] jár-kel a világban, azt hívják koldusnak az emberek."
 
 msgid "268"
-msgstr "A hallgatástól nem válik bölccsé a balga és tudatlan; azáltal lesz bölcs valakiből, hogymintha mérleggel egyensúlyozná kimindig a jót választja, a rosszat pedig elkerüli."
+msgstr "A hallgatástól nem válik bölccsé a balga és tudatlan; azáltal lesz bölcs valakiből, hogy mintha mérleggel egyensúlyozná ki mindig a jót választja, a rosszat pedig elkerüli."
 
 msgid "269"
 msgstr "Aki mind a jó, mind a rossz világát megérti, azt hívják bölcsnek az emberek."
@@ -910,7 +910,7 @@ msgid "279"
 msgstr "Minden dharma lényeg-nélküli. Miután a Megismerésben meglátja ezt, nem érinti többé a szenvedés. Ez a megtisztulás útja."
 
 msgid "280"
-msgstr "Aki idejekoránamikor még fiatal és erősnem tör a magasba, hanem tunyaságba süpped, a rest, elnehezült akarattal és elmével nem lel rá a Megismeréshez vezető útra."
+msgstr "Aki idejekorán amikor még fiatal és erős nem tör a magasba, hanem tunyaságba süpped, a rest, elnehezült akarattal és elmével nem lel rá a Megismeréshez vezető útra."
 
 msgid "281"
 msgstr "Vigyáz szavára, az elmét legyőzte már, a teste nem követ el semmiféle bűnt; ha majd e három cselekvése tiszta lesz, a régi szent risik útjára rátalál."
@@ -922,13 +922,13 @@ msgid "283"
 msgstr "Ne egy fát, az erdőt vágd ki! Onnan tör rád a félelem. Ha kiirtod mind egy szálig, úgy leszel, koldus, vágytalan."
 
 msgid "284"
-msgstr "Bizony mondom, ameddig a férfiban a legkisebb vágy is él a nő után, elméje úgy csüng a lét bilincsein, mint kisborjúamíg szopikaz anyán."
+msgstr "Bizony mondom, ameddig a férfiban a legkisebb vágy is él a nő után, elméje úgy csüng a lét bilincsein, mint kisborjú amíg szopik az anyán."
 
 msgid "285"
 msgstr "Tépd el az átmanhoz-ragaszkodás kötelékét, ahogyan a hófehér, őszi lótuszvirágot leszakítja kezed; ápold a béke útját, a Nirvánát, amit megmutatott a Beérkezett."
 
 msgid "286"
-msgstr "'Majd itt maradok az esős évszakban, s itt maradok télen és a forró nyárban is'így gondolkodik magában az ostoba, s nem veszi észre a Halál csapdáját."
+msgstr "'Majd itt maradok az esős évszakban, s itt maradok télen és a forró nyárban is' így gondolkodik magában az ostoba, s nem veszi észre a Halál csapdáját."
 
 msgid "287"
 msgstr "Halál leselkedik arra az emberre, akit megrészegített a sok gyerek és a sok jószág, akinek elméjét megzavarta a világ, mintha árvíz leselkedne az alvó városra."
@@ -937,7 +937,7 @@ msgid "288"
 msgstr "Sem nem a fiai, sem az atyja, sem a fivérei nem védhetik meg azt az embert, akit megragadott a Halál; nincs olyan rokon, aki segíthetne rajta."
 
 msgid "289"
-msgstr "Miután ennek jelentőségét felismerte, a bölcsaz erényesség által önmagát legyőzveigyekezzék tetteivel a Nirvánához vezető utat építeni."
+msgstr "Miután ennek jelentőségét felismerte, a bölcs az erényesség által önmagát legyőzve igyekezzék tetteivel a Nirvánához vezető utat építeni."
 
 msgid "chap21"
 msgstr "Különfélék"
@@ -1072,7 +1072,7 @@ msgid "330"
 msgstr "Nem kell az ostoba társasága, jobb egyedül élni. Az ember kevés vággyal járja magában az útját, mint a vadonban magányosan kószáló elefánt!"
 
 msgid "331"
-msgstr "Boldog, aki a bajban is talál barátot, Boldog, akibármi okbólmegelégedett. A halálban is boldog az erényes élet, boldog, akinek megszűnt minden szenvedése."
+msgstr "Boldog, aki a bajban is talál barátot, Boldog, aki bármi okból megelégedett. A halálban is boldog az erényes élet, boldog, akinek megszűnt minden szenvedése."
 
 msgid "332"
 msgstr "E Földön anyának lenni jó, és jó apának lenni is, és jó a remete magánya, és jó a bráhmanának is."
