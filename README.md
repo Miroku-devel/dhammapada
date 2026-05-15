@@ -7,12 +7,6 @@ A multilingual Dhammapada reader for GNU/Linux.
 
 <img src="assets/screenshot.png" width="500">
 
-## Technical Stack
-* **Language**: Rust
-* **UI Toolkit**: GTK4 and Libadwaita
-* **Data Handling**: Serde and TOML for configuration and data parsing
-* **Localization**: gettext (supporting multiple languages via `.po` files)
-
 ## Building from source
 To compile and run the project locally, ensure you have\
 **Rust**, **GTK4**, and **Libadwaita** development libraries installed:\
