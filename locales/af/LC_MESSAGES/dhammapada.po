@@ -121,7 +121,7 @@ msgid "33"
 msgstr "Sy onseker trillende gemoed moeilik om te hanteer en beheer buig 'n wyse mens reguit soos 'n pylmaker 'n steel."
 
 msgid "34"
-msgstr "oos ’n vis uit sy watertuiste geruk en op droë grond gegooi, sidder die gemoed; ontsnap uit Māra se domein."
+msgstr "oos 'n vis uit sy watertuiste geruk en op droë grond gegooi, sidder die gemoed; ontsnap uit Māra se domein."
 
 msgid "35"
 msgstr "Dit is moeilik om die gemoed te beheer want dit fladder vinnig na hartelus rond; om dit te tem, is goed – 'n getemde gemoed gee geluk."
