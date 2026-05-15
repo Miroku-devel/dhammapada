@@ -253,7 +253,7 @@ msgid "75"
 msgstr "'n Middel tot wins is een ding, die pad na nibbāna 'n ander; laat the monnik, leerling van die Boeddha, dit deur ervaring weet, in roem nie vreugde vind nie maar afgeskeidenheid koester."
 
 msgid "chap6"
-msgstr "Die wyse"
+msgstr "Die Wyse"
 
 msgid "76"
 msgstr "Gaan met 'n wyse mens om wat foute opmerk en verstandig teregwys soos met iemand wat jou na 'n verborge skat toe lei; om met so 'n mens om te gaan, hou geen nadeel in nie, net voordeel."
@@ -298,7 +298,7 @@ msgid "89"
 msgstr "Menses van wie die gemoed goed ontwikkeld is in die faktore van verligting en wat vreugde vind in nie-vashou aan prysgee van vasgryp nie, het van die gif ontslae geraak en is helder-ligtendes: bereik in die wêreld nibbāna volledig."
 
 msgid "chap7"
-msgstr "Die arahant"
+msgstr "Die Arahant"
 
 msgid "90"
 msgstr "Iemand wat die reis voltooi het, leedloos volkome vry is en alle bande verbreek het word nie deur koors gekwel nie."
@@ -424,7 +424,7 @@ msgid "128"
 msgstr "Nêrens op aarde of in die luig of die diepte van die see of 'n grot in 'n berg is daar 'n skuilplek waar die dood jou nie sal oorweldig nie."
 
 msgid "chap10"
-msgstr "Die knuppel"
+msgstr "Die Knuppel"
 
 msgid "129"
 msgstr "Almal is bang vir 'n knuppel, almal beef voor die dood; plaas jouself in ander se plek: moenie doodmaak of laat doodmaak nie."
@@ -514,7 +514,7 @@ msgid "156"
 msgstr "Wie die edel lewe nie geleef en in hul jeug die skat versamel het nie, lê soos pyle uit boë weggeskiet treurend oor wat was."
 
 msgid "chap12"
-msgstr "Die self"
+msgstr "Die Self"
 
 msgid "157"
 msgstr "'n Mens wat homself waardevol ag, sal homself goed bewaak; deur minstens een van drie wake sal 'n wyse waaksaam wees."
@@ -547,7 +547,7 @@ msgid "166"
 msgstr "Skeep jou eie saak en taak nie af vir dié van 'n ander nie al is syne hoe groot; ken jou eie welsyn goed en jy sal die ware welsyn dien."
 
 msgid "chap13"
-msgstr "Die wêreld"
+msgstr "Die Wêreld"
 
 msgid "167"
 msgstr "Hang 'n mindere waarheid nie aan en leef nie agloos nie; hang 'n verwronge siening nie aan en bevestig die wêreld nie."
@@ -886,7 +886,7 @@ msgid "272"
 msgstr "(denkend: 'ek geniet die geluk van wêreldversaking voor gewone mense onbeskore') moet jy, o monnik, tevrede wees solank jy nie smetloos is nie."
 
 msgid "chap20"
-msgstr "Die pad"
+msgstr "Die Pad"
 
 msgid "273"
 msgstr "Van paaie is die agtvoudige die beste; van waarhede, die vier beginsels; van geestesgesteldhede is afgeskeidenheid die beste; van tweebenige wesens, die heldersiende."
@@ -1036,7 +1036,7 @@ msgid "319"
 msgstr "Mense wat regte sienings huldig weet dat fout fout is en dat reg reg is, en beweeg op 'n regte weg."
 
 msgid "chap23"
-msgstr "Die olifant"
+msgstr "Die Olifant"
 
 msgid "320"
 msgstr "Soos 'n olifant in 'n veldslag 'n pyl uit 'n boog verduur sal ek krenktaal verduur, want boos is die mensdom."
@@ -1162,7 +1162,7 @@ msgid "359"
 msgstr "Onkruid besmet landerye e lus besmet die mensdom; 'n gawe aan mense vry van lus lewer oorvloedige vrug."
 
 msgid "chap25"
-msgstr "Die monnik"
+msgstr "Die Monnik"
 
 msgid "360"
 msgstr "Beheer oor die oog is goed, goed is beheer oor die oor; beheer oor die neus is goed, goed is beheer oor die tong;"
