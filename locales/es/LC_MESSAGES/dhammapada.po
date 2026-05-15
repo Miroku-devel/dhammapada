@@ -379,7 +379,7 @@ msgid "114"
 msgstr "Un solo día de la vida de una persona que vea el Estado Inmortal vale más que cien años de la vida de una persona sin la visión del Estado Inmortal."
 
 msgid "115"
-msgstr "Un solo día de la vida de una persona que perciba la Sublime Verdad vale más que cien años de la vida de una persona  que no perciba la Sublime Verdad."
+msgstr "Un solo día de la vida de una persona que perciba la Sublime Verdad vale más que cien años de la vida de una personaque no perciba la Sublime Verdad."
 
 msgid "chap9"
 msgstr "El Mal"

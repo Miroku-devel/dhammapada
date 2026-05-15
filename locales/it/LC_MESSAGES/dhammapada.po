@@ -187,7 +187,7 @@ msgid "54"
 msgstr "Il profumo di fiori o del legno di sandalo si diffonde solo col vento a favore ma la fragranza della virtù pervade tutte le direzioni."
 
 msgid "55"
-msgstr "Impareggiabile è il profumo  della virtù anche per i fiori e per il legno di sandalo."
+msgstr "Impareggiabile è il profumodella virtù anche per i fiori e per il legno di sandalo."
 
 msgid "56"
 msgstr "L'aroma del legno di sandalo e il profumo dei fiori sono un tenue piacere rispetto alla fragranza della virtù che raggiunge anche i regni celesti."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Recidi i vincoli d'affetto come si coglie un fiore d'autunno. Percorri il sentiero della liberazione esposto dal Risvegliato."
 
 msgid "286"
-msgstr "E' stolto chi indulge a sognare il luogo più incantevole in cui vivere, dicendosi: 'Qui farà caldo, lì sarà fresco'  inconsapevole della morte che incombe."
+msgstr "E' stolto chi indulge a sognare il luogo più incantevole in cui vivere, dicendosi: 'Qui farà caldo, lì sarà fresco'inconsapevole della morte che incombe."
 
 msgid "287"
 msgstr "Come un'alluvione può travolgere un intero villaggio chi è catturato da relazioni e possessi la morte lo trascina con sé."
@@ -958,7 +958,7 @@ msgid "294"
 msgstr "Lasciando cadere desiderio e orgoglio sradicando le visioni errate e superando gli illusori attaccamenti del mondo dei sensi procede libero il nobile d'animo."
 
 msgid "295"
-msgstr "Avendo sgombrato il sentiero da tutti gli ostacoli  avidità, rabbia, fiacchezza e pigrizia inquietudine, ansia e dubbio  procede libero il nobile d'animo."
+msgstr "Avendo sgombrato il sentiero da tutti gli ostacoliavidità, rabbia, fiacchezza e pigrizia inquietudine, ansia e dubbioprocede libero il nobile d'animo."
 
 msgid "296"
 msgstr "I discepoli del Buddha sono pienamente svegli giorno e notte contemplando il Risvegliato."

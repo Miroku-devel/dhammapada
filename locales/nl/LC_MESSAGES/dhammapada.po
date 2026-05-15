@@ -325,7 +325,7 @@ msgid "97"
 msgstr "Zonder verkeerd geloof, het ongeconditioneerde kennende, de banden uiteindelijk verbroken, elke gelegenheid tot wedergeboorte vernietigd en begeerte opgegeven. Hij is inderdaad een edel persoon."
 
 msgid "98"
-msgstr "Of het in dorpen of wouden is, in valleien of op heuvels  overal waar Arahats verblijven, daar is de aarde bijzonder bekoorlijk."
+msgstr "Of het in dorpen of wouden is, in valleien of op heuvelsoveral waar Arahats verblijven, daar is de aarde bijzonder bekoorlijk."
 
 msgid "99"
 msgstr "Aangenaam zijn de wouden. Waar het gewone volk geen genoegen in beleeft, daar scheppen de hartstochtenlozen behagen in. Want zij zijn geen plezierzoekers."
@@ -433,10 +433,10 @@ msgid "130"
 msgstr "Allen beven bij geweld, allen hebben het leven lief. Vergelijk anderen met jezelf en dood niet en zet anderen niet aan tot doden."
 
 msgid "131"
-msgstr "Wie dan ook letsel met geweld toebrengt aan wezens die gelukkig willen zijn, zal  als een wezen dat zelf gelukkig wil zijn  in zijn volgende geboorte ook geen geluk voor zichzelf verwerven."
+msgstr "Wie dan ook letsel met geweld toebrengt aan wezens die gelukkig willen zijn, zalals een wezen dat zelf gelukkig wil zijnin zijn volgende geboorte ook geen geluk voor zichzelf verwerven."
 
 msgid "132"
-msgstr "Wie dan ook geen letsel met geweld toebrengt aan wezens die gelukkig willen zijn, zal  als een wezen dat zelf gelukkig wil zijn  in zijn volgende geboorte ook geluk voor zichzelf verwerven."
+msgstr "Wie dan ook geen letsel met geweld toebrengt aan wezens die gelukkig willen zijn, zalals een wezen dat zelf gelukkig wil zijnin zijn volgende geboorte ook geluk voor zichzelf verwerven."
 
 msgid "133"
 msgstr "Spreek geen harde woorden tot anderen, want ter vergelding komen harde woorden terug. Twistgesprekken strekken inderdaad tot lijden, want je neemt deel aan veel aanvallen."
@@ -538,7 +538,7 @@ msgid "163"
 msgstr "Wat slecht en schadelijk is voor jezelf, is makkelijk te doen. Maar wat goed en voordelig is, dat is bijzonder moeilijk om te doen."
 
 msgid "164"
-msgstr "Een onwetend persoon die vanwege verkeerde inzichten de weg verspert naar het onderwijs van de arahats, van edele personen die een rechtvaardig leven leiden  zijn daad is als de vruchten van de bamboe welke tot zelfvernietiging strekken."
+msgstr "Een onwetend persoon die vanwege verkeerde inzichten de weg verspert naar het onderwijs van de arahats, van edele personen die een rechtvaardig leven leidenzijn daad is als de vruchten van de bamboe welke tot zelfvernietiging strekken."
 
 msgid "165"
 msgstr "Door iemand zelf worden kwade daden begaan, iemand bezoedelt zichzelf. Door iemand zelf worden geen kwade daden begaan, iemand zuivert zichzelf. Zuiverheid en onzuiverheid is afhankelijk van iemand zelf. Niemand kan een ander zuiveren."
@@ -670,7 +670,7 @@ msgid "204"
 msgstr "Gezondheid is het beste bezit, tevredenheid het hoogste van alle weelde, de besten onder je relaties zijn zij die betrouwbaar zijn, Nibbana is het hoogste geluk."
 
 msgid "205"
-msgstr "Nadat hij de smaak van afzondering heeft geproefd en ook de verheven kalmte ervaren heeft hetgeen het resultaat is van de afwezigheid van bezoedelingen  drinkt iemand de vreugde van de Dhamma."
+msgstr "Nadat hij de smaak van afzondering heeft geproefd en ook de verheven kalmte ervaren heeft hetgeen het resultaat is van de afwezigheid van bezoedelingendrinkt iemand de vreugde van de Dhamma."
 
 msgid "206"
 msgstr "Het zien van de edelen is goed. Met hen te leven strekt altijd tot geluk. Door nooit dwazen te zien is iemand altijd gelukkig."
@@ -679,7 +679,7 @@ msgid "207"
 msgstr "Wie zich beweegt in het gezelschap van dwazen, kan een lange periode van verdriet tegemoet zien. Het samenzijn met dwazen is als een leven met de vijand. Maar met de wijzen zijn, dat is als de gelukkige ontmoeting met je eigen volk."
 
 msgid "208"
-msgstr "Ga daarom om met de wijzen, zij die over wijsheid beschikken, die goed geleerd zijn, die standvastig zijn in deugdzaamheid. Zulke edele personen wiens geluid eerlijk is, dien je te volgen  net zoals de maan het pad van de sterren volgt."
+msgstr "Ga daarom om met de wijzen, zij die over wijsheid beschikken, die goed geleerd zijn, die standvastig zijn in deugdzaamheid. Zulke edele personen wiens geluid eerlijk is, dien je te volgennet zoals de maan het pad van de sterren volgt."
 
 msgid "chap16"
 msgstr "Geliefd"
@@ -742,13 +742,13 @@ msgid "226"
 msgstr "Bij hen die altijd oplettend zijn en dag en nacht trainen met de bedoeling Nibbana te verwerkelijken, verwelken de bezoedelingen."
 
 msgid "227"
-msgstr "Er is een oud gezegde, Atula, dat niet alleen vandaag de dag verteld wordt :  'Zij die zwijgen worden berispt, zij die veel spreken worden ook berispt, en berispt worden zij die matig spreken.'  Er is niemand in de wereld die niet berispt wordt."
+msgstr "Er is een oud gezegde, Atula, dat niet alleen vandaag de dag verteld wordt :'Zij die zwijgen worden berispt, zij die veel spreken worden ook berispt, en berispt worden zij die matig spreken.'Er is niemand in de wereld die niet berispt wordt."
 
 msgid "228"
 msgstr "Er was nooit, en er zal nooit zijn, noch is er heden een persoon in de wereld, die enkel berispt wordt of iemand die enkel geprezen wordt."
 
 msgid "229"
-msgstr "Maar zij die intelligent zijn prijzen iemand die vlekkeloos in het gedrag is,  de wijze, die in wijsheid en deugd goed gevestigd is,  na hem dag in dag uit gade te hebben geslagen."
+msgstr "Maar zij die intelligent zijn prijzen iemand die vlekkeloos in het gedrag is,de wijze, die in wijsheid en deugd goed gevestigd is,na hem dag in dag uit gade te hebben geslagen."
 
 msgid "230"
 msgstr "Maar wie kan hem berispen, hij die zo zuiver is als een goudstuk uit de rivier de Jambu ? Zelfs de deva's prijzen hem, ook wordt hij geprezen door Brahma."
@@ -1006,7 +1006,7 @@ msgid "309"
 msgstr "Vier dingen overkomen een achteloos persoon die slaapt met iemand die (met iemand anders) gehuwd is : hij wint aan zonde maar schiet tekort in slaap, het derde is ongenade, terwijl het vierde de hel (niraya) is."
 
 msgid "310"
-msgstr "Zonde verkregen en slechte geboorte, schrikt man en vrouw  kort is hun vreugde, de koning beveelt een zware straf : daarom moet men niet slapen met iemand die gehuwd is."
+msgstr "Zonde verkregen en slechte geboorte, schrikt man en vrouwkort is hun vreugde, de koning beveelt een zware straf : daarom moet men niet slapen met iemand die gehuwd is."
 
 msgid "311"
 msgstr "Zoals kusa gras de hand verwondt wanneer het verkeerd vastgegrepen wordt, zo trekt een verkeerd gehanteerd kloosterleven iemand de hel (niraya) in."
@@ -1288,10 +1288,10 @@ msgid "399"
 msgstr "Iemand die zonder wrokgevoelens martelingen, aanvallen en gevangenneming verdraagt, iemand die verdraagzaamheid als zijn kracht en zijn leger heeft ; hij is degene die ik een brahmaan noem."
 
 msgid "400"
-msgstr "Wie zonder boosheid is en plichtsgetrouw is, vol deugdzaamheid en vrij van begeerte, wie getraind is  hij is in zijn laatste lichaam. Hij is degene die ik een brahmaan noem."
+msgstr "Wie zonder boosheid is en plichtsgetrouw is, vol deugdzaamheid en vrij van begeerte, wie getraind ishij is in zijn laatste lichaam. Hij is degene die ik een brahmaan noem."
 
 msgid "401"
-msgstr "Zoals een waterdruppel op een lotusblad, of zoals een mosterdzaadje op het puntje van een naald  op dezelfde wijze hecht hij niet aan zintuiglijke dingen ; hij is degene die ik een brahmaan noem."
+msgstr "Zoals een waterdruppel op een lotusblad, of zoals een mosterdzaadje op het puntje van een naaldop dezelfde wijze hecht hij niet aan zintuiglijke dingen ; hij is degene die ik een brahmaan noem."
 
 msgid "402"
 msgstr "Hij die in dit leven voor hemzelf het einde van lijden heeft gerealiseerd, wie zijn last terzijde heeft gelegd en bevrijd is ; hij is degene die ik een brahmaan noem."
@@ -1324,7 +1324,7 @@ msgid "411"
 msgstr "In wie geen gehechtheid gevonden wordt, wie door perfecte kennis bevrijd is van twijfel, wie de doodloze staat bereikt heeft ; hij is degene die ik een brahmaan noem."
 
 msgid "412"
-msgstr "Wie in deze wereld voorbij beide banden is gegaan  verdienste en kwaad  hij is zonder verdriet, onbezoedeld en zuiver ; hij is degene die ik een brahmaan noem."
+msgstr "Wie in deze wereld voorbij beide banden is gegaanverdienste en kwaadhij is zonder verdriet, onbezoedeld en zuiver ; hij is degene die ik een brahmaan noem."
 
 msgid "413"
 msgstr "Hij die, zoals de maan zonder bezoedelingen is, sereen en glashelder is, wie de begeerte naar het bestaan heeft vernietigd ; hij is degene die ik een brahmaan noem."

@@ -295,7 +295,7 @@ msgid "88"
 msgstr "Naudingud hüljanud, omandita, enda teadvuse plekkidest puhastanud tark rõõmustab saavutatu üle."
 
 msgid "89"
-msgstr "Virgumisosade läbi õigesti ja hästi arendatud teadvusega, klammerdumisest loobunud, mitteklammerdumisest rõõmu tundvad, plekid eemaldanud, valgustunud  nemad vaibuvad juba siin maailmas lõplikult."
+msgstr "Virgumisosade läbi õigesti ja hästi arendatud teadvusega, klammerdumisest loobunud, mitteklammerdumisest rõõmu tundvad, plekid eemaldanud, valgustunudnemad vaibuvad juba siin maailmas lõplikult."
 
 msgid "chap7"
 msgstr "Arahant"
@@ -313,19 +313,19 @@ msgid "93"
 msgstr "Kes on tulvad täielikult eemaldanud ja toitu mittekiindunud, ning on saavutanud tühjuse ja märgituse, nende pärusmaaks on vabanemine. Nii nagu lindude lennuteed taevas, on ka nende teed raske mõista."
 
 msgid "94"
-msgstr "Kes kulgeb rahunenud võimetega nagu vankrijuht hästi taltsutatud hobustega, kes on hüljanud uhkuse ja on tulvadeta  teda, sellist arahanti, kadestavad isegi deevad."
+msgstr "Kes kulgeb rahunenud võimetega nagu vankrijuht hästi taltsutatud hobustega, kes on hüljanud uhkuse ja on tulvadetateda, sellist arahanti, kadestavad isegi deevad."
 
 msgid "95"
-msgstr "Kes on takistusteta, kindel kui maa, nagu Indra sammas; nagu mudast puhastunud tiik  sellise jaoks pole enam sansaarat."
+msgstr "Kes on takistusteta, kindel kui maa, nagu Indra sammas; nagu mudast puhastunud tiiksellise jaoks pole enam sansaarat."
 
 msgid "96"
 msgstr "Rahulik on tema meel, rahulik kõne ja ka käitumine; õiges tarkuses vabanenud – selline on täielikult rahunenud."
 
 msgid "97"
-msgstr "Usuta ja mittetekkinut teadev ning kõik ühendused läbilõiganud mees, taasilmnematu, ootused hävitanud  tema on tõepoolest ülim inimene."
+msgstr "Usuta ja mittetekkinut teadev ning kõik ühendused läbilõiganud mees, taasilmnematu, ootused hävitanudtema on tõepoolest ülim inimene."
 
 msgid "98"
-msgstr "Külas või metsas, orus või mäel  kus iganes arahant viibib, on see koht meeldiv."
+msgstr "Külas või metsas, orus või mäelkus iganes arahant viibib, on see koht meeldiv."
 
 msgid "99"
 msgstr "Kus on rõõmustavad metsad, seal ei rõõmusta rahvas; seal rõõmustavad kiretud, kes ei otsi naudinguid."
@@ -343,7 +343,7 @@ msgid "102"
 msgstr "Ka sadade sisutute sõnadega värsside ettekandmisest on parem üks dhammavärss, mille kuulmine rahustab."
 
 msgid "103"
-msgstr "Tõepoolest, ülim vallutaja pole see, kes võidab tuhandes lahingus tuhat meest, vaid see, kes võidab ühe  iseenda."
+msgstr "Tõepoolest, ülim vallutaja pole see, kes võidab tuhandes lahingus tuhat meest, vaid see, kes võidab üheiseenda."
 
 msgid "104"
 msgstr "Tõepoolest, parem on alistada 'mina', kui teised inimesed. 'Mina' ohjanud inimene tegutseb alati vaoshoitult."
@@ -466,7 +466,7 @@ msgid "141"
 msgstr "Ei alasti kõndimine, ei puntras juuksed, ei muda, ei paast ega palja maa peal magamine, ei tolmu ja poriga keha katmine ega kükitamispingutus saa puhastada surelikku, kes pole eemaldanud kõhklust."
 
 msgid "142"
-msgstr "Kui ta ka ehituna ringi käib, kuid on rahunenud, ohjatud, kindel, kohustunud, brahmaliku käitumisega ning kõikide elusolendite suhtes malaka maha pannud  siis on see braahman, see on erakrändur, see on bhikkhu."
+msgstr "Kui ta ka ehituna ringi käib, kuid on rahunenud, ohjatud, kindel, kohustunud, brahmaliku käitumisega ning kõikide elusolendite suhtes malaka maha pannudsiis on see braahman, see on erakrändur, see on bhikkhu."
 
 msgid "143"
 msgstr "Häbist tagasihoitud mees, kus iganes maailmas ta ka asub, väldib hukkamõistu, just nagu hea hobune piitsa."
@@ -490,7 +490,7 @@ msgid "148"
 msgstr "Mädanev on see keha, habras haiguste pesa. See roiskuv mass laguneb. Tõepoolest, elu lõpeb surmaga."
 
 msgid "149"
-msgstr "Need hallid kondid, kui sügisel minema visatud kõrvitsad  kes näeb neis armastust?"
+msgstr "Need hallid kondid, kui sügisel minema visatud kõrvitsadkes näeb neis armastust?"
 
 msgid "150"
 msgstr "See linn on tehtud kontidest, krohvitud liha ja verega; selles peituvad vanadus ja ka surm ning uhkus ja põlgus."
@@ -499,7 +499,7 @@ msgid "151"
 msgstr "Tõepoolest, kuninga kaunid vankrid kuluvad, samuti keha vananeb. Aga tõelike dhamma ei vanane; tõelikud õpetavad seda tõelikele."
 
 msgid "152"
-msgstr "Väheõppinud mees vananeb nagu härg  tema liha kasvab, kuid tema tarkus ei kasva."
+msgstr "Väheõppinud mees vananeb nagu härgtema liha kasvab, kuid tema tarkus ei kasva."
 
 msgid "153"
 msgstr "Olen palju sünde sansaaras ringi jooksnud otsides, kuid mitte leides majaehitajat. Ikka ja jälle sündimine on dukkha."
@@ -709,10 +709,10 @@ msgid "216"
 msgstr "Ihast sünnib lein, ihast sünnib hirm. Ihast vabanenul pole leina, kust siis hirm?"
 
 msgid "217"
-msgstr "Kõlbeline, nägemise saavutanud, dhammas püsiv tõe teadja, kes teeb ise, mida vaja teha  teda peavad inimesed kalliks."
+msgstr "Kõlbeline, nägemise saavutanud, dhammas püsiv tõe teadja, kes teeb ise, mida vaja tehateda peavad inimesed kalliks."
 
 msgid "218"
-msgstr "Kes soovib kirjeldamatut, on avardunud meelega ja naudingutega mitteköidetud teadvusega  seda nimetatakse vastuvoolu minejaks."
+msgstr "Kes soovib kirjeldamatut, on avardunud meelega ja naudingutega mitteköidetud teadvusegaseda nimetatakse vastuvoolu minejaks."
 
 msgid "219"
 msgstr "Pikalt kaugel võõrsil elanud mehe saabudes on tema sugulased, sõbrad ja kaaslased õnnelikud ning rõõmustavad tema turvalise tagasijõudmise üle."
@@ -901,19 +901,19 @@ msgid "276"
 msgstr "Te peate ise püüdlema, tathaagatad on ainult tee kuulutajad. Teele sisenenud džhaaid vabanevad Surma köidikutest."
 
 msgid "277"
-msgstr "'Kõik moodustised on püsitud.' Kes seda tarkusega näeb, see tüdineb dukkhast  see on puhastumise tee."
+msgstr "'Kõik moodustised on püsitud.' Kes seda tarkusega näeb, see tüdineb dukkhastsee on puhastumise tee."
 
 msgid "278"
-msgstr "'Kõik moodustised on dukkha.' Kes seda tarkusega näeb, see tüdineb dukkhast  see on puhastumise tee."
+msgstr "'Kõik moodustised on dukkha.' Kes seda tarkusega näeb, see tüdineb dukkhastsee on puhastumise tee."
 
 msgid "279"
-msgstr "'Kõik dhammad on minatud.' Kes seda tarkusega näeb, see tüdineb dukkhast  see on puhastumise tee."
+msgstr "'Kõik dhammad on minatud.' Kes seda tarkusega näeb, see tüdineb dukkhastsee on puhastumise tee."
 
 msgid "280"
 msgstr "Pingutuseks sobilikul ajal mittepingutav, noor ja tugev, kuid laisapoolne; mõtetest kurnatud meelega, uimane ja loid ei leia tarkuse teed."
 
 msgid "281"
-msgstr "Kõne valvates, meelt hästi talitsedes ja kehaga mitteoskuslikult käitumata  sel moel kolme kammateed puhastades teosta Nägija kuulutatud tee!"
+msgstr "Kõne valvates, meelt hästi talitsedes ja kehaga mitteoskuslikult käitumatasel moel kolme kammateed puhastades teosta Nägija kuulutatud tee!"
 
 msgid "282"
 msgstr "Tõesti, pühendumisest sünnib mõistmine ja pühendumise puudumisest mõistmise kadumine. Teades neid kahte ristteed – olemasolu ja mitteolemasolu, peaksid endas rajama selle, mis mõistmist kasvataks."
@@ -934,7 +934,7 @@ msgid "287"
 msgstr "Selle, poegadest ja veistest joobunud, kiindunud meelega inimese viib surm kaasa nagu suur uputus magava küla."
 
 msgid "288"
-msgstr "Ei ole pojad kaitseks, ei isa ega ka sugulased  lõputegija haarde eest pole lähedastest kaitset."
+msgstr "Ei ole pojad kaitseks, ei isa ega ka sugulasedlõputegija haarde eest pole lähedastest kaitset."
 
 msgid "289"
 msgstr "Selle tähendust teadev, kõlbeliselt ohjatud tark, puhastagu kiiresti nibbaanasse viiv tee."
@@ -946,7 +946,7 @@ msgid "290"
 msgstr "Nähes väiksema õnne hülgamises suuremat õnne, hüljaku arukas väiksem õnn, nägemaks suuremat õnne!"
 
 msgid "291"
-msgstr "Kes enesele õnne soovides teistele kannatusi põhjustab, on liitunud vaenuga  see ei vabane vaenust."
+msgstr "Kes enesele õnne soovides teistele kannatusi põhjustab, on liitunud vaenugasee ei vabane vaenust."
 
 msgid "292"
 msgstr "Mida tõesti tuleks teha, lükkavad nad tagasi, mida tõesti ei tuleks teha, seda teevad: selliste upsakate ja hooletute tulvad aina kasvavad."
@@ -982,7 +982,7 @@ msgid "302"
 msgstr "Raske on maise hülgamine, raske on rõõmustada, raske ja dukkhalik on koduelu; raske on ebavõrdsega kooselu. Sansaaras rändaja langeb dukkhasse, sestap ära ole ka sina rändaja, et poleks dukkhasse langemist."
 
 msgid "303"
-msgstr "Usu ja kõlbluse saavutanu, kuulsuse rikkuse omandanu  millist paika ta iganes külastab, kõikjal austatakse teda."
+msgstr "Usu ja kõlbluse saavutanu, kuulsuse rikkuse omandanumillist paika ta iganes külastab, kõikjal austatakse teda."
 
 msgid "304"
 msgstr "Rahunenu särab juba kaugelt nagu Himaalaja mäestik. Mitterahunenut pole aga lähedaltki näha, nagu ka öösel lastud nooli."
@@ -1024,16 +1024,16 @@ msgid "315"
 msgstr "Nii nagu linna piire kaitstakse seest ja väljast, nõnda peaksite kaitsma iseennast. Sa ära lase võimalusel mööduda! Tõepoolest, võimaluse mööda lasknud kurvastavad nirajasse sattudes."
 
 msgid "316"
-msgstr "Mittehäbiväärset häbenev ja häbiväärset mittehäbenev  selline valet vaadet järgiv olend läheb halba uude sündi."
+msgstr "Mittehäbiväärset häbenev ja häbiväärset mittehäbenevselline valet vaadet järgiv olend läheb halba uude sündi."
 
 msgid "317"
-msgstr "Mittehirmutavas hirmutavat nägev ja hirmutavas mittehirmutavat nägev  selline valet vaadet järgiv olend läheb halba uude sündi."
+msgstr "Mittehirmutavas hirmutavat nägev ja hirmutavas mittehirmutavat nägevselline valet vaadet järgiv olend läheb halba uude sündi."
 
 msgid "318"
-msgstr "Mitteeksimust eksimuseks pidav ja eksimust mitteeksimusena nägev  selline valet vaadet järgiv olend läheb halba uude sündi."
+msgstr "Mitteeksimust eksimuseks pidav ja eksimust mitteeksimusena nägevselline valet vaadet järgiv olend läheb halba uude sündi."
 
 msgid "319"
-msgstr "Eksimust eksimusena teadev ja mitteeksimust mitteeksimusena teadev  selline õiget vaadet järgiv olend läheb õnnelikku uude sündi."
+msgstr "Eksimust eksimusena teadev ja mitteeksimust mitteeksimusena teadevselline õiget vaadet järgiv olend läheb õnnelikku uude sündi."
 
 msgid "chap23"
 msgstr "Elevant"
@@ -1054,7 +1054,7 @@ msgid "324"
 msgstr "Dhanapāla-nimelist elevanti on innaajal raske ohjata. Kinniseotuna ei söö elevant toitu, sest unistab elevandimetsast."
 
 msgid "325"
-msgstr "Kes suurest söömisest on loid ja unine ning magades asemel ringi püherdab  selline laisk on kui suureks söödetud siga, kes ikka ja jälle naaseb üska."
+msgstr "Kes suurest söömisest on loid ja unine ning magades asemel ringi püherdabselline laisk on kui suureks söödetud siga, kes ikka ja jälle naaseb üska."
 
 msgid "326"
 msgstr "Varem hulkus ja eksles see teadvus seal, kus tahtis, kus nauding, kus õnn. Täna ma ohjan seda arukalt, nagu konksuga elevandijuht ohjeldab indlevat elevanti."
@@ -1114,7 +1114,7 @@ msgid "343"
 msgstr "Iha austav inimsugu rabeleb nagu püünises jänes. Sestap peaks iha eemaldama see, kes soovib enesele kiretust."
 
 msgid "344"
-msgstr "See, kes soovide rägastikust on läinud metsa erakuks, vabanemaks soovide rägastikust, jookseb uuesti soovide rägastikku  tule, vaata seda inimest: ta on kammitsaist vabanemas, ent jookseb tagasi kammitsaisse!"
+msgstr "See, kes soovide rägastikust on läinud metsa erakuks, vabanemaks soovide rägastikust, jookseb uuesti soovide rägastikkutule, vaata seda inimest: ta on kammitsaist vabanemas, ent jookseb tagasi kammitsaisse!"
 
 msgid "345"
 msgstr "Ei need rauast, puidust ega babbadža rohust valmistatud kammitsad ole tugevad, kuulutavad targad; küll aga kiindumine kalliskividesse ja ehetesse, igatsus poegade ja naiste järele."
@@ -1129,19 +1129,19 @@ msgid "348"
 msgstr "Vabane minevikust, vabane tulevikust, vabane olevikust, mine olemasolu vastaskaldale. Kõigest vabanenud meel ei naase enam uude sündi ega vanadusse."
 
 msgid "349"
-msgstr "Segaste mõtetega inimese tugev kirg vaadata meeldivat kasvatab iha ainult suuremaks  see tõepoolest teeb kammitsad tugevaks."
+msgstr "Segaste mõtetega inimese tugev kirg vaadata meeldivat kasvatab iha ainult suuremakssee tõepoolest teeb kammitsad tugevaks."
 
 msgid "350"
 msgstr "Aga see, kes pühendub mõtete rahunemisele, arendab ilutustaju ja on alati tähelepanelik, see tõepoolest teeb ihale lõpu, see lõikab läbi Surma köidikud."
 
 msgid "351"
-msgstr "Täiuse saavutanud kartmatu, ihatusse ja rüvetusse läinu, olemasolunoole aukudeta  tema on viimases moodustumises."
+msgstr "Täiuse saavutanud kartmatu, ihatusse ja rüvetusse läinu, olemasolunoole aukudetatema on viimases moodustumises."
 
 msgid "352"
 msgstr "Ihatut, kiindumusteta, sõna tähenduse teadjat ja sõnade järgnevuse teadjat, teda tõepoolest nimetatakse viimase kehastumisega suureks targaks ja suureks inimeseks."
 
 msgid "353"
-msgstr "Kõikületanu, kõiketeadja olen, kõikidest dhammadest määrdumatu, kõigest loobunu, iha hävitanu, vabanenu, ise ülimad teadmised saavutanud  keda peaksin nimetama oma õpetajaks?"
+msgstr "Kõikületanu, kõiketeadja olen, kõikidest dhammadest määrdumatu, kõigest loobunu, iha hävitanu, vabanenu, ise ülimad teadmised saavutanudkeda peaksin nimetama oma õpetajaks?"
 
 msgid "354"
 msgstr "Dhamma kink ületab kõik kingid, dhamma maitse ületab kõik maitsed, dhamma rõõm ületab kõik rõõmud, iha lakkamine ületab kõik kannatused."
@@ -1213,7 +1213,7 @@ msgid "375"
 msgstr "Targa bhikkhu alguseks on need: võimete valvamine, rahulolu, vabanemisjuhis ja ohjamine."
 
 msgid "376"
-msgstr "Ühine hüveliste sõpradega, puhta eluviisiga ja innukatega. Edenda heatahtlikkust ning olgu sinu tegutsemine oskuslik  sel moel, rahulolu külluses, teed sa dukkhale lõpu!"
+msgstr "Ühine hüveliste sõpradega, puhta eluviisiga ja innukatega. Edenda heatahtlikkust ning olgu sinu tegutsemine oskusliksel moel, rahulolu külluses, teed sa dukkhale lõpu!"
 
 msgid "377"
 msgstr "Nagu jasmiinilt langevad närtsinud õied, nõnda ka kirg ja vihkamine langevad bhikkhult."
@@ -1243,10 +1243,10 @@ msgid "384"
 msgstr "Kui kahe dhamma abil on braahman vastaskaldale jõudnud, siis kõik köidikud sel teadjal hääbuvad."
 
 msgid "385"
-msgstr "Seda, kelle jaoks ei leidu vastaskallast, siinpoolset kallast ega teispoolset kallast, seda kartmatut ja sõltumatut  teda nimetan ma braahmaniks."
+msgstr "Seda, kelle jaoks ei leidu vastaskallast, siinpoolset kallast ega teispoolset kallast, seda kartmatut ja sõltumatutteda nimetan ma braahmaniks."
 
 msgid "386"
-msgstr "Džhaai, kes istub plekituna, teinud, mida tuleb teha, tulvadeta, kõrgeima eesmärgi saavutanud  teda nimetan ma braahmaniks."
+msgstr "Džhaai, kes istub plekituna, teinud, mida tuleb teha, tulvadeta, kõrgeima eesmärgi saavutanudteda nimetan ma braahmaniks."
 
 msgid "387"
 msgstr "Päike särab päeval, kuu hiilgab öösel, khattiya sõdalane särab turvises, braahman särab džhaanades. Mõistnu aga särab kirkalt kogu aeg, nii päeval kui öösel."
@@ -1261,7 +1261,7 @@ msgid "390"
 msgstr "Ei braahmanile ole miski parem kui pöörata meel kalliks peetavast eemale. Kuivõrd meel pöördub vägivallast, niivõrd vaibub ka dukkha."
 
 msgid "391"
-msgstr "Kes keha, kõne ega meelega valesti ei käitu ning ohjab neid kolme  teda nimetan ma braahmaniks."
+msgstr "Kes keha, kõne ega meelega valesti ei käitu ning ohjab neid kolmeteda nimetan ma braahmaniks."
 
 msgid "392"
 msgstr "Kellelt oled õppinud dhammat, mida Õigestimõistnu õpetas, seda austa tänulikult, nagu braahman austab ohvrituld."
@@ -1273,88 +1273,88 @@ msgid "394"
 msgstr "Milleks sulle pulstunud juuksed, kehvaaruline? Milleks sulle antiloobi nahast riided? Sinu sees on plekkide tihnik, sa puudutad vaid välist."
 
 msgid "395"
-msgstr "Olend, kes kannab tolmuhunnikust korjatud räbalaid, on nii kõhn, et naha alt paistavad välja sooned, ja kes üksi metsas džhaanasid harjutab  teda nimetan ma braahmaniks."
+msgstr "Olend, kes kannab tolmuhunnikust korjatud räbalaid, on nii kõhn, et naha alt paistavad välja sooned, ja kes üksi metsas džhaanasid harjutabteda nimetan ma braahmaniks."
 
 msgid "396"
-msgstr "Kuid ma ei nimeta kedagi braahmaniks üsast sündimise ega emast pärinemise põhjal. Teda tuleks nimetada aulikuks, kel on omand. Kes on aga omandita ja kiindumusteta  teda nimetan ma braahmaniks!"
+msgstr "Kuid ma ei nimeta kedagi braahmaniks üsast sündimise ega emast pärinemise põhjal. Teda tuleks nimetada aulikuks, kel on omand. Kes on aga omandita ja kiindumustetateda nimetan ma braahmaniks!"
 
 msgid "397"
-msgstr "Kes on kõik köidikud läbi lõiganud, see tõepoolest ei muretse. Kes on kõik kiindumused ületanud ja eemaldunud  teda nimetan ma braahmaniks."
+msgstr "Kes on kõik köidikud läbi lõiganud, see tõepoolest ei muretse. Kes on kõik kiindumused ületanud ja eemaldunudteda nimetan ma braahmaniks."
 
 msgid "398"
-msgstr "Kes on läbi lõiganud kütked ja sidemed, koos rakmete ning ohelikega, teda, takistused eemaldanud mõistnut  teda nimetan ma braahmaniks."
+msgstr "Kes on läbi lõiganud kütked ja sidemed, koos rakmete ning ohelikega, teda, takistused eemaldanud mõistnutteda nimetan ma braahmaniks."
 
 msgid "399"
-msgstr "See, kes solvamist, löömist ja vangistamist talub raskuseta ning kelle jõustavaks väeks on kannatlikkuse jõud  teda nimetan ma braahmaniks."
+msgstr "See, kes solvamist, löömist ja vangistamist talub raskuseta ning kelle jõustavaks väeks on kannatlikkuse jõudteda nimetan ma braahmaniks."
 
 msgid "400"
-msgstr "Vihatut, pühendunut, kõlbelist, kõrkuseta, taltunut, viimast korda kehastunut  teda nimetan ma braahmaniks."
+msgstr "Vihatut, pühendunut, kõlbelist, kõrkuseta, taltunut, viimast korda kehastunutteda nimetan ma braahmaniks."
 
 msgid "401"
-msgstr "Seda, kes ei nakku naudingute külge, nagu vesi ei nakku lootoslehe ja sinepiseeme nõelatera külge  teda nimetan ma braahmaniks."
+msgstr "Seda, kes ei nakku naudingute külge, nagu vesi ei nakku lootoslehe ja sinepiseeme nõelatera külgeteda nimetan ma braahmaniks."
 
 msgid "402"
-msgstr "Dukkha mõistmise läbi siin olemasolus mina hävitanut, koorma maha pannut ja eraldunut  teda nimetan ma braahmaniks."
+msgstr "Dukkha mõistmise läbi siin olemasolus mina hävitanut, koorma maha pannut ja eraldunutteda nimetan ma braahmaniks."
 
 msgid "403"
-msgstr "Sügava tarkusega arukat, tee ja mittetee tundjat, kõrgeima eesmärgi saavutanut  teda nimetan ma braahmaniks."
+msgstr "Sügava tarkusega arukat, tee ja mittetee tundjat, kõrgeima eesmärgi saavutanutteda nimetan ma braahmaniks."
 
 msgid "404"
-msgstr "Majaperemeestega mitteseotud ega ka kodututega, kindla elukohata, väheste soovidega rändurit  teda nimetan ma braahmaniks."
+msgstr "Majaperemeestega mitteseotud ega ka kodututega, kindla elukohata, väheste soovidega ränduritteda nimetan ma braahmaniks."
 
 msgid "405"
-msgstr "Elusolendite karistamise malaka maha pannud, olgu nood kas värisevad või kindlad; kes ei tapa ega põhjusta tapmist  teda nimetan ma braahmaniks."
+msgstr "Elusolendite karistamise malaka maha pannud, olgu nood kas värisevad või kindlad; kes ei tapa ega põhjusta tapmistteda nimetan ma braahmaniks."
 
 msgid "406"
-msgstr "Vaenutu kes vaenajaid, malaka tõstmisest loobunud, kiindumatu kesk kiindunuid  teda nimetan ma braahmaniks."
+msgstr "Vaenutu kes vaenajaid, malaka tõstmisest loobunud, kiindumatu kesk kiindunuidteda nimetan ma braahmaniks."
 
 msgid "407"
-msgstr "Kellelt kirg ja viha ning uhkus ja silmakirjalikkus on langenud nagu sinepiseeme nõelateralt  teda nimetan ma braahmaniks."
+msgstr "Kellelt kirg ja viha ning uhkus ja silmakirjalikkus on langenud nagu sinepiseeme nõelateraltteda nimetan ma braahmaniks."
 
 msgid "408"
-msgstr "Kes räägib karmuseta juhendavaid ja tõeseid sõnu, mis ei solva kedagi  teda nimetan ma braahmaniks."
+msgstr "Kes räägib karmuseta juhendavaid ja tõeseid sõnu, mis ei solva kedagiteda nimetan ma braahmaniks."
 
 msgid "409"
-msgstr "Olgu ta pikk või lühike, väike või suur, ilus või iluta; kes siin maailmas ei võta mitteantut  teda nimetan ma braahmaniks."
+msgstr "Olgu ta pikk või lühike, väike või suur, ilus või iluta; kes siin maailmas ei võta mitteantutteda nimetan ma braahmaniks."
 
 msgid "410"
-msgstr "Kelles ei leidu igatsust selle ega teiste maailmade järele, kes on igatsuseta, kõigest sõltumatu  teda nimetan ma braahmaniks."
+msgstr "Kelles ei leidu igatsust selle ega teiste maailmade järele, kes on igatsuseta, kõigest sõltumatuteda nimetan ma braahmaniks."
 
 msgid "411"
-msgstr "Seda, kes on igatsuseta, teadmiste läbi vabanenud kahtlusest, surmatuse saavutusse sukeldunu  teda nimetan ma braahmaniks."
+msgstr "Seda, kes on igatsuseta, teadmiste läbi vabanenud kahtlusest, surmatuse saavutusse sukeldunuteda nimetan ma braahmaniks."
 
 msgid "412"
-msgstr "Seda, siin maailmas nii pälvimuse kui ka kurjuse mõlemad sidemed ületanut, seda leinatut, mustusetut ja puhastunut  teda nimetan ma braahmaniks."
+msgstr "Seda, siin maailmas nii pälvimuse kui ka kurjuse mõlemad sidemed ületanut, seda leinatut, mustusetut ja puhastunutteda nimetan ma braahmaniks."
 
 msgid "413"
-msgstr "Nagu plekitu, puhas kuu, särav ja selge, olemasolurõõmust täielikult eemaldunu  teda nimetan ma braahmaniks."
+msgstr "Nagu plekitu, puhas kuu, särav ja selge, olemasolurõõmust täielikult eemaldunuteda nimetan ma braahmaniks."
 
 msgid "414"
-msgstr "Seda, kes selle ohtliku halva paiga, sansaara pettekujutluse on ületanud, läinud üle vastaskaldale, seda häirimatut ja kahtlusteta džhaait, klammerdumatut ning vaibunut  teda nimetan ma braahmaniks."
+msgstr "Seda, kes selle ohtliku halva paiga, sansaara pettekujutluse on ületanud, läinud üle vastaskaldale, seda häirimatut ja kahtlusteta džhaait, klammerdumatut ning vaibunutteda nimetan ma braahmaniks."
 
 msgid "415"
-msgstr "Seda, siin maailmas naudingutest loobunut, kodutut rändkerjust, olemasolunaudingu hävitanut  teda nimetan ma braahmaniks."
+msgstr "Seda, siin maailmas naudingutest loobunut, kodutut rändkerjust, olemasolunaudingu hävitanutteda nimetan ma braahmaniks."
 
 msgid "416"
-msgstr "Seda, siin maailmas ihast loobunut, kodutut rändkerjust, olemasoluiha hävitanut  teda nimetan ma braahmaniks."
+msgstr "Seda, siin maailmas ihast loobunut, kodutut rändkerjust, olemasoluiha hävitanutteda nimetan ma braahmaniks."
 
 msgid "417"
-msgstr "Inimesega seotust lahtiöelnut, taevalikuga seotust pääsenut, kõikidest seotustest lahtiseotut  teda nimetan ma braahmaniks."
+msgstr "Inimesega seotust lahtiöelnut, taevalikuga seotust pääsenut, kõikidest seotustest lahtiseotutteda nimetan ma braahmaniks."
 
 msgid "418"
-msgstr "Meeldivast ja ebameeldivast loobunut, kire tulest jahtunud, kiindumusteta, kõik maailmad ületanud kangelast  teda nimetan ma braahmaniks."
+msgstr "Meeldivast ja ebameeldivast loobunut, kire tulest jahtunud, kiindumusteta, kõik maailmad ületanud kangelastteda nimetan ma braahmaniks."
 
 msgid "419"
-msgstr "Seda, kes teab olendite surmast ja sünnist kõike, seda kiindumuseta, hästiläinud mõistnut  teda nimetan ma braahmaniks."
+msgstr "Seda, kes teab olendite surmast ja sünnist kõike, seda kiindumuseta, hästiläinud mõistnutteda nimetan ma braahmaniks."
 
 msgid "420"
-msgstr "Seda, kelle minemist ei tea deevad, gandhabbad ega inimesed, seda tulvad hävitanud arahanti  teda nimetan ma braahmaniks."
+msgstr "Seda, kelle minemist ei tea deevad, gandhabbad ega inimesed, seda tulvad hävitanud arahantiteda nimetan ma braahmaniks."
 
 msgid "421"
-msgstr "Seda, kelle jaoks minevikus ja ka tulevikus ega olevikus ei ole midagi, seda takistusteta, kiindumusteta  teda nimetan ma braahmaniks."
+msgstr "Seda, kelle jaoks minevikus ja ka tulevikus ega olevikus ei ole midagi, seda takistusteta, kiindumustetateda nimetan ma braahmaniks."
 
 msgid "422"
-msgstr "Tugev kui härg, ülev kangelane, suur nägija, võidukas, kirest häirimatu, puhastunu, mõistnu  teda nimetan ma braahmaniks."
+msgstr "Tugev kui härg, ülev kangelane, suur nägija, võidukas, kirest häirimatu, puhastunu, mõistnuteda nimetan ma braahmaniks."
 
 msgid "423"
-msgstr "Seda, kes teab eelmisi elusid, näeb taevast ja apaajat, on jõudnud sündide lõppu, seda ülimad teadmised saavutanud tarka, kõik saavutatava saavutanut  teda nimetan ma braahmaniks."
+msgstr "Seda, kes teab eelmisi elusid, näeb taevast ja apaajat, on jõudnud sündide lõppu, seda ülimad teadmised saavutanud tarka, kõik saavutatava saavutanutteda nimetan ma braahmaniks."

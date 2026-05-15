@@ -22,10 +22,10 @@ msgid "2"
 msgstr "Alle Foreteelser er betinget af Tanken, er behersket af Tanken, udgøres af Tanken; den der taler eller handler med ren Tanke, ham følger Lykken i Hælene, uadskillelig som hans Skygge."
 
 msgid "3"
-msgstr "'Han har smædet mig',  'Han har slaaet mig',  'Han har besejret mig',  'Han har røvet, hvad der var mit': hos dem, der gør sig saadanne Tanker om andre, svinder Hadet aldrig."
+msgstr "'Han har smædet mig','Han har slaaet mig','Han har besejret mig','Han har røvet, hvad der var mit': hos dem, der gør sig saadanne Tanker om andre, svinder Hadet aldrig."
 
 msgid "4"
-msgstr "'Han har smædet mig',  'Han har slaaet mig',  'Han har besejret mig',  'Han har røvet, hvad der var mit': hos dem, der ikke tænker saadan om andre, svinder Hadet."
+msgstr "'Han har smædet mig','Han har slaaet mig','Han har besejret mig','Han har røvet, hvad der var mit': hos dem, der ikke tænker saadan om andre, svinder Hadet."
 
 msgid "5"
 msgstr "Thi aldrig bringes her i Verden Had til Ophør ved Had; ved Mildhed svinder Had; det er en evig Lov."
@@ -145,10 +145,10 @@ msgid "41"
 msgstr "Ak, om kort Tid vil mit Legeme ligge paa Jorden, uden Bevidsthed, slængt hen som en unyttig Træklods."
 
 msgid "42"
-msgstr "Hvad ondt det ene Menneske i sit Had tilføjer det andet, eller den ene Fjende den anden,  noget langt værre end det vil en vildledet Tanke tilføje et Menneske."
+msgstr "Hvad ondt det ene Menneske i sit Had tilføjer det andet, eller den ene Fjende den anden,noget langt værre end det vil en vildledet Tanke tilføje et Menneske."
 
 msgid "43"
-msgstr "Saa meget formaar ikke en Moder, en Fader eller andre Slægtninge,  noget langt bedre end det vil en retledet Tanke bringe et Menneske."
+msgstr "Saa meget formaar ikke en Moder, en Fader eller andre Slægtninge,noget langt bedre end det vil en retledet Tanke bringe et Menneske."
 
 msgid "chap4"
 msgstr "Blomster"
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Hvis man paa sin Vandring ikke træffer nogen, der er bedre end en selv eller ens Ligemand, saa skal man trøstigt vandre alene; Daarer er intet Følgeskab."
 
 msgid "62"
-msgstr "'Jeg har Sønner, jeg har Rigdom'  saadanne Bekymringer gør Taaben sig; han er ikke engang Herre over sig selv, hvor meget mindre over Sønner og Rigdom."
+msgstr "'Jeg har Sønner, jeg har Rigdom'saadanne Bekymringer gør Taaben sig; han er ikke engang Herre over sig selv, hvor meget mindre over Sønner og Rigdom."
 
 msgid "63"
 msgstr "Den Taabe, der indser sin Daarskab, han er for saa vidt vis; men den Taabe, der anser sig for vis, han kan i Sandhed kaldes en Taabe."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "Han vil stræbe efter slette Menneskers Agtelse, efter Forrang blandt Tiggermunkene, efter Herredømmet i Klostrene, efter Ære i andre Familier:"
 
 msgid "74"
-msgstr "'Baade Lægfolk og Munke skal regne med mine Handlinger; mig skal de underkaste sig i alt, hvad der skal gøres eller ikke gøres!'  saadan er Taabens Ønske; og hans Begær og Indbildskhed vokser."
+msgstr "'Baade Lægfolk og Munke skal regne med mine Handlinger; mig skal de underkaste sig i alt, hvad der skal gøres eller ikke gøres!'saadan er Taabens Ønske; og hans Begær og Indbildskhed vokser."
 
 msgid "75"
 msgstr "En Lære fører til Rigdom, en anden til Nirvâna; naar Tiggermunken, Buddhas Lærling, har indset det, saa vil han ikke glæde sig over Æresbevisninger, men hellige sig Ensomhed."
@@ -358,7 +358,7 @@ msgid "107"
 msgstr "Hvis en Mand hundrede Aar igennem vedligeholder Offerilden i Skoven, eller hvis han blot et Øjeblik ærer en, der har skolet sit Jeg, saa er denne Hyldest bedre end hundrede Aars Ofre."
 
 msgid "108"
-msgstr "Hvad end en Mand for at indlægge sig Fortjeneste ofrer et Aar igennem af Ofre eller Offergaver her i Verden, alt det er ikke en Fjerdedel værd,  bedre er Hyldest overfor dem, der gaar den rette Vej."
+msgstr "Hvad end en Mand for at indlægge sig Fortjeneste ofrer et Aar igennem af Ofre eller Offergaver her i Verden, alt det er ikke en Fjerdedel værd,bedre er Hyldest overfor dem, der gaar den rette Vej."
 
 msgid "109"
 msgstr "Den der altid er ærbødig og ærer de gamle, hos ham er der fire Ting, der udvikles: Livskraft, Skønhed, Lykke og Styrke."
@@ -490,7 +490,7 @@ msgid "148"
 msgstr "Dette Legeme er udslidt, et Sygdommens Arnested, skrøbeligt, en Bunke Raaddenskab, der opløser sig, thi Livet munder ud i Døden."
 
 msgid "149"
-msgstr "Disse blegnede Knogler, kastet hen som Græskar ved Høsttid,  hvem kan glæde sig, naar han har set dem?"
+msgstr "Disse blegnede Knogler, kastet hen som Græskar ved Høsttid,hvem kan glæde sig, naar han har set dem?"
 
 msgid "150"
 msgstr "Af Knogler bygges en By, Kød og Blod smøres ovenpaa; der bor Alderdom og Død, Hovmod og Hykleri."
@@ -565,10 +565,10 @@ msgid "171"
 msgstr "Kom, se paa denne Verden, broget som en Fyrstes Vogn; hvor Daarerne fortvivler, men som de vise ingen Berøring har med."
 
 msgid "172"
-msgstr "Den der før var slap, men senere opgav sin Slaphed,  som Maanen fra en skyfri Himmel faar han denne Verden til at straale."
+msgstr "Den der før var slap, men senere opgav sin Slaphed,som Maanen fra en skyfri Himmel faar han denne Verden til at straale."
 
 msgid "173"
-msgstr "Den hvis onde Gerninger overskygges af de gode,  som Maanen fra en skyfri Himmel faar han denne Verden til at straale."
+msgstr "Den hvis onde Gerninger overskygges af de gode,som Maanen fra en skyfri Himmel faar han denne Verden til at straale."
 
 msgid "174"
 msgstr "Denne Verden er Mørke, kun faa formaar at se her; kun faa gaar mod Himlen som Fuglen, der er undsluppet Nættet."
@@ -1099,7 +1099,7 @@ msgid "338"
 msgstr "Som et Træ vokser op igen, selv om det er fældet, naar blot Roden er uskadt og fast, saaledes spirer Lidelsen atter og atter frem, saalænge al Vedhængen ved Begæret ikke er ødelagt."
 
 msgid "339"
-msgstr "Den hvis seksogtredive Strømme voldsomt flyder med Lyst, ham vil Bølgerne  hans Ønsker rettet mod Attraa  rive med sig, den Taabe."
+msgstr "Den hvis seksogtredive Strømme voldsomt flyder med Lyst, ham vil Bølgernehans Ønsker rettet mod Attraarive med sig, den Taabe."
 
 msgid "340"
 msgstr "Strømmene flyder allevegne; Slyngplanten staar og skyder i Vejret; naar I ser den spire frem, saa hug Roden over med Erkendelsens Hjælp."
@@ -1189,7 +1189,7 @@ msgid "367"
 msgstr "Den der fuldstændig er blottet for Begær efter Navn og Form, og som ikke sørger over, hvad der ikke er, han kaldes med Rette en Tiggermunk."
 
 msgid "368"
-msgstr "Den Tiggermunk, som optræder venligt, og som finder sin Lykke i Buddhas Lære, han kommer til et fredet Sted,  Lykken ved at Spirerne til nyt Liv er falden til Ro."
+msgstr "Den Tiggermunk, som optræder venligt, og som finder sin Lykke i Buddhas Lære, han kommer til et fredet Sted,Lykken ved at Spirerne til nyt Liv er falden til Ro."
 
 msgid "369"
 msgstr "Tøm denne Baad, Tiggermunk! Naar den er tømt, vil den gaa lettere; naar Du har brudt Attraaen og Hadets Magt, kommer Du til Nirvâna."
@@ -1228,7 +1228,7 @@ msgid "380"
 msgstr "Thi Jeget er sin egen Herre, og Jeget er sin egen Tilflugt; derfor tæm Dit Jeg som Købmanden en ædel Hest."
 
 msgid "381"
-msgstr "Den Tiggermunk, som er fuld af Glæde, og som finder sin Lykke i Buddhas Lære, han kommer til et fredet Sted,  Lykken ved at Spirerne til nyt Liv er faldet til Ro."
+msgstr "Den Tiggermunk, som er fuld af Glæde, og som finder sin Lykke i Buddhas Lære, han kommer til et fredet Sted,Lykken ved at Spirerne til nyt Liv er faldet til Ro."
 
 msgid "382"
 msgstr "Den Tiggermunk, der skønt ung, følger Buddhas Lære, han faar som Maanen fra en skyfri Himmel denne Verden til at straale."
@@ -1330,7 +1330,7 @@ msgid "413"
 msgstr "Den der som Maanen er pletfri, ren, klar og usløret, og som i sig har standset al Lyst, ham kalder jeg en Brahman."
 
 msgid "414"
-msgstr "Den der har passeret den sumpede, vanskelige Vej  Tilværelsen og Forblindelsen,  som er kommet igennem og har naaet den anden Side, med Tanken fast, uden Begær, uden at spørge: Hvorledes? uden at tilegne sig noget og med tilfreds Sind, ham kalder jeg en Brahman."
+msgstr "Den der har passeret den sumpede, vanskelige VejTilværelsen og Forblindelsen,som er kommet igennem og har naaet den anden Side, med Tanken fast, uden Begær, uden at spørge: Hvorledes? uden at tilegne sig noget og med tilfreds Sind, ham kalder jeg en Brahman."
 
 msgid "415"
 msgstr "Den som her i Verden opgiver alle Ønsker og vandrer rundt uden Hjem; den som i sig har standset al Attraa, ham kalder jeg en Brahman."

@@ -118,7 +118,7 @@ msgid "chap3"
 msgstr "A Mente"
 
 msgid "33"
-msgstr "Assim como um arqueiro endireita a haste da flecha, também o homem firme endireita a sua mente  volúvel e instável, tão difícil de domar."
+msgstr "Assim como um arqueiro endireita a haste da flecha, também o homem firme endireita a sua mentevolúvel e instável, tão difícil de domar."
 
 msgid "34"
 msgstr "Tal como um peixe que, retirado da água, salta e estrebucha, também assim é esta mente agitada. Por isso mesmo, se deve abandonar o reino de Mara."
@@ -187,7 +187,7 @@ msgid "54"
 msgstr "Não é o doce cheiro das flores, nem sequer a fragrância do sândalo, tagara, ou do jasmim, que sopra contra o vento. Mas a fragrância do virtuoso sopra contra o vento. Na verdade, o homem virtuoso atravessa todas as direções com a fragrância da sua virtude."
 
 msgid "55"
-msgstr "De todas as fragrâncias  sândalo, tagara, lótus azul e jasmim , a mais doce de todas é a da virtude."
+msgstr "De todas as fragrânciassândalo, tagara, lótus azul e jasmim , a mais doce de todas é a da virtude."
 
 msgid "56"
 msgstr "Débil é a fragrância de tagara e sândalo, mas excelente é a fragrância do virtuoso, flutuando até por entre os deuses."
@@ -247,7 +247,7 @@ msgid "73"
 msgstr "O tolo busca prestígio imerecido: precedência entre os monges, autoridade sobre mosteiros e honra entre chefes de família."
 
 msgid "74"
-msgstr "'Que os leigos e monges pensem que fui eu que fiz. Em toda a obra, grande e pequena, que eles me sigam'  tal é a ambição do tolo; assim aumenta o seu desejo e orgulho."
+msgstr "'Que os leigos e monges pensem que fui eu que fiz. Em toda a obra, grande e pequena, que eles me sigam'tal é a ambição do tolo; assim aumenta o seu desejo e orgulho."
 
 msgid "75"
 msgstr "Uma coisa é a busca de ganho mundano, outra coisa bem diferente é o caminho para o Nibbāna. Que o monge, discípulo do Buddha, entenda isso claramente; não se deixe levar pela aclamação do mundo, mas, em seu lugar, cultive o desapego."
@@ -295,7 +295,7 @@ msgid "88"
 msgstr "Deixando os prazeres sensuais, sem apego, que o homem sábio se limpe das impurezas da mente."
 
 msgid "89"
-msgstr "Aqueles cujas mentes atingiram a excelência total nos Sete Fatores de Iluminação, que, tendo renunciado à ganância, se alegram no desapego  livres de obstáculos, brilhando com sabedoria, alcançam o Nibbāna nesta mesma vida."
+msgstr "Aqueles cujas mentes atingiram a excelência total nos Sete Fatores de Iluminação, que, tendo renunciado à ganância, se alegram no desapegolivres de obstáculos, brilhando com sabedoria, alcançam o Nibbāna nesta mesma vida."
 
 msgid "chap7"
 msgstr "O Arahant"
@@ -307,10 +307,10 @@ msgid "91"
 msgstr "Aqueles que são conscientes esforçam-se. Eles não estão apegados a lar algum; como cisnes que abandonam o lago, eles deixam para trás casa após casa."
 
 msgid "92"
-msgstr "Aqueles que não acumulam e que são sábios quanto à comida, cujo objeto é o Nada, a Liberdade Incondicional  o seu rasto não se consegue descobrir, tal como o dos pássaros no ar."
+msgstr "Aqueles que não acumulam e que são sábios quanto à comida, cujo objeto é o Nada, a Liberdade Incondicionalo seu rasto não se consegue descobrir, tal como o dos pássaros no ar."
 
 msgid "93"
-msgstr "Aquele cujas impurezas são destruídas e não está apegado à comida, cujo objeto é o Nada, a Liberdade Incondicional  o seu caminho não se consegue descobrir, como o dos pássaros no ar."
+msgstr "Aquele cujas impurezas são destruídas e não está apegado à comida, cujo objeto é o Nada, a Liberdade Incondicionalo seu caminho não se consegue descobrir, como o dos pássaros no ar."
 
 msgid "94"
 msgstr "Até mesmo os deuses reverenciam o sábio, cujos sentidos estão dominados como cavalos bem treinados pelo cocheiro, cujo orgulho é destruído e que está livre de impurezas."
@@ -322,7 +322,7 @@ msgid "96"
 msgstr "Calmo é o seu pensamento, calmo é o seu discurso e calma a sua ação, daquele que, conhecendo verdadeiramente, está totalmente livre, tranquilo e sábio."
 
 msgid "97"
-msgstr "O homem que não tem fé cega, que conhece o Incriado, que cortou todos os laços, destruiu todas as causas (para o kamma, bom e mau) e deitou fora todos os desejos  ele, na verdade, é o mais excelente dos homens."
+msgstr "O homem que não tem fé cega, que conhece o Incriado, que cortou todos os laços, destruiu todas as causas (para o kamma, bom e mau) e deitou fora todos os desejosele, na verdade, é o mais excelente dos homens."
 
 msgid "98"
 msgstr "Inspirador, na verdade, é aquele lugar onde habitam Arahants, seja uma aldeia, uma floresta, um vale ou uma colina."
@@ -466,7 +466,7 @@ msgid "141"
 msgstr "Nem caminhando nu, nem cabelos emaranhados, nem lama, nem jejum, nem deitando-se no chão, nem cobrindo-se de cinzas e poeira, nem sentado sobre os calcanhares pode purificar um mortal que não tenha superado a dúvida."
 
 msgid "142"
-msgstr "Mesmo que ricamente vestido, se alguém é calmo, controlado e estabelecido na vida santa, tendo posto de lado a violência contra todos os seres  esse, verdadeiramente, é um homem santo, um renunciante, um monge."
+msgstr "Mesmo que ricamente vestido, se alguém é calmo, controlado e estabelecido na vida santa, tendo posto de lado a violência contra todos os seresesse, verdadeiramente, é um homem santo, um renunciante, um monge."
 
 msgid "143"
 msgstr "Raro é o homem neste mundo que, comedido por modéstia, evita qualquer censura, como um cavalo puro-sangue evita o chicote."
@@ -538,7 +538,7 @@ msgid "163"
 msgstr "Fáceis de fazer ao próprio são as coisas prejudiciais. Mas extremamente difíceis de fazer são as coisas benéficas."
 
 msgid "164"
-msgstr "Quem, por causa de pontos de vista perversos, despreza o ensino dos Aperfeiçoados, dos Nobres e Justos  esse tolo, tal como o bambu, só produz frutos para a autodestruição."
+msgstr "Quem, por causa de pontos de vista perversos, despreza o ensino dos Aperfeiçoados, dos Nobres e Justosesse tolo, tal como o bambu, só produz frutos para a autodestruição."
 
 msgid "165"
 msgstr "O mal é feito a si mesmo; a si mesmo a pessoa se conspurca. A si mesmo deixa de fazer o mal; a si mesmo a pessoa se purifica. Pureza e impureza dependem de si mesmo; ninguém pode purificar outra pessoa."
@@ -595,19 +595,19 @@ msgid "180"
 msgstr "Por que caminho poderás detetar aquele Buddha de alcance infinito que não deixa rasto, em quem jamais existe o desejo que perpetua o vir a ser?"
 
 msgid "181"
-msgstr "Os sábios que se dedicam à meditação e que se deliciam na calma da renúncia  tais seres conscientes, Buddhas Supremos, até os deuses os estimam."
+msgstr "Os sábios que se dedicam à meditação e que se deliciam na calma da renúnciatais seres conscientes, Buddhas Supremos, até os deuses os estimam."
 
 msgid "182"
 msgstr "Difícil é nascer humano, dura é a vida dos mortais. Difícil é ganhar a oportunidade de ouvir a Verdade Sublime, e difícil é encontrar o despontar dos Buddhas."
 
 msgid "183"
-msgstr "Evitar todo o mal, cultivar o bem e purificar a mente  este é o ensinamento dos Buddhas."
+msgstr "Evitar todo o mal, cultivar o bem e purificar a menteeste é o ensinamento dos Buddhas."
 
 msgid "184"
 msgstr "Permanecer paciente é a maior austeridade. 'Nibbāna é supremo', dizem os Buddhas. Não se é um verdadeiro monge quando se prejudica outra pessoa, nem un verdadeiro renunciante quando se oprime os outros."
 
 msgid "185"
-msgstr "Não desprezar, não prejudicar, conter-se de acordo com o código da disciplina monástica, moderar-se na comida, viver solitário, devotar-se à meditação  este é o ensinamento dos Buddhas."
+msgstr "Não desprezar, não prejudicar, conter-se de acordo com o código da disciplina monástica, moderar-se na comida, viver solitário, devotar-se à meditaçãoeste é o ensinamento dos Buddhas."
 
 msgid "186"
 msgstr "Não há desejos sensuais satisfatórios, mesmo que chovam moedas de ouro; porque os prazeres sensuais dão pouca satisfação e muita dor."
@@ -616,7 +616,7 @@ msgid "187"
 msgstr "Tendo entendido isso, o homem sábio nem mesmo nos prazeres celestiais encontra deleite. O discípulo do Buddha Supremo deleita-se na destruição do desejo."
 
 msgid "188"
-msgstr "Exclusivamente levados pelo medo, os homens procuram refúgio em muitos lugares  montes, florestas, árvores sagradas e santuários."
+msgstr "Exclusivamente levados pelo medo, os homens procuram refúgio em muitos lugaresmontes, florestas, árvores sagradas e santuários."
 
 msgid "189"
 msgstr "Esse, de facto, não é o refúgio seguro; não é o refúgio supremo. Não é recorrendo a tal refúgio que se livra de todo o sofrimento."
@@ -712,7 +712,7 @@ msgid "217"
 msgstr "As pessoas prezam aquele que encarna a virtude e o discernimento, que tem princípios, que realizou a verdade e que faz o que deve fazer."
 
 msgid "218"
-msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidos  tal homem é chamado 'aquele destinado a atravessar a Corrente'."
+msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidostal homem é chamado 'aquele destinado a atravessar a Corrente'."
 
 msgid "219"
 msgstr "Quando, após uma longa ausência, um homem regressa de longe em segurança, ao chegar a casa, seus parentes, amigos e simpatizantes dão-lhe as boas-vindas."
@@ -739,7 +739,7 @@ msgid "225"
 msgstr "Aqueles sábios inofensivos, e sempre com domínio no corpo, vão para a Realidade Imortal onde, depois de chegados, não se afligem mais."
 
 msgid "226"
-msgstr "Àqueles sempre vigilantes, que se disciplinam dia e noite, sempre decididos ao Nibbāna  desaparecem as suas impurezas."
+msgstr "Àqueles sempre vigilantes, que se disciplinam dia e noite, sempre decididos ao Nibbānadesaparecem as suas impurezas."
 
 msgid "227"
 msgstr "Ó Atula! Na verdade, este é um dizer antigo, não só de hoje: eles culpam os que permanecem em silêncio, eles culpam os que falam muito, culpam os que falam com moderação. Não há ninguém no mundo que não seja culpado."
@@ -805,7 +805,7 @@ msgid "246"
 msgstr "Aquele que destrói a vida, profere mentiras, toma o que não é seu e vai ter com a esposa de outro;"
 
 msgid "247"
-msgstr "E é viciado em bebidas alcoólicas  tal homem desenterra a sua própria raiz mesmo neste mundo."
+msgstr "E é viciado em bebidas alcoólicastal homem desenterra a sua própria raiz mesmo neste mundo."
 
 msgid "248"
 msgstr "Sabe, ó homem bom: as coisas más são difíceis de controlar. Não deixes que a ganância e a maldade te arrastem para uma miséria prolongada."
@@ -850,13 +850,13 @@ msgid "260"
 msgstr "Um monge não é Sénior pelos seus cabelos grisalhos. Esse só é maduro na idade; então, envelheceu em vão."
 
 msgid "261"
-msgstr "Aquele no qual existe veracidade, virtude, contenção e autodomínio, que é inofensivo, livre de impurezas e sábio  esse é realmente chamado Sénior."
+msgstr "Aquele no qual existe veracidade, virtude, contenção e autodomínio, que é inofensivo, livre de impurezas e sábioesse é realmente chamado Sénior."
 
 msgid "262"
 msgstr "Não é por mera eloquência, nem por beleza de forma, que um homem se realiza, se ele for ciumento, egoísta e traiçoeiro."
 
 msgid "263"
-msgstr "Mas aquele no qual estes defeitos são totalmente destruídos, desenraizados e extintos, e que deitou fora o ódio  esse sábio é verdadeiramente realizado."
+msgstr "Mas aquele no qual estes defeitos são totalmente destruídos, desenraizados e extintos, e que deitou fora o ódioesse sábio é verdadeiramente realizado."
 
 msgid "264"
 msgstr "Não é pela cabeça rapada que um homem indisciplinado e mentiroso se faz um monge. Como pode aquele que está cheio de desejo e ganância ser um monge?"
@@ -868,7 +868,7 @@ msgid "266"
 msgstr "Ele não é um monge só porque vive de esmola. Não é por adotar exteriormente um hábito que alguém se torna um verdadeiro monge."
 
 msgid "267"
-msgstr "Quem quer que aqui (no Ensinamento) viva uma vida santa, transcendendo tanto mérito como demérito, caminhando com compreensão neste mundo  esse é verdadeiramente chamado de monge."
+msgstr "Quem quer que aqui (no Ensinamento) viva uma vida santa, transcendendo tanto mérito como demérito, caminhando com compreensão neste mundoesse é verdadeiramente chamado de monge."
 
 msgid "268"
 msgstr "Não é por observar o silêncio que alguém se torna sábio, se for tolo e ignorante. Contudo, o sábio é quem, com uma balança na sua mão, aceita somente o bem."
@@ -901,16 +901,16 @@ msgid "276"
 msgstr "Vocês próprios devem esforçar-se; os Buddhas só apontam o caminho. Aqueles que meditam e trilham o caminho ficam livres dos laços de Mara."
 
 msgid "277"
-msgstr "'Todas as coisas condicionadas são impermanentes'  quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas condicionadas são impermanentes'quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "278"
-msgstr "'Todas as coisas condicionadas são insatisfatórias'  quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas condicionadas são insatisfatórias'quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "279"
-msgstr "'Todas as coisas são não-eu'  quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
+msgstr "'Todas as coisas são não-eu'quando se vê isso com sabedoria, uma pessoa afasta-se do sofrimento. Este é o caminho para a purificação."
 
 msgid "280"
-msgstr "O ocioso que não se esforça quando deveria, que apesar de ainda jovem e forte está cheio de preguiça, com uma mente cheia de pensamentos vãos  um homem tão indolente não encontra o caminho para a sabedoria."
+msgstr "O ocioso que não se esforça quando deveria, que apesar de ainda jovem e forte está cheio de preguiça, com uma mente cheia de pensamentos vãosum homem tão indolente não encontra o caminho para a sabedoria."
 
 msgid "281"
 msgstr "Que uma pessoa vigie o seu discurso, tenha a mente bem controlada e não cometa o mal com ação corporal. Que purifique esses três cursos de ação e ganhe o caminho dado a conhecer pelo Grande Sábio."
@@ -928,7 +928,7 @@ msgid "285"
 msgstr "Corta o teu afeto como um homem arranca com a sua mão um lótus de outono. Cultiva somente o caminho para a paz, o Nibbāna, assim como foi dado a conocer pelo Excelso."
 
 msgid "286"
-msgstr "'Aqui devo viver durante as chuvas, aqui no inverno e no verão'  assim pensa o tolo. Ele não percebe o perigo (de que a morte pode intervir)."
+msgstr "'Aqui devo viver durante as chuvas, aqui no inverno e no verão'assim pensa o tolo. Ele não percebe o perigo (de que a morte pode intervir)."
 
 msgid "287"
 msgstr "Tal como uma grande enchente leva de enxurrada uma aldeia que dorme, também a morte apanha e leva de enxurrada o homem de mente apegada, delirando pelos seus filhos e gado."
@@ -982,7 +982,7 @@ msgid "302"
 msgstr "Difícil é a vida como monge; difícil é ter prazer nisso. Também difícil e penosa é a vida doméstica. O sofrimento advém da associação com os desiguais; o sofrimento advém por se vaguear no saṃsāra. Portanto, não sejas um andarilho sem rumo; não persigas o sofrimento."
 
 msgid "303"
-msgstr "Aquele que é cheio de fé e virtude, e possui boa reputação e riqueza  é respeitado em toda parte, em qualquer terra onde viaje."
+msgstr "Aquele que é cheio de fé e virtude, e possui boa reputação e riquezaé respeitado em toda parte, em qualquer terra onde viaje."
 
 msgid "304"
 msgstr "Os justos brilham de longe, como as montanhas dos Himalaias. Mas os ímpios são invisíveis, como flechas disparadas na noite."
@@ -1009,10 +1009,10 @@ msgid "310"
 msgstr "Tal homem adquire demérito e um nascimento infeliz no futuro. Breve é o prazer do homem e da mulher assustados, e o rei impõe punição pesada. Portanto, que nenhum homem coabite com a mulher do outro."
 
 msgid "311"
-msgstr "Tal como a grama kusa, se for mal agarrada com a mão, corta  da mesma forma, uma vida monástica mal vivida arrasta a pessoa para estados de aflição."
+msgstr "Tal como a grama kusa, se for mal agarrada com a mão, cortada mesma forma, uma vida monástica mal vivida arrasta a pessoa para estados de aflição."
 
 msgid "312"
-msgstr "Qualquer ato impensado, qualquer observância corrupta, qualquer forma de celibato questionável  nada disto dá grandes frutos."
+msgstr "Qualquer ato impensado, qualquer observância corrupta, qualquer forma de celibato questionávelnada disto dá grandes frutos."
 
 msgid "313"
 msgstr "Se é para fazer alguma coisa, que se faça com vigor sustentado. A vida monástica relaxada ainda levanta mais a poeira das paixões."
@@ -1024,16 +1024,16 @@ msgid "315"
 msgstr "Assim como a fronteira de uma cidade é muito bem guardada, tanto por dentro como por fora, da mesma forma, protege-te. Não deixes escapar esta oportunidade (para o crescimento espiritual). Quem a deixou escapar aflige-se, na verdade, quando entregue à escuridão."
 
 msgid "316"
-msgstr "Aqueles que têm vergonha do que não se deviam envergonhar e não se envergonham do que se deviam envergonhar  vendo as coisas de uma forma errada, dirigem-se para estados de aflição."
+msgstr "Aqueles que têm vergonha do que não se deviam envergonhar e não se envergonham do que se deviam envergonharvendo as coisas de uma forma errada, dirigem-se para estados de aflição."
 
 msgid "317"
-msgstr "Aqueles que temem algo quando não há nada a temer, e não veem nada a temer onde há algo a temer  vendo as coisas de uma forma errada, dirigem-se para estados de aflição."
+msgstr "Aqueles que temem algo quando não há nada a temer, e não veem nada a temer onde há algo a temervendo as coisas de uma forma errada, dirigem-se para estados de aflição."
 
 msgid "318"
-msgstr "Aqueles que imaginam o mal onde este não existe, e não veem o mal onde ele existe  vendo as coisas de uma forma errada, dirigem-se para estados de aflição."
+msgstr "Aqueles que imaginam o mal onde este não existe, e não veem o mal onde ele existevendo as coisas de uma forma errada, dirigem-se para estados de aflição."
 
 msgid "319"
-msgstr "Aqueles que discernirem o errado como errado e o certo como certo  vendo as coisas de uma forma correta, dirigem-se para os reinos da felicidade."
+msgstr "Aqueles que discernirem o errado como errado e o certo como certovendo as coisas de uma forma correta, dirigem-se para os reinos da felicidade."
 
 msgid "chap23"
 msgstr "O Elefante"
@@ -1096,7 +1096,7 @@ msgid "337"
 msgstr "Por isso digo: Boa sorte a todos reunidos aqui! Desenterrem a raiz do anseio, como alguém em busca da perfumada raiz da erva birana. Não deixem que Mara vos esmague vezes sem conta, como a inundação esmaga a cana."
 
 msgid "338"
-msgstr "Assim como uma árvore que, apesar de cortada, se as raízes se mantiverem intactas e firmes, brota de novo  da mesma forma, até que o desejo latente seja desenterrado, o sofrimento surge vezes sem conta."
+msgstr "Assim como uma árvore que, apesar de cortada, se as raízes se mantiverem intactas e firmes, brota de novoda mesma forma, até que o desejo latente seja desenterrado, o sofrimento surge vezes sem conta."
 
 msgid "339"
 msgstr "O homem equivocado, no qual as 36 correntes do anseio ainda correm fortemente em direção aos objetos deliciosos, é varrido pelo dilúvio dos seus pensamentos apaixonados."
@@ -1132,13 +1132,13 @@ msgid "349"
 msgstr "Para uma pessoa atormentada por maus pensamentos, que é dominada pela paixão e dada à busca do prazer, o seu anseio cresce constantemente. Ele cria, de facto, uma forte prisão."
 
 msgid "350"
-msgstr "A pessoa que com alegria subjuga os maus pensamentos, que medita sobre as impurezas e está sempre consciente  é ela que porá um fim ao anseio e que despedaça a prisão de Mara."
+msgstr "A pessoa que com alegria subjuga os maus pensamentos, que medita sobre as impurezas e está sempre conscienteé ela que porá um fim ao anseio e que despedaça a prisão de Mara."
 
 msgid "351"
-msgstr "Aquele que alcançou a meta é destemido, livre de anseio, livre de paixão e arrancou os espinhos da existência  para ele este é o último corpo."
+msgstr "Aquele que alcançou a meta é destemido, livre de anseio, livre de paixão e arrancou os espinhos da existênciapara ele este é o último corpo."
 
 msgid "352"
-msgstr "Aquele que está livre de desejo e apego, que se aperfeiçoou em descobrir o verdadeiro significado do Ensinamento, e que conhece a combinação dos textos sagrados na sequência certa  ele, na verdade, é o portador de seu corpo final. Ele é verdadeiramente chamado de profundamente sábio, o grande homem."
+msgstr "Aquele que está livre de desejo e apego, que se aperfeiçoou em descobrir o verdadeiro significado do Ensinamento, e que conhece a combinação dos textos sagrados na sequência certaele, na verdade, é o portador de seu corpo final. Ele é verdadeiramente chamado de profundamente sábio, o grande homem."
 
 msgid "353"
 msgstr "Um vencedor, Eu sou acima de tudo, tudo eu conheci. No entanto, desapegado estou de tudo o que foi conquistado e conhecido. Abandonando tudo, sou livre pela destruição do anseio. Tendo assim compreendido diretamente tudo por mim mesmo, a quem devo chamar meu professor?"
@@ -1171,22 +1171,22 @@ msgid "361"
 msgstr "Bom é ter domínio do corpo; bom é o domínio da fala; bom é o domínio do pensamento. Comedimento em qualquer lugar é bom. O monge comedido em todos os sentidos está livre de todo o sofrimento."
 
 msgid "362"
-msgstr "Aquele que tem o controlo sobre suas mãos, pés e língua, que é totalmente controlado, deleita-se no desenvolvimento interior, é concentrado na meditação, mantém-se discreto e está contente  a esse as pessoas chamam monge."
+msgstr "Aquele que tem o controlo sobre suas mãos, pés e língua, que é totalmente controlado, deleita-se no desenvolvimento interior, é concentrado na meditação, mantém-se discreto e está contentea esse as pessoas chamam monge."
 
 msgid "363"
-msgstr "Aquele monge que tem controlo sobre sua língua, que é moderado em discurso, despretensioso e que explica o Ensinamento tanto na letra como em espírito  o que quer que diga é agradável."
+msgstr "Aquele monge que tem controlo sobre sua língua, que é moderado em discurso, despretensioso e que explica o Ensinamento tanto na letra como em espíritoo que quer que diga é agradável."
 
 msgid "364"
-msgstr "O monge que permanece no Dhamma, que se deleita no Dhamma, medita sobre o Dhamma e tem o Dhamma bem em mente  não se afasta do Dhamma sublime."
+msgstr "O monge que permanece no Dhamma, que se deleita no Dhamma, medita sobre o Dhamma e tem o Dhamma bem em mentenão se afasta do Dhamma sublime."
 
 msgid "365"
 msgstr "Não se deve desprezar o que se recebeu, nem invejar o ganho dos outros. O monge que inveja o ganho dos outros não alcança a absorção meditativa."
 
 msgid "366"
-msgstr "Um monge que não despreza o que recebeu, mesmo que seja pouco, que é puro na subsistência e incessante em esforço  até mesmo os deuses o elogiam."
+msgstr "Um monge que não despreza o que recebeu, mesmo que seja pouco, que é puro na subsistência e incessante em esforçoaté mesmo os deuses o elogiam."
 
 msgid "367"
-msgstr "Aquele que não tem qualquer apego de mente e corpo, que não se lamenta por aquilo que não tem  é verdadeiramente chamado um monge."
+msgstr "Aquele que não tem qualquer apego de mente e corpo, que não se lamenta por aquilo que não temé verdadeiramente chamado um monge."
 
 msgid "368"
 msgstr "O monge que permanece no amor universal e é profundamente devotado ao Ensinamento do Buddha alcança a paz do Nibbāna, a bem-aventurança da cessação de todas as coisas condicionadas."
@@ -1210,7 +1210,7 @@ msgid "374"
 msgstr "Sempre que, com clareza introspetiva, ele vê a ascensão e a queda dos agregados, enche-se de alegria e felicidade. Para os sábios isso reflete a Realidade Imortal."
 
 msgid "375"
-msgstr "Controlo dos sentidos, contentamento, o comedimento de acordo com o código da disciplina monástica  estes são a base da vida santa para o monge sábio."
+msgstr "Controlo dos sentidos, contentamento, o comedimento de acordo com o código da disciplina monásticaestes são a base da vida santa para o monge sábio."
 
 msgid "376"
 msgstr "Que ele se associe com amigos nobres, enérgicos e com vida pura; seja cordial e educado na conduta. Assim, cheio de alegria, ele porá fim ao sofrimento."
@@ -1219,7 +1219,7 @@ msgid "377"
 msgstr "Assim como a trepadeira de jasmim larga as suas flores murchas, da mesma maneira, ó monges, largai totalmente a luxúria e o ódio!"
 
 msgid "378"
-msgstr "O monge calmo no corpo, calmo na fala, calmo no pensamento, bem controlado e que renunciou à vida mundana  esse, na verdade, é chamado de sereno."
+msgstr "O monge calmo no corpo, calmo na fala, calmo no pensamento, bem controlado e que renunciou à vida mundanaesse, na verdade, é chamado de sereno."
 
 msgid "379"
 msgstr "Cada um deve censurar-se e examinar-se a si mesmo. O monge que se vigia e é consciente vive sempre em felicidade."
@@ -1243,10 +1243,10 @@ msgid "384"
 msgstr "Quando um homem santo atingiu o ápice dos dois caminhos (concentração meditativa e compreensão introspetiva), sabe a verdade e todos os seus bloqueios caem."
 
 msgid "385"
-msgstr "Aquele para quem não existe nem esta nem a outra margem, nem mesmo ambas, que está livre de preocupações e sem apegos  a esse chamo de homem santo."
+msgstr "Aquele para quem não existe nem esta nem a outra margem, nem mesmo ambas, que está livre de preocupações e sem apegosa esse chamo de homem santo."
 
 msgid "386"
-msgstr "Aquele que medita, sem mancha e pacífico, que faz o seu trabalho e está livre de impurezas, tendo atingido o mais alto objetivo  a esse chamo de homem santo."
+msgstr "Aquele que medita, sem mancha e pacífico, que faz o seu trabalho e está livre de impurezas, tendo atingido o mais alto objetivoa esse chamo de homem santo."
 
 msgid "387"
 msgstr "O sol brilha de dia, a lua brilha à noite. O guerreiro brilha na armadura, o homem santo brilha ao meditar. Mas o Buddha brilha resplandecente sempre, dia e noite."
@@ -1261,100 +1261,100 @@ msgid "390"
 msgstr "Nada é melhor para um homem santo do que refrear a mente das suas tendências. À medida que a intenção de fazer o mal desaparece, também o sofrimento desaparece."
 
 msgid "391"
-msgstr "Aquele que não faz nenhum mal em ação, em palavra e em pensamento, que é comedido nestas três formas  a esse chamo de homem santo."
+msgstr "Aquele que não faz nenhum mal em ação, em palavra e em pensamento, que é comedido nestas três formasa esse chamo de homem santo."
 
 msgid "392"
 msgstr "Assim como um sacerdote brāhmane reverencia seu fogo sacrificial, da mesma forma se deve reverenciar a pessoa de quem se aprendeu o Dhamma ensinado pelo Buddha."
 
 msgid "393"
-msgstr "Nem pelo cabelo emaranhado, nem pela linhagem, nem pelo nascimento alguém se torna um homem santo. Mas aquele onde a verdade e a justiça existem  é puro, esse é um homem santo."
+msgstr "Nem pelo cabelo emaranhado, nem pela linhagem, nem pelo nascimento alguém se torna um homem santo. Mas aquele onde a verdade e a justiça existemé puro, esse é um homem santo."
 
 msgid "394"
 msgstr "De que serve o teu cabelo emaranhado, ó homem insensato? E a vestimenta de pele de antílope? Dentro de vós está o emaranhado (da paixão); só exteriormente se limpam."
 
 msgid "395"
-msgstr "Aquele que usa um hábito feito de trapos, que é magro, mostrando veias sobre todo o seu corpo, e que medita sozinho na floresta  a esse chamo de homem santo."
+msgstr "Aquele que usa um hábito feito de trapos, que é magro, mostrando veias sobre todo o seu corpo, e que medita sozinho na florestaa esse chamo de homem santo."
 
 msgid "396"
-msgstr "Eu não chamo um homem santo a alguém só por causa de sua linhagem. Se ele está cheio de apegos impeditivos, é apenas um homem arrogante. Mas aquele que é livre de impedimentos e apego  a esse chamo de homem santo."
+msgstr "Eu não chamo um homem santo a alguém só por causa de sua linhagem. Se ele está cheio de apegos impeditivos, é apenas um homem arrogante. Mas aquele que é livre de impedimentos e apegoa esse chamo de homem santo."
 
 msgid "397"
-msgstr "Aquele que, depois de ter cortado todos os grilhões, não treme jamais, que superou todos os apegos  a esse chamo de homem santo."
+msgstr "Aquele que, depois de ter cortado todos os grilhões, não treme jamais, que superou todos os apegosa esse chamo de homem santo."
 
 msgid "398"
-msgstr "Aquele que cortou o fio (do ódio), o laço (da cobiça) e a corda (de falsos pontos de vista), juntamente com os pertences (tendências más latentes); aquele que removeu a trave (da ignorância) e é iluminado  a esse chamo de homem santo."
+msgstr "Aquele que cortou o fio (do ódio), o laço (da cobiça) e a corda (de falsos pontos de vista), juntamente com os pertences (tendências más latentes); aquele que removeu a trave (da ignorância) e é iluminadoa esse chamo de homem santo."
 
 msgid "399"
-msgstr "Aquele que, sem ressentimento, aguenta o abuso, espancamento e punição; cujo verdadeiro poder é a paciência  a esse chamo de homem santo."
+msgstr "Aquele que, sem ressentimento, aguenta o abuso, espancamento e punição; cujo verdadeiro poder é a paciênciaa esse chamo de homem santo."
 
 msgid "400"
-msgstr "Aquele que está livre da raiva, que é devoto, virtuoso, sem cobiça, comedido e que carrega o seu último corpo  a esse chamo de homem santo."
+msgstr "Aquele que está livre da raiva, que é devoto, virtuoso, sem cobiça, comedido e que carrega o seu último corpoa esse chamo de homem santo."
 
 msgid "401"
-msgstr "Como água sobre uma folha de lótus ou um grão de mostarda na ponta de uma agulha, é aquele que não se apega aos prazeres sensuais  a esse chamo de homem santo."
+msgstr "Como água sobre uma folha de lótus ou um grão de mostarda na ponta de uma agulha, é aquele que não se apega aos prazeres sensuaisa esse chamo de homem santo."
 
 msgid "402"
-msgstr "Aquele que, nesta vida, compreende por si mesmo o fim do sofrimento, que deixou de lado o fardo e se libertou  a esse chamo de homem santo."
+msgstr "Aquele que, nesta vida, compreende por si mesmo o fim do sofrimento, que deixou de lado o fardo e se libertoua esse chamo de homem santo."
 
 msgid "403"
-msgstr "Aquele que tem conhecimento profundo, que é sábio, preciso em discernir o caminho certo ou errado e que atingiu o mais alto objetivo  a esse chamo de homem santo."
+msgstr "Aquele que tem conhecimento profundo, que é sábio, preciso em discernir o caminho certo ou errado e que atingiu o mais alto objetivoa esse chamo de homem santo."
 
 msgid "404"
-msgstr "Aquele que se mantém distante tanto de chefes de família como dos ascetas, que perambula sem residência fixa e que precisa de pouco  a esse chamo de homem santo."
+msgstr "Aquele que se mantém distante tanto de chefes de família como dos ascetas, que perambula sem residência fixa e que precisa de poucoa esse chamo de homem santo."
 
 msgid "405"
-msgstr "Aquele que renunciou à violência para com todos os seres vivos, fortes ou fracos, que não mata nem faz com que os outros matem  a esse chamo de homem santo."
+msgstr "Aquele que renunciou à violência para com todos os seres vivos, fortes ou fracos, que não mata nem faz com que os outros matema esse chamo de homem santo."
 
 msgid "406"
-msgstr "Aquele que é amigável entre os hostis, pacífico entre os violentos e desapegado entre os apegados  a esse chamo de homem santo."
+msgstr "Aquele que é amigável entre os hostis, pacífico entre os violentos e desapegado entre os apegadosa esse chamo de homem santo."
 
 msgid "407"
-msgstr "Aquele cuja luxúria e orgulho, ódio e hipocrisia caíram como uma semente de mostarda cai da ponta de uma agulha  a esse chamo de homem santo."
+msgstr "Aquele cuja luxúria e orgulho, ódio e hipocrisia caíram como uma semente de mostarda cai da ponta de uma agulhaa esse chamo de homem santo."
 
 msgid "408"
-msgstr "Aquele que profere suavemente palavras instrutivas e verdadeiras, que não ofende ninguém  a esse chamo de homem santo."
+msgstr "Aquele que profere suavemente palavras instrutivas e verdadeiras, que não ofende ninguéma esse chamo de homem santo."
 
 msgid "409"
-msgstr "Aquele que, neste mundo, nada tira que não lhe seja dado, seja isso longo ou curto, grande ou pequeno, bom ou mau  a esse chamo de homem santo."
+msgstr "Aquele que, neste mundo, nada tira que não lhe seja dado, seja isso longo ou curto, grande ou pequeno, bom ou maua esse chamo de homem santo."
 
 msgid "410"
-msgstr "Aquele que nada quer, tanto deste mundo como do próximo, livre de cobiça e em liberdade  a esse chamo de homem santo."
+msgstr "Aquele que nada quer, tanto deste mundo como do próximo, livre de cobiça e em liberdadea esse chamo de homem santo."
 
 msgid "411"
-msgstr "Aquele que não tem apego, que através do conhecimento perfeito é livre de dúvidas e mergulhou na Realidade Imortal  a esse chamo de homem santo."
+msgstr "Aquele que não tem apego, que através do conhecimento perfeito é livre de dúvidas e mergulhou na Realidade Imortala esse chamo de homem santo."
 
 msgid "412"
-msgstr "Aquele que, neste mundo, transcendeu tanto os laços do mérito como do demérito, que não tem tristeza, imaculado e puro  a esse chamo de homem santo."
+msgstr "Aquele que, neste mundo, transcendeu tanto os laços do mérito como do demérito, que não tem tristeza, imaculado e puroa esse chamo de homem santo."
 
 msgid "413"
-msgstr "Aquele que, como a lua, é impecável e puro, sereno e claro, que destruiu o prazer da existência  a esse chamo de homem santo."
+msgstr "Aquele que, como a lua, é impecável e puro, sereno e claro, que destruiu o prazer da existênciaa esse chamo de homem santo."
 
 msgid "414"
-msgstr "Aquele que, depois de ter atravessado este pântano, esta roda da existência perigosa e ilusória, atravessou e chegou à outra margem; que medita, calmo, livre de dúvidas, que não se apegando a nada, alcança o Nibbāna  a esse chamo um homem santo."
+msgstr "Aquele que, depois de ter atravessado este pântano, esta roda da existência perigosa e ilusória, atravessou e chegou à outra margem; que medita, calmo, livre de dúvidas, que não se apegando a nada, alcança o Nibbānaa esse chamo um homem santo."
 
 msgid "415"
-msgstr "Aquele que, tendo abandonado os prazeres sensuais, renunciou à vida doméstica, tornando-se um mendicante; destruiu tanto o desejo sensual como a existência continuada  a esse chamo de homem santo."
+msgstr "Aquele que, tendo abandonado os prazeres sensuais, renunciou à vida doméstica, tornando-se um mendicante; destruiu tanto o desejo sensual como a existência continuadaa esse chamo de homem santo."
 
 msgid "416"
-msgstr "Aquele que, tendo abandonado o desejo, renunciou à vida doméstica, tornando-se um mendicante, destruiu tanto o anseio como a existência continuada  a esse chamo um homem santo."
+msgstr "Aquele que, tendo abandonado o desejo, renunciou à vida doméstica, tornando-se um mendicante, destruiu tanto o anseio como a existência continuadaa esse chamo um homem santo."
 
 msgid "417"
-msgstr "Aquele que, deitando fora laços humanos e transcendendo laços celestes, é totalmente livre de todas as prisões  a esse chamo de homem santo."
+msgstr "Aquele que, deitando fora laços humanos e transcendendo laços celestes, é totalmente livre de todas as prisõesa esse chamo de homem santo."
 
 msgid "418"
-msgstr "Aquele que, tendo deitado fora gostos e desgostos, se tornou tranquilo, livre dos substratos da existência e, como um herói, conquistou todos os mundos  a esse chamo de homem santo."
+msgstr "Aquele que, tendo deitado fora gostos e desgostos, se tornou tranquilo, livre dos substratos da existência e, como um herói, conquistou todos os mundosa esse chamo de homem santo."
 
 msgid "419"
-msgstr "Aquele que, de toda a maneira, conhece a morte e o renascimento de todos os seres, e é totalmente desapegado, abençoado e iluminado  a esse chamo de homem santo."
+msgstr "Aquele que, de toda a maneira, conhece a morte e o renascimento de todos os seres, e é totalmente desapegado, abençoado e iluminadoa esse chamo de homem santo."
 
 msgid "420"
-msgstr "Aquele de quem nem deuses, nem anjos, nem humanos conseguem encontrar rasto, o Arahant que destruiu todas as impurezas  a esse chamo de homem santo."
+msgstr "Aquele de quem nem deuses, nem anjos, nem humanos conseguem encontrar rasto, o Arahant que destruiu todas as impurezasa esse chamo de homem santo."
 
 msgid "421"
-msgstr "Aquele que não se apega a nada do passado, presente e futuro, que não tem apego a nada  a esse chamo de homem santo."
+msgstr "Aquele que não se apega a nada do passado, presente e futuro, que não tem apego a nadaa esse chamo de homem santo."
 
 msgid "422"
-msgstr "Ele, o Justo, o Excelente, o Heroico, o Grande Sábio, o Conquistador, o Desapaixonado, o Puro, o Iluminado  a esse chamo de homem santo."
+msgstr "Ele, o Justo, o Excelente, o Heroico, o Grande Sábio, o Conquistador, o Desapaixonado, o Puro, o Iluminadoa esse chamo de homem santo."
 
 msgid "423"
-msgstr "Aquele que conhece os seus nascimentos prévios, que vê o céu e o inferno, que chegou ao fim dos nascimentos e atingiu a perfeição da sabedoria introspetiva, o sábio que alcançou o cume da excelência espiritual  a esse chamo de homem santo."
+msgstr "Aquele que conhece os seus nascimentos prévios, que vê o céu e o inferno, que chegou ao fim dos nascimentos e atingiu a perfeição da sabedoria introspetiva, o sábio que alcançou o cume da excelência espirituala esse chamo de homem santo."

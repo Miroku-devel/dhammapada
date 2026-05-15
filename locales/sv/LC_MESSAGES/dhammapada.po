@@ -16,16 +16,16 @@ msgid "chap1"
 msgstr "Dubbelversernas"
 
 msgid "1"
-msgstr "Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar eller handlar med oren tanke, då följer en otillfredsställelsen  som ett hjul följer dragarens fot."
+msgstr "Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar eller handlar med oren tanke, då följer en otillfredsställelsensom ett hjul följer dragarens fot."
 
 msgid "2"
 msgstr "Tingen föregås av tanken, styrs av tanken, görs av tanken. Om man talar eller handlar med klar tanke, då följer en glädjen som en aldrig vikande skugga."
 
 msgid "3"
-msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig'  för dem som klagar så upphör inte hatet."
+msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig'för dem som klagar så upphör inte hatet."
 
 msgid "4"
-msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig'  för dem som inte klagar så upphör hatet."
+msgstr "'Han förolämpade mig, han slog mig, han besegrade mig, han plundrade mig'för dem som inte klagar så upphör hatet."
 
 msgid "5"
 msgstr "Aldrig någonsin upphör här hat genom hat. Blott genom kärlek upphör det. Detta är evig dhamma."
@@ -73,7 +73,7 @@ msgid "19"
 msgstr "Om han mycket läser texterna, men inte handlar efter dem, är den försumlige som en herde som räknar andras kor. Han har ingen del i sramanernas gemenskap."
 
 msgid "20"
-msgstr "Om han litet läser texterna men verkligen lever enligt dhamma, har släppt lystnad, hat och självbedrägeri med rätt kunskap och ett väl befriat sinne, utan att hänga fast vid denna värld eller nästa  då har han i sanning del i sramanernas gemenskap."
+msgstr "Om han litet läser texterna men verkligen lever enligt dhamma, har släppt lystnad, hat och självbedrägeri med rätt kunskap och ett väl befriat sinne, utan att hänga fast vid denna värld eller nästadå har han i sanning del i sramanernas gemenskap."
 
 msgid "chap2"
 msgstr "Omsorgens"
@@ -133,10 +133,10 @@ msgid "37"
 msgstr "De som övar sig att styra sitt sinne som vandrar vida, som irrar ensamt, som ingen kropp har, som bor i det inre, de blir fria från Maras band."
 
 msgid "38"
-msgstr "Den vars sinne inte är fast, som inte känner den sanna dhamma, den vars förtroende vacklar  hans vishet fullkomnas inte."
+msgstr "Den vars sinne inte är fast, som inte känner den sanna dhamma, den vars förtroende vacklarhans vishet fullkomnas inte."
 
 msgid "39"
-msgstr "Den vars sinne ej har begär, den vars tankar inte förvirras, den som lämnat all förtjänst och allt ont  hos denne vaksamme finns ingen fruktan."
+msgstr "Den vars sinne ej har begär, den vars tankar inte förvirras, den som lämnat all förtjänst och allt onthos denne vaksamme finns ingen fruktan."
 
 msgid "40"
 msgstr "Inse att kroppen liknar ett lerkärl, upprätta sinnet som en fästning och anfall Mara med vishetens vapen, skydda din seger, häng inte fast!"
@@ -187,7 +187,7 @@ msgid "54"
 msgstr "Ej blomdoft går mot vinden, ej sandel, tagara eller jasmin. De godas doft går mot vinden. Åt alla håll sprider den gode sin doft."
 
 msgid "55"
-msgstr "Sandel och tagara, lotus och jasmin  bland dessa dofter är gott verks väldoft ojämförlig."
+msgstr "Sandel och tagara, lotus och jasminbland dessa dofter är gott verks väldoft ojämförlig."
 
 msgid "56"
 msgstr "Svag är doften av tagara och sandel. De godas doft, den yttersta, sprids bland devas."
@@ -211,7 +211,7 @@ msgid "61"
 msgstr "Om man under sin vandring ej finner någon som är bättre eller lika, vandre man beslutsamt ensam. Ej finns gemenskap med den som inte vill veta."
 
 msgid "62"
-msgstr "'Söner har jag, rikedom har jag'  så går dåren och oroar sig. Inte ens sig själv har han. Har han då söner? Har han rikedom?"
+msgstr "'Söner har jag, rikedom har jag'så går dåren och oroar sig. Inte ens sig själv har han. Har han då söner? Har han rikedom?"
 
 msgid "63"
 msgstr "Den dåre som inser sin dårskap är just därför vis. Den dåre som yvs över vishet må verkligen kallas dåre."
@@ -256,7 +256,7 @@ msgid "chap6"
 msgstr "Den Vises"
 
 msgid "76"
-msgstr "Om du finner en skatter förmedlande, fel finnande, klander givande vis  följ då en sådan vetande. För den som så gör blir bättre, ej sämre."
+msgstr "Om du finner en skatter förmedlande, fel finnande, klander givande visfölj då en sådan vetande. För den som så gör blir bättre, ej sämre."
 
 msgid "77"
 msgstr "Råde han och förmane och det lågsinta tygle. För uppmärksam blir han kär, för ouppmärksam okär."
@@ -295,25 +295,25 @@ msgid "88"
 msgstr "Där önske han glädje fri från all njutning. Rene sig från sinnets fläckar den vise."
 
 msgid "89"
-msgstr "De vilkas sinnen rätt och väl har odlats i upplysningens led, de som har slutat klamra sig och gläder sig åt att inte hänga fast, med sinade flöden och lysande ljus  de har fullkomligt slocknat i världen."
+msgstr "De vilkas sinnen rätt och väl har odlats i upplysningens led, de som har slutat klamra sig och gläder sig åt att inte hänga fast, med sinade flöden och lysande ljusde har fullkomligt slocknat i världen."
 
 msgid "chap7"
 msgstr "Arahantens"
 
 msgid "90"
-msgstr "Den som rest färdigt, är utan sorg, befriat sig från allt och lämnat alla bojor  han brinner inte."
+msgstr "Den som rest färdigt, är utan sorg, befriat sig från allt och lämnat alla bojorhan brinner inte."
 
 msgid "91"
 msgstr "Bort drar de uppmärksamma. Ej i hemmet finner de glädje. Som gäss som lämnar sin göl lämnar de hus efter hus."
 
 msgid "92"
-msgstr "De som inte hopar, som väl förstår sin föda, som tomma och bildlösa när sig av frihet  svår är deras väg att följa liksom fåglarnas i rymden."
+msgstr "De som inte hopar, som väl förstår sin föda, som tomma och bildlösa när sig av frihetsvår är deras väg att följa liksom fåglarnas i rymden."
 
 msgid "93"
-msgstr "Den vars flöden tömts, som inte är bunden till näring, som tom och bildlös när sig av frihet  svår är hans väg att följa som fåglarnas i rymden."
+msgstr "Den vars flöden tömts, som inte är bunden till näring, som tom och bildlös när sig av frihetsvår är hans väg att följa som fåglarnas i rymden."
 
 msgid "94"
-msgstr "Den som lugnat sina sinnen som hästar av kusken väl tämjda, som lämnat sin stolthet, släppt sina flöden  även devas avundas honom för detta."
+msgstr "Den som lugnat sina sinnen som hästar av kusken väl tämjda, som lämnat sin stolthet, släppt sina flödenäven devas avundas honom för detta."
 
 msgid "95"
 msgstr "Som jorden möter han inga hinder. En stadig påle liknar den väl gör eller en sjö fri från gyttja. Födelser finns inte för sådan."
@@ -322,10 +322,10 @@ msgid "96"
 msgstr "Lugn är hans tanke, lugnt är hans tal, lugn hans gärning. Frigjord genom rätt insikt är en sådan helt lugnad."
 
 msgid "97"
-msgstr "Den som är utan tillit, känner det ogjorda, brutit kedjan, krossat skenet, spytt upp sin önskan  han är främst bland människor."
+msgstr "Den som är utan tillit, känner det ogjorda, brutit kedjan, krossat skenet, spytt upp sin önskanhan är främst bland människor."
 
 msgid "98"
-msgstr "Om i by eller i skog, om på lågt land eller på högt  var än arahanter vistas, där är gott att vara."
+msgstr "Om i by eller i skog, om på lågt land eller på högtvar än arahanter vistas, där är gott att vara."
 
 msgid "99"
 msgstr "Härliga är skogarna där människor ej finner glädje. De lidelsefria finner sin glädje. Inte söker de njutningar."
@@ -400,10 +400,10 @@ msgid "120"
 msgstr "Även den gode ser det onda så länge det goda ej börjar koka. När det goda kokar, då ser den gode gott."
 
 msgid "121"
-msgstr "Förringa inte det onda  'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den, som inte vill veta, av ondska som han samlar litet i taget."
+msgstr "Förringa inte det onda'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den, som inte vill veta, av ondska som han samlar litet i taget."
 
 msgid "122"
-msgstr "Förringa inte det goda  'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den faste av förtjänst som han samlar litet i taget."
+msgstr "Förringa inte det goda'Det kommer inte till mig.' Av vattendroppars fall fylls även ett vattenkärl. Så fylls den faste av förtjänst som han samlar litet i taget."
 
 msgid "123"
 msgstr "Som en köpman med litet skydd och mycket gods undviker skrämmande väg, och den livet älskar undviker gift, så må man undvika ondskan."
@@ -466,7 +466,7 @@ msgid "141"
 msgstr "Ej nakenvandring, ej tovigt hår, ej smuts, ej fasta eller liggande på marken, damm och lera eller huksittsträvan renar dödlig som ej lämnat tvivlen."
 
 msgid "142"
-msgstr "Även om han vandrar smyckad, fridfull, säker, tämjd och kysk, bland alla väsen utan gissel  han är brahmin, sraman och bhikkhu."
+msgstr "Även om han vandrar smyckad, fridfull, säker, tämjd och kysk, bland alla väsen utan gisselhan är brahmin, sraman och bhikkhu."
 
 msgid "143"
 msgstr "Vem är i denna värld människa styrd av skam för att undvika klander som en god häst piskan?"
@@ -589,25 +589,25 @@ msgid "chap14"
 msgstr "Buddhas"
 
 msgid "179"
-msgstr "Den vars seger ej görs ogjord, hans seger utforskar ingen i världen. Denne Buddha med gränslöst fält och utan spår  vilken väg leder ni honom?"
+msgstr "Den vars seger ej görs ogjord, hans seger utforskar ingen i världen. Denne Buddha med gränslöst fält och utan spårvilken väg leder ni honom?"
 
 msgid "180"
-msgstr "Den vars snärjande, bindande törst inte längre för någonstans, denne Buddha med gränslöst fält och utan spår  vilken väg leder ni honom?"
+msgstr "Den vars snärjande, bindande törst inte längre för någonstans, denne Buddha med gränslöst fält och utan spårvilken väg leder ni honom?"
 
 msgid "181"
-msgstr "De visa, som gärna samlar sitt sinne, som gläds över lugnet att inget äga  även devas avundas dem, de fullt uppvaknade och uppmärksamma."
+msgstr "De visa, som gärna samlar sitt sinne, som gläds över lugnet att inget ägaäven devas avundas dem, de fullt uppvaknade och uppmärksamma."
 
 msgid "182"
 msgstr "Svårt är bli människa. Svårt är de dödligas liv. Svårt är höra den yttersta sanningen. Svårt är att möta buddhor."
 
 msgid "183"
-msgstr "Allt ont inte göra, hälsobringande inleda, eget sinne rena  detta är buddhornas budskap."
+msgstr "Allt ont inte göra, hälsobringande inleda, eget sinne renadetta är buddhornas budskap."
 
 msgid "184"
 msgstr "Tålmodigt uthärda är högsta övning. Högst är nirvana, säger buddhorna. Inte har den lämnat hemmet som skadar en annan. Inte är den sraman som annan sårar."
 
 msgid "185"
-msgstr "Inte skymfa, inte skada, i Patimokkha vara återhållsam, äta måttligt, ligga och sitta för sig, sträva i meditation  detta är buddhornas budskap."
+msgstr "Inte skymfa, inte skada, i Patimokkha vara återhållsam, äta måttligt, ligga och sitta för sig, sträva i meditationdetta är buddhornas budskap."
 
 msgid "186"
 msgstr "Ej med ett regn av pengar är njutningen nöjd. Ej gör njutningen nöjd, ej ger den glädje. I vetskap om detta, den vise"
@@ -616,7 +616,7 @@ msgid "187"
 msgstr "ens i gudomliga njutningar ej finner glädje. Åt ett slut på törsten gläds den fullt uppvaknades lärjunge."
 
 msgid "188"
-msgstr "Till mången tillflykt vandrar människor drivna av rädsla  till berg och skogar, trädgårdar, träd och stupor."
+msgstr "Till mången tillflykt vandrar människor drivna av rädslatill berg och skogar, trädgårdar, träd och stupor."
 
 msgid "189"
 msgstr "Ej är detta trygg tillflykt. Ej är detta högsta tillflykt. Ej till denna tillflykt kommen är man från all dukkha fri."
@@ -640,7 +640,7 @@ msgid "195"
 msgstr "Den som hedrar dem heder är värda, vare sig buddhor eller lärjungar, frigjorda från hinder, gångna bortom sorg och klagan;"
 
 msgid "196"
-msgstr "den sådana hedrar som nått nirvana, som ingenting fruktar  ej är möjligt för någon att sådans förtjänst mäta."
+msgstr "den sådana hedrar som nått nirvana, som ingenting fruktarej är möjligt för någon att sådans förtjänst mäta."
 
 msgid "chap15"
 msgstr "Glädjens"
@@ -685,7 +685,7 @@ msgid "chap16"
 msgstr "Det Käras"
 
 msgid "209"
-msgstr "När han binder sig vid det som inte bör bindas vid, inte binder sig vid det som bör bindas vid och lämnat det goda  avundas njutningssökaren dem som övar sig."
+msgstr "När han binder sig vid det som inte bör bindas vid, inte binder sig vid det som bör bindas vid och lämnat det godaavundas njutningssökaren dem som övar sig."
 
 msgid "210"
 msgstr "Sök aldrig det kärt är eller okärt, vad det än är. Att inte se det kärt är smärtar liksom att se det okärt är."
@@ -709,10 +709,10 @@ msgid "216"
 msgstr "Ur törst kommer sorg. Ur törst kommer rädsla. För den som gjort sig fri från törst finns inte sorg, än mindre rädsla."
 
 msgid "217"
-msgstr "Den som handlar rätt och med förstånd, som lever riktigt och som talar sanning och verkar för sig själv  för människorna är han kär."
+msgstr "Den som handlar rätt och med förstånd, som lever riktigt och som talar sanning och verkar för sig självför människorna är han kär."
 
 msgid "218"
-msgstr "Den som börjat önska det som inte visats, den vars tanke öppnat sig, den vars sinne inte binds av njutning  han sägs simma uppströms."
+msgstr "Den som börjat önska det som inte visats, den vars tanke öppnat sig, den vars sinne inte binds av njutninghan sägs simma uppströms."
 
 msgid "219"
 msgstr "Den som länge varit borta och helbrägda kommit från fjärran blir av fränder, vänner och kamrater hjärtligt välkomnad."
@@ -751,7 +751,7 @@ msgid "229"
 msgstr "Den som den vetande prisar efter granskning dag efter dag, den kloke som uppträder felfritt, som uppnått vishet och moral,"
 
 msgid "230"
-msgstr "som liknar ett mynt av renaste guld  vem är värdig att honom klandra? Även devas prisar honom. Ja, av Brahma prisas han."
+msgstr "som liknar ett mynt av renaste guldvem är värdig att honom klandra? Även devas prisar honom. Ja, av Brahma prisas han."
 
 msgid "231"
 msgstr "För kroppens vrede vakte man sig och vare till kroppen behärskad. Slute man illa handla med kroppen och handle med kroppen väl."
@@ -850,13 +850,13 @@ msgid "260"
 msgstr "Ej är man därför äldste för att ens huvud är grått. Mogen hans ålder, åldrad förgäves kallas han."
 
 msgid "261"
-msgstr "Hos vilken finns sanning och dhamma, icke-våld, självbehärskning, måttfullhet, han som är fläckfri och klok  han kallas äldste."
+msgstr "Hos vilken finns sanning och dhamma, icke-våld, självbehärskning, måttfullhet, han som är fläckfri och klokhan kallas äldste."
 
 msgid "262"
 msgstr "Ej för sin vältalighet, ej för sin vackra hy är människan god om avundsam, självisk och falsk."
 
 msgid "263"
-msgstr "Men den som detta huggit av, ryckt upp med roten, kastat bort, som är hatfri och vis  han kallas god."
+msgstr "Men den som detta huggit av, ryckt upp med roten, kastat bort, som är hatfri och vishan kallas god."
 
 msgid "264"
 msgstr "Ej för sin skallighet sraman är den som illa gör och lögn talar. Vem med lystnad och begär kan bli sraman?"
@@ -982,7 +982,7 @@ msgid "302"
 msgstr "Svårt är avstå, svårt är glädjas. Svårt är leva i hus, ej gör det nöjd. Ej gör det nöjd att leva med sina likar. Ej blir resande nöjd. Därför rese man ej och vare ej onöjd."
 
 msgid "303"
-msgstr "Den tillit har och rätt handlar, med gott rykte och rikedom  till vilket land han än reser, där blir han tjänad."
+msgstr "Den tillit har och rätt handlar, med gott rykte och rikedomtill vilket land han än reser, där blir han tjänad."
 
 msgid "304"
 msgstr "På långt håll lyser de rena som Himalayas berg. De orena kan inte ses, som pilar skjutna i natten."
@@ -1099,7 +1099,7 @@ msgid "338"
 msgstr "Som ett träd med stark och oskadd rot växer åter, även om det huggs, så uppstår denna otillfredsställelse gång på gång så länge böjelsen för törst inte ryckts upp med roten."
 
 msgid "339"
-msgstr "Den vars trettiosex strömmar, behagligt framflytande, är starka  honom, den illa seende, för begärsfyllda tankar bort."
+msgstr "Den vars trettiosex strömmar, behagligt framflytande, är starkahonom, den illa seende, för begärsfyllda tankar bort."
 
 msgid "340"
 msgstr "Överallt flyter strömmar. Klängväxter gror och reser sig. Då du sett denna klängväxt födas, skär av roten med vishet."
@@ -1132,13 +1132,13 @@ msgid "349"
 msgstr "Hos den som av tankar oroas, som har starkt begär och lever för det sköna, växer törsten mer. Han gör bandet starkt."
 
 msgid "350"
-msgstr "Den som gläds åt tankarnas ro, betraktar det osköna, alltid är uppmärksam  han får av sig, han skär sönder Maras band."
+msgstr "Den som gläds åt tankarnas ro, betraktar det osköna, alltid är uppmärksamhan får av sig, han skär sönder Maras band."
 
 msgid "351"
 msgstr "Den målet nått, den inte fruktar, fri från törst och utan fläck, har brutit tillblivelsens pilar. Hans sista är denna kropp."
 
 msgid "352"
-msgstr "Den som är fri från törst och inte hänger fast, som kan språkläran och ordförrådet, ljudens förening och deras ordning  han har sin sista kropp. Stor vis, stor människa kallas han."
+msgstr "Den som är fri från törst och inte hänger fast, som kan språkläran och ordförrådet, ljudens förening och deras ordninghan har sin sista kropp. Stor vis, stor människa kallas han."
 
 msgid "353"
 msgstr "Allt har jag övervunnit. Allt vet jag. Bland alla ting är jag utan fläck. Allt har jag lämnat. Jag har avlägsnat törsten och är fri. Då jag själv har förstått, vem skall jag nämna?"
@@ -1171,10 +1171,10 @@ msgid "361"
 msgstr "Att tygla kroppen är gott. Gott är att tygla talet. Att tygla tanken är gott. Gott är att tygla allt. Bhikkhu som tyglar allt blir fri från allt som inte gör nöjd."
 
 msgid "362"
-msgstr "Till handen behärskad, till foten behärskad, till talet behärskad, ojämförligt behärskad, med inre glädje, med samlad tanke, enslig och nöjd  han kallas bhikkhu."
+msgstr "Till handen behärskad, till foten behärskad, till talet behärskad, ojämförligt behärskad, med inre glädje, med samlad tanke, enslig och nöjdhan kallas bhikkhu."
 
 msgid "363"
-msgstr "Bhikkhu som är behärskad till munnen, väl talar, inte är stolt, orden och meningen förklarar  som honung är hans tal."
+msgstr "Bhikkhu som är behärskad till munnen, väl talar, inte är stolt, orden och meningen förklararsom honung är hans tal."
 
 msgid "364"
 msgstr "Bhikkhu som lever i dhamma, som gläds åt dhamma, som tänker på dhamma, som minns dhamma, går inte tillbaka från sann dhamma."
@@ -1243,10 +1243,10 @@ msgid "384"
 msgstr "När med två övningar brahminen gått förbi, då försvinner alla bojor för honom som vet."
 
 msgid "385"
-msgstr "Den för vilken den andra stranden eller denna eller den andra och denna inte är, fri från fruktan, utan ok  honom kallar jag brahmin."
+msgstr "Den för vilken den andra stranden eller denna eller den andra och denna inte är, fri från fruktan, utan okhonom kallar jag brahmin."
 
 msgid "386"
-msgstr "Den som sitter med samlat sinne och utan smuts, som gjort det som göras skall, från flöden fri, som högsta målet nått  honom kallar jag brahmin."
+msgstr "Den som sitter med samlat sinne och utan smuts, som gjort det som göras skall, från flöden fri, som högsta målet nåtthonom kallar jag brahmin."
 
 msgid "387"
 msgstr "Om dagen lyser solen. Om natten strålar månen. Rustad lyser kshatriyan, med samlat sinne brahminen. Men varje timme lyser en Buddha som eld."
@@ -1261,7 +1261,7 @@ msgid "390"
 msgstr "Ej för brahmin är något bättre än detta när sinnet avhåller sig från vad kärt är. När än viljan att förstöra försvinner så lugnas allt det som inte gör nöjd."
 
 msgid "391"
-msgstr "Den som med kroppen, talet och tanken inte gör något ont, i dessa tre behärskad  honom kallar jag brahmin."
+msgstr "Den som med kroppen, talet och tanken inte gör något ont, i dessa tre behärskadhonom kallar jag brahmin."
 
 msgid "392"
 msgstr "Den, från vilken man dhamma lärt känna, som den fullt uppvaknade visat, hälse man med aktning som sin offereld brahminen."
@@ -1273,88 +1273,88 @@ msgid "394"
 msgstr "Vad är väl tovigt hår för dig, idiot, eller antilopskinnsdräkt? Inuti är du en djungel. Utsidan putsar du."
 
 msgid "395"
-msgstr "Den som bär kläder av tyg från en soptipp, mager, med synliga ådror och ensam i skogen samlar sinnet  honom kallar jag brahmin."
+msgstr "Den som bär kläder av tyg från en soptipp, mager, med synliga ådror och ensam i skogen samlar sinnethonom kallar jag brahmin."
 
 msgid "396"
-msgstr "Inte kallar jag honom brahmin för börds skull eller för moders. Stolt är han om han har något. Den som inget har, vid inget hänger fast  honom kallar jag brahmin."
+msgstr "Inte kallar jag honom brahmin för börds skull eller för moders. Stolt är han om han har något. Den som inget har, vid inget hänger fasthonom kallar jag brahmin."
 
 msgid "397"
-msgstr "Den som brutit alla bojor och inte oroas, fri från krokar, utan ok  honom kallar jag brahmin."
+msgstr "Den som brutit alla bojor och inte oroas, fri från krokar, utan okhonom kallar jag brahmin."
 
 msgid "398"
-msgstr "Den som skurit bandet och remmen, tjudret och betslet, som lyft hindret och vaknat  honom kallar jag brahmin."
+msgstr "Den som skurit bandet och remmen, tjudret och betslet, som lyft hindret och vaknathonom kallar jag brahmin."
 
 msgid "399"
-msgstr "Den som hårda ord och slag tål, fast själv ej ond, stark i sitt tålamod, med tålamod som vapen  honom kallar jag brahmin."
+msgstr "Den som hårda ord och slag tål, fast själv ej ond, stark i sitt tålamod, med tålamod som vapenhonom kallar jag brahmin."
 
 msgid "400"
-msgstr "Den som inte vredgas, är trogen sin plikt, rätt handlar, ej är oren, tyglar sig och har sin sista kropp  honom kallar jag brahmin."
+msgstr "Den som inte vredgas, är trogen sin plikt, rätt handlar, ej är oren, tyglar sig och har sin sista kropphonom kallar jag brahmin."
 
 msgid "401"
-msgstr "Den som, likt vatten på lotusblad, likt senapskorn på en sylspets, inte fastnar i njutningar  honom kallar jag brahmin."
+msgstr "Den som, likt vatten på lotusblad, likt senapskorn på en sylspets, inte fastnar i njutningarhonom kallar jag brahmin."
 
 msgid "402"
-msgstr "Den som för egen del här lärt känna slutet på det som inte gör nöjd, som lagt ned bördan, utan ok  honom kallar jag brahmin."
+msgstr "Den som för egen del här lärt känna slutet på det som inte gör nöjd, som lagt ned bördan, utan okhonom kallar jag brahmin."
 
 msgid "403"
-msgstr "Den som har djup vishet, som är klok, som vet vad som är vägen och vad dess motsats, som högsta målet nått  honom kallar jag brahmin."
+msgstr "Den som har djup vishet, som är klok, som vet vad som är vägen och vad dess motsats, som högsta målet nåtthonom kallar jag brahmin."
 
 msgid "404"
-msgstr "Den som inte binder sig vid dem som hus äger eller vid hemlösa, som vandrar utan bekvämlighet, som önskar föga  honom kallar jag brahmin."
+msgstr "Den som inte binder sig vid dem som hus äger eller vid hemlösa, som vandrar utan bekvämlighet, som önskar fögahonom kallar jag brahmin."
 
 msgid "405"
-msgstr "Den som lagt ned gisslet bland dem som är, rädda och orädda, som varken dödar eller låter döda  honom kallar jag brahmin."
+msgstr "Den som lagt ned gisslet bland dem som är, rädda och orädda, som varken dödar eller låter dödahonom kallar jag brahmin."
 
 msgid "406"
-msgstr "Den som utan bojor är bland i bojor slagna, helt lugn bland dem som älskar våld, utan att ta bland dem som tar  honom kallar jag brahmin."
+msgstr "Den som utan bojor är bland i bojor slagna, helt lugn bland dem som älskar våld, utan att ta bland dem som tarhonom kallar jag brahmin."
 
 msgid "407"
-msgstr "Den vars begär och hat, stolthet och hyckleri glidit bort som från en sylspets ett senapskorn  honom kallar jag brahmin."
+msgstr "Den vars begär och hat, stolthet och hyckleri glidit bort som från en sylspets ett senapskornhonom kallar jag brahmin."
 
 msgid "408"
-msgstr "Den som mjukt och lärorikt talar och sant, som inte förbannar någon  honom kallar jag brahmin."
+msgstr "Den som mjukt och lärorikt talar och sant, som inte förbannar någonhonom kallar jag brahmin."
 
 msgid "409"
-msgstr "Den som långt och kort, smått och stort, skönt och fult i världen, om inte givet, ej tar  honom kallar jag brahmin."
+msgstr "Den som långt och kort, smått och stort, skönt och fult i världen, om inte givet, ej tarhonom kallar jag brahmin."
 
 msgid "410"
-msgstr "Den som inget hoppas i denna värld och en annan, fri från hopp, utan ok  honom kallar jag brahmin."
+msgstr "Den som inget hoppas i denna värld och en annan, fri från hopp, utan okhonom kallar jag brahmin."
 
 msgid "411"
-msgstr "Den som vid inget hänger fast, som vet och därför ej tvivlar och som sänkt sig i frihet från döden  honom kallar jag brahmin."
+msgstr "Den som vid inget hänger fast, som vet och därför ej tvivlar och som sänkt sig i frihet från dödenhonom kallar jag brahmin."
 
 msgid "412"
-msgstr "Den som från förtjänst och ont, båda band, har flytt, sorgfri, smutsfri, ren  honom kallar jag brahmin."
+msgstr "Den som från förtjänst och ont, båda band, har flytt, sorgfri, smutsfri, renhonom kallar jag brahmin."
 
 msgid "413"
-msgstr "Den som är som månen fläckfri och ren, klarnad och utan en krusning, och vars njutning ej mer blir  honom kallar jag brahmin."
+msgstr "Den som är som månen fläckfri och ren, klarnad och utan en krusning, och vars njutning ej mer blirhonom kallar jag brahmin."
 
 msgid "414"
-msgstr "Den som övervunnit detta hinder, denna besvärliga väg, sangsara, självbedrägeriet, som gått bortom, som samlar sinnet, utan oro, fri från tvivel, som vid inget hänger fast, som nått nirvana  honom kallar jag brahmin."
+msgstr "Den som övervunnit detta hinder, denna besvärliga väg, sangsara, självbedrägeriet, som gått bortom, som samlar sinnet, utan oro, fri från tvivel, som vid inget hänger fast, som nått nirvanahonom kallar jag brahmin."
 
 msgid "415"
-msgstr "Den som lämnat nöjena och hemlös vandrar, den vars nöje ej mer blir  honom kallar jag brahmin."
+msgstr "Den som lämnat nöjena och hemlös vandrar, den vars nöje ej mer blirhonom kallar jag brahmin."
 
 msgid "416"
-msgstr "Den som lämnat törsten och hemlös vandrar, den vars törst ej mer blir  honom kallar jag brahmin."
+msgstr "Den som lämnat törsten och hemlös vandrar, den vars törst ej mer blirhonom kallar jag brahmin."
 
 msgid "417"
-msgstr "Den som lämnat mänskligt ok och ur devaoket flytt, som blivit fri från varje ok  honom kallar jag brahmin."
+msgstr "Den som lämnat mänskligt ok och ur devaoket flytt, som blivit fri från varje okhonom kallar jag brahmin."
 
 msgid "418"
-msgstr "Den som lämnat kärt och okärt, som ej mer brinner, inte hänger fast, hjälten som alla världar övervunnit  honom kallar jag brahmin."
+msgstr "Den som lämnat kärt och okärt, som ej mer brinner, inte hänger fast, hjälten som alla världar övervunnithonom kallar jag brahmin."
 
 msgid "419"
-msgstr "Den som känner varelsernas död och födelse i grunden, vid inget häftar, väl vandrat, vaknat  honom kallar jag brahmin."
+msgstr "Den som känner varelsernas död och födelse i grunden, vid inget häftar, väl vandrat, vaknathonom kallar jag brahmin."
 
 msgid "420"
-msgstr "Den vars fortsättning är okänd för devas, gandharvas och människor, en arahant med sinade flöden  honom kallar jag brahmin."
+msgstr "Den vars fortsättning är okänd för devas, gandharvas och människor, en arahant med sinade flödenhonom kallar jag brahmin."
 
 msgid "421"
-msgstr "Den som i det som varit, i det som kommer och i det som är inte äger något, som inget äger, vid inget hänger fast  honom kallar jag brahmin."
+msgstr "Den som i det som varit, i det som kommer och i det som är inte äger något, som inget äger, vid inget hänger fasthonom kallar jag brahmin."
 
 msgid "422"
-msgstr "En tjur, en ädel hjälte, stor vis, segerrik, utan oro, som sig renat och vaknat  honom kallar jag brahmin."
+msgstr "En tjur, en ädel hjälte, stor vis, segerrik, utan oro, som sig renat och vaknathonom kallar jag brahmin."
 
 msgid "423"
-msgstr "Den som känner tidigare liv, som ser himmel och helvete, som nått födelsens slut, den tyste som behärskar det högre vetandet, som uppnått alla fullkomligheter  honom kallar jag brahmin."
+msgstr "Den som känner tidigare liv, som ser himmel och helvete, som nått födelsens slut, den tyste som behärskar det högre vetandet, som uppnått alla fullkomligheterhonom kallar jag brahmin."
