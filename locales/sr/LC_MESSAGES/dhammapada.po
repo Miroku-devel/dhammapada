@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Damapada"
+
+msgid "chaps"
+msgstr "Poglavlja"
+
+msgid "fontsize"
+msgstr "Veličina fonta"
+
+msgid "chap1"
+msgstr "Parovi"
+
+msgid "1"
+msgstr "Um je izvor svih stvari, um im prethodi, um ih stvara. Ko sa rđavom namerom govori il' radi, tog patnja u stopu prati, kao točak volovsku zapregu."
+
+msgid "2"
+msgstr "Um je izvor svih stvari, um im prethodi, um ih stvara. Ko sa dobrom namerom govori il' radi, tog sreća nikad ne napušta, kao ni sopstvena senka."
+
+msgid "3"
+msgstr "Psovao me je, tukao, pobedio me je i orobio, u onima koji tako misle, mržnja se nikad ne smiruje."
+
+msgid "4"
+msgstr "Psovao me je, tukao, pobedio me je i orobio, u onima koji tako ne misle, u njima se mržnja smiruje."
+
+msgid "5"
+msgstr "Mržnjom se mržnja zaista nikad ne smiruje, mržnja se nemržnjom smiruje; to je zakon večni."
+
+msgid "6"
+msgstr "Mnogi ne razumeju ovde da sebe obuzdati treba, ali oni koji to shvate, svađe svoje smiruju lako."
+
+msgid "7"
+msgstr "Onog ko za zadovoljstvima juri, čula neobuzdanih, tako proždrljivog, lenjog i bezvoljnog, smrt će oboriti kao vetar drvo bez korena."
+
+msgid "8"
+msgstr "Onog ko za zadovoljstvima ne juri, čula obuzdanih, umerenog u jelu, marljivog, predanog i u naporu istrajnog, toga smrt ne pomera, kao ni vetar planinu."
+
+msgid "9"
+msgstr "Ko pročišćen nije, a žuti ogrtač nosi, neumeren i od istine daleko, tog ogrtača dostojan nije."
+
+msgid "10"
+msgstr "Ko je pročišćen, u vrlini ustaljen, umeren i istini blizu, tog ogrtača dostojan je."
+
+msgid "11"
+msgstr "Privid smatraju stvarnim, a stvarno prividom, takvi, hraneći se pogrešnom mišlju, stvarno ne nalaze."
+
+msgid "12"
+msgstr "Stvarno smatraju stvarnim, a privid prividom, takvi, hraneći se ispravnom mišlju, stvarno pronalaze."
+
+msgid "13"
+msgstr "Kao što u loše pokrivenu kuću kiša prodire, tako i u um slabo uvežban strasti prodiru."
+
+msgid "14"
+msgstr "Kao što dobro pokrivenu kuću kiša ne prodire, tako ni u um dobro uvežban strasti ne prodiru."
+
+msgid "15"
+msgstr "Dok živi nariče, kad umre nariče, zločinac nariče i ovde i tamo, nariče, očajava, kad sagleda zlodela svoja."
+
+msgid "16"
+msgstr "Dok živi raduje se, kad umre raduje se, dobročinitelj se raduje i ovde i tamo, raduje se, srećan je, kad sagleda dobročinstva svoja."
+
+msgid "17"
+msgstr "Dok živi muči se, kad umre muči se, zločinac se muči i ovde i tamo. 'Zlo učinih', muči ga misao. Još mu je gore kad u zlu se ponovo rodi."
+
+msgid "18"
+msgstr "Dok živi uživa, kad umre uživa, dobročinitelj uživa i ovde i tamo, 'Dobro učinih', u takvoj misli uživa. Još više uživa kad se u dobru ponovo rodi."
+
+msgid "19"
+msgstr "Ko mnogo svetih stihova recitovati zna, ali u skladu sa njima ne živi, lakomislen, takav je pre nalik pastiru što tuđe krave broji, takav ne ubira plodove asketskog života."
+
+msgid "20"
+msgstr "Ko malo svetih stihova recitovati zna, ali u skladu sa Istinom živi, bez požude, mržnje i obmane, ispravnog znanja, slobodnog uma, nevezan ni za šta u svetu ovom, u svetu onom, takav uživa u plodovima asketskog života."
+
+msgid "chap2"
+msgstr "Pažljivost"
+
+msgid "21"
+msgstr "Pažnja je put u besmrtnost, nepažnja put u smrt. Gde pažljivi ne umiru, nepažljivi su već mrtvacu nalik."
+
+msgid "22"
+msgstr "Kad sasvim razumeju pažnje važnost, mudraci se pažljivosti vesele, uživaju u svetu plemenitih."
+
+msgid "23"
+msgstr "Oni koji meditiraju neprekidno, napora nesmanjenog, takvi mudraci smirenje dosežu, od okova krajnju slobodu."
+
+msgid "24"
+msgstr "Onome ko je uporan, pažljiv, čistih dela, promišljen, živi potpuno obuzdan, u istini, budan, tome dobar glas raste."
+
+msgid "25"
+msgstr "Postojan i istrajan, obuzdan, čula ukroćenih, nek mudrac sebe ostrvom načini, koje ni bujica preplaviti neće."
+
+msgid "26"
+msgstr "Nepažnji se prepuštaju lude i neznalice, a mudrac pažljivost k'o najveće blago čuva."
+
+msgid "27"
+msgstr "Ne prepuštaj se nepažnji, ne vezuj za užitke, pažljiv u zadubljenju stiče obilje sreće."
+
+msgid "28"
+msgstr "Kad nepažnju pažnjom ukloni, ispevši se na mudrosti vrh, srećnik nesrećne vidi kao sa planine mudrac što gomilu u nizini gleda."
+
+msgid "29"
+msgstr "Pažljiv među nepažljivima, budan među pospanima, mudrac odmiče napred k'o hitar konj međ' kljusadi."
+
+msgid "30"
+msgstr "Pažljivošću Indra među bogovima postade prvi, pažljivost se hvali, a nepažnja oduvek kudi."
+
+msgid "31"
+msgstr "Pažljivosti sklon monah, što od nepažnje zazire, napreduje poput požara, spaljujući okove, i male i velike."
+
+msgid "32"
+msgstr "Pažljivosti sklon monah, što od nepažnje zazire, nazadovati ne može, već se nibbāni primiče."
+
+msgid "chap3"
+msgstr "Um"
+
+msgid "33"
+msgstr "Teško je na sumnjičav, kolebljiv um motriti, teško ga obuzdati, mudrac svoj um teše ravno, kao oružar strelu."
+
+msgid "34"
+msgstr "K'o što se riba bačena na suvo praćaka i skače, tako i um kad pokušava da umakne pred Mārom."
+
+msgid "35"
+msgstr "Težak za kroćenje, neuhvatljiv, brz da za svakom željom jurne; takav um dobro je ukrotiti, jer obuzdan um sreću donosi."
+
+msgid "36"
+msgstr "Teško ga je uočiti, tako suptilnog, dok za svakom željom juri; mudrac neka svoj um štiti, jer zaštićen um sreću donosi."
+
+msgid "37"
+msgstr "Um je samotnjak lutalica, bez tela, a pećina mu dom, ko uspe da ga obuzda, preporađanja se oslobađa."
+
+msgid "38"
+msgstr "Kome je um neučvršćen i za pravu istinu ne zna, kome se pouzdanje koleba, u tome se mudrost ne pročišćuje."
+
+msgid "39"
+msgstr "Koga ne razdiru želje, koga ne muči zbunjenost, ko se izdigao iznad i dobra i zla, u tome straha više nema."
+
+msgid "40"
+msgstr "Kad shvatiš da je telo ovo poput vrča, utvrdi um poput tvrđave; napadni Zlog mačem mudrosti i osvojeno čuvaj, lišen svih veza."
+
+msgid "41"
+msgstr "Ne zadugo, avaj, i ovo će se telo na tlo stropoštati, odbačeno, bez svesti, nalik truloj kladi."
+
+msgid "42"
+msgstr "Šta god bi neprijatelj neprijatelju učiniti mogao, mrzitelj mrzitelju, još i gore stvari loše usmeren um učiniti može nama samima."
+
+msgid "43"
+msgstr "Šta god nam dobrog majka, otac ili drugi srodnik učiniti mogu, to će nam ispravno usmeren um učiniti još i bolje."
+
+msgid "chap4"
+msgstr "Cvetovi"
+
+msgid "44"
+msgstr "Ko da razume ovu zemlju, svet boga Jame i sve druge svetove nebeske, ko reči Dhamme, dobro odabrane, kao što cvećar znalački odabira cvetove."
+
+msgid "45"
+msgstr "Marljiv učenik će razumeti ovu zemlju, svet boga Jame, i sve druge svetove nebeske, tako i reči Dhamme, dobro odabrane, kao što cvećar znalački odabira cvetove."
+
+msgid "46"
+msgstr "Shvativši da je telo ovo poput pene, prozrevši sav taj privid i primamljive zamke Zlog, učini sebe nevidljivim za Kralja smrti."
+
+msgid "47"
+msgstr "Ko samo cvetove sakuplja, uma jedino njima opsednutog, toga smrt hitro odnese, k'o usnulo selo nenadana poplava."
+
+msgid "48"
+msgstr "Ko samo cvetove sakuplja, uma jedino njima opsednutog i nikad zadovoljen, takav brzo u vlast smrti pada."
+
+msgid "49"
+msgstr "Kao što pčela uzme nektar i odleti sa cveta ne pokvarivši mu ni boju ni miris, isto tako i ćutljivi mudrac treba da, proseći hranu, kroz selo prođe."
+
+msgid "50"
+msgstr "Ne obaziri se na tuđe greške, šta drugi uradi ili ne, već dobro osmatraj samo ono što sam činiš ili ne činiš."
+
+msgid "51"
+msgstr "Baš kao divan cvet – šaren, ali bez ikakvog mirisa, takve su, jalove, i dobre reči onoga ko po njima ne postupa."
+
+msgid "52"
+msgstr "Baš kao divan cvet – šaren i prekrasnog mirisa, takve su, plodne, i dobre reči onoga ko po njima postupa."
+
+msgid "53"
+msgstr "Kao što se od hrpe cvetova mnogo venaca isplesti može, tako i mnogo dobrih dela od života načiniti, kad se jednom rodimo."
+
+msgid "54"
+msgstr "Miris sandalovine, tagare i jasmina ne ide protiv vetra. Ali miris vrline se širi svuda. Dobar čovek prožima svako mesto."
+
+msgid "55"
+msgstr "Postoji miris sandalovine, tagare, lotosa i jasmina, sve njih, ipak, nadmašuje miris vrline."
+
+msgid "56"
+msgstr "Slabašan je miris tagare, miris sandalovine, nenadmašan je miris vrline, doseže do bogova samih."
+
+msgid "57"
+msgstr "Do onih koji su savršeni u moralu, uvek pažljivi i ispravnim znanjem oslobođeni, Mara (Zli) ne nalazi puta."
+
+msgid "58"
+msgstr "Kao što na đubretu, kraj puta bačenom, može izrasti lotos, divnog mirisa i blistav,"
+
+msgid "59"
+msgstr "isto tako među neznalicama, zaslepljenom svetinom, učenik istinski i potpuno Probuđenoga blista mudrošću svojom."
+
+msgid "chap5"
+msgstr "Budala"
+
+msgid "60"
+msgstr "Duga je noć budnome, dug je put umornome, dug je krug preporađanja budali koja Istinu ne zna."
+
+msgid "61"
+msgstr "Ako ne nađeš druga sebi ravna ili boljeg, sam nastavi put; sa budalom druženja nema."
+
+msgid "62"
+msgstr "'Sinovi su moji, imanje je moje', to budalu muči; on sam nije svoj, pa kako bi to bili sinovi, kako imanje?"
+
+msgid "63"
+msgstr "Budala koji zna da je budala, barem po tome je mudar, budala koji sebe mudrim smatra, zaista je budala."
+
+msgid "64"
+msgstr "Ako budala i ceo život sa mudracem provede, nimalo ne okusi Istinu, kao ni kašika supu."
+
+msgid "65"
+msgstr "Ako razuman čovek makar i nakratko sa mudracem bude, on odmah okusi Istinu, kao i jezik ukus supe."
+
+msgid "66"
+msgstr "Budale, bez imalo mudrosti, sami su sebi najveći neprijatelji, zbog zlodela njihovih, gorki ih plodovi čekaju."
+
+msgid "67"
+msgstr "Ono što kad je učinjeno donosi kajanje, ono čiji plod lice suzama oblije, takvo delo nije dobro činiti."
+
+msgid "68"
+msgstr "Ono što kad je učinjeno ne donosi kajanje, ono čiji su plod radost i sreća, takvo delo činiti treba."
+
+msgid "69"
+msgstr "Kao med slatko je zlodelo, dok ne donese plod, al' kada dozre, tad budala krene da nariče."
+
+msgid "70"
+msgstr "Mesec za mesecom može budala jesti tek vrhom travke, al' ni šesnaestinu vredan nije onog ko Istinu prozre."
+
+msgid "71"
+msgstr "Nedelo ne donese plod odmah, kao i mleko što se odmah ne zgruša. Taj požar tinja u neznalici, nalik vatri pepelom zatrpanoj."
+
+msgid "72"
+msgstr "Sebi na štetu budala stiče i znanje i slavu, jer mu u glavu udare, unutrašnju dobrotu unište."
+
+msgid "73"
+msgstr "Nazasluženo poštovanje traži i naklonost među monasima, starešinstvo u manastirima i ugled među porodicama."
+
+msgid "74"
+msgstr "'Nek i monasi i domaćini misle da ja to učinih, nek se pokore volji mojoj, u svemu' – tako mašta budala, dok mu želja i ponos rastu."
+
+msgid "75"
+msgstr "Jedno je dobitak ovoga sveta, sasvim drugo put ka nibbāni. Razumevajući to, neka se monah, učenik Budnoga, ne zanosi slavom, već nek' sebe u osami ustali."
+
+msgid "chap6"
+msgstr "Mudrac"
+
+msgid "76"
+msgstr "K'o otkrivatelja blaga gledaj onoga ko ti mane vidi i na njih ti ukazuje. Sa takvim znalcem, sa takvim mudracem se druži. Iz takvoga društva boljitak, a ne gubitak sledi."
+
+msgid "77"
+msgstr "Neka te mudar uputi, poduči, odvrati od lošega; takav je zaista drag dobrima i mrzak lošima."
+
+msgid "78"
+msgstr "Ne druži se sa lošim prijateljima, ne druži se sa zlim ljudima, druži se sa dobrim prijateljima, druži se sa najboljim ljudima."
+
+msgid "79"
+msgstr "Srećan je onaj ko, jasnog uma, nađe radost u Dhammi. Mudraca uvek ushićuje Dhamma što je podučavaju plemeniti."
+
+msgid "80"
+msgstr "Graditelji kanala usmeravaju vodu, oružari strele prave, drvodelje drvo tešu, a mudraci sami sebe krote."
+
+msgid "81"
+msgstr "As što veliku stenu vetar pomeriti ne može, tako ni mudraca bilo čija pohvala ili prekor."
+
+msgid "82"
+msgstr "Kao što je jezero duboko, prozirno i neuznemireno, tako i mudri kad reč Istine čuju, smireni postaju."
+
+msgid "83"
+msgstr "Vrli sve napuštaju, pravi o užicima ne brbljaju, mudraci se ni pred srećom ni pred bolom ne povijaju."
+
+msgid "84"
+msgstr "Onaj ko sina, imetak, ni veliku moć poželeo ne bi ni za sebe, niti za drugog, a ni pobedu stečenu nepravdom, takav je oličenje vrline, mudrosti i pravednosti."
+
+msgid "85"
+msgstr "Malo ih je među ljudima koji na drugu obalu stignu, ostali pak samo po jednoj istoj obali ovoj jure."
+
+msgid "86"
+msgstr "Ali oni što delaju u skladu sa ispravno izloženom Dhammom, ti napuštaju svet smrti, tako težak da se iz njega izađe."
+
+msgid "87"
+msgstr "Od nedela se okrenuvši, neka dobro u sebi mudrac neguje, dom napustivši, neka u osami sa malo užitaka boravi."
+
+msgid "88"
+msgstr "U njoj mudrac zadovoljstvo traži, od užitaka čula daleko, bez ičeg svoga, baš tu neka um pročišćuje."
+
+msgid "89"
+msgstr "Kojima je um u svim sastojcima probuđenja zaista razvijen, a radost u osami nalaze, raskinuvši svaku vezanost, bez mrlja, blistavi, takvi su u ovom svetu potpuno slobodni."
+
+msgid "chap7"
+msgstr "Probuđeni"
+
+msgid "90"
+msgstr "Ko je stigao na kraj puta i, izbavljen, ni za čim više ne žali, ko svaki okov raskide, u tome groznice strasti više nema."
+
+msgid "91"
+msgstr "Pažljiv marljivo vežba, u vezivanju radost ne nalazi, boravište svoje napušta, kao labud kad sa jezera poleti."
+
+msgid "92"
+msgstr "Oslobođeni ne gomilaju, oni potpuno razumeju hranu; praznina, bezoblično, sloboda – njihovo je polje, poput leta ptica na nebu, teško ih je pratiti."
+
+msgid "93"
+msgstr "Ko nečistoće uma ukloni, za hranu nevezan; praznina, bezoblično, sloboda – njegovo je polje, poput leta ptica na nebu, trag mu je teško slediti."
+
+msgid "94"
+msgstr "Kome su čula obuzdana, kao kad vozar umiri zapregu, ko je odbacio gordost, oslobođen mana, taj je i bogovima drag."
+
+msgid "95"
+msgstr "Poput zemlje trpeljiv, opasan poput gradskog stuba, čist kao jezero bez mulja – za takvog preporađanja nema."
+
+msgid "96"
+msgstr "Miran je njegov um, mirne reči i dela onoga ko je ispravnim znanjem oslobođen i spokojan."
+
+msgid "97"
+msgstr "Bez slepe vere, znalac nestvorenog, sve veze raskinuvši, nadišao dobro i zlo, ostavio svaku želju, taj je međ' ljudima najveći."
+
+msgid "98"
+msgstr "U selu ili šumi, u dolini ili na visu, gde god da probuđeni boravi, to mesto je čudesno."
+
+msgid "99"
+msgstr "Divne su guste šume, ali u njih puk nerado zalazi. Obuzdani će se baš tu radovati, zadovoljstva čula ih tu ne mame."
+
+msgid "chap8"
+msgstr "Hiljade"
+
+msgid "100"
+msgstr "Umesto hiljadu reči bez pravog značenja, bolja je jedna jedina smislena reč, koja kad je čujemo smiruje."
+
+msgid "101"
+msgstr "Umesto hiljadu stihova bez pravog značenja, bolji je jedan jedini smislen stih, koji kad ga čujemo smiruje."
+
+msgid "102"
+msgstr "Ako bi neko izrekao i hiljadu stihova bez pravog značenja, bolji je jedan jedini stih o Dhammi, koji kad ga čujemo smiruje."
+
+msgid "103"
+msgstr "Ako bi neko u bici pobedio hiljadu puta hiljadu ljudi, a drugi jedino samoga sebe, ipak je ovaj drugi pobednik nad pobednicima."
+
+msgid "104"
+msgstr "Bolje je sebe pobediti, no pobeđivati druge. Onome ko je ukrotio sebe i živi obuzdan,"
+
+msgid "105"
+msgstr "takvu pobedu nijedno božanstvo, niti duh, a ni Māra sa Bramom zajedno, u poraz ne mogu pretvoriti."
+
+msgid "106"
+msgstr "Hiljadu puta iz meseca u mesec žrtvu prinositi, a samo jednom se pokloniti usavršenome, ipak je taj jedan put vredniji od stoleća žrtvovanja."
+
+msgid "107"
+msgstr "Makar i stotinu godina u šumi žrtvenu vatru održavati, a samo jednom se pokloniti usavršenome, ipak je taj jedan put vredniji od stoleća žrtvovanja."
+
+msgid "108"
+msgstr "Kakve god žrtve prinosio u ovom svetu, velike i male, sve to nije vredno ni za četvrtinu poštovanja prema ispravnima."
+
+msgid "109"
+msgstr "Ko istrajno štuje one vrlinom ispunjene, u umu dozrele, četiri stvari zadobija: dug život, lepotu, sreću i snagu."
+
+msgid "110"
+msgstr "Od življenja stotinu leta, lošeg morala i kolebljiva uma, bolje je živeti jedan jedini dan, pun vrline i sabran."
+
+msgid "111"
+msgstr "Od življenja stotinu leta, bez mudrosti i kolebljiva uma, bolje je živeti jedan jedini dan, pun znanja i sabran."
+
+msgid "112"
+msgstr "Od življenja stotinu leta, lenj, bez imalo snage, bolje je živeti jedan jedini dan, odlučan u svom naporu."
+
+msgid "113"
+msgstr "Od življenja stotinu leta, slep za nastanak i nestanak stvari, bolje je živeti jedan jedini dan i uvideti kako one nastaju i nestaju."
+
+msgid "114"
+msgstr "Od življenja stotinu leta, slep za mesto besmrtnosti, bolje je živeti jedan jedini dan i uvideti mesto besmrtnosti."
+
+msgid "115"
+msgstr "Od življenja stotinu leta, slep za najviši zakon, bolje je živeti jedan jedini dan i uvideti najviši zakon."
+
+msgid "chap9"
+msgstr "Zlodelo"
+
+msgid "116"
+msgstr "Prionite da činite dobro, loše misli odagnajte, u onoga ko dobra ne čini, um se raduje zlodelu."
+
+msgid "117"
+msgstr "Ako čovek i učini nešto loše, neka to ne ponavlja, neka u tome ne uživa. Bolno je gomilanje zlodela."
+
+msgid "118"
+msgstr "Ako čovek učini dobro, neka to ponavlja, neka u tome uživa. Srećno je gomilanje dobročinstava."
+
+msgid "119"
+msgstr "Možda ga vidi i kao dobro, sve dok zlodelo ne donese plod, ali kad donese plod, tada zlotvor prepozna zlodelo."
+
+msgid "120"
+msgstr "Možda ga vidi i kao zlo, sve dok dobročinstvo ne donese plod, ali kad donese plod, tada dobročinitelj prepozna dobročinstvo."
+
+msgid "121"
+msgstr "Ne zanemaruj zlo, misleći: 'Ono mene neće osvojiti.' Kap po kap i vedro se napuni vodom, a budala zlom, čak i ako ga sakuplja malo pomalo."
+
+msgid "122"
+msgstr "Ne zanemaruj dobro, misleći: 'Ono mene neće osvojiti.' Kap po kap i vedro se napuni vodom, a mudar dobrim, čak i ako ga sakuplja malo pomalo."
+
+msgid "123"
+msgstr "Kao što trgovac s malom pratnjom i mnogo robe izbegava opasan put, kao što željan života izbegava otrov, tako i zlo izbegavati treba."
+
+msgid "124"
+msgstr "Ako na dlanu rane nema, možeš na njemu i otrov nositi; otrov ne škodi onome bez rane. Nema zla za onoga ko ga ne čini."
+
+msgid "125"
+msgstr "Ko povredi nevinoga, čoveka predanog i čistog, ta luda sama sebi zlo čini, kao da prašinu baca uz vetar."
+
+msgid "126"
+msgstr "U materici se jedni rađaju, a zločinci u paklu; na nebo dobročinitelji idu, a pročišćeni se potpuno oslobađaju."
+
+msgid "127"
+msgstr "Ni u visinama, ni u utrobi mora, ni u sred planine, nema mesta na svetu gde nas loša dela ne sustižu."
+
+msgid "128"
+msgstr "Ni u visinama, ni u utrobi mora, ni u sred planine, nema mesta na svetu gde nas smrt pobediti neće."
+
+msgid "chap10"
+msgstr "Kazna"
+
+msgid "129"
+msgstr "Svako od batine strahuje, svako od smrti strepi, pošavši od samoga sebe, ne ubijaj, niti ubijanju uzrok budi."
+
+msgid "130"
+msgstr "Svako od batine strahuje, svakom je život drag, pošavši od samoga sebe, ne ubijaj, niti ubijanju uzrok budi."
+
+msgid "131"
+msgstr "Onaj ko bića željna sreće štapom povređuje, jer i sam sreću priželjkuje, za toga posle smrti sreće nema."
+
+msgid "132"
+msgstr "Onaj ko bića željna sreće štapom ne povređuje, jer i sam sreću priželjkuje, za toga posle smrti sreće ima."
+
+msgid "133"
+msgstr "Ne govori grubo, jer oni kojima tako govoriš mogu uzvratiti. Bolan je govor ispunjen besom, za njim ti možda osveta sledi."
+
+msgid "134"
+msgstr "Ali ako si utihnuo, poput naprslog gonga, tad si slobodu dosegao, u tebi gneva nema."
+
+msgid "135"
+msgstr "Kao što čobani štapom na pašu goveda isteruju, isto tako starost i smrt iz živih bića život isteruju."
+
+msgid "136"
+msgstr "Ako i ne shvata kad sam zlodela čini, budala, ipak, zbog njih pati kao da u plamenu gori."
+
+msgid "137"
+msgstr "Ko batinom nenasilnog i bezazlenog povredi, taj se brzo u jednom od ovih deset stanja nađe:"
+
+msgid "138"
+msgstr "strašni bolovi, izgubljena stvar, telesna povreda, ozbiljna bolest ili rastrojstvo uma;"
+
+msgid "139"
+msgstr "vladar će ga progoniti, ozbiljno biće optužen, gubitak rođaka ili propast imetka;"
+
+msgid "140"
+msgstr "ili će plamen progutati kuće njegove, a posle smrti će se takva budala u čistilištu (mukama) naći."
+
+msgid "141"
+msgstr "Ni lutanje nag naokolo, upletene kose, blatnjavog tela, ni gladovanje, ni ležanje na goloj zemlji, trljanje tela pepelom, a ni sedenje nepomično, ništa od toga ne pročisti onog ko sumnju prevladao nije."
+
+msgid "142"
+msgstr "Iako raskošno obučen, ako je smiren, obuzdan, u vrlini istrajan, pred svakim bićem odložio štap, taj je braman, asketa i monah."
+
+msgid "143"
+msgstr "Teško je naći toga ko, skromnošću obuzdan, od prekora zazire kao što konj dobre pasmine od biča zazire."
+
+msgid "144"
+msgstr "Kao rasni konj kad pucne bič, tako marljivi, puni žara budite, puni predanosti, vrline, istrajnosti i svesnosti, istinu istražujući, ispravnog znanja i ponašanja, sabrani, čitave te gomile patnje oslobodite se."
+
+msgid "145"
+msgstr "Poljodelci kanalima usmeravaju vodu, oružari tešu strele, stolari drvo oblikuju, a mudraci krote sami sebe."
+
+msgid "chap11"
+msgstr "Starost"
+
+msgid "146"
+msgstr "Otkuda smeh, otkuda radost, kad svet bez prestanka gori? Mrakom mrklim obavijeni, zašto svetiljku ne tražite?"
+
+msgid "147"
+msgstr "Pogledajte taj zavodljivi oblik, tu gomilu gnojnih rana, bolnu, ali planova prepunu; u njoj baš ničeg trajnoga nema."
+
+msgid "148"
+msgstr "Trošno je telo ovo, leglo bolesti svakakvih, smradna gomila gnoja; život se zaista smrću okončava."
+
+msgid "149"
+msgstr "Te sive kosti posvuda razbacane, k'o tikve u jesen; kad ih vidi tako, ko bi ih voleti mogao?"
+
+msgid "150"
+msgstr "Grad od kostiju postoji, oblepljen mesom i krvlju, u kojem su starost, smrt, sujeta i obmana smešteni."
+
+msgid "151"
+msgstr "I blistava kraljevska kočija propadne, telo ostari takođe. Ali Učenje ispravnih neprolazno je, tako dobri govore dobrima."
+
+msgid "152"
+msgstr "Onaj ko Učenje slabo razume, stari k'o dobro hranjen vo, mesa na njemu sve više i više, ali ne i mudrosti."
+
+msgid "153"
+msgstr "Kroz mnoge živote lutah saṃsārom, tražeći, a ne nalazeći graditelja tela ovoga. Bolno je zaista preporađanje."
+
+msgid "154"
+msgstr "O graditelju, najzad te opazih! Nikad više kuću ovu graditi nećeš! Svaki ti oslonac nestade, slomljen je stub nosač, um do neuslovljenog dosegnu, sve žudnje ugašene."
+
+msgid "155"
+msgstr "Oni što u mladosti niti su vodili sveti život, niti imetak stekli, uzdišu k'o matore čaplje što čuče kraj jezera bez ribe."
+
+msgid "156"
+msgstr "Oni što u mladosti niti su vodili sveti život, niti imetak stekli, za prošlošću uzdišu odbačeni, ko odapete strele što promašiše cilj."
+
+msgid "chap12"
+msgstr "O Samome Sebi"
+
+msgid "157"
+msgstr "Kome je do samog sebe stalo, nek dobro na sebe pazi, barem u jednom od tri dela noći nek ovaj mudrac na oprezu bude."
+
+msgid "158"
+msgstr "U dobrom prvo sebe ustali, tek onda upućuj druge, u istinskom znalcu nečistoća zaista nema."
+
+msgid "159"
+msgstr "O, kad bismo činili uvek ono što drugima savetujemo. Tek dobro obuzdan može učiti druge. Sebe je, zaista, teško krotiti."
+
+msgid "160"
+msgstr "Svako je zaista sam sebi utočište. A ko bi drugi to mogao biti? Kad sami sebe obuzdamo, zaštitu teško dostižnu stičemo."
+
+msgid "161"
+msgstr "Sami činimo zlo, u nama se ono rađa, u nama izvire. I ono budalu smrvi, kao i dijamant kamen u kojem se stvori."
+
+msgid "162"
+msgstr "Naša nas zlodela potpuno obuzmu, kao puzavica stablo sala, i tako činimo sami sebi baš ono što nam naši neprijatelji žele."
+
+msgid "163"
+msgstr "Lako je loša dela počiniti, štetna za samoga sebe, ali ono što nam jeste korist i zasluga, mnogo je teže."
+
+msgid "164"
+msgstr "Oni koji se vođeni svojim pogrešnim stavovima izruguju učenju plemenitih, u življenju ispravnih, takvi se, slično bambusu, od sopstvenog ploda slamaju."
+
+msgid "165"
+msgstr "Sami zlo činimo, sami sebe prljamo, sami se od zla uzdržavamo, sami sebe pročišćujemo, čistoća i prljavština od nas zavise; niko nikog pročistiti ne može."
+
+msgid "166"
+msgstr "Sopstveni cilj ne zameni za tuđi, makoliko uzvišen bio, sopstveni cilj dobro razumevši, tome cilju i stremi."
+
+msgid "chap13"
+msgstr "Svet"
+
+msgid "167"
+msgstr "Niska dela ne čini, nepažljivost ne sledi, pogrešne stavove ne prihvataj, za svet se ne veži."
+
+msgid "168"
+msgstr "Ustaj! Nepažnji se ne prepuštaj. Učenje praktikuj kako treba. Ko u Učenju živi, srećan je u životu, i ovom i narednom."
+
+msgid "169"
+msgstr "Učenje praktikuj kako treba, ne praktikuj ga pogrešno. Ko u Učenju živi, srećan je u životu, i ovom i narednom."
+
+msgid "170"
+msgstr "Ovaj svet je poput mehura, ovaj svet je poput opsene, onog ko tako gleda na ovaj svet gospodar smrti ne vidi."
+
+msgid "171"
+msgstr "Pogledaj ovaj svet, nalik raskošnoj kraljevskoj kočiji, opčinjeni njime, nezreli propadaju, dok za znalce vezivanja nema."
+
+msgid "172"
+msgstr "Ko je nekada nepažljiv bio, a sad više nije, osvetljava ovaj svet, kao Mesec kad iza oblaka izroni."
+
+msgid "173"
+msgstr "Ko svoje rđavo delo kasnije nadmaši dobrim, taj osvetli ovaj svet, kao Mesec kad iza oblaka izroni."
+
+msgid "174"
+msgstr "Slep je zaista ovaj svet, retki su oni koji vide. K'o i ptice što iz mreže umaknu, malo je onih što do neba stignu."
+
+msgid "175"
+msgstr "Put Sunca labudovi lete, oni sa moćima vazduhom, ali mudri, savladavši Marine horde, iz ovog sveta odlaze."
+
+msgid "176"
+msgstr "Za onoga ko krši jedini zakon, za onoga ko laže, za onoga ko ne mari za buduće živote, za tog nema zla koje počiniti neće."
+
+msgid "177"
+msgstr "Sebičnjaci među bogove ne stižu, budale ne hvale davanje. Mudrac dajući uživa i samo zbog toga srećan je on i posle smrti."
+
+msgid "178"
+msgstr "Bolji od vlasti nad čitavim svetom, bolji od odlaska na nebo i od božanstava u svetovima svim, jeste prvi korak ka probuđenju."
+
+msgid "chap14"
+msgstr "Budni"
+
+msgid "179"
+msgstr "Pobedu mu u poraz pretvoriti ne može, nit' nadmašiti bilo ko, taj Budni ničim ograničen, čime zaveden može biti?"
+
+msgid "180"
+msgstr "U njemu ni želje, ni žeđi nema, lukavog lovca što u klopku mami, taj Budni ničim ograničen, čime zaveden može biti?"
+
+msgid "181"
+msgstr "Mudraci, istrajni u meditaciji, obradovani obuzdanošću i mirom, čak i bogovima takvi su dragi, samoprobuđeni i sabrani."
+
+msgid "182"
+msgstr "Teško se biće kao čovek rađa i teško kao smrtnik živi, teško se čuje istinska Dhamma i teško se Budni u svetu pojave."
+
+msgid "183"
+msgstr "Od svega rđavog se okreni, svako dobro u sebi neguj, srce i um svoj pročisti, to je učenje Budnih."
+
+msgid "184"
+msgstr "Strpljiva istrajnost je najviši asketizam, smirenje krajnji cilj, kažu Bude. Nije monah ko povređuje druge, niti asketa ko ih zlostavlja."
+
+msgid "185"
+msgstr "Druge ne vređaj, niti povređuj, u zavetu obuzdan budi, u hrani uvek umeren, u osami ostani, meditirajući – to je učenje Budnih."
+
+msgid "186"
+msgstr "Žeđ čula utoliti ne može ni kiša zlatnika. Mudrac, razumevši da od toga radosti nema, već samo bol,"
+
+msgid "187"
+msgstr "u sebi sklonosti čak i za nebeske užitke ne nalazi. Učenik Budnih se samo iskorenjivanju žudnje raduje."
+
+msgid "188"
+msgstr "Gonjeni strahom, ljudi utočište traže na mestima raznim, u planini ili šumi, u vrtovima, pod drvetom ili u hramu."
+
+msgid "189"
+msgstr "To nisu sigurna utočišta, to nisu konačna utočišta, ni na jednom od njih izbavljenja od patnje nema."
+
+msgid "190"
+msgstr "Ko u Budi, Dhammi i Sanghi utočište nađe, ispravnim znanjem četiri plemenite istine vidi:"
+
+msgid "191"
+msgstr "patnju, nastanak patnje, prestanak patnje i plemeniti osmostruki put što iskorenjivanju patnje vodi."
+
+msgid "192"
+msgstr "To jesu sigurna utočišta, to jesu konačna utočišta, na svakom od njih izbavljenja od patnje ima."
+
+msgid "193"
+msgstr "Retki su oni koji znaju, takvi se ne rađaju na svakom mestu; tamo gde se mudrac rodi, taj klan sreću zadobija."
+
+msgid "194"
+msgstr "Sreća je rođenje Budnoga, sreća je govor o Dhammi, sreća je sloga među monasima, njihova predanost jeste sreća."
+
+msgid "195"
+msgstr "Ko štuje vredne poštovanja, Bude ili učenike njihove, one što su prepreke savladali, oslobodili se tuge i očaja,"
+
+msgid "196"
+msgstr "zasluge takvoga ko štuje utihnule i neustrašive, niko tačno izmeriti ne može."
+
+msgid "chap15"
+msgstr "Sreća"
+
+msgid "197"
+msgstr "Ah kako srećni živimo bez mržnje, okruženi mrziteljima; među ljudima punim mržnje, bez mržnje boravimo."
+
+msgid "198"
+msgstr "Ah kako srećni živimo bez bolesti, okruženi bolesnima; među ljudima punim bolesti, bez bolesti boravimo."
+
+msgid "199"
+msgstr "Ah kako srećni živimo bez strasti, među zaslepljenima; među ljudima slepim od strasti, bez strasti boravimo."
+
+msgid "200"
+msgstr "Ah kako srećni živimo, mi koji ništa nemamo, hraneći se blaženstvom boravimo, nalik bogovima blistavim."
+
+msgid "201"
+msgstr "Pobeda rađa mržnju, u mukama ostaje poraženi; utihnuli boravi srećan, napustivši i pobedu i poraz."
+
+msgid "202"
+msgstr "Nema vatre kakva je pohlepa, ni zla poput mržnje; nema boljke kakva su sastojci bića, niti sreće poput spokojstva."
+
+msgid "203"
+msgstr "Glad je najveća muka, uslovljene stvari najveća patnja; onom ko ovo zaista razume, utrnuće je najveća sreća."
+
+msgid "204"
+msgstr "Zdravlje je najveći dobitak, zadovoljenost najveće blago, pouzdan čovek najbolji je srodnik, smirenje najveća sreća."
+
+msgid "205"
+msgstr "Ko oseti slast samoće i slast spokojstva, takav, lišen straha i bez zlodela, i nektar Dhamme ispija."
+
+msgid "206"
+msgstr "Dobro je videti Plemenite, sreća sa njima biti, ko ne gleda budale trajno je srećan."
+
+msgid "207"
+msgstr "Za onog ko sa budalama živi, patnjama nikad kraja, druženje sa budalom uvek je bolno – baš kao sa neprijateljem, ali biti sa mudrim je radost, baš kao susret sa srodnikom."
+
+msgid "208"
+msgstr "Zato, sa mudrim, znalcem, upućenim, punim vrline, predanim i plemenitim, sa takvim istinskim bićem, mudracem družite se, baš kao što Mesec sledi put zvezda."
+
+msgid "chap16"
+msgstr "Naklonost"
+
+msgid "209"
+msgstr "Ko čini ono što ne treba, a ne ono što treba, dobru leđa okrenuvši, za užitkom juri, a obuzdanima zavidi."
+
+msgid "210"
+msgstr "Ne združuj se nikad sa dragim, baš kao ni s nedragim, ne videti dragog jeste patnja, biti sa nedragim takođe."
+
+msgid "211"
+msgstr "Zato ne čini ništa sebi dragim, bolno je od dragog rastati se, nema okova za one koji nadiđoše i drago i nedrago."
+
+msgid "212"
+msgstr "Iz voljenog bol se rađa, iz voljenog strah se rađa, u onom ko se voljenog oslobodi, bola nema, a otkud bi strah?"
+
+msgid "213"
+msgstr "Iz sklonosti bol se rađa, iz sklonosti strah se rađa, u onom ko se sklonosti oslobodi, bola nema, a otkud bi strah?"
+
+msgid "214"
+msgstr "Iz ushićenja bol se rađa, iz ushićenja strah se rađa, u onom ko se ushićenja oslobodi, bola nema, a otkud bi strah?"
+
+msgid "215"
+msgstr "Iz čulne želje bol se rađa, iz čulne želje strah se rađa, u onom ko se čulne želje oslobodi, bola nema, a otkud bi strah?"
+
+msgid "216"
+msgstr "Iz žudnje bol se rađa, iz žudnje strah se rađa, u onom ko se žudnje oslobodi, bola nema, a otkud bi strah?"
+
+msgid "217"
+msgstr "Ko je savršen u vrlini i uvidu, učvršćen u Učenju, ostvario istinu, ko je svoju dužnost ispunio, toga mnogi dragim smatraju."
+
+msgid "218"
+msgstr "U kom se rodi želja za neizrecivim, uma nadahnutim mudrošću, takav – nesputan čarima čula – u svet se ovaj više ne vraća."
+
+msgid "219"
+msgstr "Kad se posle dugog izbivanja čovek sretno kući vrati, rodbina i prijatelji radosno ga dočekuju."
+
+msgid "220"
+msgstr "Tako i dobra dela dočekuju počinioca u narednom životu; poput srodnika radosnih u susret mu idu."
+
+msgid "chap17"
+msgstr "Bes"
+
+msgid "221"
+msgstr "Odbaciti bes treba, napustiti gordost, svaki okov savladati, ko je nevezan za ime i oblik, ko ničeg nema, taj ni patnje nema."
+
+msgid "222"
+msgstr "Onaj ko zauzdava nadolazeći bes k'o kočiju kad prebrzo krene, toga ja kočijašem zovem. Ostali samo uzde pridržavaju."
+
+msgid "223"
+msgstr "Mirom bes pobedi, loše dobrim pobedi, tvrdičluk darovima pobedi i lažova rečju istine."
+
+msgid "224"
+msgstr "Istinu govori, ne predaj se besu, i od malog daj kad ko zatraži; idući duž ova tri puta, u društvo bogova ćeš stići."
+
+msgid "225"
+msgstr "Mudraci koji nikog ne povređuju, motreći stalno na dela svoja, takvi do večnog mesta stižu, gde za njih tuge nema."
+
+msgid "226"
+msgstr "Ko je uvek pažljiv, ko sebe kroti dan i noć, odlučan da do slobode stigne – u toga nečistoće nestaju."
+
+msgid "227"
+msgstr "Stara je to stvar, o Atula, a ne od juče, ljudi kude one koji u tišini sede, kude one koji govore mnogo, čak i one koji govore malo. Nekuđenog na ovom svetu nema."
+
+msgid "228"
+msgstr "Nije bilo, neće biti, niti sada ima takvoga koga bi ljudi samo kudili ili samo hvalili."
+
+msgid "229"
+msgstr "No, gledajući ga iz dana u dan, onoga mudri hvale ko je besprekoran u delima, razborit, sa mudrošću i vrlinom."
+
+msgid "230"
+msgstr "Ko može da kudi takvoga, kad je nalik čistome zlatu? Bogovi takvoga hvale, hvali ga čak i moćni Brama!"
+
+msgid "231"
+msgstr "Čuvaj se nasilnih dela, sopstveno telo obuzdaj; loše postupke telom napustivši, one dobre činiti treba."
+
+msgid "232"
+msgstr "Čuvaj se nasilnih reči, sopstveno govor obuzdaj; loše postupke rečju napustivši, one dobre činiti treba."
+
+msgid "233"
+msgstr "Čuvaj se nasilnih misli, sopstveno um obuzdaj; loše postupke mišlju napustivši, one dobre činiti treba."
+
+msgid "234"
+msgstr "Tela obuzdanog mudraci, govora obuzdanog, uma obuzdanog mudraci, tek ti su zaista obuzdani."
+
+msgid "chap18"
+msgstr "Mane"
+
+msgid "235"
+msgstr "Nalik si uvelom listu, glasnici smrti već su tu, dug put je pred tobom, a ništa da poneseš nemaš."
+
+msgid "236"
+msgstr "Zato postani sam sebi oslonac! Ne štedi truda, mudar budi! Bez mana i čist, na božansko mesto plemenitih stići ćeš."
+
+msgid "237"
+msgstr "Život ti je na zalasku, ka bogu smrti krećeš ti, na putu tome odmorišta nema, a ništa da poneseš nemaš."
+
+msgid "238"
+msgstr "Zato postani sam sebi oslonac! Ne štedi truda, mudar budi! Bez mana i čist, u krug rođenja i smrti ući ponovo nećeš."
+
+msgid "239"
+msgstr "Postepeno, malo pomalo, iz prilike u priliku, mudrac sebe čisti, k'o zlatar što srebro čisti."
+
+msgid "240"
+msgstr "Kao što rđa od gvožđa nastala izjeda samo to gvožđe, isto tako i neumerenoga sopstvena dela do propasti dovode."
+
+msgid "241"
+msgstr "Nerecitovanje je mrlja na Učenju, lenjost je mrlja na domaćinu, zapuštenost je mrlja na lepoti, a nepažnja na onom ko sebe čuva."
+
+msgid "242"
+msgstr "Neverstvo je mana žene, a tvrdičluk darovatelja, loša dela mana su u svetu ovom, tako i u drugom."
+
+msgid "243"
+msgstr "Ali neznanje najveća je mana, veća od bilo koje druge. Napustivši je, budite bez mana, o monasi!"
+
+msgid "244"
+msgstr "Lak je život besramnome, poput gavrana drskome, onom ko vređa druge, razmetljivom i bezobzirnom."
+
+msgid "245"
+msgstr "Težak je život onom sa savešću, ko uvek ka čistoti teži, iskrenom i obazrivome, ko živi čisto, motreći Istinu."
+
+msgid "246"
+msgstr "Onaj ko druga bića ubija, govori laži, uzima što mu nije dato i u preljubu srlja,"
+
+msgid "247"
+msgstr "ko alkohol pije, čovek koji takve stvari radi već u ovom životu sopstveni koren seče."
+
+msgid "248"
+msgstr "Ovako znaj, o čoveče, teško je lošem se odupreti. Neka te pohlepa i neznanje ne pobede još zadugo."
+
+msgid "249"
+msgstr "Ljudi daju u skladu sa svojom verom i predanošću. Ko god zavidi na hrani i piću datim drugima, takav ni danju ni noću sabranost ne pronalazi."
+
+msgid "250"
+msgstr "A ko takvu misao utrne, iz korena iščupa, takav i danju i noću sabranost pronalazi."
+
+msgid "251"
+msgstr "Nema vatre kakva je pohlepa, ni zla poput mržnje; nema klopke kakva je obmana, niti bujice poput žudnje."
+
+msgid "252"
+msgstr "Lako je tuđe greške uočiti, ali svoje zaista teško; na tuđe pokazujemo, a svoje tajimo k'o kockar loše karte."
+
+msgid "253"
+msgstr "Ko vreba samo greške drugih, stalno se na njih žali, u njemu je otrova sve više, a pročišćenje sve dalje."
+
+msgid "254"
+msgstr "Po nebu tragova nema, niti askete izvan ovog učenja; puk se ushićuje maštarijama, u Tathāgati njih nema."
+
+msgid "255"
+msgstr "Po nebu tragova nema, niti askete izvan ovog učenja; uslovljenih a večnih stvari nema, ali ni u Budnima kolebanja."
+
+msgid "chap19"
+msgstr "Pravednik"
+
+msgid "256"
+msgstr "Nije neko pravednik zato što prebrzo o dobru sudi. Kad mudar čovek dobro i zlo pažljivo odvagne,"
+
+msgid "257"
+msgstr "proceni druge bez žurbe, pravedno i bez naklonosti, tek takvog mudraca, čuvara zakona, pravednikom zovu."
+
+msgid "258"
+msgstr "Nije neko mudar samo zato što mnogo priča. Ko je spokojan, bez mržnje i straha, toga mudracem zovu."
+
+msgid "259"
+msgstr "Nije neko znalac Dhamme samo zato što mnogo priča. Onaj ko i malo čuje, te sam za sebe razume Učenje, tek taj je znalac Dhamme, taj Učenje ne zanemaruje."
+
+msgid "260"
+msgstr "Nije neko starešina samo zato što mu je glava seda; takav se naziva tek starcem što vek svoj uzalud proćerda."
+
+msgid "261"
+msgstr "Unutar onoga u kojem su istina, Dhamma, nenasilje, obuzdanost, ko je sve nečistoće odbacio, njega starešinom zovu."
+
+msgid "262"
+msgstr "Niti samo svojim rečima, niti izgledom čovek uzor ne postaje, ako je uz to zavidan, sebičan, lažljiv."
+
+msgid "263"
+msgstr "Ko je presekao, uklonio i uništio koren svega toga, tek takav mudrac, što mržnju odbaci, uzorom se zove."
+
+msgid "264"
+msgstr "Nije asketa neko obrijane glave, a nemoralan i lažljiv. Prepunog želja i mržnje, kako je moguće asketom zvati?"
+
+msgid "265"
+msgstr "Ko se sa rđavim delima izbori, malim i velikim podjednako, taj se asketom zove, jer zlo svako odbacio je."
+
+msgid "266"
+msgstr "Nije monah neko ko samo hranu od drugih prosi; ko tek spoljašnju formu sledi, istinski monah nije."
+
+msgid "267"
+msgstr "Onaj ko se u svetu ovom iznad i lošeg i dobrog uzdigne, ko njime hodi prozrevši ga, tek taj se zaista monahom zove."
+
+msgid "268"
+msgstr "Ne biva utihnulim mudracem onaj ko ćuti, pun zabluda i neznanja, već onaj ko, kao da u ruci vagu drži, odmerava i dobro i zlo."
+
+msgid "269"
+msgstr "Kad zlo izbegava, tad se mudrac mudracem zove, kad prozre oba sveta, zbog toga se mudracem zove."
+
+msgid "270"
+msgstr "Nije plemenit onaj ko druga bića povređuje; tek kad pred svakim bićem štap ukloni, tad se plemenitim zove."
+
+msgid "271"
+msgstr "Ne zadovolji se pravilima i obredima, niti velikim znanjem, ni dobrom koncentracijom, niti životom u osami,"
+
+msgid "272"
+msgstr "misleći: 'Uživam u sreći obuzdanosti, dalekoj prostom puku', ukoliko, o monaše, nečistoće uma još uvek uklonio nisi."
+
+msgid "chap20"
+msgstr "Put"
+
+msgid "273"
+msgstr "Među putevima, najbolji je osmostruki, među istinama, četiri plemenite, među stanjima uma, najbolje je odsustvo strasti, među ljudima, oni što do uvida stigoše."
+
+msgid "274"
+msgstr "Ovo je put; do pročišćenja uma drugoga nema; njime se zaputite i zavaraćete Māru."
+
+msgid "275"
+msgstr "Idući tim putem, na kraj patnje stići ćete. Uvideo sam kako strelu iščupati i tome sam vas podučio."
+
+msgid "276"
+msgstr "Svoj napor uložiti morate, Budni tek pravac pokazuju. Ko putem ovim sabran ide, od okova Mārinih oslobođen biva."
+
+msgid "277"
+msgstr "'Sve tvorevine su prolazne.' Kad mudrošću ovo uvidimo, od patnje se okrećemo: to je put ka pročišćenju."
+
+msgid "278"
+msgstr "'Sve tvorevine su nezadovoljavajuće.' Kad mudrošću ovo uvidimo, od patnje se okrećemo: to je put ka pročišćenju."
+
+msgid "279"
+msgstr "'Sve stvari su bez trajne osnove.' Kad mudrošću ovo uvidimo, od patnje se okrećemo: to je put ka pročišćenju."
+
+msgid "280"
+msgstr "Ko ne uloži napor kad je tome vreme, mlad i snažan, ali lenj, bezvoljan i obuzet mislima tmurnim, taj put mudrosti ne nalazi."
+
+msgid "281"
+msgstr "Pažljiv na reči, sabranog uma, ne počini bilo šta loše telom; ta tri izvora dela pročisti i put koji objaviše mudri pređi."
+
+msgid "282"
+msgstr "Vežbanjem znanje se stiče, a nevežbanjem gubi; znajući ta dva puta nastanka i nestanka, tako sebe usmeri, da mudrost u tebi raste."
+
+msgid "283"
+msgstr "Šumu strasti posecite, a ne jedno drvo. Iz te šume vas strah vreba. Uklonivši stabla sve sa korenom, slobodni budite, o monasi."
+
+msgid "284"
+msgstr "Jer sve dok čak i najmanji koren strasti muškarca prema ženi posečen nije, um je njegov vezan, kao i tele za kravlje vime."
+
+msgid "285"
+msgstr "Iščupaj žudnju u sebi, k'o rukom svojom ljiljan jesenji; samo put smirenja u sebi neguj, slobodu što je Blaženi poduči."
+
+msgid "286"
+msgstr "'Ovde ću provesti vreme monsuna, ovde zimu i leto' tako budala razmišlja, jer opasnosti ne razume."
+
+msgid "287"
+msgstr "Onoga ko se uma vezanog ushićuje porodom svojim ili stadom, smrt odnosi nenadano, kao kad velika bujica zbriše usnulo selo."
+
+msgid "288"
+msgstr "Sinovi te ne mogu zaštititi, ni otac, ni rodbina ostala; kad te jednom smrt ščepa, srodnici ti nikakva zaštita nisu."
+
+msgid "289"
+msgstr "Zato nek mudrac vrlinom obuzdan, znajući sve ovo, što pre sebi prokrči put ka probuđenju."
+
+msgid "chap21"
+msgstr "Razno"
+
+msgid "290"
+msgstr "Uvidevši da se odricanjem od manje sreće može zadobiti veća, oštrouman nek napusti manju i okrene se većoj sreći."
+
+msgid "291"
+msgstr "Ko sebi sreću gradi stvarajući muku drugima, mržnje prepun, takav se mržnje nikad ne oslobađa."
+
+msgid "292"
+msgstr "Ono što treba da uradi odbacuje, a što ne treba da uradi čini; u sujetnom i nepažljivome svakakvo zlo buja."
+
+msgid "293"
+msgstr "Oni čija je pažnja neprekidno i čvrsto na telu, takvi ne čine ono što činiti ne treba, ali čine ono što treba. Nečistoće u tako sabranima, znalcima, lagano nestaju."
+
+msgid "294"
+msgstr "Ubivši u sebi majku, oca i dva kralja ratnika, razorivši zemlju, a s njom i podanike, bez kajanja odlazi braman."
+
+msgid "295"
+msgstr "Ubivši u sebi majku, oca i dva učena kralja, razorivši put opasnosti, bez kajanja odlazi braman."
+
+msgid "296"
+msgstr "Učenici Gotamini, čija je sabranost dan i noć okrenuta Budi, oni su uvek do kraja probuđeni."
+
+msgid "297"
+msgstr "Učenici Gotamini, čija je sabranost dan i noć okrenuta Dhammi, oni su uvek do kraja probuđeni."
+
+msgid "298"
+msgstr "Učenici Gotamini, čija je sabranost dan i noć okrenuta Sanghi, oni su uvek do kraja probuđeni."
+
+msgid "299"
+msgstr "Učenici Gotamini, čija je sabranost dan i noć okrenuta telu, oni su uvek do kraja probuđeni."
+
+msgid "300"
+msgstr "Učenici Gotamini, čiji je um dan i noć okrenut nenasilju, oni su uvek do kraja probuđeni."
+
+msgid "301"
+msgstr "Učenici Gotamini, čiji je um dan i noć okrenut meditaciji, oni su uvek do kraja probuđeni."
+
+msgid "302"
+msgstr "Teško je monah postati, teško se tome radovati; teško je kuću kućiti, teško je društvo nedoraslih. Preporađanje je uvek bolno, zato, ne preporađaj se više, da te patnja dalje ne prati."
+
+msgid "303"
+msgstr "Ispunjen pouzdanjem, vrlinom, obdaren slavom i bogatstvom, gde god da se nađe, tamo sa poštovanjem biva dočekan."
+
+msgid "304"
+msgstr "Izdaleka blistaju dobri, slično vrhovima Himalaja; rđavi, makar i blizu bili, nevidljivi su poput strele odapete u noć."
+
+msgid "305"
+msgstr "Ko sedi sam, spava sam, ide sam neumorno, sam sebe obuzdavajući – takav se ushićuje životom u šumi."
+
+msgid "chap22"
+msgstr "Čistilište"
+
+msgid "306"
+msgstr "Lažljivac u čistilištu završava, kao i onaj ko poriče učinjeno; obojicu prestupnika isto čeka kad umru, u sledećem životu."
+
+msgid "307"
+msgstr "Mnogi su u žutom ogrtaču, ali sa rđavim delima, neobuzdani; takve sopstvena rđava dela vode pravo u čistilište."
+
+msgid "308"
+msgstr "Bolje je monahu i užarenu kuglu da proguta, nego da, tako dvoličan i neobuzdan, jede ono što je isprosio."
+
+msgid "309"
+msgstr "Četiri nevolje čekaju nepromišljenog koji tuđe žene zavodi: gomilanje loših dela, nesanica, osuda i, kao četvrto, čistilište."
+
+msgid "310"
+msgstr "Taj nevoljnik gomila loša dela i preporađa se u čistilištu, malo zadovoljstva ljubavi u strahu, a kazna vladareva odista teška. Zbog svega toga, čovek nek ne juri za ženama tuđim."
+
+msgid "311"
+msgstr "Baš kao što oštra kusa trava, uhvaćena pogrešno, poseče ruku, tako i monaški život, shvaćen pogrešno, u čistilište odvodi."
+
+msgid "312"
+msgstr "Nesmotrena dela, lako kršenje zaveta, sumnjiv monaški život – sve to mnogo dobrog ne donosi."
+
+msgid "313"
+msgstr "Ono što učiniti treba, uradi bez oklevanja. Svakim kolebanjem monah samo novu buru strasti diže."
+
+msgid "314"
+msgstr "Loše delo je bolje ostaviti neučinjenim, jer za njim muka sledi. Mnogo je bolje učiniti dobro delo, jer tada muke nema."
+
+msgid "315"
+msgstr "Kao što je grad na granici dobro čuvan i spolja i iznutra, isto tako sebe čuvajte. Neka vam ova šansa ne promakne. Propuštene prilike zaista su bolne, u nevoljama okončavamo."
+
+msgid "316"
+msgstr "Ne stide se sramotnog, a stide onog što sramotno nije. Kad tako pogrešno vide stvari, bića u mnoge nevolje srljaju."
+
+msgid "317"
+msgstr "Ne plaše se strašnog, a plaše onog što strašno nije. Kad tako pogrešno vide stvari, bića u mnoge nevolje srljaju."
+
+msgid "318"
+msgstr "U ispravnom vide pogrešno, a u pogrešnom vide ispravno. Kad tako pogrešno vide stvari, bića u mnoge nevolje srljaju."
+
+msgid "319"
+msgstr "Pogrešno kao pogrešno znaju, a ispravno kao ispravno. Kad tako ispravno vide stvari, bića do mnogo sreće dolaze."
+
+msgid "chap23"
+msgstr "Slon"
+
+msgid "320"
+msgstr "Kao što slon u bici podnosi strele iz luka odapete, tako ću i ja uvrede podnositi. Mnogo je ljudi slabog morala."
+
+msgid "321"
+msgstr "Ukroćenog slona među gomilu vode, ukroćenog i kralj jaši. Ukroćeni je najbolji i među ljudima, onaj uvredama neokrznut."
+
+msgid "322"
+msgstr "Izvanredne su ukroćene mule, čistokrvni atovi iz Sinda i slonovi moćnih kljova, al' još je bolji onaj ko je sebe ukrotio."
+
+msgid "323"
+msgstr "Jer ne može se ni sa svima njima u zemlju još neposećenu (Nirvanu) stići, k'o što to obuzdani čini, kroteći i usmeravajući sopstveni um."
+
+msgid "324"
+msgstr "Slon po imenu Dhanapāla, silan i za kroćenje pretežak, u ropstvu hranu niti da onjuši, sve tužeći za šumom svojom."
+
+msgid "325"
+msgstr "Lenjivac, onaj ko je proždrljiv i onaj ko uvek spava i lenčari poput kakve svinje pregojene, takav se zaista uvek iznova preporađa."
+
+msgid "326"
+msgstr "Ovaj um moj je na besciljno lutanje navikao, kad mu se svidi, kud mu se prohte i kako god želi, ali danas ću ga do kraja obuzdati, kao što gonič štapom svog slona kroti."
+
+msgid "327"
+msgstr "Ushićuj se marljivošću, štiti sopstveni um, sa lošeg puta sam sebe uzdigni, kao i slon kad u mulj upadne."
+
+msgid "328"
+msgstr "Ako naiđeš na mudrog saputnika, čistih dela, čvrstog u vrlini, prevladavši prepreke sve, takvom se obradovan i sabran pridruži."
+
+msgid "329"
+msgstr "Ako ne naiđeš na mudrog saputnika, čistih dela, čvrstog u vrlini, tada k'o kralj što zemlju u boju izgubi ili slon u šumi, sam se zaputi."
+
+msgid "330"
+msgstr "Bolje je živeti sam, jer nema drugarstva sa budalom. Sam se kreći i ne čini ništa loše, zadovoljan i s malim, k'o slon u šumi samotan."
+
+msgid "331"
+msgstr "Sreća je imati prijatelje kad nevolja naiđe. Sreća je kad smo i sa malo zadovoljni. Sreća su mnoga naša dobročinstva kad život okončavamo. Sreća je kad se oslobodimo svake patnje."
+
+msgid "332"
+msgstr "Sreća je na svetu ovom pomagati sopstvenoj majci, sopstvenom ocu, sreća je na svetu ovom monah biti, istinski probuđen biti."
+
+msgid "333"
+msgstr "Sreća je čestit biti sve do smrti, sreća je imati veru čvrstu, sreća je mudrost steći; ne činiti zlo jeste sreća."
+
+msgid "chap24"
+msgstr "Žudnja"
+
+msgid "334"
+msgstr "U čoveku koji je nepažljiv, žudnja buja kao maluva puzavica, taj iz života u život luta, k'o majmun u šumi što za plodom traga."
+
+msgid "335"
+msgstr "Koga god kobna žudnja savlada, ta vezanost za ovaj svet, u njemu jadi narastaju, kao i bujna trava birana."
+
+msgid "336"
+msgstr "A ko god kobnu žudnju nadjača, tako tešku da se prevlada, sa njega jadi otpadnu, k'o kišne kapi sa lista lotosovog."
+
+msgid "337"
+msgstr "Kažem vama koji se okupiste ovde: 'Koren žudnje iskopajte, k'o travar mirisni koren birana trave, neka vas Māra ne savlada kao što bujica trsku prelomi.'"
+
+msgid "338"
+msgstr "Baš kao što će drvo, makar i posečeno, ponovo izrasti, samo ako mu je korenje jako i neoštećeno, tako će i ova patnja uvek ponovo bujati, ako pritajena žudnja uništena nije."
+
+msgid "339"
+msgstr "U kome trideset šesta moćnih bujica ka prijatnim stvarima teku, njega pogrešna gledišta i misli pune strasti odnose."
+
+msgid "340"
+msgstr "Te bujice na sve strane teku, k'o puzavica kad se uspuže i čvrsto stoji. Videvši je da sve više buja, mačem mudrosti koren joj presecite."
+
+msgid "341"
+msgstr "Ljude ispunjava ushićenje što od čula dolazi i prepuno je želja, užitkom vezani, slasti žedni, večno putuju od rođenja do smrti."
+
+msgid "342"
+msgstr "Ljudi gonjeni žudnjom skaču unaokolo poput zeca ulovljenog; sputani sa deset okova, kroz patnje prolaze, dugo, zaista dugo."
+
+msgid "343"
+msgstr "Ljudi gonjeni žudnjom skaču unaokolo poput zeca ulovljenog, zato iščupaj žudnju, nastoj da sebe strasti oslobodiš."
+
+msgid "344"
+msgstr "Napustivši šikaru žudnje, on u šumi osame živi; a onda iz šume u šikaru opet juri. Pogledaj ga! Tek što se izbavio, u okove ponovo srlja."
+
+msgid "345"
+msgstr "Nije jaka ona spona, govore mudri, načinjena od metala, drveta ili babađa trave. Opčinjenost draguljima i ukrasima, žudnja za sinovima i ženama mnogo je snažnija,"
+
+msgid "346"
+msgstr "Ta spona je zaista jaka, kažu mudri. Čini se labavom, ali te sa puta odvodi i teško je se osloboditi. Koji taj okov raskinu, bez želja idu poput monaha, sve čulne želje za njima ostale su daleko."
+
+msgid "347"
+msgstr "Raspaljeni strašću padaju u taj vrtlog, k'o pauk u sopstvenu mrežu. Kad okov raskinu, bez želja idu mudri, sve patnje za njima ostaju daleko."
+
+msgid "348"
+msgstr "Oslobodi se prošlosti, oslobodi se budućnosti, oslobodi se sadašnjosti. Kad na drugu obalu pređeš i um tvoj će biti potpuno slobodan, u krug rođenja i umiranja ne vraća se."
+
+msgid "349"
+msgstr "U čoveku zbrkanom, snažne žudnje, samo u prijatnosti zagledanog, želje se umnožavaju; takav svoje okove samo još snažnijim čini."
+
+msgid "350"
+msgstr "A onaj ko je smirenju predan, ne beži od neprijatnog, uvek sabran i pažljiv, taj preseca žudnju i kida Marine okove."
+
+msgid "351"
+msgstr "Onaj ko je dosegao savršenstvo, ko je bez straha i bez želje, čist, ko strele života iz sebe iščupa, takvome ovaj život jeste poslednji."
+
+msgid "352"
+msgstr "Onaj ko je bez žudnje, bez okova, znalac svetih reči, vešt da ih pravim redosledom izgovori, taj je kao mudrac znan, što svoj poslednji život živi."
+
+msgid "353"
+msgstr "Sve sam savladao i sve razumeo, nijednom stvari uprljan nisam, sve sam napustio i gašenjem žudnje sebe oslobodio, sve sâm otkrio. Koga onda učiteljem svojim da nazovem?"
+
+msgid "354"
+msgstr "Dar Učenja sve druge darove nadmašuje, ukus Učenja sve druge ukuse nadmašuje, užitak Učenja svaki drugi užitak nadmašuje, iskorenjivanje žudnje svaku patnju pobeđuje."
+
+msgid "355"
+msgstr "Imetak ranjava neznalicu, ne i tragača za drugom obalom; zaslepljen željom za imetkom, neznalica povređuje druge, ali i sebe samoga."
+
+msgid "356"
+msgstr "Njive uništava korov, ljude uništava pohlepa, zato ono što je dato nesebičnima, velike zasluge donosi."
+
+msgid "357"
+msgstr "Njive uništava korov, ljude uništava mržnja, zato ono što je dato nemrziteljima, velike zasluge donosi."
+
+msgid "358"
+msgstr "Njive uništava korov, ljude uništava obmana, zato ono što je dato neobmanutima, velike zasluge donosi."
+
+msgid "359"
+msgstr "Njive uništava korov, ljude uništava žudnja, zato ono što je dato nepožudnima, velike zasluge donosi."
+
+msgid "chap25"
+msgstr "Monah"
+
+msgid "360"
+msgstr "Obuzdanost oka je dobra, dobra je obuzdanost uha, obuzdanost nosa je dobra, dobra je obuzdanost jezika."
+
+msgid "361"
+msgstr "Obuzdanost tela je dobra, dobra je obuzdanost govora, obuzdanost uma je dobra, dobra je uvek obuzdanost. Uvek obuzdan monah, svake muke oslobođen biva."
+
+msgid "362"
+msgstr "Ko je obuzdao ruke, noge i govor, ko je sebe potpuno obuzdao, u svojoj radosti učvršćen, u osami zadovoljan, toga monahom zovu."
+
+msgid "363"
+msgstr "Slatke su reči monaha koji obuzda svoj jezik, govori blago i bez oholosti izlaže Učenje i njegovo značenje."
+
+msgid "364"
+msgstr "Monah koji boravi u Učenju, koji se ushićuje Učenjem, misli o Učenju, pamti Učenje, takav od istinskog Učenja ne otpada."
+
+msgid "365"
+msgstr "Ne preziri ono što dobiješ, ne živi zavideći drugima. Monah kog zavist muči do sabranosti ne doseže."
+
+msgid "366"
+msgstr "Ako monah ne prezire ono što dobije, makar to bilo i malo, njega zaista bogovi hvale kao biće čista života i marljivo."
+
+msgid "367"
+msgstr "Ko god kao svoje ne računa bilo šta što je ime-i-oblik (sastojci bića), ne trči za nečim što ne postoji, njega monahom zovu."
+
+msgid "368"
+msgstr "Monah što živi u ljubavi, s poverenjem u učenje Budnoga, na mirno mesto će stići, do nestanka svega uslovljenoga."
+
+msgid "369"
+msgstr "Isprazni ovaj čamac, o monaše! Jednom prazan, brže će poći. Presekavši strasti i mržnju, ka slobodi ćeš zaploviti."
+
+msgid "370"
+msgstr "Preseći treba pet, napustiti treba pet, posebno razviti treba pet. Monaha koji nadiđe pet vezanosti zovu 'onaj što bujicu pređe'."
+
+msgid "371"
+msgstr "Meditiraj monaše i nepromišljen ne budi, neka ti um za užicima čula ne juri, da tako lakom vrelu kuglu ne progutaš, pa dok te prži povičeš: 'Patnja!'"
+
+msgid "372"
+msgstr "Nema meditacije bez znanja, ni znanja bez meditacije. U kome su i meditacija i znanje, taj je zaista na pragu slobode."
+
+msgid "373"
+msgstr "Monaha što na pustom mestu boravi, čiji um jeste smiren, nadljudsko blaženstvo obuzma kad jasno sagleda Istinu."
+
+msgid "374"
+msgstr "Kad god razume nastanak i nestanak sastojaka bića, obuzmu ga sreća i ushićenje. To je mesto besmrtnosti za one koji znaju."
+
+msgid "375"
+msgstr "Ovo je početak za mudrog monaha: stražarenje na vratima čula, i malim zadovoljenost, u monaškoj disciplini obuzdanost."
+
+msgid "376"
+msgstr "Sa iskrenim prijateljima se druži, koji čistom životu streme. Postupaj prijateljski, da sve što činiš na korist bude. Tek tada ćeš, radosti pun, na kraj patnje stići."
+
+msgid "377"
+msgstr "Kao što jasmin odbaci cvetove svoje uvele, tako i vi, o monasi, svoju žudnju i mržnju odbacite."
+
+msgid "378"
+msgstr "Monah stišanog tela, stišane misli, govora stišanog, skoncentrisan, od ovog sveta odvraćen, takav se 'utihnulim' zove."
+
+msgid "379"
+msgstr "Samim sobom sebe obuzdavaj, samim sobom sebe istražuj, sebe čuvajući i sabran, srećno ćeš živeti, o monaše."
+
+msgid "380"
+msgstr "Sam si, zaista, zaštitnik svoj, sam si, zaista, utočište svoje. Motri zato na samoga sebe, k'o i trgovac na konja dobre sorte."
+
+msgid "381"
+msgstr "Monah pun radosti i poverenja u učenje Budnoga, do mesta mira stiže, do sreće i smiraja svega uslovljenoga."
+
+msgid "382"
+msgstr "Monah koji još u mladosti sebe posveti učenju Budnoga, osvetljava ovaj svet, kao Mesec kad iza oblaka izroni."
+
+msgid "chap26"
+msgstr "Braman"
+
+msgid "383"
+msgstr "Uloži napor, preseci bujicu! Čulne želje odbaci, o bramanu1. Uočivši kraj uslovljavanja, saznaješ nestvoreno, o bramanu."
+
+msgid "384"
+msgstr "Kada u dve stvari (meditaciji i uvidu) braman na drugu obalu stigne, time za njega, znalca, svi okovi nestaju."
+
+msgid "385"
+msgstr "Za koga ni dalja ni bliža obala ne postoje, nijedna od njih, takvog neustrašivog, bez ikakvih spona, ja bramanom zovem."
+
+msgid "386"
+msgstr "Ko je zadubljen, pročišćen, u osami, ko svoj je zadatak obavio, bez mrlja i do najvišeg cilja stigao, njega ja bramanom zovem."
+
+msgid "387"
+msgstr "Sunce sija danju, Mesec svetli noću, ratnik u oklopu blista, a braman kada meditira; ali Budni sjaji u izobilju, i danju i noću."
+
+msgid "388"
+msgstr "Ko zlo ne čini jeste braman, ko u miru živi zovu ga asketom; kad brlog nečistoća napusti, zato se 'beguncem' zove."
+
+msgid "389"
+msgstr "Niko neka ne udari bramana, niti on uzvrati onima koji to učine. Teško onom ko bi udario bramana, a još teže ako on na to uzvrati."
+
+msgid "390"
+msgstr "Nije mali dobitak za bramana kad um okrene od prijatnih stvari; što se više nasilja kloni, to više patnje u sebi stišava."
+
+msgid "391"
+msgstr "Ko loše ne čini telom, rečju, a ni mišlju, obuzdanog na ova tri načina, njega ja bramanom zovem."
+
+msgid "392"
+msgstr "Od koga možeš naučiti poruku potpuno Probuđenoga, toga poštuj, kao što braman poštuje žrtveni oganj svoj."
+
+msgid "393"
+msgstr "Ni po upletenoj kosi, ni po rodoslovu ne postaje se braman. U kojem je istina, u kojem Dhamma, tek taj je čist, taj je braman."
+
+msgid "394"
+msgstr "Šta će ti upletena kosa, ludo, što se antilopinom kožom ogrnu? U tebi je džungla, a spoljašnjost glancaš."
+
+msgid "395"
+msgstr "Kome je ogrtač od odbačenih krpa, ko je ispošćen, nabreklih žila, ko u osami šume meditira, toga ja zovem bramanom."
+
+msgid "396"
+msgstr "Ne zovem bramanom ni u materici bramanke rođenoga, onog ko od takve majke nastade. Ako nije sputan, samo 'bho' govori. Onog bez igde ičega, bez vezanosti, njega bramanom zovem."
+
+msgid "397"
+msgstr "Ko zaista presekavši sve okove ne drhti, ko prijanjanje nadiđe, bez spona ikakvih, njega ja bramanom zovem."
+
+msgid "398"
+msgstr "Ko preseče am (zlovolje) i remen (žudnje), lanac pogrešnih stavova, ko prepreku neznanja ukloni, probuđen, njega bramanom zovem."
+
+msgid "399"
+msgstr "Ko ne čineći ništa nažao, strpljivo podnosi porugu, udarce i zatvor, čija je snaga u strpljenju, toj sili moćnoj, njega bramanom zovem."
+
+msgid "400"
+msgstr "Ko je bez srdžbe uzeo zavet, vrlina pun, pročišćen, ukroćen, u poslednjem telu, njega bramanom zovem."
+
+msgid "401"
+msgstr "Ko ne prijanja za slasti čula, baš kao ni kap kiše za list lotosov ili gorušice seme za vrh igle, njega ja bramanom zovem."
+
+msgid "402"
+msgstr "Ko upravo na ovom mestu upozna i kraj sopstvenoj patnji, odloži tovar i bez ikakvih je veza, njega ja bramanom zovem."
+
+msgid "403"
+msgstr "Ko je dubokog znanja, mudrosti ima da dobar put od lošeg razluči, ko na najviši cilj stigao je, njega ja bramanom zovem."
+
+msgid "404"
+msgstr "Ko se ne meša ni sa kućedomaćinima, a ni sa beskućnicima, ko svog boravišta nema, a malo želja, njega ja bramanom zovem."
+
+msgid "405"
+msgstr "Ko god se okanuo štapa prema svakom biću, ko ne ubija, niti zbog njega iko ubijen biva, njega ja bramanom zovem."
+
+msgid "406"
+msgstr "Trpeljiv među netrpljevima, smiren među nasilnima, ne žudi među žudnjom zaslepljenima, njega ja bramanom zovem."
+
+msgid "407"
+msgstr "Sa koga su pohlepa i mržnja, gordost i licemerje otpali k'o seme gorušice sa vrha igle, njega ja bramanom zovem."
+
+msgid "408"
+msgstr "Ko god zbori reči ne grube, već poučne, prijatne, reči koje nikoga ne povređuju, njega ja bramanom zovem."
+
+msgid "409"
+msgstr "I ko god ne uzima ono što mu dato nije, dugo ili kratko, malo ili veliko, prijatno ili neprijatno, njega ja bramanom zovem."
+
+msgid "410"
+msgstr "Ko želja nema za svetom ovim, za svetom narednim, takvoga bez strasti, nesputanoga, ja bramanom zovem."
+
+msgid "411"
+msgstr "Ko želja nema, kog sumnje ne muče i na čvrsto tlo besmrtnosti stupio je, njega ja bramanom zovem."
+
+msgid "412"
+msgstr "Ko god je vezanost i za dobro i za zlo nadišao, bez žalosti, bez strasti, njega ja bramanom zovem."
+
+msgid "413"
+msgstr "Blistavog i čistog poput Meseca, spokojnog, a ne uzburkanog, s radošću i bez žeđi za novim rođenjem, njega ja bramanom zovem."
+
+msgid "414"
+msgstr "Ko je prešao močvaru želja, ko obmanu ovu prozre i drugu obalu dosegne, zadubljen, bez žeđi i sumnji, ko je do slobode stigao, njega ja bramanom zovem."
+
+msgid "415"
+msgstr "Ko god odustavši od slasti čula, među beskućnike pobegne, bez žudnje za užicima i novim životom, njega ja bramanom zovem."
+
+msgid "416"
+msgstr "Ko god odustavši od žudnje, među beskućnike pobegne, bez žudnje za užicima i novim životom, njega ja bramanom zovem."
+
+msgid "417"
+msgstr "Ko je leđa okrenuo vezama ljudskim, i božanske nadišao, svaku vezu presekao, njega ja bramanom zovem."
+
+msgid "418"
+msgstr "Napustivši i zadovoljstvo i nezadovoljstvo, ohlađen, bez gomilanja, pobednik nad čitavim svetom, heroj, njega ja bramanom zovem."
+
+msgid "419"
+msgstr "Ko god zna sve načine nestanka i nastanka bića, nesputan, dobrih dela, budan, njega ja bramanom zovem."
+
+msgid "420"
+msgstr "Čije mesto preporađanja ne znaju ni bogovi, ni duhovi, a ni ljudi, ko je svaki trag za sobom izbrisao, njega ja bramanom zovem."
+
+msgid "421"
+msgstr "Za njega ničega nema, ni pre ni posle, a ni u sredini, bez ičega, ničim zarobljen, njega ja bramanom zovem."
+
+msgid "422"
+msgstr "Ko god je predvodnik ljudi, plemenit, heroj, veliki mudrac, utrnulih žudnji, čist, probuđen, njega ja bramanom zovem."
+
+msgid "423"
+msgstr "Ko svoja ranija boravišta zna, ko vidi i nebesa i paklove, a života novih pred njim nema, utihnuli mudrac u znanju savršen, najviši cilj je dostigao, njega ja bramanom zovem."
