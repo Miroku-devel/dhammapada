@@ -15,7 +15,7 @@ Copyright: (c) DharmaBustan - All rights reserved
 
 
 [bg] Bulgarian
-Source: Archive.org / Blueprints of Self-Enquiry
+Source: archive.org
 Notes: Translation based on the Thomas Byrom version
 License: Public Domain
 
@@ -33,7 +33,7 @@ Notes: Jambudipa—Biblioteca pali en català
 
        
 [cs] Czech
-Source: Masaryk University (https://is.muni.cz)
+Source: Masaryk University (is.muni.cz)
 Translated by: Karel Werner (1992)
 Pali Source: Suiyagoda Sumangala, Pali Text Society, London 1914
 License: Educational use / Attribution-NonCommercial
@@ -56,7 +56,7 @@ License: Used for non-commercial educational purposes
 [el] Greek
 Source: The PaliVerse Project (paliverse.org)
 Translation Infrastructure: Trados Studio
-Scientific & Terminology Guidance: Most Ven. Ñāṇadassana Mahāthera
+Scientific & Terminology Guidance: Ven. Ñāṇadassana Mahāthera
 Project Supervision: Michael Xynos
 
 
@@ -68,14 +68,14 @@ Notes: Public Domain dedication
 
 
 [es] Spanish
-Source: The IntraText Digital Library (www.intratext.com)
+Source: The IntraText Digital Library (intratext.com)
 License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 Copyright: (c) IntraText Digital Library / EuloTech SRL
 Notes: Content used in compliance with IntraText's CC BY-NC-SA license
 
 
 [et] Estonian
-Source: Translated from the original Pali 
+Source: SuttaCentral (suttacentral.net)
 Translated by: Ṭhitañāṇa Bhikkhu (Dr. Andrus Kahn)
 License: Creative Commons Zero (CC0 1.0 Universal)
        
@@ -88,7 +88,7 @@ Notes: Original publication by Tietäjä, Tampere
 
 
 [fr] French
-Source: Archive.org
+Source: archive.org
 Translated by: Fernand Hû (1878)
 License: Public Domain
 Notes: Originally published in Bibliothèque Orientale Elzévirienne XXI, Paris
@@ -97,7 +97,6 @@ Notes: Originally published in Bibliothèque Orientale Elzévirienne XXI, Paris
 [he] Hebrew
 Source: SuttaCentral (suttacentral.net)
 Translated by: Shai Lior Schwartz (2014)
-Based on: Pali and English sources
 License: Free distribution (Non-commercial)
 Notes: Dhammadana Publications, Tel-Aviv
 
@@ -111,7 +110,6 @@ License: Used for non-commercial educational purposes
 [hu] Hungarian
 Source: SuttaCentral (suttacentral.net)
 Translated by: Fórizs László (2009)
-Based on: Pali (Dhp)
 License: CC BY-NC-SA 2.5 HU
 Notes: Updated September 20, 2011. Váljon minden lény javára
 
@@ -149,7 +147,7 @@ License: Used for non-commercial educational purposes
 
 [mr] Marathi
 Source: SuttaCentral (suttacentral.net)
-Original source: buddhistelibrary.org
+Original Source: buddhistelibrary.org
 Translated by: Ashok Tapase (अशोक तपासे), Harshada Tapase (हर्षदा तपासे)
 Note: Used in accordance with SuttaCentral's hosting terms
 
@@ -171,7 +169,7 @@ License: Free for private use / Non-commercial
 [nl] Dutch
 Source: SuttaCentral (suttacentral.net)
 Author: Peter van Loosbroek (Ananda)
-Original source: www.sleuteltotinzicht.nl
+Original Source: sleuteltotinzicht.nl
 Note: Used in accordance with SuttaCentral's hosting terms
 
 
@@ -184,7 +182,7 @@ Notes: Originally published by Buddhist Publication Society
 
 
 [pt] Portuguese
-Source: Budismos Theravada da Floresta (www.mosteirobudista.com)
+Source: Budismos Theravada da Floresta (mosteirobudista.com)
 License: Free distribution / Educational
 Notes: Published in Portugal, 2013 
 
@@ -194,7 +192,6 @@ Source: Comunitatea Dhammadha (dhammadha.ro)
 Translated by: Mircea Mare, Diana D. (2019)
 Based on: "A Dhammapada for Contemplation" by Ajahn Munindo
 License: CC BY-NC-ND 4.0 International
-Notes: First edition, 2019. Commercial use is strictly prohibited
 
 
 [ru] Russian
@@ -204,15 +201,15 @@ Executive Editor: Yu. N. Roerich. – Moscow, 1960. Ed. Choi – Moscow, 2006.
 
 
 [si] Sinhalese
-Source: Pitaka.lk / SuttaCentral (suttacentral.net)
+Source: SuttaCentral (suttacentral.net)
 Text: Dhammapada (A.P. de Zoysa edition)
-Digital Preparation: Janaka (Pitaka.lk) and Ven. Vimala (SuttaCentral)
+Digital Preparation: Janaka (pitaka.lk) and Ven. Vimala (SuttaCentral)
 
 
 [sl] Slovenian
 Source: SuttaCentral (suttacentral.net)
 Translated by: Ajahn Hiriko
-Notes: Taken from http://www.slo-theravada.org/
+Original Source: slo-theravada.org
 
 
 [sr] Serbian
@@ -244,13 +241,13 @@ License: Used for non-commercial educational purposes
 Source: Turuz.com (Online Library)
 Translated by: Mehmed Ali Işım (1997)
 License: Used for non-commercial educational purposes
-Notes: Originally titled "Budisd Vecizeleri - Gerçeğe Giden Yol"
+Notes: "Budisd Vecizeleri - Gerçeğe Giden Yol"
 
 
 [uk] Ukrainian
-Source: Archive.org
+Source: archive.org
 Translated by: Maksym Kopanytsia (Максим Копаниця)
-License: Attribution-NonCommercial
+License: Used for non-commercial educational purposes
 
 
 [vi] Vietnamese
