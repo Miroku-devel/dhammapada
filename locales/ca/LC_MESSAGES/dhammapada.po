@@ -640,7 +640,7 @@ msgid "195"
 msgstr "Els desperts o els que els escolten són dignes de devoció; han superat les obsessions i han travessat l'aiguat de les penes."
 
 msgid "196"
-msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit sense mesura; ningú pot dir-ho més bé."
+msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit sense mesura; ningú no pot dir: 'fa tant'"
 
 msgid "chap15"
 msgstr "Feliços"
