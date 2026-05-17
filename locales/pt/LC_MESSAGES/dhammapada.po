@@ -712,7 +712,7 @@ msgid "217"
 msgstr "As pessoas prezam aquele que encarna a virtude e o discernimento, que tem princípios, que realizou a verdade e que faz o que deve fazer."
 
 msgid "218"
-msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidostal homem é chamado 'aquele destinado a atravessar a Corrente'."
+msgstr "Aquele que tem como objetivo o Inefável (Nibbāna), vive com a mente inspirada (pela sabedoria supramundana) e não mais é condicionado pelo prazer dos sentidos, tal homem é chamado 'aquele destinado a atravessar a Corrente'."
 
 msgid "219"
 msgstr "Quando, após uma longa ausência, um homem regressa de longe em segurança, ao chegar a casa, seus parentes, amigos e simpatizantes dão-lhe as boas-vindas."
@@ -805,7 +805,7 @@ msgid "246"
 msgstr "Aquele que destrói a vida, profere mentiras, toma o que não é seu e vai ter com a esposa de outro;"
 
 msgid "247"
-msgstr "E é viciado em bebidas alcoólicastal homem desenterra a sua própria raiz mesmo neste mundo."
+msgstr "E é viciado em bebidas alcoólicas, tal homem desenterra a sua própria raiz mesmo neste mundo."
 
 msgid "248"
 msgstr "Sabe, ó homem bom: as coisas más são difíceis de controlar. Não deixes que a ganância e a maldade te arrastem para uma miséria prolongada."

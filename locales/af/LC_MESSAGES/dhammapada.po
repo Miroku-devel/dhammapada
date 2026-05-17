@@ -121,7 +121,7 @@ msgid "33"
 msgstr "Sy onseker trillende gemoed moeilik om te hanteer en beheer buig 'n wyse mens reguit soos 'n pylmaker 'n steel."
 
 msgid "34"
-msgstr "oos 'n vis uit sy watertuiste geruk en op droë grond gegooi, sidder die gemoed; ontsnap uit Māra se domein."
+msgstr "Soos 'n vis uit sy watertuiste geruk en op droë grond gegooi, sidder die gemoed; ontsnap uit Māra se domein."
 
 msgid "35"
 msgstr "Dit is moeilik om die gemoed te beheer want dit fladder vinnig na hartelus rond; om dit te tem, is goed – 'n getemde gemoed gee geluk."
@@ -193,7 +193,7 @@ msgid "56"
 msgstr "Gering is die geur van tagara en sandelhout maar groots is die geur van deugsames − dit sweef op tot by die gode."
 
 msgid "57"
-msgstr "Māra vind nie the weg van hulle wat waarlik deugsaam is, in agsaamheid woon en deur die hoogste wete vry is nie."
+msgstr "Māra vind nie die weg van hulle wat waarlik deugsaam is, in agsaamheid woon en deur die hoogste wete vry is nie."
 
 msgid "58"
 msgstr "Op 'n afvalhoop langs die grootpad verwerp groei 'n lotus welriekend geesverblydend."
@@ -241,7 +241,7 @@ msgid "71"
 msgstr "Gedane kwaad is soos melk wat nie dadelik versuur nie; dit volg en brand die dwaas soos kole onder as bedek."
 
 msgid "72"
-msgstr "Slegs till sy nadeel bekom 'n dwaas kennis; dit vernietig sy geluk en breek sy kop."
+msgstr "Slegs tot sy nadeel bekom 'n dwaas kennis; dit vernietig sy geluk en breek sy kop."
 
 msgid "73"
 msgstr "Die dwaas soek 'n onwesenlike reputasie, voorrang onder monnike, mag in kloosters en eerbetoon by families."
@@ -250,7 +250,7 @@ msgid "74"
 msgstr "'Laat leke en monnike dink dat ék dit gedoen het, laat hulle in hul doen en late aan mý onderdanig wees'; dit is die dwaas se strewe en sy ambisie en arrogansie groei."
 
 msgid "75"
-msgstr "'n Middel tot wins is een ding, die pad na nibbāna 'n ander; laat the monnik, leerling van die Boeddha, dit deur ervaring weet, in roem nie vreugde vind nie maar afgeskeidenheid koester."
+msgstr "'n Middel tot wins is een ding, die pad na nibbāna 'n ander; laat die monnik, leerling van die Boeddha, dit deur ervaring weet, in roem nie vreugde vind nie maar afgeskeidenheid koester."
 
 msgid "chap6"
 msgstr "Die Wyse"
@@ -259,7 +259,7 @@ msgid "76"
 msgstr "Gaan met 'n wyse mens om wat foute opmerk en verstandig teregwys soos met iemand wat jou na 'n verborge skat toe lei; om met so 'n mens om te gaan, hou geen nadeel in nie, net voordeel."
 
 msgid "77"
-msgstr "Laat hom raadgee und onderrig en jou van kwaad weerhou; by deugsames is hy geliefd, by ondeugsames ongeliefd."
+msgstr "Laat hom raadgee en onderrig en jou van kwaad weerhou; by deugsames is hy geliefd, by ondeugsames ongeliefd."
 
 msgid "78"
 msgstr "Gaan nie om met vriende gemeen en laag nie; gaan om met vriende goed en hoogstaande."
@@ -328,7 +328,7 @@ msgid "98"
 msgstr "Lieflik is die plek waar arahante woon - hetsy dorp of woud, vlakte of berg."
 
 msgid "99"
-msgstr "Wonderlik is wildernisse: waar adjective behae nie vind nie, sal hartstogloses gelukkig wees, hulle wat plesier nie soek nie."
+msgstr "Wonderlik is wildernisse: waar ander behae nie vind nie, sal hartstogloses gelukkig wees, hulle wat plesier nie soek nie."
 
 msgid "chap8"
 msgstr "Duisende"
@@ -364,10 +364,10 @@ msgid "109"
 msgstr "In 'n mens wat uit inbors agting betoon en ontwikkeldes immer eer, ontwikkel vier kwaliteite: gesondheid, skoonheid, geluk en krag."
 
 msgid "110"
-msgstr "Dit is beter om 'n dag lank deugsaam und mediterend te leef as 'n eeu lank deugloos og koersloos."
+msgstr "Dit is beter om 'n dag lank deugsaam en mediterend te leef as 'n eeu lank deugloos og koersloos."
 
 msgid "111"
-msgstr "Dit is beter om 'n dag lank wys und mediterend te leef as 'n eeu lank onwys og koersloos."
+msgstr "Dit is beter om 'n dag lank wys en mediterend te leef as 'n eeu lank onwys og koersloos."
 
 msgid "112"
 msgstr "Dit is beter om 'n dag lank aktief met krag te leef as 'n eeu lank lui en swak."
@@ -472,7 +472,7 @@ msgid "143"
 msgstr "In die wêreld is 'n mens wat deur gewete beteuel teregwysing voorkom soos 'n edel perd wat 'n sweepslag voorkom. Wees vurig wakker soos 'n edel perd deur die piets van 'n peits beheer."
 
 msgid "144"
-msgstr "Mit vertroue en deug en inspanning, met konsentrasie en onderskeiding van die waarheid, volmaak in weet en leef asook aandagtig sal julle die groot lyding agterlaat."
+msgstr "Met vertroue en deug en inspanning, met konsentrasie en onderskeiding van die waarheid, volmaak in weet en leef asook aandagtig sal julle die groot lyding agterlaat."
 
 msgid "145"
 msgstr "Ingenieurs lei water, pylmakers buig stele, houtwerkers vorm hout, deugsames bemeester hulleself."
@@ -745,7 +745,7 @@ msgid "227"
 msgstr "So was dit altyd, Atula, nie net vandag nie: hulle vind fout as 'n mens niks praat, hulle vind fout as 'n mens veel praat, hulle vind fout as 'n mens min praat; met niemand in hierdie wêreld word fout nie gevind nie."
 
 msgid "228"
-msgstr "There was nooit 'n mens en daar sal nooit een wees en daar is nou nie een met wie totaal fout gevind word of wat totaal geprys word nie."
+msgstr "Daar was nooit 'n mens en daar sal nooit een wees en daar is nou nie een met wie totaal fout gevind word of wat totaal geprys word nie."
 
 msgid "229"
 msgstr "Maar een deur wyses geprys ná langdurige waarneming se gedrag is sonder barste en hy is wys, met insig en deug geïntegreer."
@@ -847,7 +847,7 @@ msgid "259"
 msgstr "Waarheidsdraer is 'n mens nie omdat hy baie praat nie; waarheidsdraer is 'n mens wat al het hy min daarvan verneem waarheid aan sy eie lyf ervaar en waarheid nie laat vaar."
 
 msgid "260"
-msgstr "Senior is 'n mens nie omdat sy hare grys is nie; 'n mens can ryp in jare wees en tog 'vergeefs vergrys' genoem word."
+msgstr "Senior is 'n mens nie omdat sy hare grys is nie; 'n mens kan ryp in jare wees en tog 'vergeefs vergrys' genoem word."
 
 msgid "261"
 msgstr "'Senior' word 'n mens tereg genoem in wie waarheid en waaragtigheid is, wat geweldloos, beheersd en matig is en wys, van onsuiwerheid ontslae."
@@ -904,7 +904,7 @@ msgid "277"
 msgstr "'Nie-blywend is alle saamgestelde dinge'; wanneer 'n mens dit met wysheid insien draai jy weg van lyding: dit is die weg na suiwerheid."
 
 msgid "278"
-msgstr "'Nie-bevredigend is alle saamgestelde dinge'; wanneer mens dit met wysheid insien draai jy weg van lyding: dit is the weg na suiwerheid."
+msgstr "'Nie-bevredigend is alle saamgestelde dinge'; wanneer mens dit met wysheid insien draai jy weg van lyding: dit is die weg na suiwerheid."
 
 msgid "279"
 msgstr "'Nie-selfgenoegsaam is alle verskynsels'; wanneer mens dit met wysheid insien draai jy weg van lyding: dit is die weg na suiwerheid."
@@ -1228,7 +1228,7 @@ msgid "380"
 msgstr "Jyself is jou toevlug en jyself is jou gids; beheer dus jouself soos 'n handelaar 'n edel perd."
 
 msgid "381"
-msgstr "'n Monnik vol vreugde and vertroue in die Boeddha-leer sal the staat van vrede and geluk bereik: die bedaring van gekondisioneerde dinge."
+msgstr "'n Monnik vol vreugde en vertroue in die Boeddha-leer sal die staat van vrede en geluk bereik: die bedaring van gekondisioneerde dinge."
 
 msgid "382"
 msgstr "'n Monnik wat hom in sy jeug aan die Boeddha-leer verbind, bestraal die wêreld waarlik soos die maan van wolke vry."
@@ -1237,19 +1237,19 @@ msgid "chap26"
 msgstr "Edel Mens"
 
 msgid "383"
-msgstr "Edel mens, span jou in og klief die stroom; laat sintuiglike begeertes vaar en weet dat samestellings ontbind; dan ken jy nie-gevormdheid, is jy edel mens."
+msgstr "Edel mens, span jou in en klief die stroom; laat sintuiglike begeertes vaar en weet dat samestellings ontbind; dan ken jy nie-gevormdheid, is jy edel mens."
 
 msgid "384"
 msgstr "Wanneer 'n edel mens in albei dimensies die ander oewer bereik het, is hy 'n mens wat weet en val al sy boeie weg."
 
 msgid "385"
-msgstr "'n Mens wat vanished het aan oorkant of duskant of albei, onbevrees en onverbonde, noem ek 'edel mens'."
+msgstr "'n Mens wat verdwyn het aan oorkant of duskant of albei, onbevrees en onverbonde, noem ek 'edel mens'."
 
 msgid "386"
 msgstr "'n Suiwer mens wat bestendig mediteer, gedoen het wat gedoen moet word en smetteloos die hoogste peil bereik het, noem ek 'edel mens'."
 
 msgid "387"
-msgstr "Bedags skyn die son snags glim die maan bewapen blink the kryger mediterend gloei die edel mens maar immer dag en nag skitter die Verligte."
+msgstr "Bedags skyn die son snags glim die maan bewapen blink die kryger mediterend gloei die edel mens maar immer dag en nag skitter die Verligte."
 
 msgid "388"
 msgstr "Wie boosheid verban, word daarom edel mens, wie kalm leef daarom askeet en wie eie kwaad versaak daarom versaker genoem."

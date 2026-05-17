@@ -205,7 +205,7 @@ msgid "chap5"
 msgstr "Necis"
 
 msgid "60"
-msgstr "Llarga és la night per al desvetllat, llarg el camí per al fatigat, llarg el revoltar dels necis que no coneixen la doctrina veritable."
+msgstr "Llarga és la nit per al desvetllat, llarg el camí per al fatigat, llarg el revoltar dels necis que no coneixen la doctrina veritable."
 
 msgid "61"
 msgstr "Si el caminant no troba algú igual o millor que ell mateix, val més que faci camí sol; el neci no fa companyia."
@@ -286,7 +286,7 @@ msgid "85"
 msgstr "N'hi ha pocs entre els homes que passin a l'altra banda; la resta de la gent corren per aquesta riba."
 
 msgid "86"
-msgstr "Els que segueixen l'ensenyament que se'ls ha donat, van a l'altra banda del regne de la mort, que és tan difficile de creuar."
+msgstr "Els que segueixen l'ensenyament que se'ls ha donat, van a l'altra banda del regne de la mort, que és tan difícil de creuar."
 
 msgid "87"
 msgstr "Que el savi abandoni les qualitats nocives i desenvolupi les beneficioses; que deixi la casa per la vida sense llar, la solitud que és tan difícil de gaudir."
@@ -640,7 +640,7 @@ msgid "195"
 msgstr "Els desperts o els que els escolten són dignes de devoció; han superat les obsessions i han travessat l'aiguat de les penes."
 
 msgid "196"
-msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit senza mesura ningú no pot dir: 'fa tant'."
+msgstr "Qui honora els que són així, immutables i lliures de la por, té un mèrit sense mesura; ningú pot dir-ho més bé."
 
 msgid "chap15"
 msgstr "Feliços"
@@ -667,7 +667,7 @@ msgid "203"
 msgstr "La fam és la pitjor malaltia, les emocions el pitjor sofriment; per a qui veu això tal com és, l'estat de pau és la més gran benaurança."
 
 msgid "204"
-msgstr "La salut és el bé més gran, el contentament la major riquesa, la confiança és el melhor amic, l'estat de pau, la felicitat màxima."
+msgstr "La salut és el bé més gran, el contentament la major riquesa, la confiança és el millor amic, l'estat de pau, la felicitat màxima."
 
 msgid "205"
 msgstr "Qui ha tastat el gust de la discriminació i de la calma, no fa el mal ni té cap por, perquè ha tastat la joia de la veritat."

@@ -856,7 +856,7 @@ msgid "262"
 msgstr "Bukan sekadar karena bertutur teratur atau berperawakan rupawan seseorang yang masih memiliki keirihatian, kekikiran, dan kecongkakan disebut budiman,"
 
 msgid "263"
-msgstr "melainkan ia yang telah menumbangkan keirihatian, kekikiran, kecongkakan, mencabut akarnya – melunturkan kebencian, and cendekia itulah disebut 'budiman'."
+msgstr "melainkan ia yang telah menumbangkan keirihatian, kekikiran, kecongkakan, mencabut akarnya – melunturkan kebencian, dan cendekia itulah disebut 'budiman'."
 
 msgid "264"
 msgstr "Bukan sekadar karena berkepala gundul, seseorang yang tidak berdisiplin, bertutur dusta Aku sebut 'samana'. Mana mungkin orang yang berlumur ambisi dan loba sebagai samana."

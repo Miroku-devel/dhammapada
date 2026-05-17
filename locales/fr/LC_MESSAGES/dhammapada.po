@@ -61,7 +61,7 @@ msgid "15"
 msgstr "Ici-bas, comme après sa mort, dans les deux cas, le méchant s'afflige. Il s'afflige, il est tourmenté à la vue de la perversité de ses actions."
 
 msgid "16"
-msgstr "Ici-bas, comme après sa mort, dans les two cas, l'homme de bien se réjouit. Il se réjouit, il est heureux à la vue de la pureté de ses actions."
+msgstr "Ici-bas, comme après sa mort, dans les deux cas, l'homme de bien se réjouit. Il se réjouit, il est heureux à la vue de la pureté de ses actions."
 
 msgid "17"
 msgstr "Ici-bas, comme après sa mort, dans les deux cas, le méchant se désole. ' J'ai fait le mal, ' dit-il en se désolant. Plus grande encore est sa désolation à mesure qu'il avance dans la voie mauvaise."
