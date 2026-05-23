@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Kapitujt"
+
+msgid "fontsize"
+msgstr "Madhësia e fontit"
+
+msgid "chap1"
+msgstr "Vargjet Binjake"
+
+msgid "1"
+msgstr "Jeta jonë formësohet nga mendja jonë; bëhemi çka mendojmë. Vuajtja e ndjek një mendim të keq siç e ndjekin rrotat e karrocës kaun që e tërheq atë."
+
+msgid "2"
+msgstr "Jeta jonë formësohet nga mendja jonë; bëhemi çka mendojmë. Gëzimi e ndjek një mendim të pastër si një hije që nuk largohet kurrë."
+
+msgid "3"
+msgstr "'Ai u zemërua me mua, më sulmoi, më mundi, më grabiti' – ata që zgjaten në mendime të tilla nuk do të çlirohen kurrë nga urrejtja."
+
+msgid "4"
+msgstr "'Ai u zemërua me mua, më sulmoi, më mundi, më grabiti' – ata që nuk zgjaten në mendime të tilla sigurisht që do të çlirohen nga urrejtja."
+
+msgid "5"
+msgstr "Se kurrë urrejtja nuk mund t'i japë fund urrejtjes; veç dashuria mundet. Ky është ligj i pandryshueshëm."
+
+msgid "6"
+msgstr "Njerëzit harrojnë se jeta e tyre do të përfundojë së shpejti. Për ata që e mbajnë mend, grindjet marrin fund."
+
+msgid "7"
+msgstr "Siç e rrëzon fryma e fortë pemën e dobët, Mara Tunduesi i dërrmon njerëzit e dobët që, duke ngrënë tepër shumë e duke punuar tepër pak, kapen në ndjekjen e furishme të kënaqësisë."
+
+msgid "8"
+msgstr "Siç nuk mundet fryma e fortë ta tundë malin, Mara nuk mund t'i tundë të vetë-disiplinuarit plot besim."
+
+msgid "9"
+msgstr "Ata që e veshin rrobën e portokalltë pa e pastruar mendjen, që u mungon çiltërsia dhe vetë-kontrolli, nuk përshtaten ta veshin rrobën e portokalltë."
+
+msgid "10"
+msgstr "Por ata që e kanë pastruar mendjen, që e kanë çiltërsinë dhe vetë-kontrollin, vërtet përshtaten ta veshin rrobën e portokalltë."
+
+msgid "11"
+msgstr "Ata që janë në deluzion, duke i imagjinuar gjërat e vockla si vitale për jetën, i ndjekin fantazitë e tyre të kota dhe nuk e arrijnë kurrë njohjen më të lartë."
+
+msgid "12"
+msgstr "Por të urtët, duke e ditur se çka është e vockël dhe çka është vitale, i fiksojnë mendimet e tyre në qëllimin suprem dhe e arrijnë njohjen më të lartë."
+
+msgid "13"
+msgstr "Siç depërton shiu nëpër një kasolle me çati të mbuluar keq, pasioni do të depërtojë nëpër një mendje të pastërvitur."
+
+msgid "14"
+msgstr "Siç nuk mund të depërtojë shiu nëpër një kasolle me çati të mbuluar mirë, pasioni nuk mund të depërtojë nëpër një mendje të stërvitur mirë."
+
+msgid "15"
+msgstr "Ata që janë vetjakë vuajnë këtu dhe në të përtejmen; vuajnë në të dy botët nga rezultatet e veprimeve të tyre."
+
+msgid "16"
+msgstr "Por ata që janë pa-veten gëzohen këtu dhe gëzohen në të përtejmen. Gëzohen në të dy botët nga rezultatet e veprimeve të tyre."
+
+msgid "17"
+msgstr "Ata që janë vetjakë vuajnë në këtë jetë dhe në tjetrën. Vuajnë duke i parë rezultatet e të keqes që e kanë bërë, dhe më shumë vuajtje i pret në jetën tjetër."
+
+msgid "18"
+msgstr "Por ata që janë pa-veten gëzohen në këtë jetë dhe në tjetrën. Gëzohen duke e parë të mirën që e kanë bërë, dhe më shumë gëzim i pret në jetën tjetër."
+
+msgid "19"
+msgstr "Ata që recitojnë shumë shkrime të shenjta por dështojnë t'i praktikojnë mësimet e tyre janë si një lopçar që i numëron lopët e tjetrit. Nuk marrin hise në gëzimet e jetës shpirtërore."
+
+msgid "20"
+msgstr "Por ata që dinë pak shkrime të shenjta, e megjithatë i praktikojnë mësimet e tyre, duke e mposhtur tërë epshin, urrejtjen dhe deluzionin, jetojnë me mendje të pastër në urtinë më të lartë. Qëndrojnë pa mbështetjet e jashtme dhe marrin hise në gëzimet e jetës shpirtërore."
+
+msgid "chap2"
+msgstr "Vigjilenca"
+
+msgid "21"
+msgstr "Ji vigjilent-e dhe shko përtej vdekjes. Nëse të mungon vigjilenca, nuk mund t'i shpëtosh vdekjes. Ata që përpiqen me zell do të shkojnë përtej vdekjes; ata që nuk përpiqen nuk mund të vijnë kurrë në jetë."
+
+msgid "22"
+msgstr "Të urtët e kuptojnë këtë dhe gëzohen në urtinë e fisnikëve."
+
+msgid "23"
+msgstr "Duke medituar me zell dhe duke u orvatur për nirvanën, e arrijnë gëzimin dhe lirinë më të lartë."
+
+msgid "24"
+msgstr "Nëse mediton me zell, i pastër në mendje dhe i sjellshëm në vepra, duke bërë jetë të disiplinuar në harmoni me d'harmën, do të të rritet lavdia."
+
+msgid "25"
+msgstr "Nëse mediton me zell, përmes disiplinave shpirtërore mund ta ndërtosh një ishull të cilin s'mund ta pushtojë asnjë përmbytje."
+
+msgid "26"
+msgstr "Të papjekurit e humbin vigjilencën e tyre, por të urtët e ruajnë atë si thesarin e tyre më të madh."
+
+msgid "27"
+msgstr "Mos bjer në rrugët e përtacisë e të epshit. Ata që meditojnë me zell e arrijnë lumturinë më të lartë."
+
+msgid "28"
+msgstr "Duke e mposhtur përtacinë përmes zellit, të urtët ngjiten përtej vuajtjes në majat e urtisë. E shikojnë turmën që vuan siç i shikon dikush nga maja e malit fushat poshtë."
+
+msgid "29"
+msgstr "Të zellshëm mes atyre që janë përtacë, të zgjuar mes atyre që dremisin, të urtët përparojnë si kalë i garës, duke i lënë të tjerët pas."
+
+msgid "30"
+msgstr "Pikërisht përmes përpjekjes së zellshme Indra u bë zotërues i zotave. Të zellshmit janë gjithmonë të respektuar, përtacët kurrë."
+
+msgid "31"
+msgstr "Aspiranti i zellshëm shpirtëror, duke iu frikësuar përtacisë, përparon si zjarr, duke i djegur të gjithë zinxhirët."
+
+msgid "32"
+msgstr "Kërkuesit e tillë nuk do të tërhiqen kurrë: ata po i afrohen nirvanës."
+
+msgid "chap3"
+msgstr "Mendja"
+
+msgid "33"
+msgstr "Siç e drejton shigjetari shigjetën, të urtët i drejtojnë mendimet e tyre të parehatuara, të vështira për t'u drejtuar, të vështira për t'u frenuar."
+
+msgid "34"
+msgstr "Siç godet përreth në agoni një peshk i zënë në grep e i lënë në rërë, ashtu dridhet gjithanej mendja që po stërvitet në meditim, duke dashur fort t'i shpëtojë dorës së Mara-s."
+
+msgid "35"
+msgstr "Vështirë është të stërvitet mendja, që shkon ku të dojë dhe bën çka të dëshirojë."
+
+msgid "36"
+msgstr "Por një mendje e stërvitur sjell shëndet e lumturi. Të urtët mund t'i drejtojnë mendimet e tyre, subtile dhe të pakapshme, kudo që ata zgjedhin: një mendje e stërvitur sjell shëndet e lumturi."
+
+msgid "37"
+msgstr "Ata që mund t'i drejtojnë mendimet, të cilat janë josubstanciale dhe enden kaq pa plan, janë të çliruar nga zinxhirët e Mara-s."
+
+msgid "38"
+msgstr "Nuk janë të urtë ata mendimet e të cilëve nuk janë të qëndrueshme dhe mendjet jo të qeta, që nuk e njohin d'harma-n, ligjin e jetës."
+
+msgid "39"
+msgstr "Janë të urtë ata mendimet e të cilëve janë të qëndrueshme dhe mendjet të qeta, të pandikuar nga e mira dhe e keqja. Ata janë të zgjuar dhe të lirë nga frika."
+
+msgid "40"
+msgstr "Mbaje mend, ky trup është si enë e brishtë e baltës. Bëje mendjen kala dhe mposhte Mara-n me armën e urtisë. Ruaje gjithmonë mposhtjen që e ke bërë."
+
+msgid "41"
+msgstr "Mbaje mend se ky trup së shpejti do të shtrihet në tokë pa jetë, pa vlerë, i padobishëm si trung i djegur."
+
+msgid "42"
+msgstr "Edhe më shumë se ata që të urrejnë, edhe më shumë se të gjithë armiqtë e tu, bën dëm një mendje e padisiplinuar."
+
+msgid "43"
+msgstr "Edhe më shumë se nëna jote, edhe më shumë se babai yt, edhe më shumë se gjithë familja jote bën mirë një mendje e disiplinuar mirë."
+
+msgid "chap4"
+msgstr "Lulet"
+
+msgid "44"
+msgstr "Siç i zgjedh thurësi i kurorës lulet e duhura, zgjedhe rrugën e shpjeguar mirë të d'harmës dhe shko përtej mbretërive të vdekjes dhe të zotave."
+
+msgid "45"
+msgstr "Siç i zgjedh thurësi i kurorës lulet e duhura, ata që e zgjedhin rrugën e shpjeguar mirë të d'harmës do të shkojnë përtej mbretërive të vdekjes dhe të zotave."
+
+msgid "46"
+msgstr "Duke e kujtuar se ky trup është si shkumë, që ka natyrë prej mirazhi, thyeji shigjetat e Mara-s që janë me majë me lule. Kurrë më nuk do të të prekë vdekja."
+
+msgid "47"
+msgstr "Siç e shfaros një përmbytje fshatin e përgjumur, vdekja i shfaros ata që e kalojnë jetën duke mbledhur lule."
+
+msgid "48"
+msgstr "Vdekja i shfaros gjersa janë ende duke mbledhur, të kapur në ndjekjen e kënaqësisë."
+
+msgid "49"
+msgstr "Por të urtët jetojnë pa e dëmtuar natyrën, siç e pi bleta nektarin pa e dëmtuar lulen."
+
+msgid "50"
+msgstr "Mos i kushto vëmendje asaj që e bëjnë apo dështojnë ta bëjnë të tjerët; kushtoji vëmendje asaj që ti e bën apo dështon ta bësh."
+
+msgid "51"
+msgstr "Si lule e bukur, plot ngjyra por pa aromë, janë fjalët e atyre që nuk e praktikojnë atë që e predikojnë."
+
+msgid "52"
+msgstr "Si lule e bukur, plot ngjyra dhe me aromë janë fjalët e atyre që e praktikojnë atë që e predikojnë."
+
+msgid "53"
+msgstr "Shumë kurora mund të bëhen nga një grumbull i luleve. Shumë vepra të mira mund të bëhen në këtë jetë."
+
+msgid "54"
+msgstr "Era e luleve apo e drurit erëmirë nuk mund të udhëtojë kundër frymës, por aroma e të mirës përhapet kudo."
+
+msgid "55"
+msgstr "As druri erëmirë as lulja tagara, as lotusi as jasemini nuk mund t'i afrohen aromës së të mirës."
+
+msgid "56"
+msgstr "E dobët është era e drurit erëmirë apo e tagarës, por aroma e të mirës ngritet lart për t'i arritur zotat."
+
+msgid "57"
+msgstr "Mara kurrë s'mund t'u afrohet atyre që janë të mirë, të zellshëm dhe të përndritur."
+
+msgid "58"
+msgstr "Një ndjekës i vërtetë i Budës shkëlqen ndër vdekatarët e verbër"
+
+msgid "59"
+msgstr "si lotusi aromatik që, duke u rritur në plehrat buzë rrugës, u sjell gëzim të gjithë atyre që kalojnë atypari."
+
+msgid "chap5"
+msgstr "Të Papjekurit"
+
+msgid "60"
+msgstr "E gjatë është nata për ata që janë të zgjuar; e gjatë është rruga për ata që janë të stërlodhur. I gjatë është cikli i lindjes e vdekjes për ata që nuk e njohin d'harmën."
+
+msgid "61"
+msgstr "Nëse nuk e gjen askë të të mbështesë në rrugën shpirtërore, ec vetëm. Nuk ka shoqëri me të papjekurit."
+
+msgid "62"
+msgstr "Ata mendojnë: 'Këta fëmijë janë të mitë; kjo pasuri është e imja.' Ata as veten s'mund ta quajnë të tyren, e lëre më fëmijët a pasurinë."
+
+msgid "63"
+msgstr "Të papjekurit që e dinë se janë të papjekur kanë pak urti. Por të papjekurit që e shikojnë veten si të urtë janë krejtësisht budallenj."
+
+msgid "64"
+msgstr "Ata s'mund ta kuptojnë d'harmën edhe nëse e kalojnë tërë jetën e vet me të urtët. Si mund ta njohë luga shijen e supës?"
+
+msgid "65"
+msgstr "Nëse të pjekurit kalojnë madje edhe pak kohë me të urtët, do ta kuptojnë d'harmën, siç e njeh gjuha shijen e supës."
+
+msgid "66"
+msgstr "Të papjekurit janë armiqtë e vet, duke bërë vepra vetjake të cilat do t'u sjellin pikëllim."
+
+msgid "67"
+msgstr "Është vetjake ajo vepër që sjell pishman dhe vuajtje pas përfundimit."
+
+msgid "68"
+msgstr "Por e mirë është ajo vepër që nuk sjell pishman, veç lumturi pas përfundimit."
+
+msgid "69"
+msgstr "Të ëmbla janë veprat vetjake për të papjekurit deri kur ata t'i shohin rezultatet; kur i shohin rezultatet, ata vuajnë."
+
+msgid "70"
+msgstr "Edhe nëse agjërojnë muaj pas muaji, duke ngrënë veç me majën e fijes së barit, ata nuk vlejnë as sa një e gjashtëmbëdhjeta e atij që vërtet e kupton d'harmën."
+
+msgid "71"
+msgstr "Siç i duhet qumështit të freskët kohë për t'u bërë gjizë, një vepër vetjake merr kohë për ta sjellë pikëllimin pas përfundimit të saj. Siç digjet zjarri nën hi, ajo i djeg ngadalë të papjekurit."
+
+msgid "72"
+msgstr "Edhe nëse marrin pak dije, të papjekurit e keqpërdorin atë dhe e thyejnë kokën e vet në vend se të përfitojnë prej saj."
+
+msgid "73"
+msgstr "Të papjekurit shkojnë pas prestigjit të rrejshëm – rangimi ndërmjet murgjve, pushteti nëpër manastire, dhe lavdërimet nga të gjithë."
+
+msgid "74"
+msgstr "'Dëgjoni, murgj e kryefamiljarë, unë mund ta bëj këtë; unë mund ta bëj atë. Unë e kam mirë dhe ju e keni gabim.' Kështu rriten krenaria dhe pasioni i tyre."
+
+msgid "75"
+msgstr "Zgjedheni rrugën që ju çon te nirvana; shmangeni rrugën drejt fitimit e kënaqësisë. Kujtojeni këtë gjithmonë, o ndjekës të Budës, dhe përpiquni gjithmonë për urti."
+
+msgid "chap6"
+msgstr "Të Urtët"
+
+msgid "76"
+msgstr "Nëse e shihni dikë të urtë, që mund t'ju largojë nga rruga e gabuar, ndiqeni atë person siç do ta ndiqnit atë që mund t'i zbulojë thesaret e fshehura. Veç e mira mund të dalë prej kësaj."
+
+msgid "77"
+msgstr "Lërini t'ju këshillojnë apo t'ju udhëzojnë apo t'ju ndalojnë nga e gabuara. Ata do të jenë të dashur nga të mirët, por të papëlqyer nga të këqijtë."
+
+msgid "78"
+msgstr "Bëhuni miq me ata që janë të mirë e të vërtetë, e jo me ata që janë të këqij e të rremë."
+
+msgid "79"
+msgstr "Ta ndjekësh d'harmën e zbuluar nga fisnikët domethënë të jetosh në gëzim me mendje të qetë."
+
+msgid "80"
+msgstr "Siç e çojnë vaditësit ujin ku të duan, siç i bëjnë harkëtarët shigjetat drejt, siç e gdhendin zdrukthëtarët drurin, të urtët u japin trajtë mendjeve të tyre."
+
+msgid "81"
+msgstr "Siç nuk mund të lëvizet një shkëmb i fortë nga era, të urtët nuk tunden nga lavdërimi a fajësimi."
+
+msgid "82"
+msgstr "Kur i dëgjojnë fjalët e d'harmës, mendjet e tyre bëhen të qeta e të kthjellëta si ujërat e një liqeni në prehje."
+
+msgid "83"
+msgstr "Njerëzit e mirë vazhdojnë të ecin çkado që të ndodhë. Nuk flasin fjalë të kota dhe janë të njëjtë në fat të mirë e të keq."
+
+msgid "84"
+msgstr "Nëse një njeri nuk i ka merak as fëmijët as pasurinë as pushtetin as suksesin – me mjete të padrejta, dije se ai është i mirë, i urtë e i virtytshëm."
+
+msgid "85"
+msgstr "Të paktë janë ata që arrijnë në bregun tjetër; shumica e njerëzve vazhdojnë të vrapojnë lart e poshtë nëpër këtë breg."
+
+msgid "86"
+msgstr "Por ata që e ndjekin d'harmën, kur ajo është shpjeguar mirë, do ta arrijnë bregun tjetër, të vështirë për t'u arritur, përtej fuqisë së vdekjes."
+
+msgid "87"
+msgstr "Ata e lënë terrin pas dhe e ndjekin dritën. Heqin dorë nga shtëpia dhe e lënë kënaqësinë pas."
+
+msgid "88"
+msgstr "Duke mos quajtur asgjë të tyren, i pastrojnë zemrat e tyre dhe gëzohen."
+
+msgid "89"
+msgstr "Të stërvitur mirë në shtatë fushat e përndritjes, me shqisat e tyre të disiplinuara e të lira nga lidhjet, jetojnë në lirë, plot dritë."
+
+msgid "chap7"
+msgstr "Të Shenjtët"
+
+msgid "90"
+msgstr "Ata e kanë përfunduar udhëtimin e tyre; kanë shkuar përtej pikëllimit. Prangat e jetës kanë rënë nga ta, dhe ata jetojnë në liri të plotë."
+
+msgid "91"
+msgstr "Ata që janë të kujdesshëm për të tjerët përpiqen gjithmonë. Nuk kanë vendbanim të caktuar, por largohen nga shtëpia si mjellmat nga liqeni i tyre."
+
+msgid "92"
+msgstr "Si fluturimi i zogjve në qiell, rruga e atyre që janë pa-veten është vështirë të ndiqet. Ata nuk kanë pasuri, por jetojnë me lëmoshë në botë të lirisë."
+
+msgid "93"
+msgstr "Si fluturimi i zogjve në qiell, rruga e tyre është vështirë të ndiqet. Me shqisat e tyre nën kontroll, të matur në të ngrënë, e dinë kuptimin e lirisë."
+
+msgid "94"
+msgstr "Madje edhe zotat ua kanë zili të shenjtëve, shqisat e të cilëve u binden si kuaj të stërvitur mirë dhe që janë të lirë nga krenaria."
+
+msgid "95"
+msgstr "Të durueshëm si toka, rrinë si prag. Janë të pastër si liqe pa baltë, dhe të lirë nga cikli i lindjes e vdekjes."
+
+msgid "96"
+msgstr "Urtia ua ka ndalur mendjet në prehje, dhe mendimet, fjalët dhe veprat e tyre janë të mbushura me paqe."
+
+msgid "97"
+msgstr "Të çliruar nga iluzioni dhe nga lidhjet personale, kanë hequr dorë nga bota e pamjes së jashtme për ta gjetur realitetin. Kështu e kanë arritur më të lartën."
+
+msgid "98"
+msgstr "Ata e bëjnë të shenjtë kudo që banojnë, në fshat a në pyll, në tokë a në det."
+
+msgid "99"
+msgstr "Me shqisat e tyre në paqe dhe mendjet plot gëzim, i bëjnë pyjet të shenjta."
+
+msgid "chap8"
+msgstr "Mijërat"
+
+msgid "100"
+msgstr "Më i mirë se një fjalim me një mijë fjalë të kota është një fjalë e menduar me kujdes që i sjell paqe mendjes."
+
+msgid "101"
+msgstr "Më e mirë se një poemë me një mijë vargje të kota është një rresht i menduar me kujdes që i sjell paqe mendjes."
+
+msgid "102"
+msgstr "Më e mirë se njëqind poema me strofa të kota është një fjalë e d'harmës që i sjell paqe mendjes."
+
+msgid "103"
+msgstr "Ai që e mposht veten është më i madh se ai që i mposht një mijë herë një mijë burra në fushëbetejë."
+
+msgid "104"
+msgstr "Ji fitimtar ndaj vetes e jo ndaj të tjerëve."
+
+msgid "105"
+msgstr "Kur e arrin fitoren ndaj vetes, madje as zotat s'mund ta kthejnë në disfatë."
+
+msgid "106"
+msgstr "Më i mirë se kryerja e një mijë ritualeve muaj pas muaji për njëqind vjet është homazhi respektues i një çasti për atë që jeton në urti."
+
+msgid "107"
+msgstr "Më i mirë se sa kujdesi për zjarrin e flijimit në pyll për një mijë vjet është homazhi respektues i një çasti për atë që jeton në urti."
+
+msgid "108"
+msgstr "Të bësh dhurata dhe oferta flijuese për një vit të tërë për të fituar merita nuk vlen as sa një e katërta e nderit që i bëhet të urtit."
+
+msgid "109"
+msgstr "Atyre që i nderojnë të urtët dhe i ndjekin ata, katër dhurata do t'u vijnë gjithnjë e më shumë: shëndeti, lumturia, bukuria dhe jeta e gjatë."
+
+msgid "110"
+msgstr "Më mirë të jetosh në virtyt e urti një ditë se të jetosh njëqind vjet me mendje të keqe e të padisiplinuar."
+
+msgid "111"
+msgstr "Më mirë të jetosh në mirësi e urti një ditë se të çosh jetë injorante e të padisiplinuar njëqind vjet."
+
+msgid "112"
+msgstr "Më mirë të jetosh në forcë e urti një ditë se të çosh jetë të dobët e boshe njëqind vjet."
+
+msgid "113"
+msgstr "Më mirë të jetosh në liri e urti një ditë se të çosh jetë të kushtëzuar të robërisë njëqind vjet."
+
+msgid "114"
+msgstr "Pamja blic e gjendjes pa-vdekje një ditë është më e mirë se njëqind vjet të jetës pa të."
+
+msgid "115"
+msgstr "Pamja blic e d'harmës një ditë është më e mirë se njëqind vjet të jetës pa të."
+
+msgid "chap9"
+msgstr "E Keqja"
+
+msgid "116"
+msgstr "Nxito të bësh mirë; përmbahu nga e keqja. Nëse e neglizhon të mirën, e keqja mund të të hyjë në mendje."
+
+msgid "117"
+msgstr "Nëse bën diçka të keqe, mos e përsërit dhe mos u kënaq duke e bërë shprehi. Një shprehi e keqe nuk do të shkaktojë asgjë pos vuajtjes."
+
+msgid "118"
+msgstr "Nëse bën diçka të mirë, vazhdo ta përsëritësh dhe kënaqu duke e bërë shprehi. Një shprehi e mirë nuk do të shkaktojë asgjë pos gëzimit."
+
+msgid "119"
+msgstr "Keqbërësit mund të jenë të lumtur për aq kohë sa nuk e korrin atë që e kanë mbjellë, por kur e korrin, i kaplon pikëllimi."
+
+msgid "120"
+msgstr "Të mirët mund të vuajnë për aq kohë sa nuk e korrin atë që e kanë mbjellë, por kur e korrin, i kaplon gëzimi."
+
+msgid "121"
+msgstr "Askush mos të jetë mendjelehtë për të keqen e t'i thotë vetes: 'Pikëllimi nuk do t'më vijë.' Pak nga pak personi bëhet i keq, siç mbushet një tenxhere me pika të ujit."
+
+msgid "122"
+msgstr "Askush mos të jetë mendjelehtë për të mirën e t'i thotë vetes: 'Gëzimi nuk do t'më vijë.' Pak nga pak personi bëhet i mirë, siç mbushet një tenxhere me pika të ujit."
+
+msgid "123"
+msgstr "Siç i shmanget rrugëve të rrezikshme një tregtar i pasur që udhëton vetëm, siç i shmanget helmit ai që e do jetën, secili le t'i shmanget veprave të rrezikshme."
+
+msgid "124"
+msgstr "Nëse s'ke plagë në dorë, mund ta prekësh helmin pa u dëmtuar. Asnjë dëm nuk u vjen atyre që nuk bëjnë dëm."
+
+msgid "125"
+msgstr "Nëse e dëmton një person të pastër e të pafajshëm, e dëmton veten, si pluhuri i hedhur kundër erës që kthehet te hedhësi."
+
+msgid "126"
+msgstr "Disa linden sërish. Ata që kapen në rrugë të këqija shkojnë në një gjendje të vuajtjes intensive; ata që kanë bërë mirë shkojnë në një gjendje të gëzimit. Por të pastrit në zemër hyjnë në nirvana."
+
+msgid "127"
+msgstr "As në qiell, as në oqean, as në kanione malore nuk ka vend askund në botë ku një person mund të fshehet nga veprat e tij të këqija."
+
+msgid "128"
+msgstr "As në qiell, as në oqean, as në kanione malore nuk ka vend ku një person mund të fshehet nga vdekja."
+
+msgid "chap10"
+msgstr "Ndëshkimi"
+
+msgid "129"
+msgstr "Çdokush i frikësohet ndëshkimit; çdokush i frikësohet vdekjes, si ti. Prandaj mos vrit as mos shkakto vrasje."
+
+msgid "130"
+msgstr "Çdokush i frikësohet ndëshkimit; çdokush e do jetën, si ti. Prandaj mos vrit as mos shkakto vrasje."
+
+msgid "131"
+msgstr "Nëse, duke shpresuar të jesh i lumtur, i godet të tjerët që po ashtu e kërkojnë lumturinë, nuk do të jesh i lumtur as këtu as në të përtejmen."
+
+msgid "132"
+msgstr "Nëse, duke shpresuar të jesh i lumtur, nuk i godet të tjerët që po ashtu e kërkojnë lumturinë, do të jesh i lumtur këtu dhe në të përtejmen."
+
+msgid "133"
+msgstr "Fol qetësisht me secilin, dhe edhe ata do të jenë të butë në të folurit e tyre. Fjalët e ashpra lëndojnë, dhe kthehen te folësi."
+
+msgid "134"
+msgstr "Nëse mendja jote është e qetë në prehje, si gong i thyer, ke hyrë në nirvana, duke i lënë të gjitha grindjet prapa."
+
+msgid "135"
+msgstr "Siç i çon një bari me shkopin e tij lopët në fusha të freskëta, pleqëria dhe vdekja i çojnë të gjitha krijesat në jetë të reja."
+
+msgid "136"
+msgstr "Vetjakët, duke bërë dëm, nuk e dinë se çka i pret. Digjen sikur prej zjarrit nga rezultatet e veprave të tyre."
+
+msgid "137"
+msgstr "Nëse dikush e dëmton të pafajshmin, vuajtja do të vijë në këto dhjetë mënyra: mund të pësojnë pikëllim, shëndet të keq, aksident të dhembshëm, sëmundje serioze,"
+
+msgid "138"
+msgstr "ose humbje të mendjes, ndjekje ligjore, akuzë të frikshme, situatë të vdekjes së anëtarit të familjes apo humbje financiare;"
+
+msgid "139"
+msgstr "humbje të mendjes, ndjekje ligjore, akuzë të frikshme, situatë të vdekjes së anëtarit të familjes apo humbje financiare;"
+
+msgid "140"
+msgstr "apo shtëpia mund t'u digjet, dhe pas vdekjes mund të hidhen në zjarrin e vuajtjes."
+
+msgid "141"
+msgstr "Ecja me flokë të përngjitura e të pista, pa ushqim apo pa u pastruar, fjetja në tokë i bërë pis me pluhur apo qëndrimi ulur pa lëvizur – asnjë sasi e pendesës nuk mund ta ndihmojë një person mendja e të cilit nuk është pastruar."
+
+msgid "142"
+msgstr "Por ata mendja e të cilëve është e qetë dhe e dëlirë, shqisat e të cilëve janë të kontrolluara dhe jeta e të cilëve është e padhunshme – këta janë brahminë të vërtetë, murgj të vërtetë, edhe nëse veshin rroba të bukura."
+
+msgid "143"
+msgstr "Siç nuk ka nevojë për kamxhik kali i stërvitur mirë, mendja e stërvitur mirë nuk ka nevojë për asnjë nxitje nga bota për të qenë e mirë."
+
+msgid "144"
+msgstr "Ji si kalë i stërvitur mirë, i shpejtë e energjik, dhe shko përtej pikëllimit përmes besimit, meditimit dhe praktikës energjike të d'harmës."
+
+msgid "145"
+msgstr "Siç e drejtojnë ujin vaditësit në arat e tyre, siç i shenjojnë harkëtarët shigjetat, siç e gdhendin drurin zdrukthëtarët, ashtu të urtët e formësojnë jetën e tyre."
+
+msgid "chap11"
+msgstr "Mosha"
+
+msgid "146"
+msgstr "Pse ka të qeshura, pse hare, kur kjo botë është në zjarr? Meqë po jeton në terr, pse nuk kërkon dritë?"
+
+msgid "147"
+msgstr "Ky trup është imazh i pikturuar, që ndikohet nga sëmundja, shkatërrimi gradual dhe vdekja,"
+
+msgid "148"
+msgstr "të mbajtura bashkë nga mendimet që vijnë e shkojnë."
+
+msgid "149"
+msgstr "Çfarë gëzimi mund të ketë për ata që e shohin se kockat e tyre të bardha do të hidhen tutje si kungujt në vjeshtë?"
+
+msgid "150"
+msgstr "Rreth eshtrave është ndërtuar një shtëpi, e suvatuar me mish e gjak, në të cilën rrinë krenaria e shtirja, pleqëria e vdekja."
+
+msgid "151"
+msgstr "Madje edhe karroca bartëse e një mbreti e humb shkëlqimin e saj me kalimin e kohës; po ashtu edhe trupi e humb shëndetin dhe forcën e tij."
+
+msgid "152"
+msgstr "Por mirësia nuk plaket me kalimin e kohës."
+
+msgid "153"
+msgstr "Një njeri që nuk mëson nga jeta plaket si dem; trupi i tij rritet por jo urtia."
+
+msgid "154"
+msgstr "Kam kaluar nëpër shumë gjiro të lindjes e vdekjes, duke e kërkuar pa sukses ndërtuesin e këtij trupi. Vërtet e rëndë është lindja e vdekja përsëri e përsëri! Por tash të kam parë, ndërtues i shtëpisë; nuk do ta ndërtosh sërish këtë shtëpi. Trarët e saj janë thyer; kupola e saj është shpartalluar: vetë-vullneti është shuar; nirvana është arritur."
+
+msgid "155"
+msgstr "Ata që nuk i kanë praktikuar disiplinat shpirtërore në rininë e tyre pikëllohen thellë si lejlekët e vjetër në një liqen pa peshq."
+
+msgid "156"
+msgstr "Si harqe të vjetruara të shigjetave, rrinë shtrirë në pleqëri, duke psherëtirë për të shkuarën."
+
+msgid "chap12"
+msgstr "Vetja"
+
+msgid "157"
+msgstr "N'e konsiderofsh veten të dashur, ruaje veten me zell."
+
+msgid "158"
+msgstr "Rri zgjuar e vigjilent në njërën nga tri orët e natës kur të del gjumi."
+
+msgid "159"
+msgstr "Mëso çka është e drejtë; pastaj mësoji të tjerët, siç bëjnë të urtët. Para se të përpiqesh t'i udhëzosh të tjerët, bëhu udhëzuesi i vetes së pari. Është vështirë të mësosh ta udhëzosh veten."
+
+msgid "160"
+msgstr "Vetja jote është padroni yt; kush tjetër mund të jetë? Me veten të kontrolluar mirë, e fiton një padron që gjendet shumë vështirë."
+
+msgid "161"
+msgstr "E keqja që bëhet nga vetjakët i dërrmon ata siç e thyen një diamant një perlë të fortë."
+
+msgid "162"
+msgstr "Siç e mbizotëron hardhia pemën, e keqja e mbizotëron keqbërësin, duke e futur në kurth në një situatë në të cilën veç armiqtë e tij do të donin të ishte."
+
+msgid "163"
+msgstr "Veprat e këqija, që e dëmtojnë veten, janë të lehta për t'u bërë; veprat e mira nuk janë aq të lehta."
+
+msgid "164"
+msgstr "Budallenjtë që tallen me mësimet e të urtëve, fisnikëve dhe të mirëve, duke ndjekur doktrina të rreme, e shkaktojnë rënien e tyre si pema khattaka, e cila vdes pasi jep fryt."
+
+msgid "165"
+msgstr "Nga vetja bëhet e keqja; nga vetja njeriu lëndohet. Mos bëj keq, dhe vuajtja nuk do të vijë. Secili e ka zgjedhjen të jetë i pastër apo i papastër. Askush nuk mund ta pastrojë tjetrin."
+
+msgid "166"
+msgstr "Mos e lë pas dore detyrën tënde për një tjetër, sado e madhe. Dije detyrën tënde dhe kryeje."
+
+msgid "chap13"
+msgstr "Bota"
+
+msgid "167"
+msgstr "Mos ndiq ligje të gabuara; mos ji shpërfillës për nevojat e të tjerëve; mos u beso doktrinave të rreme. Mos e ndiq rrugën e botës."
+
+msgid "168"
+msgstr "Zgjohu! Mos ji dembel. Ndiqe rrugën e duhur, shmangiu të gabuarës."
+
+msgid "169"
+msgstr "Do të jesh i lumtur këtu si dhe në të përtejmen."
+
+msgid "170"
+msgstr "Shikoje botën si flluskë; shikoje si mirazh. Pastaj Mbreti i Vdekjes as s'mund të të shohë."
+
+msgid "171"
+msgstr "Eja shikoje këtë botë! A nuk është si karrocë mbretërore e pikturuar? Të urtët e shohin tejpërtej natyrën e saj të vërtetë, por jo të papjekurit."
+
+msgid "172"
+msgstr "Kur ata që janë budallenj bëhen të urtë, i japin dritë botës si hëna e plotë që i depërton retë."
+
+msgid "173"
+msgstr "Kur veprat e tyre të mira i mposhtin të këqijat, ata i japin dritë botës si hëna që çlirohet nga prapa reve."
+
+msgid "174"
+msgstr "Në këtë botë të errët, pak njerëz mund të shohin. Si zogjtë që çlirohen nga rrjeta, veç disa njerëz e gjejnë rrugën e tyre për në qiell."
+
+msgid "175"
+msgstr "Mjellmat fluturojnë në rrugën e diellit me fuqinë e tyre të mrekullueshme; të urtët ngriten mbi botën, pasi ta kenë mposhtur Mara-n dhe trenin e tij."
+
+msgid "176"
+msgstr "Ai që e shkel ligjin qendror të jetës, që flet rrejshëm apo tallet me jetën e ardhshme, është i aftë për çdo të keqe."
+
+msgid "177"
+msgstr "Koprracët nuk shkojnë në botën e zotave; nuk duan të japin. Të urtët janë bujarë dhe shkojnë në botë më të lumtur."
+
+msgid "178"
+msgstr "Më mirë se ta sundosh këtë botë, më mirë se ta arrish mbretërinë e zotave, më mirë se të jesh zotërues i të gjitha botëve, është një hap i hedhur në rrugën kah nirvana."
+
+msgid "chap14"
+msgstr "I Zgjuari"
+
+msgid "179"
+msgstr "Është mposhtësi ai që s'mund të mposhtet kurrë, në mposhtjen e të cilit asnjë tjetër s'mund të hyjë kurrë. Nëpër çfarë piste mund ta arrish atë, Budën, të zgjuarin, të lirin nga çdo ndikim i rrethanave?"
+
+msgid "180"
+msgstr "Si mund ta përshkruash atë në gjuhën njerëzore – Budën, të zgjuarin, të lirin nga rrjeta e merakeve dhe nga ndotja e pasioneve, të lirin nga çdo ndikim i rrethanave?"
+
+msgid "181"
+msgstr "Madje edhe zotat i imitojnë ata që janë të zgjuar. Të mirëvendosur në meditim, ata jetojnë në liri, në paqe."
+
+msgid "182"
+msgstr "Është vështirë të bëhet lindje njerëzore, më e vështirë të jetohet si qenie njerëzore, edhe më vështirë të kuptohet d'harma, por më e vështira nga të gjitha është të arrihet nirvana."
+
+msgid "183"
+msgstr "Shmange çdo të keqe, kultivoje të mirën, pastroje mendjen: kjo e përmbledh mësimin e Budave."
+
+msgid "184"
+msgstr "Kultivoje durimin e qëndrueshëm, dhe arrije nirvanën, qëllimin më të lartë të jetës. Mos i shtyp të tjerët as mos u shkakto dhembje; kjo nuk është rruga e aspirantit shpirtëror."
+
+msgid "185"
+msgstr "Mos kërko gabime te të tjerët dhe të ankohesh për ta, mos i lëndo të tjerët, por jeto në harmoni me d'harmën. Ji i moderuar në ngrënie dhe fjetje, dhe medito për më të lartën. Kjo e përmbledh mësimin e Budave."
+
+msgid "186"
+msgstr "As një shi i arit s'mund t'i shuajë pasionet. Janë të urtë ata që e dinë se pasionet janë kaluese dhe lënë dhembje kur të kenë shkuar."
+
+msgid "187"
+msgstr "As kënaqësitë qiellore s'mund t'i shuajnë pasionet. Janë ndjekës të vërtetë të Budës ata që gëzohen në mposhtjen e merakeve."
+
+msgid "188"
+msgstr "Të shtyrë nga frika, njerëzit vrapojnë për siguri në male e pyje, në vende të shenjta e faltore."
+
+msgid "189"
+msgstr "Por asnjë nga këto s'mund të jetë strehë e sigurt, sepse ata s'mund ta çlirojnë mendjen nga frika."
+
+msgid "190"
+msgstr "Gjej strehë në Budën, d'harmën, sanghën dhe do t'i kuptosh Katër Të Vërtetat Fisnike:"
+
+msgid "191"
+msgstr "vuajtja, shkaku i vuajtjes, fundi i vuajtjes, dhe Rruga E Tetëfishtë Fisnike që të çon përtej vuajtjes."
+
+msgid "192"
+msgstr "Kjo është streha jote më e mirë, streha jote e vetme. Kur e arrin atë, tërë pikëllimi zhduket."
+
+msgid "193"
+msgstr "Një si Buda është vështirë të gjendet; një i tillë nuk lind kudo. Aty ku linden ata që janë të mirëvendosur në urti, komuniteti lulëzon."
+
+msgid "194"
+msgstr "E bekuar është lindja e Budës, e bekuar është mësimdhënia e d'harmës; e bekuar është sangha, ku të gjithë jetojnë në harmoni."
+
+msgid "195"
+msgstr "Të bekuar pa masë janë ata që u bëjnë nderime atyre që janë të denjë për nderime: Budës dhe dishepujve të tij,"
+
+msgid "196"
+msgstr "që kanë shkuar përtej të keqes, e kanë hedhur çdo frikë, dhe e kaluan lumin e pikëllimit deri te bregu tjetër."
+
+msgid "chap15"
+msgstr "Gëzimi"
+
+msgid "197"
+msgstr "Të jetojmë në gëzim, duke mos i urryer kurrë ata që na urrejnë. Të jetojmë në liri, pa urrejtje madje as ndër ata që urrejnë."
+
+msgid "198"
+msgstr "Të jetojmë në gëzim, duke mos u sëmurë kurrë si ata që janë të sëmurë. Të jetojmë në liri, pa sëmundje madje as ndër ata që janë të sëmurë."
+
+msgid "199"
+msgstr "Të jetojmë në gëzim, kurrë të lidhur ndër ata që janë në lidhshmëri vetjake. Të jetojmë në liri madje edhe ndër ata që janë të kufizuar nga lidhshmëritë vetjake."
+
+msgid "200"
+msgstr "Të jetojmë në gëzim, duke mos grumbulluar gjëra ndër ata që grumbullojnë. Të jetojmë në gëzim që rritet si zotat e ndritur."
+
+msgid "201"
+msgstr "Mposhtja zhvillon urrejtje, se të mposhturit jetojnë në pikëllim të thellë. Të mos jemi as mposhtës as të mposhtur, dhe të jetojmë në paqe e gëzim."
+
+msgid "202"
+msgstr "Nuk ka zjarr si epshi, as sëmundje si urrejtja, as pikëllim të thellë si ndashmëria, as gëzim si paqja."
+
+msgid "203"
+msgstr "Asnjë sëmundje nuk është më e keqe se lakmia, asnjë vuajtje më e keqe se pasioni vetjak. Dije këtë, dhe kërkoje nirvanën si gëzimin më të lartë."
+
+msgid "204"
+msgstr "Shëndeti është dhurata më e mirë, të qenët të kënaqur është pasuria më e mirë, besimi – farefisi më i mirë, nirvana – gëzimi më i madh."
+
+msgid "205"
+msgstr "Pije nektarin e d'harmës në thellësitë e meditimit dhe bëhu i lirë nga frika dhe mëkati."
+
+msgid "206"
+msgstr "Është mirë t'i takosh të urtët, madje edhe më mirë të jetosh me ta. Por shmange shoqërinë e të papjekurve nëse do gëzim."
+
+msgid "207"
+msgstr "Të mbash shoqëri me të papjekurit është si të shkosh në një udhëtim të gjatë me një armik. Shoqëria e të urtëve është e gëzueshme, si ribashkimi i dikujt me familjen e tij."
+
+msgid "208"
+msgstr "Prandaj, jeto mes të urtëve, që janë mirëkuptues, të durueshëm, të përgjegjshëm dhe fisnikë. Mbaje shoqërinë e tyre siç lëviz hëna mes yjeve."
+
+msgid "chap16"
+msgstr "Kënaqësia"
+
+msgid "209"
+msgstr "Mos vrapo pas kënaqësisë e ta neglizhosh praktikën e meditimit. Nëse e harron qëllimin e jetës dhe zihesh në kënaqësitë e botës, do të përfundosh duke ua pasur zili atyre që e vënë meditimin të parin."
+
+msgid "210"
+msgstr "Të mos e shohësh të këndshmen sjell dhembje; ta shohësh të pakëndshmen sjell dhembje. Prandaj shko edhe përtej kënaqësisë edhe përtej dhembjes."
+
+msgid "211"
+msgstr "Mos u bë i lidhur në mënyrë vetjake me asgjë, se përpjekja për t'iu mbajtur asaj do të të sjellë dhembje. Kur nuk ke as pëlqime as mospëlqime, do të jesh i lirë."
+
+msgid "212"
+msgstr "Lidhshmëria vetjake sjell vuajtje; lidhshmëria vetjake sjell frikë. Ji i shkëputur, dhe do të jesh i lirë nga vuajtja dhe frika."
+
+msgid "213"
+msgstr "Lidhjet vetjake shkaktojnë pikëllim; lidhjet vetjake shkaktojnë frikë. Ji jovetjak, dhe do të jesh i lirë nga pikëllimi e frika."
+
+msgid "214"
+msgstr "Kënaqësitë vetjake çojnë në frustrim; kënaqësitë vetjake çojnë në frikë. Ji jovetjak, dhe do të jesh i lirë nga frustrimi e frika."
+
+msgid "215"
+msgstr "Meraket vetjake shkaktojnë ankth; meraket vetjake shkaktojnë frikë. Ji jovetjak, dhe do të jesh i lirë nga ankthi e frika."
+
+msgid "216"
+msgstr "Dëshira e fortë për diçka sjell dhembje; dëshira e fortë sjell frikë. Mos iu lësho pe dëshirave të forta, dhe do të jesh i lirë nga dhembja e frika."
+
+msgid "217"
+msgstr "Ata që kanë karakter dhe aftësi dalluese, që janë të ndershëm e të mirë dhe e ndjekin d'harmën me përkushtim, e fitojnë respektin e tërë botës."
+
+msgid "218"
+msgstr "Nëse digjesh ta dish atë që është vështirë të dihet dhe mund t'u rezistosh tundimeve të botës, do ta kalosh lumin e jetës."
+
+msgid "219"
+msgstr "Siç të presin me gëzim familja dhe miqtë e tu kur kthehesh nga një udhëtim i gjatë,"
+
+msgid "220"
+msgstr "ashtu do të të presin veprat e tua të mira kur shkon nga kjo jetë në tjetrën, ku do të të presin me gëzim si të afërmit e tu."
+
+msgid "chap17"
+msgstr "Zemërimi"
+
+msgid "221"
+msgstr "Hiq dorë nga zemërimi, hiq dorë nga krenaria dhe çlirohu nga skllavëria e kësaj bote. Asnjë pikëllim nuk mund t'u bjerë atyre që kurrë nuk përpiqen t'i zotërojnë njerëzit dhe gjërat si të tyret."
+
+msgid "222"
+msgstr "Ata që e frenojnë zemërimin rritës si karrocën me rrota janë karrocierë të vërtetë. Të tjerët veç i mbajnë frenat."
+
+msgid "223"
+msgstr "Mposhte zemërimin përmes butësisë, pamirësinë përmes mirësisë, lakminë përmes bujarisë dhe falsitetin përmes të vërtetës."
+
+msgid "224"
+msgstr "Ji i sinqertë; mos iu jep zemërimit. Jep lirisht, edhe nëse ke veç pak. Zotat do të të bekojnë."
+
+msgid "225"
+msgstr "Duke mos e lënduar askë, të vetëkontrolluar, të urtët hyjnë në gjendjen e paqes përtej tërë pikëllimit."
+
+msgid "226"
+msgstr "Ata që janë vigjilentë, që i stërvitin mendjet ditë e natë dhe përpiqen vazhdimisht për nirvanën, hyjnë në gjendjen e paqes përtej tërë pasioneve vetjake."
+
+msgid "227"
+msgstr "Është një thënie e vjetër: 'Njerëzit do të të fajësojnë nëse thua tepër shumë; do të të fajësojnë nëse thua tepër pak; do të të fajësojnë nëse thua tamam sa mjafton.' Askush në këtë botë nuk i shpëton fajësimit."
+
+msgid "228"
+msgstr "Kurrë nuk ka pasur as s'do të ketë njeri që e merr tërë lavdërimin apo tërë fajësimin."
+
+msgid "229"
+msgstr "Por kush mund t'i fajësojë ata që janë të pastër, të urtë, të mirë dhe meditues? Ata shkëlqejnë si monedhë e arit të pastër."
+
+msgid "230"
+msgstr "Madje edhe zotat i lavdërojnë ata, madje edhe Brahma Krijuesi."
+
+msgid "231"
+msgstr "Përdore trupin për të bërë mirë, jo dëm. Stërvite që ta ndjekë d'harmën."
+
+msgid "232"
+msgstr "Përdore gjuhën për të bërë mirë, jo dëm. Stërvite që të flasë me dashamirësi."
+
+msgid "233"
+msgstr "Përdore mendjen për të bërë mirë, jo dëm. Stërvite mendjen në dashuri."
+
+msgid "234"
+msgstr "Të urtët janë të disiplinuar në trup, të folur dhe mendje. Ata vërtet e kontrollojnë mirë veten."
+
+msgid "chap18"
+msgstr "Papastërtia"
+
+msgid "235"
+msgstr "Ti je si gjethe e tharë, që e pret lajmëtarin e vdekjes. Së shpejti do të shkosh në udhëtim të gjatë, por je kaq i papërgatitur."
+
+msgid "236"
+msgstr "Ndize llampën përbrenda; përpiqu fort për ta arritur urtinë. Bëhu i pastër dhe i pafajshëm dhe jeto në botën e dritës."
+
+msgid "237"
+msgstr "Jeta jote ka marrë fund dhe je në prezencë të vdekjes. Nuk ka vend për të pushuar në këtë udhëtim, dhe ti je kaq i papërgatitur."
+
+msgid "238"
+msgstr "Ndize llampën përbrenda; përpiqu fort për ta arritur urtinë. Bëhu i pastër dhe i pafajshëm dhe do të jesh i lirë nga lindja dhe vdekja."
+
+msgid "239"
+msgstr "Bëje mendjen të pastër siç i fryn argjendari papastërtitë nga argjendi, pak nga pak, çast pas çasti."
+
+msgid "240"
+msgstr "Siç e konsumon ndryshku hekurin që e rrit atë, veprat e këqija i konsumojnë ata që i bëjnë ato."
+
+msgid "241"
+msgstr "Mantra është e dobët kur nuk përsëritet; një shtëpi bie në rrënim kur nuk riparohet; trupi e humb shëndetin kur nuk ushtrohet; roja dështon kur humbet vigjilenca."
+
+msgid "242"
+msgstr "Mungesa e modestisë është pengesë te gratë; mungesa e bujarisë i njollos ata që japin."
+
+msgid "243"
+msgstr "Veprat vetjake janë pa meritë këtu dhe në të përtejmen. Por nuk ka papastërti më të madhe se injoranca. Hiqe atë përmes urtisë dhe do të jesh i pastër."
+
+msgid "244"
+msgstr "Jeta duket e lehtë për atë që s'ka turp, jo më i mirë se një sorrë, një ngatërrestar që është i pafytyrë dhe i shthurur."
+
+msgid "245"
+msgstr "Jeta është e vështirë për atë që është i përulur, i butë dhe i shkëputur, që përpiqet të jetojë në pastërti."
+
+msgid "246"
+msgstr "I gërmojnë varret e veta ata që vrasin, gënjejnë, dehen apo e lakmojnë pasurinë ose bashkëshortin e tjetrit."
+
+msgid "247"
+msgstr "Ata që pinë deri në dehje po i gërmojnë rrënjët e tyre."
+
+msgid "248"
+msgstr "Çdo jodisiplinë e sjell të keqen si pasojë. Dije këtë, dhe mos e lejo lakminë dhe vesin të të sjellë dhembje të vazhdueshme."
+
+msgid "249"
+msgstr "Disa japin për shkak të besimit, të tjerët për shkak të miqësisë. Mos i ki zili të tjerët për dhuratat që i marrin, ose nuk do të kesh paqe të mendjes ditën apo natën."
+
+msgid "250"
+msgstr "Ata që i kanë shkatërruar rrënjët e xhelozisë kanë paqe të mendjes gjithmonë."
+
+msgid "251"
+msgstr "Nuk ka zjarr si epshi, as roje të burgut si urrejtja, as kurth si pasioni i marrë, as përrua të shpejtë si lakmia."
+
+msgid "252"
+msgstr "Është lehtë t'i shohësh të metat e të tjerëve; ato i pastrojmë si bykun nga kokrrat në erë. Është vështirë t'i shohim tonat; ato i fshehim siç e fsheh një kumarxhi një short humbës."
+
+msgid "253"
+msgstr "Por kur njeriu vazhdon të zgjatet në të metat e të tjerëve, dëshirat e tij të forta përkeqësohen, duke e bërë më të vështirë tejkalimin e tyre."
+
+msgid "254"
+msgstr "Nuk ka shteg në qiell; nuk ka strehë në botë për ata që drejtohen nga meraket e tyre. Por ndjekësit e Budës jetojnë në liri."
+
+msgid "255"
+msgstr "Nuk ka shteg në qiell; nuk ka strehë në botë për ata që drejtohen nga meraket e tyre. Gjithçka është ndryshim në botë, por ndjekësit e Budës nuk tunden kurrë."
+
+msgid "chap19"
+msgstr "Të Stabilizuarit në D'harma"
+
+msgid "256"
+msgstr "Nuk po e ndjekin d'harmën ata që e shohin dhunën si mjetin e vetëm të mundshëm për ta arritur qëllimin e tyre."
+
+msgid "257"
+msgstr "Por ata që i udhëheqin të tjerët përmes mjeteve të padhunshme, duke e njohur të drejtën dhe të gabuarën, mund të quhen kujdestarë të d'harmës."
+
+msgid "258"
+msgstr "Njeriu nuk është i urtë për shkak se flet mirë. Janë të urtë ata që janë të durueshëm, dhe të lirë nga urrejtja e frika."
+
+msgid "259"
+msgstr "D'harma nuk përkrahet duke folur për të. D'harma përkrahet duke jetuar në harmoni me të, edhe nëse njeriu nuk është i shkolluar."
+
+msgid "260"
+msgstr "Flokët e thinjura nuk e bëjnë njeriun urtar; njeriu mund të plaket dhe të jetë ende i papjekur."
+
+msgid "261"
+msgstr "Urtari i vërtetë është i sinqertë, i virtytshëm, i butë, i vetë-kontrolluar dhe i pastër në mendje."
+
+msgid "262"
+msgstr "As fjalët e këndshme as fytyra e bukur nuk mund ta bëjnë të bukur një person që është xheloz, vetjak apo mashtrues."
+
+msgid "263"
+msgstr "Veç ata që i kanë shkulur papastërtitë e tilla nga mendja janë të përshtatshëm të quhen të bukur."
+
+msgid "264"
+msgstr "Rruajtja e kokës nuk mund ta bëjë murg dikë që është i padisiplinuar, i pasinqertë dhe i shtyrë nga meraket vetjake."
+
+msgid "265"
+msgstr "Murg i vërtetë është ai që i ka shuar të gjitha meraket vetjake, të mëdhatë e të voglat."
+
+msgid "266"
+msgstr "Lutja për lëmoshë nuk të bën bhikshu; njeriu duhet ta ndjekë d'harmën plotësisht."
+
+msgid "267"
+msgstr "Bhikshu i vërtetë është ai që është i dëlirë dhe përtej të mirës e të keqes, që kalon nëpër botë me shkëputje."
+
+msgid "268"
+msgstr "Mbajtja e heshtjes nuk mund ta bëjë urtak dikë që është injorant dhe i papjekur."
+
+msgid "269"
+msgstr "Është urtak ai që, duke e mbajtur peshoren në baraspeshë, e zgjedh të mirën dhe e shmang të keqen."
+
+msgid "270"
+msgstr "Nuk është fisnik ai që i lëndon gjallesat. Janë fisnikë ata që nuk e lëndojnë askë."
+
+msgid "271"
+msgstr "As me rituale e vendosmëri, as me shumë nxënie, as me abstenim të seksit, madje as me meditim s'mund ta gjesh gëzimin suprem e të pavdekshëm të nirvanës"
+
+msgid "272"
+msgstr "deri kur ta kesh shuar vullnetin tënd të vetes."
+
+msgid "chap20"
+msgstr "Rruga"
+
+msgid "273"
+msgstr "Nga rrugët – E Tetëfishta është më e mira; nga të vërtetat – Katër Fisniket janë më të mirat; nga gjendjet mendore – shkëputja është më e mira; nga qeniet njerëzore – e përndritura është më e mira."
+
+msgid "274"
+msgstr "Kjo është rruga; nuk ka asnjë tjetër që çon në pastrimin e mendjes. Ndiqe këtë rrugë dhe mposhte Mara-n."
+
+msgid "275"
+msgstr "Kjo është rruga; nuk ka asnjë tjetër që çon në pastrimin e mendjes. Kjo rrugë do të çojë te fundi i vuajtjes. Kjo është rruga që e kam bërë të njohur pasi ranë poshtë shigjetat e pikëllimit."
+
+msgid "276"
+msgstr "Tërë përpjekja duhet të bëhet nga ti; Budat veç e tregojnë rrugën. Ndiqe këtë rrugë dhe praktikoje meditimin; shko përtej pushtetit të Mara-s."
+
+msgid "277"
+msgstr "Të gjitha gjërat e krijuara janë kalimtare; ata që e kuptojnë intuitivisht këtë janë të çliruar nga vuajtja. Kjo është rruga që çon në urti të pastër."
+
+msgid "278"
+msgstr "Të gjitha qeniet e krijuara janë të përfshira në pikëllim; ata që e kuptojnë intuitivisht këtë janë të çliruar nga vuajtja. Kjo është rruga që çon në urti të pastër."
+
+msgid "279"
+msgstr "Të gjitha gjendjet janë pa vete; ata që e kuptojnë intuitivisht këtë janë të çliruar nga vuajtja. Kjo është rruga që çon në urti të pastër."
+
+msgid "280"
+msgstr "Tash është koha për t'u zgjuar, kur je i ri e i fortë. Ata që presin dhe lëkunden, me vullnet të dobët e mendje të ndarë, nuk do ta gjejnë kurrë rrugën kah urtia e pastër."
+
+msgid "281"
+msgstr "Ruaji me kujdes mendimet, fjalët dhe veprat e tua. Këto tri disiplina do të ta përshpejtojnë rrugën e urtisë së pastër."
+
+msgid "282"
+msgstr "Meditimi sjell urti; mungesa e meditimit lë injorancë. Dije mirë se çka të çon përpara dhe çka të mban prapa, dhe zgjedhe rrugën që çon tek urtia."
+
+msgid "283"
+msgstr "Preje tërë pyllin e merakeve vetjake, jo veç një pemë. Preje tërë pyllin dhe do të jesh në rrugën tënde drejt çlirimit."
+
+msgid "284"
+msgstr "Nëse ka ndonjë gjurmë të epshit në mendjen tënde, je i lidhur me jetën si viçi thithës me nënën e tij."
+
+msgid "285"
+msgstr "Shkule çdo merak vetjak siç do ta shkulje një lotus të vjeshtës me dorën tënde. Ndiqe rrugën drejt nirvanës me një udhërrëfyes që e di rrugën."
+
+msgid "286"
+msgstr "'Do ta bëj këtë shtëpi timen për dimër, do ta kem një shtëpi tjetër për periudhën e shirave (monsunin) dhe do të banoj në një shtëpi të tretë gjatë verës.' I humbur në fantazi të tilla, njeriu e harron destinacionin e tij final."
+
+msgid "287"
+msgstr "Vdekja vjen dhe e fshin nga faqja e dheut një njeri të hutuar me familjen dhe pronat e tij siç e shkatërron monsuni një fshat të fjetur."
+
+msgid "288"
+msgstr "As fëmijët as prindërit nuk mund ta shpëtojnë atë që e ka mbërthyer vdekja."
+
+msgid "289"
+msgstr "Mbaje mend këtë, dhe ndiqe pa vonesë rrugën që çon te nirvana."
+
+msgid "chap21"
+msgstr "Vargje të Ndryshme"
+
+msgid "290"
+msgstr "Nëse ai që e gëzon një lumturi më të vogël e vëren një më të madhe, le ta lërë mënjanë më të voglën për ta fituar më të madhen."
+
+msgid "291"
+msgstr "Mos provo ta ndërtosh lumturinë tënde mbi palumturinë e të tjerëve. Do të ngatërrohesh në rrjetë të urrejtjes."
+
+msgid "292"
+msgstr "Mos dështo ta bësh atë që duhet të bëhet, dhe mos e bëj atë që duhet të mos bëhet. Përndryshe, barra jote e vuajtjes do të rëndohet."
+
+msgid "293"
+msgstr "Ata që meditojnë dhe i mbajnë nën kontroll shqisat e tyre nuk dështojnë kurrë ta bëjnë atë që duhet të bëhet, dhe kurrë nuk e bëjnë atë që duhet të mos bëhet. Vuajtja e tyre do të marrë fund."
+
+msgid "294"
+msgstr "Vrite nënën epsh dhe babanë vullnet-i-vetes, vriti mbretërit e pasioneve të trupit dhe do të çlirohesh nga mëkati."
+
+msgid "295"
+msgstr "Brahmini i vërtetë e ka vrarë nënën epsh dhe babanë vullnet-i-vetes; ai i ka vrarë mbretërit e pasioneve të trupit, dhe egon që e pengon në rrugë. I tilli çlirohet nga mëkati."
+
+msgid "296"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, me mendimet e tyre të përqendruara te Buda ditë e natë."
+
+msgid "297"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, të zhytur në d'harma ditë e natë."
+
+msgid "298"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, me mendimet e tyre të përqendruara në sangha ditë e natë."
+
+msgid "299"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, me mendimet e tyre të përqendruara në stërvitje të shqisave ditë e natë."
+
+msgid "300"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, duke u kënaqur në dhembshuri dashamirëse ditë e natë."
+
+msgid "301"
+msgstr "Dishepujt e Gautamës janë të zgjuar plotësisht dhe vigjilentë, duke u kënaqur në meditim ditë e natë."
+
+msgid "302"
+msgstr "Është vështirë ta lësh botën dhe vështirë të jetosh në të, e dhembshme të jetosh me tokësoren dhe e dhembshme të jesh endacak. Arrije qëllimin; nuk do të endesh e të vuash më."
+
+msgid "303"
+msgstr "Ata që janë të mirë dhe të pastër në sjellje, nderohen kudo që shkojnë."
+
+msgid "304"
+msgstr "Të mirët shkëlqejnë si Himalajet, majat e të cilave shkëlqejnë mbi pjesën tjetër të botës edhe kur shihen nga larg. Të tjerët kalojnë pa u parë, si shigjetë e gjuajtur natën."
+
+msgid "305"
+msgstr "Duke ndenjur vetëm, duke fjetur vetëm, duke ecur vetëm, mposhte egon i vetëm. Gëzimi i qëndrueshëm do të jetë i yti kur mbarojnë të gjitha meraket vetjake."
+
+msgid "chap22"
+msgstr "Drejtimi Teposhtë"
+
+msgid "306"
+msgstr "Ai që e thotë atë që nuk është e vërtetë, ai që e mohon atë që e ka bërë, të dytë e zgjedhin drejtimin teposhtë. Pas vdekjes këta dy bëhen partnerë në falsitet."
+
+msgid "307"
+msgstr "Ata që e veshin rrobën e shafranit, por mbeten të pasjellshëm dhe të padisiplinuar tërhiqen zvarrë nga veprat e tyre të liga."
+
+msgid "308"
+msgstr "Është më mirë për një murg të padisiplinuar ta gëlltisë një top të hekurt të skuqur nga nxehtësia se sa të jetojë nga bamirësia e të devotshmëve."
+
+msgid "309"
+msgstr "Shkelja e kurorës çon në humbje të meritave, humbje të gjumit, dënim publik dhe vuajtje që rritet."
+
+msgid "310"
+msgstr "Në këtë drejtim teposhtë, çfarë kënaqësie mund të ketë për të frikësuarin e lëshuar në krahët e të frikësuarit, të dytë duke u frikësuar nga ndëshkimi? Prandaj mos e shkel kurorën."
+
+msgid "311"
+msgstr "Siç mund ta prejë gishtin një fije e barit kusha kur mbahet gabim, asketizmi i praktikuar pa aftësinë për masë mund ta çojë njeriun në drejtimin teposhtë."
+
+msgid "312"
+msgstr "Një vepër e kryer pa kujdes, një zotim i pambajtur, një kod i dëlirësisë që nuk respektohet rreptësisht; këto gjëra sjellin pak shpërblim."
+
+msgid "313"
+msgstr "Nëse diçka ia vlen të bëhet, bëje me gjithë zemër. Asketi me gjysmë-zemre (pa entuziazëm) e mbulon veten me pluhur gjithnjë e më shumë."
+
+msgid "314"
+msgstr "Përmbahu nga veprat e liga, që shkaktojnë vuajtje më vonë."
+
+msgid "315"
+msgstr "Bëj vepra të mira, që nuk mund të shkaktojnë vuajtje. Ruaje veten mirë, edhe përbrenda edhe përjashtë, si fortesë e mbrojtur mirë. Mos e humb asnjë çast, se çastet e humbura të çojnë në drejtimin teposhtë."
+
+msgid "316"
+msgstr "Ata që turpërohen nga veprat nga të cilat nuk duhet të turpërohen, dhe nuk turpërohen nga veprat nga të cilat duhet të turpërohen, ndjekin doktrina të rreme në drejtimin teposhtë."
+
+msgid "317"
+msgstr "Ata që i frikësohen asaj që nuk duhet t'i frikësohen, dhe nuk i frikësohen asaj që duhet t'i frikësohen, ndjekin doktrina të rreme në drejtimin teposhtë."
+
+msgid "318"
+msgstr "Ata që shohin sjellje të gabuar aty ku nuk ka, dhe nuk shohin sjellje të gabuar aty ku ka, ndjekin doktrina të rreme në drejtimin teposhtë."
+
+msgid "319"
+msgstr "Por ata që shohin sjellje të gabuar aty ku ka, dhe nuk shohin sjellje të gabuar aty ku nuk ka, ndjekin doktrina të vërteta në drejtimin përpjetë."
+
+msgid "chap23"
+msgstr "Elefanti"
+
+msgid "320"
+msgstr "Me durim do t'i pranoj fjalët e ashpra siç i pranon elefanti shigjetat në fushën e betejës. Njerëzit janë shpesh pa konsideratë për të tjerët."
+
+msgid "321"
+msgstr "Veç një elefant i stërvitur shkon në fushën e betejës; veç një elefant i stërvitur e bart mbretin. Më të mirët mes njerëzve janë ata që e kanë stërvitur mendjen t'u qëndrojë fjalëve të rënda me durim."
+
+msgid "322"
+msgstr "Mushkat janë kafshë të mira kur stërviten; edhe më të mirë janë kuajt Sind dhe elefantët e mëdhenj. Më i miri mes njerëzve është ai me mendje të stërvitur mirë."
+
+msgid "323"
+msgstr "Asnjë kafshë nuk mund ta çojë njeriun në nirvana; veç një mendje e stërvitur mirë mund ta çojë në këtë tokë të pashkelur."
+
+msgid "324"
+msgstr "Elefanti D'hanapalaka në vapë kur është i lidhur nuk do të hajë fare; ai përmallohet për partneren e tij në pemishten e elefantëve."
+
+msgid "325"
+msgstr "Duke ngrënë tepër, duke fjetur tepër, si derr i tejngopur, ata që janë tepër përtacë për të bërë përpjekje linden përsëri e përsëri."
+
+msgid "326"
+msgstr "Kohë më parë mendja ime endej si të donte dhe bënte çka të donte. Tash mund ta sundoj mendjen time siç e kontrollon mahuti elefantin me shkopin e tij me grremç."
+
+msgid "327"
+msgstr "Ji vigjilent; ruaje mendjen nga mendimet negative. Nxirre veten nga rrugët e këqija siç e ngre elefanti veten nga balta."
+
+msgid "328"
+msgstr "Nëse e gjen një mik që është i mirë, i urtë e i dashur, bëje tërë rrugën me të dhe tejkaloni të gjitha rreziqet."
+
+msgid "329"
+msgstr "Nëse s'mund ta gjesh një mik që është i mirë, i urtë e i dashur, ec vetëm, si një mbret që ka hequr dorë nga mbretëria e tij apo një elefant që bredh sipas dëshirës në pyll."
+
+msgid "330"
+msgstr "Është më mirë të jesh vetëm sesa të jetosh me të papjekurin. Ji i kënaqur, dhe ec vetëm si një elefant që bredh në pyll. Largohu nga e keqja."
+
+msgid "331"
+msgstr "Është mirë të kesh miq kur miqësia është e ndërsjellë. Veprat e mira janë miqtë në kohën e vdekjes. Por më e mira nga të gjitha është të shkosh përtej pikëllimit."
+
+msgid "332"
+msgstr "Është mirë të jesh nënë, mirë të jesh baba, mirë të jesh ai që e ndjek d'harmën. Por më e mira nga të gjitha është të jesh urtak i përndritur."
+
+msgid "333"
+msgstr "Është mirë të jetosh në virtyt, mirë të kesh besim, mirë ta arrish urtinë më të lartë, mirë të jesh i pastër në zemër e mendje. Gëzimi do të jetë i yti gjithmonë."
+
+msgid "chap24"
+msgstr "Etja"
+
+msgid "334"
+msgstr "Nxitjet e pakontrollueshme të atyre që s'hanë konsideratë për të tjerët rriten si bimë kacavjerrëse. Ata kërcejnë si majmuni nga një jetë në tjetrën, duke kërkuar fruta në pyll."
+
+msgid "335"
+msgstr "Kur na shtyjnë këto nxitje, pikëllimi përhapet si bar i egër."
+
+msgid "336"
+msgstr "Mposhti këto dëshirime të egra dhe pikëllimi do të largohet nga jeta jote si pikat e ujit nga një gjethe e lotusit."
+
+msgid "337"
+msgstr "Prandaj them, gërmoje rrënjën dhe gjithçka të dëshirimit, siç do ta shkulje barin birana, nëse nuk do që Mara të të dërrmojë siç i shtyp përroi i shpejtë kallamat në brigjet e tij."
+
+msgid "338"
+msgstr "Si një pemë që – megjithëse e prerë – e merr veten dhe rritet nëse nuk i janë shkatërruar rrënjët, vuajtja do të të vijë gjithnjë e më shumë nëse këto dëshirime të pakontrollueshme nuk shuhen."
+
+msgid "339"
+msgstr "Kudo që rrjedhin tridhjetë e gjashtë përrenjtë nga mendja drejt kënaqësisë, rrjedhat do ta përfshijnë atë person fatkeq."
+
+msgid "340"
+msgstr "Rrjedhat shkojnë kudo. Bimët kacavjerrëse të pasionit rriten kudo. Kurdo që e sheh një që rritet në mendjen tënde, shkule me urti."
+
+msgid "341"
+msgstr "Të gjitha qeniet njerëzore e përjetojnë lidhjen dhe etjen për kënaqësi. Duke i dëshiruar fort këto, ato kapen në ciklin e lindjes e vdekjes."
+
+msgid "342"
+msgstr "Të shtyrë nga kjo etje, vrapojnë përreth të trembur si lepur i ndjekur në gjueti, duke vuajtur gjithnjë e më shumë."
+
+msgid "343"
+msgstr "Të shtyrë nga kjo etje, vrapojnë përreth të trembur si lepur i ndjekur në gjueti. Kapërceje këtë etje dhe ji i lirë."
+
+msgid "344"
+msgstr "Disa, nëse arrijnë të dalin nga një pyll i dëshirimeve, shtyhen në një tjetër. Megjithëse të lirë, përplasen me robërinë përsëri."
+
+msgid "345"
+msgstr "Prangat nga druri, litari apo edhe hekuri, thonë të urtët, nuk janë kaq të forta sa lidhja vetjake me pasurinë dhe familjen."
+
+msgid "346"
+msgstr "Prangat e tilla na tërheqin teposhtë dhe këputen vështirë. Këputi duke i tejkaluar meraket vetjake, dhe largohu nga bota e kënaqësisë shqisore pa shikuar prapa."
+
+msgid "347"
+msgstr "Si merimangë e kapur në rrjetën e saj është një person i shtyrë nga dëshirimet e egra. Çlirohu nga rrjeta, dhe largohu nga bota e kënaqësisë shqisore dhe e pikëllimit."
+
+msgid "348"
+msgstr "Nëse dëshiron ta arrish bregun tjetër të ekzistencës, hiq dorë nga ajo që është përpara, prapa dhe ndërmjet. Lëre mendjen të lirë, dhe shko përtej lindjes e vdekjes."
+
+msgid "349"
+msgstr "Nëse dëshiron ta arrish bregun tjetër, mos i lejo dyshimet, pasionet dhe dëshirimet të t'i forcojnë prangat."
+
+msgid "350"
+msgstr "Medito thellë, vëreje dallimin ndërmjet asaj që të jep kënaqësi dhe asaj që është e përhershme, dhe këputi prangat e Marës."
+
+msgid "351"
+msgstr "Ata që janë të lirë nga frika, etja dhe mëkati i kanë hequr të gjithë gjembat nga jeta e tyre. Ky trup është i fundit për ta."
+
+msgid "352"
+msgstr "Janë të urtë në shkallën supreme ata që janë të lirë nga nxitjet dhe lidhjet e pakontrollueshme, dhe që e kuptojnë se çka përfaqësojnë fjalët realisht. Ky trup është i fundit për ta."
+
+msgid "353"
+msgstr "E kam mposhtur veten dhe jetoj në pastërti. I di të gjitha. Kam lënë gjithçka pas dhe jetoj në liri. Meqë e kam mësuar veten, kujt t'ia drejtoj gishtin si mësuesin tim?"
+
+msgid "354"
+msgstr "Nuk ka dhuratë më të mirë se dhurata e d'harmës, as dhuratë më të ëmbël as dhuratë më të gëzueshme. Ajo i jep fund dëshirimeve dhe pikëllimit që e sjellin ato."
+
+msgid "355"
+msgstr "Pasuria i dëmton të pangopshmit, por jo ata që e kërkojnë nirvanën. Meqë kuptojnë pak, të pangopshmit e dëmtojnë veten dhe ata rreth tyre."
+
+msgid "356"
+msgstr "Pangopësia e shkatërron mendjen si egjrat që i shkatërrojnë arat. Prandaj nderoji ata që janë të lirë nga pangopësia."
+
+msgid "357"
+msgstr "Epshi e shkatërron mendjen si egjrat që i shkatërrojnë arat. Prandaj nderoji ata që janë të lirë nga epshi."
+
+msgid "358"
+msgstr "Urrejtja e shkatërron mendjen si egjrat që i shkatërrojnë arat. Prandaj nderoji ata që janë të lirë nga urrejtja."
+
+msgid "359"
+msgstr "Meraket vetjake e shkatërrojnë mendjen si egjrat që i shkatërrojnë arat. Prandaj nderoji ata që janë të lirë nga meraku vetjak."
+
+msgid "chap25"
+msgstr "Bhikshu"
+
+msgid "360"
+msgstr "Stërviti sytë dhe veshët; stërvite hundën dhe gjuhën. Shqisat janë miq të mirë kur stërviten."
+
+msgid "361"
+msgstr "Stërvite trupin me vepra, stërvite gjuhën me fjalë, stërvite mendjen me mendime. Kjo stërvitje do të të çojë përtej pikëllimit."
+
+msgid "362"
+msgstr "Është bhikshu i vërtetë ai që i ka stërvitur duart, këmbët dhe të folurit për t'u shërbyer të tjerëve. Ai mediton thellë, është në paqe me veten dhe jeton në gëzim."
+
+msgid "363"
+msgstr "Është bhikshu i vërtetë ai që vazhdon ta përsërisë mantrën e tij, jeton thjesht dhe e shpjegon d'harmën me fjalë të ëmbla."
+
+msgid "364"
+msgstr "Është bhikshu i vërtetë ai që e ndjek d'harmën, mediton për d'harmën, gëzohet në d'harma dhe prandaj kurrë nuk shkëputet nga d'harma."
+
+msgid "365"
+msgstr "Është bhikshu ai që është i kënaqur me atë që e merr dhe nuk është kurrë xheloz për të tjerët. Ata që janë xhelozë nuk mund të kenë sukses në meditim."
+
+msgid "366"
+msgstr "Madje edhe zotat e lavdërojnë bhikshu-n që është i kënaqur dhe jeton jetë të pastër të shërbimit pa-veten."
+
+msgid "367"
+msgstr "I lirë nga meraku për të zotëruar njerëz dhe gjëra, ai nuk pikëllohet për ato që nuk janë."
+
+msgid "368"
+msgstr "Me miqësi drejt të gjithëve dhe me besim në mësimet e Budës, ai do ta arrijë gjendjen e shenjtë ku gjithçka është paqe."
+
+msgid "369"
+msgstr "Bhikshu, zbraze barkën tënde! Do të shkojë më shpejt. Largoje pangopësinë dhe urrejtjen dhe arrije nirvanën."
+
+msgid "370"
+msgstr "Kapërceji pesë pengesat, ngritu mbi pesë lidhshmëritë vetjake, dhe do ta kalosh lumin e jetës."
+
+msgid "371"
+msgstr "Medito, bhikshu, medito! Mos vrapo pas kënaqësive shqisore. Mos e gëlltit një top të hekurt të skuqur nga nxehtësia e pastaj të klithësh: 'Kam dhimbje të madhe!'"
+
+msgid "372"
+msgstr "Nuk mund të ketë meditim për ata që nuk janë të urtë, dhe as urti për ata që nuk meditojnë. Duke u urtuar përmes meditimit, është e sigurt se do të jesh afër nirvanës."
+
+msgid "373"
+msgstr "Kur një bhikshu e preh mendjen, ai hyn në një shtëpi të zbrazët; zemra e tij është plot me gëzim hyjnor të d'harmës."
+
+msgid "374"
+msgstr "Duke e kuptuar ngritjen dhe rënien e elementeve që e përbëjnë trupin, ai e fiton gëzimin e pavdekësisë."
+
+msgid "375"
+msgstr "Mëso të jesh i urtë, O bhikshu! Stërviti shqisat; ji i kënaqur. Ndiqi mësimet e d'harmës dhe mbaj miq të pastër e fisnikë."
+
+msgid "376"
+msgstr "Ji miq i të gjithëve. Kryeji mirë detyrat e tua. Pastaj, me gëzimin tënd që rritet vazhdimisht, do t'i japësh fund pikëllimit."
+
+msgid "377"
+msgstr "Siç i lë të bien lulet e venitura bima varsika, O bhikshu, lëre të bie tërë pangopësia dhe urrejtja."
+
+msgid "378"
+msgstr "Është bhikshu ai që është i qetë në mendim, fjalë e vepër, dhe ua ka kthyer shpinën joshjeve të botës."
+
+msgid "379"
+msgstr "Ngrite veten me përpjekjet e tua, O bhikshu; ji kritiku yt. Kështu i mbështetur në veten dhe vigjilent, do të jetosh në gëzim."
+
+msgid "380"
+msgstr "Ji zotëruesi dhe mbrojtësi yt. Stërvite mendjen siç e stërvit tregtari kalin e tij."
+
+msgid "381"
+msgstr "Plot paqe e gëzim është bhikshu që e ndjek d'harmën dhe e arrin bregun tjetër përtej fluksit të jetës së vdekshme."
+
+msgid "382"
+msgstr "Plot dritë është bhikshu i ri që e ndjek d'harmën. Ai e ndriçon botën siç e ndriçon hëna një qiell pa re."
+
+msgid "chap26"
+msgstr "Brahmini"
+
+msgid "383"
+msgstr "Kaloje lumin trimërisht; mposhti të gjitha pasionet e tua. Shko përtej botës së fragmenteve dhe njihe terrenin e pavdekshëm të jetës."
+
+msgid "384"
+msgstr "Kaloje lumin trimërisht; mposhti të gjitha pasionet e tua. Shko përtej pëlqimeve dhe mospëlqimeve tua dhe të gjitha prangat do të bien."
+
+msgid "385"
+msgstr "Kush është brahmin i vërtetë? E quaj brahmin atë që nuk ka as pëlqime as mospëlqime dhe është i lirë nga zinxhirët e frikës."
+
+msgid "386"
+msgstr "Kush është brahmin i vërtetë? E quaj brahmin atë që e ka stërvitur mendjen të jetë e prehur dhe e ka arritur qëllimin suprem të jetës."
+
+msgid "387"
+msgstr "Dielli shkëlqen ditën; hëna shkëlqen natën. Luftëtari shkëlqen në betejë, brahmini në meditim. Por ditë e natë Buda shkëlqen në rrezatimin e dashurisë për të gjitha."
+
+msgid "388"
+msgstr "E quaj brahmin atë që e ka lënë tërë të keqen të bie nga ai. E quaj vetmitar atë mendja e të cilit është e qetë; endacak, atë mendja e të cilit është e pastër."
+
+msgid "389"
+msgstr "E quaj brahmin atë që kurrë nuk është i zemëruar, kurrë nuk i bën dëm të tjerëve madje edhe kur dëmtohet nga ta."
+
+msgid "390"
+msgstr "E quaj brahmin atë që nuk kapet pas kënaqësisë. Mos u shkakto pikëllim të tjerëve; nuk do të të vijë më pikëllim."
+
+msgid "391"
+msgstr "E quaj brahmin atë që nuk i lëndon të tjerët me vepra, fjalë apo mendime pa mirësi. Edhe trupi edhe mendja i binden atij."
+
+msgid "392"
+msgstr "E quaj brahmin atë që ec në gjurmët e Budës. Ndize pishtarin tënd nga zjarri i flijimit të tij."
+
+msgid "393"
+msgstr "Nuk e bëjnë flokët e pista as lindja brahminin, por e vërteta dhe dashuria për gjithçka që ka jetë me të cilat zemra e njeriut është plot."
+
+msgid "394"
+msgstr "Çfarë dobie kanë flokët e pista? Çfarë dobie ka lëkura e drerit në të cilën ulesh për meditim nëse mendja jote ende vlon me epsh?"
+
+msgid "395"
+msgstr "Rroba e shafranit dhe shfaqja e jashtme nuk e bëjnë një brahmin, por stërvitja e mendjes dhe shqisave përmes praktikës së meditimit."
+
+msgid "396"
+msgstr "As pasuritë as kasta e lartë nuk e bëjnë një brahmin. Çliroje veten nga meraket vetjake dhe do të bëhesh brahmin."
+
+msgid "397"
+msgstr "Brahmini i ka hedhur të gjithë zinxhirët dhe nuk dridhet në frikë. Asnjë lidhje vetjake s'mund ta kurthojë të tillin, asnjë mendim i papastër s'mund ta ndotë mendjen."
+
+msgid "398"
+msgstr "E quaj brahmin atë që e ka këputur rripin dhe lakun dhe zinxhirin e karmës. I tilli është ngritur nga gjumi, plotësisht i zgjuar."
+
+msgid "399"
+msgstr "E quaj brahmin atë që nuk i frikësohet as burgut as vdekjes. I tilli e ka fuqinë e dashurisë të cilën s'mund ta mposhtë asnjë ushtri."
+
+msgid "400"
+msgstr "E quaj brahmin atë që kurrë s'është i zemëruar, kurrë nuk devijon nga rruga, që është i pastër dhe i vetë-kontrolluar. Ky trup është i fundit."
+
+msgid "401"
+msgstr "E quaj brahmin atë që nuk i kapet kënaqësisë, jo më shumë se uji gjethes së lotusit apo fara e sinapit majës së gjilpërës."
+
+msgid "402"
+msgstr "Për të tillin nuk do të vijë më pikëllim, nuk do t'i bjerë më barrë."
+
+msgid "403"
+msgstr "E quaj brahmin atë urtia e të cilit është e madhe dhe kuptimi i të cilit është i thellë, që duke e ndjekur rrugën e drejtë dhe duke e shmangur të gabuarën e ka arritur qëllimin më të lartë."
+
+msgid "404"
+msgstr "E quaj brahmin atë nevojat e të cilit janë të pakta, që është i shkëputur si nga pronarët e shtëpive ashtu edhe nga të pastrehët."
+
+msgid "405"
+msgstr "E quaj brahmin atë që i ka lënë mënjanë armët dhe ka hequr dorë nga dhuna ndaj të gjitha krijesave. I tilli as s'vret as s'u ndihmon të tjerëve të vrasin."
+
+msgid "406"
+msgstr "E quaj brahmin atë që nuk është kurrë armiqësor me ata që janë armiqësorë ndaj tij, që është i shkëputur mes atyre që janë vetjakë dhe në paqe mes atyre që janë në luftë."
+
+msgid "407"
+msgstr "E quaj brahmin atë nga i cili pasioni e urrejtja, arroganca e mashtrimi, kanë rënë si fara e sinapit nga maja e gjilpërës."
+
+msgid "408"
+msgstr "E quaj brahmin atë që është gjithmonë i sinqertë, gjithmonë i mirësishëm."
+
+msgid "409"
+msgstr "I tilli kurrë nuk pyet çka mund t'i japë jeta, veç 'Çka mund t'i jap jetës?'"
+
+msgid "410"
+msgstr "E quaj brahmin atë që e ka gjetur parajsën e tij, i lirë nga çdo dëshirë vetjake, i lirë nga çdo papastërti."
+
+msgid "411"
+msgstr "Duke mos dashur asnjë gjë, duke mos dyshuar në asnjë gjë, padron edhe i trupit edhe i mendjes, i tilli ka shkuar përtej kohës e vdekjes."
+
+msgid "412"
+msgstr "E quaj brahmin atë që ka shkuar përtej të mirës e të keqes dhe është i lirë nga pikëllimi, pasioni dhe papastërtia."
+
+msgid "413"
+msgstr "E quaj brahmin atë që është ngritur mbi dualitetin e kësaj bote, i lirë nga pikëllimi dhe i lirë nga mëkati. I tilli shkëlqen si hënë e plotë pa asnjë re në qiell."
+
+msgid "414"
+msgstr "E quaj brahmin atë që e ka kaluar lumin e vështirë dhe të rrezikshëm për t'u kaluar, dhe në mënyrë të sigurt e ka arritur bregun tjetër."
+
+msgid "415"
+msgstr "E quaj brahmin atë që ia ka kthyer shpinën vetes. I pastrehë, i tilli është gjithmonë në shtëpi; i paego, ai është gjithmonë plot."
+
+msgid "416"
+msgstr "Vullneti-i-vetes e ka lënë mendjen e tij; nuk do të kthehet kurrë. Pikëllimi e ka lënë jetën e tij; nuk do të kthehet kurrë."
+
+msgid "417"
+msgstr "E quaj brahmin atë që e ka mposhtur shtytjen për të zotëruar madje edhe gjëra qiellore dhe është i lirë nga tërë lidhjet vetjake."
+
+msgid "418"
+msgstr "E quaj brahmin atë që është i lirë nga skllavëria si nga qeniet njerëzore ashtu edhe nga natyra, heroi që e ka mposhtur botën."
+
+msgid "419"
+msgstr "E quaj brahmin atë që është i lirë nga unë, mua dhe e imja, që e njeh ngritjen dhe rënien e jetës. I tilli është i zgjuar dhe nuk do të bjerë në gjumë përsëri."
+
+msgid "420"
+msgstr "E quaj brahmin atë rrugën e të cilit s'mund ta dijë askush. I tilli jeton i lirë nga e shkuara dhe e ardhmja, i lirë nga kalbja e vdekja."
+
+msgid "421"
+msgstr "Duke mos poseduar asgjë, duke mos pasur merak asgjë për kënaqësinë e tyre a për fitimin e tyre, ata janë bërë forcë për të mirën, duke punuar për lirinë e të gjithëve."
+
+msgid "422"
+msgstr "E quaj brahmin atë që është i patrembur, heroik, i patundshëm, urtak i madh që e ka mposhtur vdekjen dhe e ka arritur qëllimin e jetës."
+
+msgid "423"
+msgstr "Brahminët e kanë arritur fundin e rrugës; e kanë kaluar lumin e jetës. Gjithçka që duhej ta bënin është bërë: janë bërë një me tërë jetën."
