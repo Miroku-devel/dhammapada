@@ -1,11 +1,18 @@
-<h1>
-  <img src="assets/icon.png" width="48" style="vertical-align:middle">
-  Dhammapada
-</h1>
+<div align="center">
+  <img src="assets/icon.png" width="120">
 
-A multilingual Dhammapada reader for GNU/Linux.
+  <h1 style="font-size: 2em; margin: 10px 0;">Dhammapada</h1>
+  <h3 style="font-size: 1em;">A multilingual Dhammapada reader for GNU/Linux.</h3>
+  <img src="assets/screenshot.png" width="500">
+</div>
 
-<img src="assets/screenshot.png" width="500">
+## Language selection
+The application will automatically detect your operating system's language upon startup.\
+To manually override the language (for example, to run the app in German):
+
+```
+$ env LANGUAGE=de ./Dhammapada-*-x86_64.AppImage
+```
 
 ## Building from source
 To compile and run the project locally, ensure you have\
