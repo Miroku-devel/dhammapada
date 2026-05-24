@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Bab"
+
+msgid "fontsize"
+msgstr "Ukuran aksara"
+
+msgid "chap1"
+msgstr "Geguritan Kembar"
+
+msgid "1"
+msgstr "Pikiran iku kang murwani sakabening kadadeyan; pikiran iku panuntun; sakabening kahanan dumadi saka pikiran. Menawa ana wong ngucap utawa tumindak kanthi pikiran kang ala, ing kono panandhang bakal tutwuri dheweke, kaya dene rodha cikar kang tansah ngetutake lakune sapi kang nggered."
+
+msgid "2"
+msgstr "Pikiran iku kang murwani sakabening kadadeyan; pikiran iku panuntun; sakabening kahanan dumadi saka pikiran. Menawa ana wong ngucap utawa tumindak kanthi pikiran becik, ing kono kabegjan/katentreman bakal tutwuri dheweke, kaya dene ayang-ayang ora tau pisah karo garange."
+
+msgid "3"
+msgstr "Dheweke ngina aku, dheweke milara aku, dheweke ngasorake aku, dheweke ngrebut darbekku. Menawa ana wong kang ngendhem pikiran-pikiran kaya mangkono, ing kono rasa gething ora bakal sirna."
+
+msgid "4"
+msgstr "Dheweke ngina aku, dheweke milara aku, dheweke ngasorake aku, dheweke ngrebut darbekku. Menawa ora ana wong kang ngendhem pikiran-pikiran kaya mangkono, ing kono rasa gething bakal sirna."
+
+msgid "5"
+msgstr "Ing jagad iki rasa gething ora bakal sirna menawa winales kanthi rasa gething, nanging rasa mau bakal sirna lamun winales kanthi tanpa gething, iki sawijine angger-angger kang langgeng/hukum Dharma."
+
+msgid "6"
+msgstr "Saperangan gedhe manungsa padha ora nyumurupi lamun sajrone cecongkrahan dheweke bakal menahi tumpes, ananging sing sapa bisa nyumurupi kasunyataan iki, ing kono bakal padha mungkasi cecongkrahane."
+
+msgid "7"
+msgstr "Lamun ana wong kang uripe mung katujokake marang bab-bab kang nyenengake kanthi nguja hardaning panca indriya, kang mangane tanpa winates, sarta lumuh ing pambudidaya, gampang banget kabanda dening dewaning Mara, kang kayadene angin ngurubhake wit kang gapuk."
+
+msgid "8"
+msgstr "Menawa ana wong kang uripe ora mung katujokake marang bab-bab kang nyenengkake kanthi bisa meper hardhaning panca indriyane, kang mangane winates sarta taberi ing pambudidaya; ora gampang kabanda dening dewaning Mara, kang kayadane angin ora bisa njurugakake gunung."
+
+msgid "9"
+msgstr "Sing sapa niyat manganggo jubah kuning, nanging durung resik batine, sepi ing cecegah sarta ing bebener; ing kono babar pisan ora patut lamun manganggo jubah kuning."
+
+msgid "10"
+msgstr "Ananging menawa ana wong kang wis bisa meper kamurkane, resik batine, teguh ing kasusilan, sarta sinung bebener; ing kono dheweke nuli patut ngrasuk jubah kuning."
+
+msgid "11"
+msgstr "Sajrone bab kang remeh dheweke duwe panganggep wigati, sajrone bab kang wigati dheweke duwe panganggep remeh. Dheweke kang nduweni pikiran-pikiran kaya mangkono iku ora bakal bisa nggayuh bab-bab kang wigati."
+
+msgid "12"
+msgstr "Dheweke kang weruh apa kang wigati iku nyata menawa wigati, sarta kang ora wigati iku nyata menawa ora wigati, dheweke kang nduweni pikiran-pikiran bener kaya mangkono iku bakal bisa nggayuh bab-bab kang wigati."
+
+msgid "13"
+msgstr "Kaya dene udan kang nembus ing payon kang bocor, mangkono uga kamurkan bakal nembus marang pikiran kang ora kaparsudi (kajaga)."
+
+msgid "14"
+msgstr "Kaya dene udan kang ora bisa nembus ing payon kang rapet, mangkono uga kamurkan ora bisa nembus marang pikiran kang kaparsudi kanthi becik."
+
+msgid "15"
+msgstr "Dheweke sedih banget ing donya iki, dheweke sedih banget ing alam liyane; kang laku candhala bakal nandhang kesedihan ing alam loro-lorone. Dheweke sedih lan sesambat, awit eling marang tumindake kang ora becik."
+
+msgid "16"
+msgstr "Dheweke suka gembira ing alam donya iki, dheweke suka gembira ing alam liyane; kang nindakake kabecikan suka gembira ing alam loro-lorone. Dheweke gembira lan suka pari suka, awit eling marang tumindake kang becik."
+
+msgid "17"
+msgstr "Dheweke sesambat ing alam donya iki, dheweke sesambat ing alam liyane; dheweke kang tindak candhala sesambat ing alam loro-lorone. Dheweke sesambat nalika kelingan: 'Aku wis tumindak candhala'. Lan luwih dene nalongsa nalika kudu tumitah ing alam kasangsaran."
+
+msgid "18"
+msgstr "Dheweke rumongsa mulya ing alam iki, dheweke rumongsa mulya ing alam liyane; sapa wonge kang nindakake kabecikan bakal mulya ing alam loro-lorone. Dheweke rumongsa begja nalika kelingan: 'Aku wis nindakake kabecikan'. Luwih rumongsa begja maneh nalika kudu tumitah ing alam kabagyan/katentreman."
+
+msgid "19"
+msgstr "Sanajan ana wong kang wis maca sabageyan akeh isine Kitab Suci, nanging tindake ora laras karo ajaran; wong kang kurang waspada mangkano iku kaya dene wong angon sapi kang mung ngetung-etung sapine liyan; dheweke ora bakal bisa antuk karaharjaning kasucen."
+
+msgid "20"
+msgstr "Sanajan ana wong kang mung kadhang kala maca Kitab Suci, nanging tindake laras karo ajaran, nyingkiri hardhaning nafsu indriya, gegething lan kabodhoan batin, darbe pangerten bener sarta batin kang mardika, ora kraket ing samubarang; ing ngendi bae, kang mangkono iku, dheweke bakal antuk Karaharjaning Kasucen."
+
+msgid "chap2"
+msgstr "Kewaspadan"
+
+msgid "21"
+msgstr "Kawaspadan iku dalam kang tumuju marang kalanggengan, kalepyan tumuju marang marganing pati; wong kang waspada ora bakal mati, dene wong kang kalepyan, kayadane wong kang wis mati."
+
+msgid "22"
+msgstr "Sawise ngerti kanthi terwaca marang bab iki, wong wicaksana bungah sajroning kawspadan sarta suka gembira ing sajrone ngayahi kuwajibaning para Suci."
+
+msgid "23"
+msgstr "Wong wicaksana mempeng ulah samadi, tansah mbudidaya kanthi temen-temen anggone nggayuh Pamudharan Langgeng (Nibbana)."
+
+msgid "24"
+msgstr "Manungsa kang taberi mbudidaya, tansah eling, murni ing pakarti, bisa nyandhet hardaning kanepson, tindake salaras marang piwulang Dhamma, sarta tansah waspada, ing kono bakal ngambar-ambar arum asmane."
+
+msgid "25"
+msgstr "Sarana pambudidaya kang taberi, tekun, nuhoni kuwajiban sarta bisa meper panca indriyane, sayogyane wong wicaksana yasa pulo tumrap dhiri pribadine; kang ora bisa kerem dening banjir."
+
+msgid "26"
+msgstr "Wong cubluk kang tuna ing pangeten, katrem ing sajroning lena; wong wicaksana tansah rumeksa kawaspadane kayadene ngreksa raja-darbeke kang banget aji."
+
+msgid "27"
+msgstr "Aja katrem ing sajroning lena; aja kabanda dening kasenengan-sasenenganing panca indriya. Wong kang waspada sarta dhemen nggegulang samadi bakal oleh kabegjen lan kamulyan agung."
+
+msgid "28"
+msgstr "Menawa wong wicaksana wis ora kurang weweka sarta wis ngawekani kawaspadan, ing kono wong kang wis kasil ngalahake kasedihan iki; banjur munggah menyang menara kawicaksanan, nyawang wong-wong kang pada nandhang, kayadene sawijining wong kang ngadeg sadhuwuring gunung nyawang wong-wong kang ana ing sangisore."
+
+msgid "29"
+msgstr "Waspada ing antarane kang katalompen, melek ing antarane kang katuron; wong wicaksana terus maju, kayadene jaran kang lumayu rikat ninggalake jaran ringkih kang ana mburine."
+
+msgid "30"
+msgstr "Sarana kawaspadan, Dewa Saka nggayuh drajat tetungguling para dewa. Salugune, kawaspadan iku tansah pinuji, dene kalepyan bakal tansah cinedha."
+
+msgid "31"
+msgstr "Bhikkhu kang suka-gembira sajroning kawaspadan sarta nyumurupi bebaya sajroning kalenan (tlompe) bakal terus maju, ngobong sakabening papalanging batin, kayadene geni ngobong bahan bakar, kang gedhe utawa cilik."
+
+msgid "32"
+msgstr "Bhikkhu kang suka-gembira sajroning kawaspadan sarta nyumurupi nenaya sajroning kalenan, ing kono deweke ora bisa katliweng maneh; dheweke wis ana ing sangarsane kori Nibbana."
+
+msgid "chap3"
+msgstr "Pikiran"
+
+msgid "33"
+msgstr "Pikiran goreh kang ora jenjem, kang angel rineksa sarta angel dikuwasani, ing kono wong wicaksana bakal nglempengake, kayadane tukang gawe panah nglempengake paser."
+
+msgid "34"
+msgstr "Pikiran iki tansah klepekan kayadene iwak dientas saka jroning banyu banjur diuncalake ing lemah. Awit saka iku panguwasane Mara (panggoda) kudu disirnakake."
+
+msgid "35"
+msgstr "Ngetutake pikiran kang angel dikendhaleni, giras sarta tansah ngumbara sakarepe dewe, iku becik. Pikiran kang wis bisa ditututake bakal nggawa kabegjan."
+
+msgid "36"
+msgstr "Pikiran iku sayekti angel diawat-awati lan banget aluse, kang ngumbara sakarepe dewe. Mula saka iku wong wicaksana sayogyane rumeksa pikirane. Pikiran kang rineksa kanthi becik bakal nggawa karahayon."
+
+msgid "37"
+msgstr "Pikiran iku tansah ngumbara adoh, tanpa rowang, ora kasat mata, manggon sajroning ati. Dheweke kang bisa nelukake bakal luwar saka cengkeramaning Mara"
+
+msgid "38"
+msgstr "Manungsa kang pikirane ora teguh, kang ora wanuh marang Ajaran Bener sarta goreh pangandele, kang mangkono iku kawicaksanane ora bakal sampurna."
+
+msgid "39"
+msgstr "Manungsa kang tansah eling, kang pikirane ora kawasesa dening nafsu sarta rasa gething, kang wis bisa nanggulangi ala lan becik; ing sajrone ati ora kedunungan was-sumelang maneh."
+
+msgid "40"
+msgstr "Sarana eling menawa jasad iki ringkih kayadene klenthing (jun), sarta neguhake pikiran nganti sentosa kayadene bentenging kutha; sayogyane dheweke ngalahake Mara sarana senjata kawicaksanan. Wajibe dheweke kudu tansah ngreksa apa kang wis katelukake sarta ora bakal bali dadi bebandaning Mara."
+
+msgid "41"
+msgstr "Aduh, sadhela maneh jasad iki bakal ngglugur sumeleh ing lemah, binuwang sarta tanpa keketeg (kesadaran), kayadene kayu gapuk kang tanpa pengaji."
+
+msgid "42"
+msgstr "Tatu dikaya apa bae kang bisa kagawe dening wong kang lagi padha pancakara utawa dening wong kang lagi pada sesengitan, luwih dene premana tatu kang bakal tumama marang wong kang sasar anggone ngarahake pikirane."
+
+msgid "43"
+msgstr "Dudu bapa utawa biyung apadene sanak kulawarga kang bisa njunjung kajaba mung pikiran kang kaarahake kanthi becik kang bakal bisa ngangkat drajating manungsa."
+
+msgid "chap4"
+msgstr "Kembang"
+
+msgid "44"
+msgstr "Sapa baya kang bakal nelukake jagad panguripan iki lan alam YAMA sarta alam Dewa pisan? Sapa baya kang bakal naliti marganing kabecikan kang wis kababarake kanthi becik, kayadene juru ronce kembang kang waris milih sawarnaning kembang."
+
+msgid "45"
+msgstr "Siswa kang lagi gegulang (Sekha) bakal nelukake jagad iki sarta alam Yama dalah alam Dewa pisan. Sawijining siswa kang lagi gegulang bakal naliti tuwuhe rasa gething kang wus kababarake kanthi becik. Kayadene juru-ronce kembang kang pinter milih sawarnaning kembang."
+
+msgid "46"
+msgstr "Lamun wis nyurupi manawa jasad iki kayadene unthuk, sarta sawise eling marang sipat 'maya'ne, ing kono manungsa sayogyane munggel panahing napsu indriya kang mawa kembang, sarta ngilang saka pamandenging Rajaning Pati (ora sumelang marang tekaning pati)."
+
+msgid "47"
+msgstr "Manungsa kang nglumpukake sawernaning kembang-kembang kasenengan indriya, kang ora jenjem pikire, ora wurung dewaning antaka (pati) bakal nyeret deweke kayadene banjir-bandhang kang nglarud desa kang wargane lagi mudha turu."
+
+msgid "48"
+msgstr "Manungsa kang keklumpuk kembang-kembang kelangenaning napsu indriya, kang ora jenjem pikire sarta ora bisa nyandhet pepinginane, ora wurung bakal kawasesa dening Dewaning Antaka (pati)."
+
+msgid "49"
+msgstr "Kayadene kombang nesep madune kembang, tanpa ngrusak warna lan gandane;"
+
+msgid "50"
+msgstr "Aja sok migatekake kaluputaning liyan sarta bab-bab kang wis ditindakake utawa kang durung katindakake dening liyan. Wigatekna apa kang wis katindakake dening dhiri pribadi lan apa kang durung katindakake."
+
+msgid "51"
+msgstr "Kayadene kembang saceplok kang endah warnane, ananging ora ngganda arum; mangkono uga, ora ana paedahe geguritan kang diucapake dening wong kang ora nindakake."
+
+msgid "52"
+msgstr "Kayadene kembang saceplok kang endah ing warna sarta arum gandane; mangkono uga geguritan kang kaucapake dening wong kang ngleksanani."
+
+msgid "53"
+msgstr "Kayadene saka umbrukaning kembang kang bisa kagawe sakehing reroncen kembang; mangkono sayogyane wong-wong ing donya iki padha nindakna sakehing kabecikan."
+
+msgid "54"
+msgstr "Gandane kembang ora bisa sumebar lumawan sangkane angin; mangkono uga gandane kayu dendhana, kembang 'Tagara' lan mlathi. Nanging asmane wong kang becik bebudene, arum angambar sumebar mratani jagad."
+
+msgid "55"
+msgstr "Aruming tindak kabecikan ngungkuli sakehing ganda kang arum; sanadyan-ta gandane kayu cendhana, kembang tegara trate sarta mlathi pisan."
+
+msgid "56"
+msgstr "Aruming kembang tagara lan kayu cendhana ora sepiroa, ananging aruming asma kang padha darbe sarta nindakake SILA sumebar tumeka ing kaswargan."
+
+msgid "57"
+msgstr "Mara (Panggodha) ora bisa nglacak dheweke kang ndarbeni sila, kang uripe tanpa tinggal kaprayitnan, sarta kang wis mardika sarana nindakake Kawruh Kasunyatan."
+
+msgid "58"
+msgstr "Kayadene saka tumpukaning uwuh kang dibuwang ing sapinggiring dalan, kang sanduwure thukul kembange trate kang arum gandane sarta nyenengake ati."
+
+msgid "59"
+msgstr "Mangkono uga, ing antarane wong kang keled marang kadonyan (materialistis), ana siswane Sang Buddha Kang Maha Sampurna, sumunar pasuryane saka berkahing kawicaksanan."
+
+msgid "chap5"
+msgstr "Wong Cubluk"
+
+msgid "60"
+msgstr "Bengi iku dawa (suwe) tumrap pangrasane wong kang melek; sayojana iku adoh tumrap pangrasane wong kang kesayahen; banget dawane cakramanggilinganing urip (roda samsara) iki tumrap wong cubluk kang ora tepung marang Piwulang Kasunyatan."
+
+msgid "61"
+msgstr "Menawa ing sajrone ngumbara, wong lelana ora oleh kanca kang luwih becik utawa satimbang, sayogyane dheweke nerusake anggone ngumbara kanthi ijen, kareben ora srawung karo wong cubluk."
+
+msgid "62"
+msgstr "'Aku darbe anak, aku darbe bandha-donya'. Ya kang mangkono iku pangertene wong kang cubluk. Menawa dhiri pribadine iku dudu darbeke, apa ora mokal menawa anak lan bondha-donya iku bisa dadi darbeke."
+
+msgid "63"
+msgstr "Wong bodho (cubluk) kang ngawruhi kabodhowane, ing bab iki dheweke kena disebut wicaksana; ananging wong cubluk kang rumangsa yen dheweke iku wicaksana, ing kono wis mungguh banget lamunta dheweke iku (sinebut) wong cubluk."
+
+msgid "64"
+msgstr "Sanajan salawase urip, wong cubluk srawung lan Wong pinter (wicaksana), ananging dheweke lestari ora bisa mangerti Dhamma, kayadane sendhok kang ora bisa ngrasakake rasane sayur."
+
+msgid "65"
+msgstr "Sanajan mung kala-mangsa wong pinter srawung lan wong wicaksana, ing wektu ora suwe enggal bisa mangerti Dhamma. Kayadane lidhah (ilat) kang bisa ngrasakake rasane sayur."
+
+msgid "66"
+msgstr "Wong cubluk (pancen) cupet pangertene nganggep awake dhewe iku kayadane mungsuh, jalaran menawa dheweke nindakake piala, tumindake iku tundhone bakal nuwuhake woh kang pait (rasane) tumrap awake dhewe."
+
+msgid "67"
+msgstr "Manawa sawijining pakaryan sawise katindakake nuwuhake rasa kedhuwung, ing kono wis nyata manawa pakaryan mau ora becik. Paraga pakaryan mau bakal ngundhuh wohing pakaryane kanthi; seru sesambate sinartan eluh kang crocosan ing praene, utawa tetangisan."
+
+msgid "68"
+msgstr "Manawa sawijining pakaryan sawise katindakake ora nuwuhake keduwung, ing kono nyata manawa pakaryan mau becik. Paraga pakaryan mau bakal ngundhuh wohing pakaryane kanthi bungah sarta marem ing ati."
+
+msgid "69"
+msgstr "Samangsa wohing tindak candhala durung mateng, wong cubluk ngira manawa rasane legi kayadane rasane madu; ananging samangsa wohing pakarti mau wis mateng ing kono dheweke bakal ngrasakake panandhang."
+
+msgid "70"
+msgstr "Sanadyanta wewulanan (sasen sasen) wong cubluk mangan panganane nganggo ajang pucuki suket 'Kusa', sanadyan mangkono dheweke tanpa aji, yen katimbang mung saparanembelase para kang wis pana marang Dhamma."
+
+msgid "71"
+msgstr "Sawijining tindak candhala kang wis katindakake ora enggal nuwuhake akibat, kayadane puwan kang ora sanalika dadi dhidhih, mangkono uga tindak candhala iku mureng, ngatut marang lakune wong cubluk, kayadene geni ing sajroning awu."
+
+msgid "72"
+msgstr "Wong cubluk oleh kawruh iku mung kanggo numpes awake dhewe. Kawruhe iku mung bakal nyirnakake kabeh kabecikane sarta bakal dadi sarana kanggo nyigar sirahe dhewe."
+
+msgid "73"
+msgstr "Sawijining wiku kang bodho kepingin asma kang palsu; moncol ing antarane para wiku, nguwasani vihara-vihara sarta kepingin kinurmatan dening sagung wargane."
+
+msgid "74"
+msgstr "'Kareben kabeh (para wiku lan umat) padha mikir (nekseni/ngakoni) menawa sakabehing pakaryan iki (kang wigati utawa kang remeh), ora ana kang bisa nindakake kajaba mung aku, sarta padha nyarayowa (nyuwuna biyantu) marang aku. Mangkono kumalungkunge lan gumendhunge wiku kang bodho iku; napsu indriyane sarta kumingsune saya ngremboko."
+
+msgid "75"
+msgstr "Ana sawenehing dalan kang tumuju marang kabagyan donya, sarta ana uga dalan liya kang ngener marang Nirwana. Sawise ngawekani kanthi terwaca bab iki, sayogyane sawijining Wiku Siswane Sang Buddha ora kagiwang marang kahanan donya, kajaba mung manekung amrih sampurnaning batin."
+
+msgid "chap6"
+msgstr "Wong Wicaksana"
+
+msgid "76"
+msgstr "Lamun ana wong kang duwe kaluputan, ketemu wong wicaksana kang kerso nuduhi kaluputane, panjenengane iku kayadene nuduhake raja brana. Ing kono sayogyane dheweke nyrawungi wong wicaksana mau. Becik banget, sarta ora ana alane, srawung karo wong wicaksana iku."
+
+msgid "77"
+msgstr "Tampanen trusing ati, pitutur, piweling sarta pamrayogane wong wicaksana. Panjenengane iku tinresnanan dening wong becik; kosok baline wong ala tansah rikuh (sungkan) marang wong wicaksana."
+
+msgid "78"
+msgstr "Aja jejancan karo wong candhala, aja kekancan karo wong nistha; ananging srawunga karo wong kang becik bebudene, srawunga karo wong kang luhur bebudene."
+
+msgid "79"
+msgstr "Dheweke kang wawuh Dhamma bakal begja uripe sarta tentrem pikire. Manungsa kang wicaksana tansah suka-gembira sajroning ajaran kang kababarake dening Para Minulya."
+
+msgid "80"
+msgstr "Tukang gawe urung-urung ngilekake banyu, tukang panah ngencengake paser (anak panah), tukang kayu ngeluk kayu, ngibaratake wong wicaksana nelukahe dhiri-pribadine."
+
+msgid "81"
+msgstr "Kayadene watu karang kang ora obah tinempuh ing angin, mangkono uga para wicaksana ora bakal kaprabawan dening pamisuna, panacad utawa pangalem-bana."
+
+msgid "82"
+msgstr "Kayadene sawijining tlaga kang jero, banyune lerem/meneng; mangkono uga kanthi nilingake Dhamma, para wicaksana tentrem atine."
+
+msgid "83"
+msgstr "Wong wicaksana mbuwang kalengketane marang samubarang, Dene wong suci ora ngrembug bab-bab kang gegayutan karo napsu-napsu pepinginan. Ing sajrone ngalami kabegjan utawa nemahi kacintrakan/kesusahan pisan, wong wicaksana ora kaprabawan dening bungah lan susah."
+
+msgid "84"
+msgstr "Dudu samesthine manungsa nindakake piala mung kanggo keperluwane dhewe, utawa kaperluwane liyan, sarta kurang prayoga menawa dheweke nggegadang anak, bendha-donya, krajan (pangkat) apadene kamukten tumrap awake dhewe ndarbeni Sila, kawicaksanan, sarta pangerten bener."
+
+msgid "85"
+msgstr "Ing antarane umat manungsa ora akeh kang bisa tumeka ing gisike sabrang (Nirwana); saperangan gedhe manungsa isih wira-wiri ana ing gisik kene (isih dilahirake)."
+
+msgid "86"
+msgstr "Para kang padha nyalarasake uripe marang Dhamma kang wus kababarake kanthi terwaca; dheweke kang mangkono iku bakal padha bisa nyabrangi alame pasti kang banget angel ditempuh."
+
+msgid "87"
+msgstr "Sarana ninggalake omah sarta lunga nempuh urip tanpa omah (dadi bhikkhu), sayogyane wong wicaksana ninggalake pepeteng sarta ngurubake pepadhang."
+
+msgid "88"
+msgstr "Dheweke dhemen nyepi (tirakat), kang angel ditindakake. Sarana ninggalake sarta tanpa kraket marang kasenengane panca-indriya, mangkono sayogyane wong wicaksana ngresiki batine saka cacad-cacading pikirane."
+
+msgid "89"
+msgstr "Para kang wus nyampurnakake pikirane ing babangan panawikan, kang tanpa bebandan, sarta bungah sajrone batin kang mardika, kang wus resik saka leletheking batin, banjur sumunar; mratelakake menawa wus nggayuh Nirwana ing ngalam donya iku (saiki uga)."
+
+msgid "chap7"
+msgstr "Arahat"
+
+msgid "90"
+msgstr "Manungsa kang wis nyampurnakake lakune, kang wis uwal saka samubarang, lan wis nglebur sakabehing bebandan, ing kono wis ora ana panggubeling napsu maneh jroning pribadhine."
+
+msgid "91"
+msgstr "Para manungsa kang darbe pangerten sejati, wus eling sarta wus ninggalake bale omah, ing kono dheweke wis ora kabanda ing papan padunungan, kayadene kumpulane banyak kang ninggalake blumbang saka siji menyang sijine, mangkono uga dheweke ninggalake padunungan sing siji menyang sijine."
+
+msgid "92"
+msgstr "Sapa kang ora ngumpulake kebutuhaning urip warna papat sarta pakartining karma, kang duwe gagasan marang perlu lan pigunane panganan, kang wus pana kamardikan kang kathon lan tanpa angen-angen, ing kono dalane wong mau angel dilacak, kaya dene aburing manuk ing langit."
+
+msgid "93"
+msgstr "Dheweke, kang wus nglebur kabeh reregeding batin, kang wus ora kabanda ing pangan, kang wus pana marang kamardikan kang kathon tanpa angen-angen, ing kono dalane ora kena dilacak kayadene tapake manuk mabur ing langit."
+
+msgid "94"
+msgstr "Dheweke kang wus nelukake indriya-indriyane, kaya dene jaran alasan kang wis digladhi becik dening kusir, dheweke kang wus luwar saka kumingsune lan reregeding batin ing kono para dewa bakal nresnani wong suci mangkono mau."
+
+msgid "95"
+msgstr "Kayadene bumi, mengkono uga wong suci ora tau napsu; pikirane santosa kaya tugu ing kutha. Tindak tanduke resik kaya banyu ing beji tanpa endhut. Kanggone wong suci kang kaya mangkono iku, wis ora ana maneh cakramanggilinganing urip (tumimbal lahir)."
+
+msgid "96"
+msgstr "Wong suci kang nduweni kawruh sejati, kang wus uwal saka bebandaning indria, batine tentrem lan setimbang, ora goroh; ing kono pangucap, pakarti lan pikirane anteng (tenang)."
+
+msgid "97"
+msgstr "Wong kang ora gampang percaya, kang wus ngerti Kahanan Kang Tan Cinipta (Nibbana), kang wus medhot sakabehing bebandan tumumbal lahir, sing wis mungkasi kalodhangan kanggo tumindak becik lan candhala, sarta wis nyingkirake napsu pepenginan, salugune dheweke iku manungsa kang banget mulya."
+
+msgid "98"
+msgstr "Apa ing desa utawa ing alas, apa ing tanah ngare apa ing gunung, ing ngendi wae para suci iku dedunung, panggonan iku mesthi ngresepake."
+
+msgid "99"
+msgstr "Alas iku papan kang ngresepake, ewa dene wong kadonyan (materialis) ora bisa nemokake kasenengan ana ing kono. Nanging wong kang wis uwal saka napsu, rumangsa bungah ana ing kono, amarga wong-wong mau wis ora ngupaya kesenengan-kesenengan indriya maneh."
+
+msgid "chap8"
+msgstr "Ewon"
+
+msgid "100"
+msgstr "Tembung siji sing migunani, sing yen rinungu bisa gawe tentreming ati, iku luwih becik tinimbang tembung sewu sing ora migunani."
+
+msgid "101"
+msgstr "Geguritan salarik kang migunani, kang yen rinungu bisa gawe tentreming ati sing ngrungokake, iku luwih becik tinimbang upamane 100 larik geguritan kang diwaca nanging ora migunani."
+
+msgid "102"
+msgstr "Tembung siji saka Dhamma, yen dirungu bakal gawe tentreming ati sing ngrungokake, iku luwih becik, tinimbang 100 geguritan kang diwaca nanging ora migunani."
+
+msgid "103"
+msgstr "Senajan ana wong sing bisa nelukake mungsuh sewu kaping sewu ing sajroning paprangan, nanging yen ana wong kang bisa nelukake awake dhewe, yaiku sejatine pahlawan kang agung."
+
+msgid "104"
+msgstr "Nelukake awake dhewe sejatine luwih becik tinimbang nelukake titah-titah liya."
+
+msgid "105"
+msgstr "Wong kang bisa nelukake awake dhewe, tansah ngendhaleni dhiri. Dudu sawijining Dewa, Mara, utawa Gandarwa sarta Brahmana kang bisa ngowahi kemenangane wong sing wis nelukake dhiri pribadine."
+
+msgid "106"
+msgstr "Nadyan ana manungsa sing saben sasi nyaosake sesaji kang suwene nganti 100 taun, ewa dene nadyan mung sadhela yen ana wong kang caos pakurmatan marang wong kang ngendhaleni dhiri lan nindakake sila, salugune pakurmatan iku luwih aji (becik) tinimbang caos sesaji sajrone 100 taun."
+
+msgid "107"
+msgstr "Sanajan nganti 100 taun sawijining manungsa ngurubake geni pamujan ing alas, nanging yen ana manungsa sing mung sadhela wae ngurmati marang wong sing ngendhaleni dhiri, sejatine pakurmatan iku luwih becik tinimbang pamujan kang 100 taun mau."
+
+msgid "108"
+msgstr "Ing donya iki, pangurbanan lan sesaji apa wae kang ditindakake manungsa nganti 100 taun, kanggo nggayuh ganjaran saka pakartine, ing kono sakabehe mau ora ana seprapate ajine pakurmatan kang katujokake marang wong kang lugu uripe (jujur)."
+
+msgid "109"
+msgstr "Sing sapa tansah ngajeni lan mundhi-mundhi wong kang luwih tuwa, ing kono bakal ana patang bab kang tuwuh ing dhirine, yaiku: umur dawa, kabagusan, kabegjan lan kakuatan."
+
+msgid "110"
+msgstr "Sandyan ana manungsa kang uripe 100 taun, nanging darbe kalakuan ala lan ora dikendhaleni, ing kono salugune luwih becik uripe wong kang mung sedina, nanging darbe kasusilaan (sila), lan tansah semedi."
+
+msgid "111"
+msgstr "Nadyanta manungsa urip 100 taun, nanging ora wicaksana lan ora ngendhaleni dhirine sarta ora nindakake sila, ing kono salugune luwih becik uripe wong wicaksana kang mung sadina nanging tansah semedi."
+
+msgid "112"
+msgstr "Sanadyan manungsa urip 100 taun, nanging kesed, tanpa pembudidaya, ing kono salugune luwih becik urip sedina, nanging mempeng mbudidaya kanthi kebak tekad."
+
+msgid "113"
+msgstr "Sadadyan manungsa urip 100 taun, nanging ora bisa nyumurupi dumadi lan sirnane samubarang kang mawa sebab (berkondisi), salugune luwih becik urip sedina tumrape manungsa kang bisa nyumurupi dumadi lan sirnane samubarang kang mawa sebab (berkondisi)."
+
+msgid "114"
+msgstr "Sanadyan manungsa urip satus taun, nanging ora bisa nyumurupi kahanan kang tanpa pati (Nibbana), salugune luwih becik urip sedina tumrap wong sing bisa nyumurupi gegayuhan luhur kang langgeng (Nibbana)."
+
+msgid "115"
+msgstr "Senajan manungsa urip satus taun, nanging ora nyumurupi Kasunyatan Luhur, salugune luwih becik urip sedina tumrape wong kang bisa nyumurupi Kasunyatan Luhur."
+
+msgid "chap9"
+msgstr "Kejahatan"
+
+msgid "116"
+msgstr "Enggal-enggal nindakna tindak utama lan penggaken pikiranmu kang tumuju marang budi candhala. Sing sapa sungkan tumindak utama, ing kono pikirane bakal bungah-bungah jroning nindakake piala."
+
+msgid "117"
+msgstr "Yen ana manungsa tumundak candhala, kudune dheweke ora mbaleni panggawe ala iku, sarta atine aja bungah-bungah sajroning nindakake panggawe ala iku. Satemene banget nyusahake (dukkha) wohing tindak piala iku."
+
+msgid "118"
+msgstr "Yen ana manungsa tumindak utama, becike dheweke tansah wola-wali nindakake panggawe utama iku, lan rumangsa bungah atine jroning nindakake panggawe utama mau, satemene banget agawe begja (bahagia) wohing tindak utama iku."
+
+msgid "119"
+msgstr "Paraga tindak candhala rumangsa yen tumindake iku becik, samangsa wohing tindak ala iku durung mateng; nanging yen wohing tindak ala mau wis mateng, ing kono dheweke bakal anyurupi pikilehe tumindak ala."
+
+msgid "120"
+msgstr "Paraga tindak utama rumangsa kaya-kaya tumindake iku ora nyenengake, samangsa wohing tindak utama iku durung mateng, nanging menawa wohing tindak utama mau wis mateng, ing kono dheweke bakal ngrasakake pituwas-pituwas kang nyenengake."
+
+msgid "121"
+msgstr "Aja nganti ngremehake budi candhala, nadyan cilik, kanthi ngucap: 'Tumindak candhala iku ora bakal ana akibate'. Kayadene jun kang kebak banyu karana diklumpukake saka satetes, mengkono uga wong bodho kanthi ngumpulake tindak candala saka sethithik, bakal ngebaki dhirine mawa tindak candhala."
+
+msgid "122"
+msgstr "Aja nganti ngremehake tumindak becik, nadyanta mung sathithi, kanthi ngucap: 'Tumindak becik iku ora bakal ana akibate'. Kayadene sawijining jun kang kebak banyu kang diklumpukake saka satetes. Mangkono uga wong wicaksana kanthi ngumpulake kautaman saka sathithik, bakal ngebaki dhirine mawa kautaman."
+
+msgid "123"
+msgstr "Kayadene sudagar kang mung sathithik pengiringe, nggawa dhuwit akeh, arep nyimpangi dalam kang mbebayani lan kayadene wong sing tresna marang uripe bakal nyiriki racun, mangkono uga kudune manungsa anggone ngemohi bab-bab kang ora prayoga (jahat)."
+
+msgid "124"
+msgstr "Manungsa kang ora duwe tatu ing tangane, dheweke ora wedi nggegem racun; racun ora bakal gawe cilaka marang wong kang ora duwe tatu. Mangkono uga wong kang ora tumindak sandhala, mesthi kalis ing panandhang."
+
+msgid "125"
+msgstr "Sing sapa tumindak candhala marang wong utama, wong suci lan wong kang ora duwe kaluputan, ing kono pialane bakal mbalik ngenani wong bodho mau, kayadene debu/awu kang sinawurake mapag sangkaning angin."
+
+msgid "126"
+msgstr "Saperangan manungsa lahir saka kandhutan; paraga tindak candhala lahir ing alam naraka; manungsa kang kalakuane becik lahir ing alam swarga, dene manungsa kang tan kalepetan kekotoran batin nggayuh Nirwana (Nibbana)."
+
+msgid "127"
+msgstr "Ora ing langit, ora ing tengah-tengahing samodra, apa maneh ing gunung; ing ngendi wae ora bisa tinemokake papan padunungan tumrap manungsa, supaya bisa sesingidan murih kalis saka wohing tumindak candhala."
+
+msgid "128"
+msgstr "Ora ing langit, ora ing tengahing samodra, apa maneh ing bengkahan-bengkahan gunung; ing ngendi wae ora bisa tinemokake papan padunungan tumrap manungsa kanggo nyingidake awake, supaya kalis ing pati."
+
+msgid "chap10"
+msgstr "Paukuman"
+
+msgid "129"
+msgstr "Saben manungsa gumeter marang ukuman, saben manungsa wedhi marang pepati. Sawise nimbang-nimbang wong liya karo awake dhewe, ing kono manungsa kudune ora gelem memateni utawa njalari pepati."
+
+msgid "130"
+msgstr "Saben manungsa gumeter marang ukuman, saben manungsa tresna marang uripe. Sawise nimbang-nimbang wong liya karo awake dhewe, samesthine manungsa ora memateni utawa njalari pepati."
+
+msgid "131"
+msgstr "Sing sapa golek kabegjan kanggo awake dhewe, kanthi nganiaya titah-titah liya kang uga mbutuhake kabegjan, sawise mati dheweke ora bakal nggayuh kabegjan."
+
+msgid "132"
+msgstr "Sing sapa ngupaya kabegjan kanggo awake dhewe ora kanthi nganiaya titah-titah liya kang uga mbutuhake kabegjan, sawise mati dheweke bakal nggayuh kabegjan."
+
+msgid "133"
+msgstr "Aja ngucapake tembung-tembung kasar marang sapa wae, jalaran sing sapa ketaman ucap mangkono iku bakal mangsuli kanthi cara sing padha. Salugune banget nglarakake ati pangucap kang kasar iku, kayadene piwales kang bakal natoni kowe."
+
+msgid "134"
+msgstr "Lamun kowe bisa meneng kayadene gong pecah, ing kono kowe wis bisa nggayuh Nibbana. Pepenginan bakal males (rasa dhendhem), wis ora tinemu ing awakmu."
+
+msgid "135"
+msgstr "Kayadene sawijining pangon nggiring sapine mawa gitik menyang ara-ara, mengkono uga umur tuwa lan pati nggiring uripe kabeh titah."
+
+msgid "136"
+msgstr "Manawa wong cubluk nindakake pakarti candhala, dheweke ora ngerti apa pikolehe pakartine. Wong cubluk kesiksa dening pakartine dhewe, kayadene wong kang kaobong ing geni."
+
+msgid "137"
+msgstr "Sing sapa ngukum wong-wong kang ora samesthine diukum, kang ora tau nglarani liyan, ing kono dheweke bakal enggal nampa salah sijining kahanan kang kasebut iki:"
+
+msgid "138"
+msgstr "dheweke bakal ngrasakake lara kang banget, kacilakan, tatu awake, lara nemen utawa malah owah engetane."
+
+msgid "139"
+msgstr "utawa ditindhes dening ratu, utawa kena pendakwa sing abot, utawa kelangan sanak sadulur, utawa raja-branane entek,"
+
+msgid "140"
+msgstr "utawa omahe entek kobong lan sawise ragane ajur, wong bodho iku bakal lahir maneh (tumimbal lahir) ing alam neraka."
+
+msgid "141"
+msgstr "Ora amarga wuda, rambut diklabang, awak reged gupak endhut, pasa gumlethak ing lemah, nylorengi awake nganggo awu utawa lungguh jengkeng, kang bisa mahanani kasukeen marang manungsa ing ndonya kang durung uwal saka mangu-mangu (ragu-ragu)."
+
+msgid "142"
+msgstr "Sanajan wong ngngge klambi apik, nanging yen dheweke njaga katentremaning pikirane kang dikendhaleni, mantep, murni, lan ora nglarani titah-titah liya; ya mangkono iku salugune Brahmana, salugune Sramana utawa salugune Wiku."
+
+msgid "143"
+msgstr "Ing donya iki pranyata angel tinemune wong kang bisa ngendhaleni dhiri kanthi ndarbeni rasa wirang kanggo tumindak candhala, sarta waspada kayadene jaran kang wis digladhi becik, kanggo nyingkiri gitik."
+
+msgid "144"
+msgstr "Kaya jaran kang kagladhi becik, lamun digitik sepisan wae bakal gumregah lan banjur lumayu rikat. Mangkono uga wong kang taberi alam kebak rasa-agama, kanthi kapitayan, kanthi kasusilaan, sregep ulah samadi lan mempeng sinau Dhamma kanthi limambaran tindak-tanduk kang sampurna sarta tansah eling lan waspada; ing kono dheweke bakal mlayu ninggalake panandhang kang abot iki."
+
+msgid "145"
+msgstr "Tukang gawe dalan banyu, ngilekake banyu, tukang panah ngensengake paser (anak panah), tukang kayu ngeluk kayu, wong apik nelukake awake dhewe."
+
+msgid "chap11"
+msgstr "Umur Tua"
+
+msgid "146"
+msgstr "Yagene gumuyu, yagene bungah-bungah, menawa donya iki tansah kobong. Sawise kalimputan ing pepeteng, apa kowe ora kepingin golek cahya (pepadhang)."
+
+msgid "147"
+msgstr "Delengan raga kang endah iki, kebak tatu, dumadi saka othak-athikan balung, ngandhut lelara lan mbutuhake pangupakara, ora langgeng sarta ora tetep kahanane."
+
+msgid "148"
+msgstr "Raga iku temen-temen gapuk, dadi susuhing lelara lan banget ringkih. Tumpukan kang njejemberi iki, bakal remuk cuwil-cuwil. Salagune urip iki bakal dipungkasi, mawa pati."
+
+msgid "149"
+msgstr "Kayadene woh labu kang binuwang ing mangsa rontok, mangkono uga kadadeyane balung-balung kang putih iki. Apa nyenengake kanggone wong kang nyumurupi?"
+
+msgid "150"
+msgstr "Raga iki dumadi saka balung-balung kang tinutup ing daging lan getih. Ing kene dedunung kerusakan lan pepati, sipat kumingsun sarta kang palsu/semu."
+
+msgid "151"
+msgstr "Kreta-kreta kraton kang kebak rerenggan iku uga bakal gapuk, mangkono uga raga iki bakal dadi tuwa. Ananging Dhamma piwulange wong suci ora bakal gapuk. Salugune kanthi cara iki para suci mulangake kabecikan."
+
+msgid "152"
+msgstr "Manungsa kang ora gelem sinau, bakal dadi tuwa kayadene sapi lanang. Daginge saya tambah, nanging ora bisa mundhak kawicaksanane."
+
+msgid "153"
+msgstr "Liwat kelairan makaping-kaping aku lunga ngumbara. Jroning jantraning urip terus ngupaya, nanging ora bisa nemokake sapa sing gawe omah iki. Salugune banget nyusahake kelairan makaping-kaping iki."
+
+msgid "154"
+msgstr "O, tukang gawe omah, kowe wis daksumurupi. Kowe ora bakal gawe omah maneh. Kabeh payonmu wis runtuh, cagak lan blandarmu wis putung. Saiki batinku wis nggayuh tatanan Tanpa Sarat (Nibbana), lan pungkasane napsu pepinginan wis kagayuh."
+
+msgid "155"
+msgstr "Sapa kang ora nindakake urip suci, sarta ora nglumpukake kasugihan batin nalika isih enom, ing kono dheweke bakal ngenes (merana) kayadene manuk bango tuwa kang manggon ing sendhang tanpa iwak."
+
+msgid "156"
+msgstr "Sapa kang ora nindakake urip suci, sarta ora nglumpukake bandha sapatute nalika isih enom, ing kono dheweke bakal njerbabah nandhang sangsara, kayadene gandhewaning panah kang rusak, nggetuni mangsa kang wis kepungkur."
+
+msgid "chap12"
+msgstr "Dhiri Pribadi"
+
+msgid "157"
+msgstr "Lamun manungsa nresnani awake dhewe, ing kono dheweke kudu njaga pribadine kanthi becik. Wong kang wicaksana tansah waspada sajroning telung mangsa uripe (mangsa mudha, mangsa diwasa, mangsa umur tuwa)."
+
+msgid "158"
+msgstr "Prayogane manungsa bisa mapanake awake dhewe dhisik ing bab-bab kang patut, lan sabanjure nggladhi wong liya. Wong wicaksana sing tumindak kanthi cara iki, ing kono pribadine ora bakal cinedha."
+
+msgid "159"
+msgstr "Kayadene dheweke mulang wong liya, mangkono uga kudune dheweke tumindak kanggo awake dheweke. Sawise dheweke bisa nggladhi salira pribadi kanthi becik, banjur dheweke nggladhi wong liya. Satemene banget rekasa nggladhi awake dhewe iku."
+
+msgid "160"
+msgstr "Salira pribadi iku salugune ratu tumrap awake dhewe, awit sapa maneh kang bisa dadi ratu tumrape awake dhewe. Sawise sawijining manungsa bisa nggladhi awake dhewe kanthi becik, ing kono dheweke bakal oleh pangayoman kang banget rekasa panggayuhe."
+
+msgid "161"
+msgstr "Tindak candhala kang ditindakake dening salira pribadi, sarta disababake dening sarira pribadi, bakal nglebur wong cubluk, kaya dene inten kang ngremuk (nggiles) mripatan (sesotya) sing banget atose."
+
+msgid "162"
+msgstr "Wong kang kalakuane ala iku kayadene thukulan 'Maluva' kang mrambat nggubet wit 'sala', mesthi dheweke bakal tumindak kanggo butuhe dhewe, kayadene apa sing dikarepake mungsuhe tumrap dheweke."
+
+msgid "163"
+msgstr "Salugune gampang wae nindakake bab-bab kang ala lan ora migunani kanggo awake dhewe. Nanging satemene banget rekasa nindakake bab-bab kang migunani lan apik tumrap awake dhewe."
+
+msgid "164"
+msgstr "Wong cubluk kang duwe panemu-panemu sasar, banjur ngina piwulang-piwulange wong minulya, wong suci lan wong becik, ing kono wong cubluk mau bakal ngremuk awake dhewe, kayadene suket 'kastha' kang metu wohe mung kanggo ngremuk awake dhewe."
+
+msgid "165"
+msgstr "Dening salira pribadi tindak candhala ditindakake, dening salira pribadi uga sawijining manungsa dicacad (cineda). Dening salira pribadi tindak candhala ora ditindakake, dening salira pribadi uga manungsa dadi suci. Suci utawa ora suci gumantung marang salira pribadi, ora ana wong siji-sijia, kang bisa gawe suci wong liya."
+
+msgid "166"
+msgstr "Aja amarga kanggo kauntungan wong liya sing kepriye wae, manungsa banjur nglalekake kuwajiban kanggo awake dhewe. Kudune dheweke tanggon (tatag) nindakake tugas kuwajibane, sawise manungsa nyumurupi tujuan kang pungkasan (Nibbana) kanggo awake dhewe."
+
+msgid "chap13"
+msgstr "Donya"
+
+msgid "167"
+msgstr "Aja kayungyun marang kanisthan, aja tinggal kaprayitnan, aja nganut marang wawasan sasar, lan aja mangeran ing kadonyan."
+
+msgid "168"
+msgstr "Gumregaha! Aja lena! Lakonana panguripan bener! Sing sapa nglakoni panguripan bener, ing kono dheweke bakal urip mulya ing alam donya iki lan ing alam liyane."
+
+msgid "169"
+msgstr "Sayogyane manungsa urip salaras karo piwulang Dhamma lan ora nglakoni tindak candhala. Sing sapa uripe salaras karo piwulang Dhamma, ingkono dheweke bakal urip mulya ing alam donya iki lan ing alam liyane."
+
+msgid "170"
+msgstr "Sing sapa mawas donya iki kayadene weruh unthuk utawa kaya weruh wewayangan semu, ing kono Rajaning Pepati ora bakal bisa nemokake dheweke."
+
+msgid "171"
+msgstr "Coba delengan donya iki rak kaya kreta-kraton kang kebak rerenggan, kang njalari si cubluk katrem ing kono. Nanging tumrap wong kang waskitha, ing kono wis sepi ing pakareman mungguhing pribadine."
+
+msgid "172"
+msgstr "Sing sapa kang sakawit lumuh, nanging sabanjure ora lumuh, ing kono dheweke bakal nyawang jagad iki kaya rembulan kang kalis saka limputaning mega."
+
+msgid "173"
+msgstr "Sing sapa bisa nyingkirake tindak candhala, kang tau ditindakake, kanthi tumindak becik, ing kono dheweke bakal madhangi jagad iki kaya rembulan kang kalis saka limputaning mega."
+
+msgid "174"
+msgstr "Alam donya iki sinaput ing pepeteng, lan langka kang wikan. Kayadene manuk-manuk kang uwal saka jaring, mangkono uga langka manungsa kang bisa nggayuh Nirwana."
+
+msgid "175"
+msgstr "Kumpulan angsa mabur pinuju soroting surya, kanthi nggumunake kaliyan kuwi mabur ing gegana. Wong kang wicaksana sumingkir saka kadonyan sawise ngalahake Mara sa-wadyabalane."
+
+msgid "176"
+msgstr "Wong kang nerak salah sawijining piwulang Dhamma, kang demen goroh, kang ora melu marang uripe ing tembe mburi, ing kono tumrap dheweke ora ana kadurakan kang ora bisa ditindakake."
+
+msgid "177"
+msgstr "Satuhune wong cethil ora bakal bisa nggayuh alam kadewatan (swarga). Satuhune wong bodho ora bakal bisa ngajeni marang kabecikan. Nanging wong kang wicaksana suka nindakake dedana, mula saka iku dheweke bakal gembira ing alam candhake."
+
+msgid "178"
+msgstr "Luwih becik tinimbang dadi panguwasa ing bumi, luwih becik tinimbang nggayuh swarga, luwih becik tinimbang nguwasani jagad saisine. Mangkono tumrap panjenengane kang wis kasil nggayuh Sotapatti-phala."
+
+msgid "chap14"
+msgstr "Buddha"
+
+msgid "179"
+msgstr "Panjenengane kang wis ngasorake hardaning kanepson ora bakal bisa kasoran maneh dening napsu-napsu kang wis dikalahake lan wis ora ngetutake Panjenengane maneh. Marang Panjenengane, Sang Buddha, kang wis ora kadunungan tilas (napsu-napsu), sarta ndarbeni panguwasa kang tanpa wates iku, kanthi cara (dalan) apa sira bisa nggodha Panjenengane?"
+
+msgid "180"
+msgstr "Panjenengane kang wis ora bisa disasarake maneh dening napsu-napsu pepenginan kang njiret lan ngracuni, kang mangkono marang Panjenengane, Sang Buddha, kang wis tanpa tilas (napsu-napsu), sarta ndarbeni panguwasa kang tanpa wates iku, kanthi dalan apa sira bisa nggodha Panjenengane?"
+
+msgid "181"
+msgstr "Wong wicaksana kang mempeng semadine, sarta bungah sajroning katentremanpanglepasan, kang ndarbeni kawaspadan lan wis nggayuh Pepadhang Sampurna; kang mangkono iku, sanadyan para dewa uga bakal asih marang Panjenengane."
+
+msgid "182"
+msgstr "Angel banget dilahirake dadi manungsa, angel banget penguripane manungsa, angel banget bisane ngrungu Piwulang Kasunyatan, mangkono uga angel banget mungguh dumadine sawijining Buddha."
+
+msgid "183"
+msgstr "Ora nindakake laku nistha, nanging nengenake pakarti becik sarta sesuci batin; yaiku piwulange Para Buddha (Aja gawe piala marang liyan, Nandura kabecikan, Sucenana ati lan pikiran. Ya iku piwulange para Buddha)."
+
+msgid "184"
+msgstr "Kesabaran iku laku tanpa kang pinunjul. Nibbana iku luhur-luhuring kahanan, mangkono sabdane Para Buddha. Dheweke kang isih nyikara liyan, sejatine dudu wong kang wis tinggal bale-wisma (pabbaja). Dheweke kang isih sok nganiaya liyan sajatine dudu wong kang laku tapa (Samana)."
+
+msgid "185"
+msgstr "Ora ngina, ora milara, meper dhiri salaras karo pauugeran, dahar samadya, kersa dedunung ing papan kang sepi sarta nggegulang luhuring batin; yaiku piwulange Para Buddha."
+
+msgid "186"
+msgstr "Kemaremaning napsu indriya ora tinemu ing sajroning udan dhuwit emas. Napsu indriya mung mujudake kesenengan satleraman kang bakal owah dadi panandhang."
+
+msgid "187"
+msgstr "Mangkono wong wicaksana bisa nyumurupi bab iki kanthi trawaca, mula sanadyan urip ing alam kaswargan dheweke ora rumangsa sengsem. Mangkono siswane Sang Buddha Kang Maha Sampurna anggone tansah sengsem sajrone nglebur sakabehing pepinginan."
+
+msgid "188"
+msgstr "Akeh wong golek pangayoman menyang gunung-gunung, menyang alas-alas, menyang arama-arama, menyang wit gedhe, lan menyang papan-papan pamujan adhedhasar rasa wedhi."
+
+msgid "189"
+msgstr "Papan kang mengkono dudu pangayoman kang nentremake, dudu pangayoman kang utama."
+
+msgid "190"
+msgstr "Kanthi golek pangayoman kang mangkono iku, manungsa ora bakal bisa uwal saka panandhang."
+
+msgid "191"
+msgstr "Dheweke kang wis mangayom marang Sang Buddha, Dhamma lan Sangha; kanthi wicaksana wis bisa sumurup Kasunyatan Luhur Patang Bab yaiku: Panandhang, Sabab'e Panandhang, Sirnaning Panandhang lan Dalan Luhur Wulung Bab kang kanggo mungkasi Panandhang."
+
+msgid "192"
+msgstr "Kang mangkono satemene mujudake pangayoman kang utama. Kanthi golek pangayoman kang kaya mangkono iku manungsa bakal bisa uwal saka sakabehing Panandhang."
+
+msgid "193"
+msgstr "Angel ngupaya manungsa kang darbe Kawicaksanan Agung, sarta wong kang kaya mangkono iku ora linahirake ing sadhengah papan. Nanging ing ngendi wae wong kaya mangkono iku linahirake, ing kono kulawargane bakal nemu kabegjan."
+
+msgid "194"
+msgstr "Wiyose Para Buddha mujudake kabegjan. Piwulang Kasunyatan mujudake sabab kabegjan. Manunggaling Sangha mujudake sabab kabegjan. Lan pambudidayane kang wis manunggal mau mujudake sabab kabegjan."
+
+msgid "195"
+msgstr "Sing sapa asung pahormatan marang kang patut kinurmatan, yaiku Para Buddha utawa siswa-siswa Dalem Sang Buddha kang wis kasil nyingkirake pepalanging batin sarta wis kalis saka tangis lan kesedihan; dheweke iku gawe lelabet kang ora kena diukur mawa ukuran apa wae."
+
+msgid "196"
+msgstr "Sing sapa asung pahurmatan marang wong-wong suci, kang wis kalis saka rasa was-sumelang, dheweke iku gawe lelabet kang ora kena diukur mawa apa wae."
+
+msgid "chap15"
+msgstr "Kabegjan"
+
+msgid "197"
+msgstr "Saiba begjane yen kito urip kalis saka rasa sengit, sanajan ana ing satengahe wong kang padha sesengitan; ing satengahing wong kang padha sesengitan kito urip kalis saka rasa sengit."
+
+msgid "198"
+msgstr "Saiba begjane yen kito urip kalis saka lelara sanajan ing satengahe wong kang padha lelaranen; ing satengahing wong kang lelaranen kito urip kalis saka lelara."
+
+msgid "199"
+msgstr "Saiba bagjane yen kito urip kalis saka kamurkan sanajan ing satengahing wong kang padha ngumbar kamurkan; yen ing satengahing wong kang padha ngumbar kamurkan kito urip kalis saka kamurkan."
+
+msgid "200"
+msgstr "Saiba begjane yen kito ora kabanda dening rasa kamelikan. Kito bakal urip kanthi gembira kayadene para dewa ing alam Abhassara (sadhuwure alam swarga)."
+
+msgid "201"
+msgstr "Kemenangan nuwuhake rasa sengit, dene wong kang kasoran urip sajroning kasengsaran. Sawise uwal saka rasa menang lan kasoran, uga kang bisa uwal saka rasa pasulayan, bakal urip sajroning kabegjan."
+
+msgid "202"
+msgstr "Ora ana geni kang madhani panase hawa nafsu, ora ana piala kang madhani rasa sengit, ora ana panandhang kang bisa madhani dhapukan dumadi (khandha), lan ora ana kabegjan kang luwih luhur tinimbang katentremaning Nibbana."
+
+msgid "203"
+msgstr "Kaliren mujudake lelara kang abot dhewe. Sembarang kang dumadi saka dhedhapukan mujudake kasangsaran kang luwih gedhe. Sawise nyumurupi bab iki kanthi salugune, wong wicaksana bakal mangerteni Nibbana, kang mangkono iku mujudake kabegjan kang paling luhur."
+
+msgid "204"
+msgstr "Kasarasan iku kabegjan kang luwih gedhe. Kemareman iku bendha kang luwih aji. Keyakinan iku sedulur kang luwih becik. Nibbana mujudake kabegjan kang luhur dhewe."
+
+msgid "205"
+msgstr "Sawise ngrasakake jroning swasana kang sepi lan tentrem, ing kono dheweke bakal kalis saka keruwetaning bebrayan sarta ngrasakake kabungahan jroning Dhamma."
+
+msgid "206"
+msgstr "Ketemu Para Ariya iku becik, dedunung ing antarane Para Ariya iku mujudake kabegjan; manungsa bakal tansah rumangsa begja yen wis ora srawung karo wong cubluk."
+
+msgid "207"
+msgstr "Sawenehing wong kang kerep srawung karo wong cubluk, dheweke mesthi bakal tansah sesambat. Jalaran srawung karo wong-wong bodho mujudake panandhang, kayadene manggon awor karo mungsuh. Nanging tunggal saenggon karo wong wicaksana mujudake sawijining kabegjan kaya dene sanak kadang kang bebarengan kumpul."
+
+msgid "208"
+msgstr "Jalaran saka iku, bebarengan wong kang pinter, wicaksana, winasis, sregep lan mulya, sayogyane dheweke tansah ndederek marang wong kang becik, suci lan winasis iku, kayadene rembulan kang tutwuri lakuning lintang."
+
+msgid "chap16"
+msgstr "Katresnan"
+
+msgid "209"
+msgstr "Wong kang marsudi marang apa kang kudune ora dipersudi, lan ora marsudi marang apa kang kudune dipersudi, ninggalake apa kang becik lan kumraket marang sabarang kang nyenengake, ing kono dheweke bakal rumangsa meri marang kang padha sengkud nggladhi dhiri."
+
+msgid "210"
+msgstr "Aja kumraket marang apa kang ditresnani utawa kang digething. ora ketemu karo apa kang ditresnani lan ketemu karo apa kang digething, loro-lorone iku mujudake panandhang."
+
+msgid "211"
+msgstr "Mula saka iku aja nresnani apa wae, sabab pisah karo apa kang ditresnani iku nglarani ati. Wis ora ana maneh bebandan tumrap kang wis uwal saka rasa tresno utawa rasa gething."
+
+msgid "212"
+msgstr "Saka kang dieman tuwuh kesedihan, saka kang dieman tuwuh kekuatiran; tumrap kang wis uwal saka kang dieman-eman ora bakal ana maneh kesedihan lan kekuwatiran."
+
+msgid "213"
+msgstr "Saka tresna tuwuh kesedhihan, saka tresna tuwuh rasa kuwatir; tumrap kang wis uwal saka katresnan, ora bakal ana maneh kesedhihan lan rasa kuatir."
+
+msgid "214"
+msgstr "Saka rasa seneng tuwuh kesedhihan, saka rasa seneng tuwuh rasa kuwatir; tumrap wong kang wis uwal saka kesenengan, ora bakal ana kesedhihan lan kekuwatiran maneh."
+
+msgid "215"
+msgstr "Saka napsu tuwuh kesedhihan, saka napsu tuwuh kekuwatiran; tumrap kang wis uwal saka napsu, ora bakal ana maneh kesedhihan lan kekuwatiran."
+
+msgid "216"
+msgstr "Saka pepinginan tuwuh kesedhihan, saka pepinginan tuwuh kekuwatiran; tumrap kang wis uwal saka pepinginan, ora bakal ana maneh kesedhihan lan kekuwatiran."
+
+msgid "217"
+msgstr "Sing sapa ndarbeni kasusilan lan pamawas kang sampurna, teguh jroning Dhamma, tansah bener pangucape, nuhoni kuwajiban; wong kang kaya mangkono iku bakal tansah ditresnani dening sapa wae."
+
+msgid "218"
+msgstr "Sing sapa tuwuh pepinginane nggayuh kang Tan Kapratelakake (Nibbana), kang getering pikiran tumuju marang Wohing Kasucen luhur warna, kang batine wis ora kumraket marang kesenengan-kesenengan indriya, wong kang kaya mangkono iku sinebut: 'wis uwal, katut ilen-ilen kang tumuju menyang sungapan' (Anagami)."
+
+msgid "219"
+msgstr "Wong kang wis suwe lelungan adoh lan sabanjure mulih kanthi slamet, ing kono kulawarga, sanak kadang sarta mitra-mitrane bakal nanggapi kanthi gembira."
+
+msgid "220"
+msgstr "Mangkono uga tindak becik kang wis linakonan bakal tumindak marang wong kang nindakake, sanajan dheweke wis ngumbara saka alam donya iki menyang alam candhake; kayadene kulawarga kang nanggapi baline wong kang ditresnani."
+
+msgid "chap17"
+msgstr "Kanepson"
+
+msgid "221"
+msgstr "Becike enggala nyandhet hardaning kanepson lan piangkuh, becike enggala nguwali pamikuting kanepson. Wong kang wis ora kabanda dening batin lan jasmani, kang wis kalis saka napsu-napsu, wong iku ora bakal nemahi panandhang."
+
+msgid "222"
+msgstr "Sing sapa bisa ngendhaleni hardaning kanepson kaya ngendhaleni playune kreta, dheweke mungguh banget lamun sinebut kusir kang pinunjul, dene kusir liyane mung waton gondhelan apusing kendhali."
+
+msgid "223"
+msgstr "Asorna kanepsonmu kanthi tanpa kanepson lan asorna budi candhala kanthi kabecikan. Asorna watak cethil kanthi watak loma. Asorna si tukang apus krama kanthi watak temen."
+
+msgid "224"
+msgstr "Sayogyane padha temen ing wicara, sayogyane padha nyandhet kanepson, sayogyane padha dedana marang kang mbutuhake, sanajan mung sethithik. Kanthi tindak telung warna iki sira bakal bisa marak ing ngarsane para dewa."
+
+msgid "225"
+msgstr "Para Suci kang ora nyikara marang sesamaning dumadi lan tansah bisa meper dhiri pribadi, bakal tumeka ing kahanan kang kalis saka pepati (Nibbana); kanthi mangkono, Panjenengane (para Suci) bakal kalis saka kesedhihan."
+
+msgid "226"
+msgstr "Kang tansah padha eling, rina lan wengi tansah nggladhi dhiri, lan batine tumuju marang Nibbana, ing kono reregeding batine tumuli bakal sirna."
+
+msgid "227"
+msgstr "'O, Atula, bab iku wis ana wiwit biyen mula, lan ora mung saiki wae; yaiku panyacad marang wong kang anteng-meneng, panyacad marang wong kang akeh wicara, uga panyacad marang kang sethithik wicarane. Cekake, ora ana siji wae wong kang luput saka panyacad'."
+
+msgid "228"
+msgstr "Ora bakal tinemu; biyen, mbesuk, utawa saiki, wong kang mung tansah dicacad utawa tansah dialembana."
+
+msgid "229"
+msgstr "Sawise migatekake kanthi trawaca, wong wicaksana memuji marang kang nglakoni urip tanpa cacad, wasis sarta ndarbeni kasusilan lan Kawicaksanan Sampurna."
+
+msgid "230"
+msgstr "Sapata kang bisa nyacad marang kang pindha lantakan emas murni, kang para dewa tansah mangayubagya, mangkono uga para Brahma?"
+
+msgid "231"
+msgstr "Manungsa mono sayogyane tansah njaga lan ngendhaleni krodhaning badan wadhag. Sawise bisa mekak tindak nistha kang lantaran badan wadhag, becik tumuli sengkud nindakake kebecikan kang lelantaran badan wadhag."
+
+msgid "232"
+msgstr "Manungsa mono sayogyane tansah njaga lan ngendhaleni ubaling wicara. Sawise bisa mekak tindak nistha kang lelantaran wicara, becik tumuli sengkud nindakake kebecikan kang lelantaran wicara."
+
+msgid "233"
+msgstr "Manungsa mono sayogyane tansah njaga lan ngendhaleni pikirane. Sawise bisa mekak tindak nistha kang lelantaran pikiran, becik tumuli sengkud nindakake kabecikan kang lelantaran pikiran."
+
+msgid "234"
+msgstr "Para wicaksana kinendhalen tumindake, lan kinendhalen pangucape. Mengkono uga kinendhalen pikirane. Satuhune, para wicaksana mau dhiri pribadine wis bisa kinendhalen kanthi becik."
+
+msgid "chap18"
+msgstr "Rereged"
+
+msgid "235"
+msgstr "Dina iki sira kayadene godhong garing alum. Para utusaning Yama (rajaning Pepati) wis nganti. Sira wis ngadeg ing sangareping kori panguntaban, ewa samono sira durung darbe sangu kanggo lelaku iki."
+
+msgid "236"
+msgstr "Nyosowa pulo kanggo dhirimu pribadi. Enggala mbudidaya lan sucekna dhirimu dimen wicaksana. Sawise sesuci lan kalis saka rereged, ing kono sira bakal nggayuh alam kadewatan tumrap Para Ariya."
+
+msgid "237"
+msgstr "Saiki sira wis nyedhaki pungkasaning urip, lan sira wis wiwit lelaku tumuju ing ngarsane Yama (Rajaning Pepati). Tumrap sira ora ana papan palerenan ing dedalan, ing mangka sira durung darbe sangu kanggo lakunira."
+
+msgid "238"
+msgstr "Nyosowa pulo kanggo dhirimu pribadi. Enggala mbudidaya lan sucekna dhirimu dimen wicaksana. Sawise sesuci lan kalis saka rereged, ing kono sira ora bakal nemahi kelahiran lan pepati maneh."
+
+msgid "239"
+msgstr "Wong kang wicaksana mbrantas reregeding dhirine kanthi tlaten ing saben wanci, ajeg saka sethithik, kaya kemasan ngresiki perak saka rereged."
+
+msgid "240"
+msgstr "Kayadene taiyeng tumemplek ing wesi, kang yen tuwuh bakal ngrokoti wesi iku dhewe; mangkono uga tindak ala bakal ngloropake kang nindakake marang alam sing nyedhihake."
+
+msgid "241"
+msgstr "Ora apal mantra, mujudake cacad, suthik ngupaya, mujudake cacad tumrap bale-wisma. Watak lumuh ngadi salira mujudake cacad tumrap endahing warna, lan lena mujudake cacad tumrap wong kemit."
+
+msgid "242"
+msgstr "Asoring budi mujudake cacad tumrap saben wong. Watak cethil mujudake cacad tumrap kang suka dedana. Satuhune sakehing tindak candhala mujudake cacad, becik ing donya iki apa dene ing alam candhake."
+
+msgid "243"
+msgstr "Pepetenging budi (kebodhowan batin) mujudake cacad kang asor dhewe. 'O, para bhikkhu, enggal singkirna cacad iki, banjur nindakna urip kang tanpa cacad'."
+
+msgid "244"
+msgstr "Urip mono gampang tumrap kang ora idhep isin, kang tansah ngongasake dhiri kaya satriyane manuk gagak, suka mitenah, ora tepung subasita, sesongaran lan nindakake urip kang nistha."
+
+msgid "245"
+msgstr "Urip mono angel tumrap wong kang idhep isin, kang tansah ngudi kasucen, tanpa pamrih, andhap asor, kang nindakake urip suci lan kang kedunungan Pangerten Bener."
+
+msgid "246"
+msgstr "Sing sapa dhemen memateni, dhemen goroh, dhemen colong-jupuk, lan milik bojone liyan."
+
+msgid "247"
+msgstr "Utawa karem marang omben-omben kang mendemi, ing donya iki wong kang mangkono iku kayadene yasa luwangan kanggo ngubur awake dhewe."
+
+msgid "248"
+msgstr "Wong kang becik; sumurupa yen satemene ora gampang ngendhaleni pepenginan asor, kareben kamurkan lan budi nistha ora kongsi nglorobahke dhirimu marang jurang kasangsaran kang tanpa winates."
+
+msgid "249"
+msgstr "Wong bakal padha dedana laras karo antebing atine dhewe-dhewe. Jalaran saka iku sing sapa rumangsa meri marang rejekine liyan, ing kono dheweke ora bakal intuk katentremaning batin ing rina sawengine."
+
+msgid "250"
+msgstr "Ananging sapa wae kang wis bisa nyirnakake sakabehing rasa meri, mbrastha nganti saoyot-oyote, ing kono dheweke bakal intuk katentremaning batin, ing rina sawengine."
+
+msgid "251"
+msgstr "Ora ana geni kang madhani hawa napsu, ora ana jepitan kang madhani sesengitan, ora ana jaring kang madhani pepetenging batin, lan ora ana ilen-ilen kang bantere ngluwihi napsu pepinginan."
+
+msgid "252"
+msgstr "Kaluputaning liyan gampang disumurupi, nanging angel nyumurupi keluputane dhiri pribadi. Sawenehing wong bisa nuduhake kaluputaning liyan kaya napeni dhedhak, nanging dheweke ngumpetake kaluputane dhewe kaya si bandar-dadhu kang julig ngumpetake dhadhu sing bakal ngrugekake."
+
+msgid "253"
+msgstr "Sing sapa dhemen nliti kaluputaning liyan, tansah nggoleki kaluputaning liyan, ing kono bakal gedhe kanepsone lan dheweke bakal saya adoh saka panglebure reregeding batin."
+
+msgid "254"
+msgstr "Tanpa tapak ing angkasa, tegese ora ana wong suci ing sanjabane wewengkon Dhamma. Manungsa lumrahe dhemen marang kesenengan donya, nanging Para Tathagata wis uwal saka kesenengan-kesenengan donya iku."
+
+msgid "255"
+msgstr "Tanpa tapak ing angkasa, tegese ora ana wong suci ing sanjabane wewengkon Dhamma. Samubarang apa wae kang mawa sarat iku ora langgeng; bab iku tumrap Para Buddha wis ora mangro-tingal maneh."
+
+msgid "chap19"
+msgstr "Wong Adil"
+
+msgid "256"
+msgstr "Dheweke kang netepake sawijining perkara sarana grusa-grusu, ora patut disebut adil."
+
+msgid "257"
+msgstr "Wong kang wicaksana kudune nliti dhisik endi kang luput lan endi kang bener. Dheweke kang ngadili wong liya kanthi satimbang sarta ora grusa-grusu; wong kang mangkono iku patut sinebut wong adil."
+
+msgid "258"
+msgstr "Sawijining wong kang katelah wicaksana iku ora marga anggone mung pinter omong, nanging, wong kang ora duwe rasa gething, ora dhemen memungsuhan, ora duwe rasa was-sumelang; iku kang sinebut wong wicaksana."
+
+msgid "259"
+msgstr "Sawijining wong kang mung pinter omong iku dudu 'Panjurung Dhamma'. Sanajan wong iku mung kadhang-kala wae sinau, ananging batine weruh Dhamma sarta ora tau lirwa anggone nindakake; ya mangkono iku wong kang pantes sinebut 'Panjurung Dhamma' kang sejati."
+
+msgid "260"
+msgstr "Sawijining wong kang sinebut 'Luwih Tuwa/Thera' mono dudu karana wis putih rambute. Sanajan umure wis akeh, nanging watake isih tetep muda, wong iku mung pantes sinebut: 'wong tuwa kang ora migunani'."
+
+msgid "261"
+msgstr "Manungsa kang luhur panjangkane, becik bebudine, ambek welasan, tepa-slira, tekun ing gegulang, wasis, sarta tanpa cacad, kang mangkono iku dheweke patut sinebut 'Wong wicaksana/Wong kang luwih Tuwa (Thera).'"
+
+msgid "262"
+msgstr "Dudu karana mung pinter omong, sarta uga dudu saking bagus rupane, sawijining wong bisa malih dadi wong kang becik bebudine, manawa dheweke isih duwe pambek meri, cethil sarta sok tumindhak cidra."
+
+msgid "263"
+msgstr "Sing sapa wis mapras, njabut sarta wis medhoti oyoting drengki, srei sarta cidra; wong wicaksana mangkono iku (kang wis sumingkir saka panasbaran) sajatine mungguh banget lamun dheweke sinebut wong becik."
+
+msgid "264"
+msgstr "Sawijining wong kang ora duwe rasa tanggung jawab lan disiplin, ora nyata ucape, sanajan wis nyukur resik jenggot lan rambute, mokal banget menawa dheweke iku laku tapa-brata (Samana)."
+
+msgid "265"
+msgstr "Luwih ora tinemu nalar menawa dheweke kang isih kegedhen suprih/pamrih, bakal bisa laku tapa-brata. Nanging sok sapa'a bisa nelukake kabeh kamurkane sing gedhe utawa sing cilik, dheweke patut sinebut 'samana' (wong laku tapa-brata)."
+
+msgid "266"
+msgstr "Ora saben wong pantes sinebut bhikkhu, menawa dheweke isih dhemen njejaluk marang liyan. Luwihdene ora patut sinebut bhikkhu menawa pratingkahe isih kaya wong kang sesomahan."
+
+msgid "267"
+msgstr "Adhedhasar wewaton iki, panjenengane kang wis bisa ngawekani bebuden ala lan becik, ambek suci sarta nyumurupi uripe ing donya iki, kang patut sinebut bhikkhu."
+
+msgid "268"
+msgstr "Ora karana anteng utawa alim, wong cubluk disengguh wong suci (Muni); ananging wong wicaksana kang pinter milih apa sing apik sarta nyimpangi apa sing ala, kayadene lekase wong nyangga piring loro kang ora padha abote, kang mangkono iku patut disebut wong suci."
+
+msgid "269"
+msgstr "Karena dheweke bisa milih apa kang becik sarta nyimpangi apa kang ala, mula dheweke sinebut wong suci. Mangkono uga, dheweke kang wis ngerti bedane jagad werna loro (ala lan becik) patut sinebut wong kang suci."
+
+msgid "270"
+msgstr "Sawijining wong ora patut sinebut luhur ing budi (ariya), menawa isih sok mamateni sapepadhane urip. Nanging dheweke kang wis ora tau memateni sarta ora sok nyikara sapepadhane urip; iku kang patut sinebut wong kang luhur ing budi (Ariya)."
+
+msgid "271"
+msgstr "Dudu mung sarana sila lan tekad, uga dudu karana jembar kawruhe, utawa wis nggayuh mekaring semadi, sarta uga dudu karana manggon ing papan kang sepi; Banjur ngudarasa: 'Aku wis kagayuh dening manungsa kang isih nglakoni urip kadonyan'."
+
+msgid "272"
+msgstr "O, para bhikkhu, aja sira rumangsa marem lamun durung bisa nggayuh sirnaning sesuker (rereged)-ing batinira."
+
+msgid "chap20"
+msgstr "Marga"
+
+msgid "273"
+msgstr "Sakabehing dalan kang ana iku, mung Marga Mulya Wulung Bab kang apik dhewe; sakabehing kanyatan kang sanyata iku mung Kasunyatan Mulya Patang Prakara; ing sakabehing bab iku, mung pamudharan napsu indriya kang luwih dening becik; sarta ing antarane titah kang sikil loro, ing kono mung manungsa kang bisa 'weruh' kang luwih becik."
+
+msgid "274"
+msgstr "Ya iku siji-sijine dalan. Ora ana dalan liyane kang bisa nggawa marang Pepadhang Sejati. Turuten dalan iki, dalan kang bisa nyasarake Mara."
+
+msgid "275"
+msgstr "Sarana nurut dalan iki kowe bisa mungkasi panandhang. Ya dalan iki kang dituduhake dening Sang Buddha, sawise Panjenengane pana kepriye cara anggone njabuti eri (leletheking batin)."
+
+msgid "276"
+msgstr "Kowe dhewe kang kudu mbudidaya, dene Para Tathagata (Sang Buddha) mung nuduhake dalane. Mula para kang padha mempeng ulah semadi sarta nurut dalan iki, bakal udhar saka panjireting Mara (panggoda)."
+
+msgid "277"
+msgstr "Samubarang kang dumadi saka bebakalan (sabab-musabab), dhapukan-dhapukan sarta reroncen-reroncen iku mawa sarat lan ora langgeng anane; menawa sarana kawicaksanane manungsa bisa ngawekani bab iki, ing kono dheweke bakal rumangsa jeleh marang panandhang. Ya iki dalan kang tumuju marang Kasucen sejati."
+
+msgid "278"
+msgstr "Samubarang kang dumadi saka sabab-musabab, dhapukan-dhapukan, reroncen-reroncen iki kabeh kebak panandhang; menawa sarana kawicaksanane manungsa bisa ngawekani bab iki, ing kono dheweke bakal rumangsa jeleh marang panandhang. Ya iki dalan kang tumuju marang kasucen sejati."
+
+msgid "279"
+msgstr "Samubarang iku kahanane tanpa baku; Menawa sarana kawicaksanane manungsa bisa ngawekani bab iki, ing kono dheweke bakal rumangsa jeleh marang panandhang. Ya iki dalan kang tumuju marang kasucen sejati."
+
+msgid "280"
+msgstr "Sanajan ana wong isih enom sarta rosa, nanging yen dheweke lumuh, ora mbudidaya samangsa kudu mbudidaya sarta rendhet daya pamikire; ing kono dheweke ora bakal bisa nemokake dalan kang bisa nuju marang kawicaksanan."
+
+msgid "281"
+msgstr "Sayogyane dheweke prayitna ing pangucap, ngendhaleni pikirane kanthi becik sarta ora tumindak ala lumantar jasmanine. Sayogyane dheweke nyucekake batin sarana rumeksa marang kamurnening tindak telung prakara iku. Mangkono ategas bisa nindaki dalan kang wis kabarake dening Para Suci."
+
+msgid "282"
+msgstr "Sajatine saka semadi bakal tuwuh kawicaksanan; tanpa semadi kawicaksanan bakal surem. Sawise ngawuningani dalan loro-lorone kang nuju marang megar lan mingkuping kawicaksanan, sayogyane manungsa nglatih dhiri murih megaring kawicaksanan."
+
+msgid "283"
+msgstr "O, para Bhikkhu, bebaten alas-napsu, awit karana saka alas iku tuwuh rasa jirih. Sawise mbabat alas lan grumbul-napsumu, sira bakal dadi wong kang ora duwe napsu."
+
+msgid "284"
+msgstr "Sasuwene grumbulaning napsu pepinginane priya marang wanita durung kasirnakake kanthi resik, ing salawase wong iku isih tansah kabanda dening panguripan, kayadene anak sapi kang isih nusu; uripe tansah gumantung marang biyunge."
+
+msgid "285"
+msgstr "Punggelen rasa tresna marang awak-mu dhewe, kayadene methik kembang trate putih ing mangsa rontog. Perdinen dalan katentreman, yaiku Nirwana/Nibbana kang wis kababarake dening Sang Sugata (Sang Buddha)."
+
+msgid "286"
+msgstr "'Ing kene aku bakal manggon sasuwene mangsa rendheng; ing kene aku bakal manggon ing mangsa bedhidhing, lan ing kene aku bakal manggon ing mangsa katiga'. Mangkono pangudarasane wong cubluk; ananging dheweke katlompen marang bebaya kang bakal tumanduk ing awake dhewe."
+
+msgid "287"
+msgstr "Dheweke kang pikirane kraket marang anak lan raja-kaya ing kono 'pati' bakal nyeret sarta ngentirake dheweke, kayadene banjir-bandhang bakal ngentirake sawijining desa kang wargane lagi lena."
+
+msgid "288"
+msgstr "Dudu anak kang bisa ngayomi, mangkono uga bapa-biyung utawa sanak sadulur. Tumrap wong kang lagi ngadhepi sekarat, ing kono sanak-sadulure ora bisa ngayomi dheweke."
+
+msgid "289"
+msgstr "Sawise ngawekani kanyatan iki, ing kono wong wicaksana kang ngendaleni dhirine sarana Sila, ora bakal mbuwang wektu; dheweke enggal ngresiki dalan kang tumuju marang Nibbana."
+
+msgid "chap21"
+msgstr "Kembang Setaman"
+
+msgid "290"
+msgstr "Menawa sarana ngeculake kabegjan kang cilik wong bisa oleh sawijining kabegjan kang luwih gedhe, ing kono sayogyane wong wicaksana ngeculake kabegjan kang luwih cilik iku, minangka bisane oleh kabegjan kang luwih gedhe."
+
+msgid "291"
+msgstr "Sing sapa kapidereng/kepengin banget kabegjan tumrap awake dhewe sarana gawe kapitunaning liyan. Dheweke ora bisa uwal saka gegething, dheweke bakal kajiret dening rasa gething."
+
+msgid "292"
+msgstr "Wong kang nindakake samubarang kang samesthine ora kudu katindakake; sarta ora nindakake samubarang kang mesthine kudu katindakake, ing kono leletheking batin bakal terus tumuwuh ing dhirine wong kang kumalungkung lan lumuh kaya mangkono iku."
+
+msgid "293"
+msgstr "Para kang tansah nggegulang ngulatake badan jasmanine, ora nindakake apa kang kudune ora katindakake sarta tansah nindakake apa kang kudune katindakake, leletheking batine bakal sirna saka wong kang darbe kawaspadan sarta pangerten kaya mangkono iku."
+
+msgid "294"
+msgstr "Sawise mrawasa ibu (napsu pepenginan) lan bapak (kesombongan), sarta satriya loro (tindak, wawasan keras utawa ekstrim bab kalanggengan lan kamusnan); sarta sawise mbedhah negara (lawangindriya) sarta kabeh mantri-mantrine (rasa kumraket), ing kono sawijine brahmana bakal lunga tanpa kasedhihan."
+
+msgid "295"
+msgstr "Sawise mrawasa ibu sarta bapak; raja loro kang adil paramarta, sarta nglebur dalan limo kang kebak dening bebaya (pepalanging batin limang warna), ing kono sawijine brahmana bakal lunga tanpa kasedhihan."
+
+msgid "296"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha tansah angesthi sipat-sipat Mulyane Sang Buddha sarana tansah weweka."
+
+msgid "297"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha tansah angesthi sipat Mulyane Dhamma sarana kebak ing Weweka."
+
+msgid "298"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha tansah angesthi sipat-sipat mulyane Shangha sarana kebak ing Weweka."
+
+msgid "299"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha tansah angesthi sipat-sipate badan jasmanine sarana kebak ing Weweka."
+
+msgid "300"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha bungah-bungah ing swasana batin kang wis uwal saka kawengisan."
+
+msgid "301"
+msgstr "Para siswane Gotama wis gumregah tangi sarta tansah eling; rina lan wengi padha mempeng ulah semadi."
+
+msgid "302"
+msgstr "Angel banget nglakoni urip tanpa omah (pabbaja); angel banget suko gembira ing sajrone urip tanpo omah. Urip bebrayan iku angel sarta nglarani ati. Srawung karo wong kang ora disenengi uga nglarani ati. Urip ngumbara sajrone 'samsara' uga nglarakake. Karana iku aja dadi klana, ngumbara sajrone 'samsara', utawa mburu kasangsaran."
+
+msgid "303"
+msgstr "Tumrap manungsa kang ndarbeni piandel sarta Sila kang sampurna, kang ndarbeni asma arum sarta kasugihan, lunga marang panggonan ing ngendi wae bakal tansah dihurmati."
+
+msgid "304"
+msgstr "Sanajan saka kadohan, wong becik bakal katon sumunar, kayadene pucaking gunung Himalaya. Ananging sanajan cedhak, wong kang candhala ing budi ora bakal dihurmati, kayadene pasere panah kang linepasake ing wanci wengi."
+
+msgid "305"
+msgstr "Dheweke kang lungguh ijen, sare ijen, lumaku ijen lan sregep ngopeni awake dhewe, bakal ngrasakake kabegjan dedunung ing alas."
+
+msgid "chap22"
+msgstr "Neraka"
+
+msgid "306"
+msgstr "Wong kang ucape tansah ora bener, lan wong kang sawise tumindak banjur kandha: 'Aku ora nindakake', bakal lumebu ing neraka. Wong sakarone kang pakartine nistha iku, duwe karma kang padha ing jagad sabanjure."
+
+msgid "307"
+msgstr "Akeh manungsa kang nganggo jubah kuning kang tumindake ora pantes sarta ora ngendhaleni pakartine. Karana saka pakarti-pakarti kang ora pantes iku dheweke padha bakal lumebu ing neraka."
+
+msgid "308"
+msgstr "Luwih becik ngulu bal-wesi mengangah, tinimbang karo wong kang kalakuwane ala sarta ora bisa ngandhaleni dhiri, kang mangane tansah njagakake peparinge liyan."
+
+msgid "309"
+msgstr "Wong kang kalepyan sarta laku bandrek lan bojone liyan bakal nemahi patang bab; Kapisan: dheweke bakal oleh akibat ala; kapindho: dheweke ora bisa turu kanthi tentrem; katelu: cinedha asmane; sarta kapat: dheweke bakal lumebu ing neraka."
+
+msgid "310"
+msgstr "Dheweke bakal methik woh-ing pakarti ala sarta kalairake ing alam asor ing sajrone uripe kang bakal tumeka. Banget cendhake kanikmatan kang dialami dening priya utawa wanita kang laku sedheng lan garwane liyan. Dheweke bakal gumeter samangsa ngadhepi paukuman kang abot saka negara."
+
+msgid "311"
+msgstr "Kayadene suket Kusa menawa kliru panyekele bakal mbeler tangan; mangkono uga jagading para tapa, menawa sisip pangetrape bakal nyeret marang Neraka."
+
+msgid "312"
+msgstr "Sawijining pagaweyan kang katindakake kanthi sakepenake; sawijining tekad kang katindakake ora kaya samesthine, panguripan suci kang ora katindakake kanthi tulusing ati; njalari kabeh mau ora bakal ngasilake paedah kang gedhe."
+
+msgid "313"
+msgstr "Sayogyane manungsa nindakake sarana tulusing ati tumrap apa kang kudu katindakake. Sawijining jejibahan suci kang katindakake kanthi sakepenake wae bakal nenangi hardaning napsu kang luwih gedhe."
+
+msgid "314"
+msgstr "Sawijining manungsa luwih becik ora nindakake pakarti ala, awit ing dina wekasane pakarti mau bakal nyiksa dheweke. Sawijining manungsa luwih becik nindakake pakarti kang utama, awit sawise nindakake dheweke ora bakal getun."
+
+msgid "315"
+msgstr "Kayadene tapel wates sawijining negara kang ing njaba lan njerone dijaga kanthi santosa, mangkono uga sayogyane kowe ngreksa dhiri-mu; sarta aja mbuwang kalamangsa kang becik iki. Awit kang padha mbebecer kalamangsa iki bakal banget sedhihe samangsa tumitah ing alam neraka."
+
+msgid "316"
+msgstr "Wong kang padha rumangsa isin marang apa kang sejatine ora ngisin-ngisini, sarta ora rumangsa isin marang apa kang sejatine ngisin-ngisini; wong-wong kang padha nggilut wawasan luput kaya mangkono iku bakal lumebu ing alam kasangsaran."
+
+msgid "317"
+msgstr "Wong kang padha rumangsa wedhi marang apa kang sejatine ora medeni sarta wong kang padha ora rumangsa wedhi marang apa kang sejatine medeni; wong-wong kang nggilut wawasan luput mangkono iku bakal lumebu ing alam kasangsaran."
+
+msgid "318"
+msgstr "Dheweke kang padha nganggep cinedha marang apa kang sajatine ora cinedha sarta nganggep ora cinedha marang apa kang sajatine cinedha; dheweke kang padha nganut wawasan nyasar mangkono iku bakal nemahi kasangsaran."
+
+msgid "319"
+msgstr "Dheweke kang padha mangerti marang apa kang cinedha iku pancen nyata cedha, sarta apa kang ora cinedha iku pancen nyata ora cedha; dheweke kang padha nganut wawasan bener mangkono iku bakal nggayuh alam kabegjan."
+
+msgid "chap23"
+msgstr "Gajah"
+
+msgid "320"
+msgstr "Kayadene sawijining gajah ing madyaning paprangan kang ora gigrig nadhahi panempuhing jemparing kang linepasake gandhewa, mangkono uga aku bakal sabar ngadhepi pisunaning liyan."
+
+msgid "321"
+msgstr "Dheweke padha nuntun gajah kang wis kagladhi ing sangarepe wong akeh, sarta para raja padha nunggang gajah kang wis kagladhi. Ing antarane umat manungsa kang sanyata apik yaiku wong kang bisa sabar ngadhepi pamisunaning liyan."
+
+msgid "322"
+msgstr "Kuldi-kuldi kang kagladhi iku apik banget, mangkono uga jaran-jaran sindu sarta gajah-gajahing paprangan darbeke para priyagung. Ananging sanajan dikaya apa becike isih luwih becik manungsa kang wis bisa nelukake awake dhewe."
+
+msgid "323"
+msgstr "Sarana numpak tetunggangan kaya mangkono iku manungsa ora bisa lunga menyang panggonan kang durung tau ditekani (Nibbana). Beda kalawan wong kang wis bisa ngendhaleni pribadine, bisa nguwasani dhiri pribadine kang wis katelukake sarta wis digegulang kanthi becik, bisa lunga menyang panggonan kang durung tau ditekani."
+
+msgid "324"
+msgstr "Ing mangsa nangkarake turune, gajah ganas kang aran Dhanaphala angel dikendhaleni; sanajan cinancang kanthi santosa dheweke ora gelem mangan, awit dheweke kayungyun banget marang gajah-gajah ing sajroning alas."
+
+msgid "325"
+msgstr "Sawijining wong kang lumuh tur kemalan daging (pelepah), seneng turu gulang-guling mrana-mrene ing sadhuwuring paturon, kayadene babi (gedhe) kang seneng gulung-gulung ing wadhah pangane, lan wong bodho iku bakal terus tumitah wola-wali."
+
+msgid "326"
+msgstr "Duk inguni (dhek biyen) pikiran iki ngumbara, lunga menyang panggonan-panggonan kang disenengi, dituju sarta dikarepake. Saiki aku bakal ngendhaleni pikiranku kanthi permati, kayadene sawijining srati (pangon gajah) ngendhaleni utawa nglatih gajah."
+
+msgid "327"
+msgstr "Padha bungah-bungah ing sajroning kawaspadan sarta reksanen pikiranmu kanthi becik; mardikakna pikiranmu saka cara-cara kang ora bener, kayadene gajah ngentasake awake kang kebledhes ing endhut."
+
+msgid "328"
+msgstr "Manawa ing sajrone ngumbara kowe kepethuk kanca kang becik bebudene, pinter sarta wicaksana, sayogyane kowe lumaku bebarengan lan dheweke kanthi senenging ati, sinartan kawigaten kang sayekti bisa nanggulangi sakabehing bebaya."
+
+msgid "329"
+msgstr "Manawa ing sajroning ngumbara kowe ora kepethuk kanca becik bebudene, pinter sarta wicaksana, sayogyane kowe lumaku tanpa kanthi, kayadene ratu kang ninggalake negarane kang wis dikalahake, utawa kayadene sawijining gajah kang ngumbara ijen ing alas."
+
+msgid "330"
+msgstr "Luwih becik ngumbara ijen, sarta ora srawung karo wong cubluk. Mangkata ngumbara ijen lan aja tumindak jahat; uripa mardika (ora kakehan urusan), kayadene gajah ngumbara ing alas tanpa rowang."
+
+msgid "331"
+msgstr "Begja banget manawa duwe kanca ing wanci kabutuhake; begja banget manawa bisa marem marang apa kang kagayuh; begja banget bisa nindakake kabecikan sadurunge ajal-ulihan (ing kalane lagi sekarat); lan begja banget lamun bisa mungkasi panandhang."
+
+msgid "332"
+msgstr "Tumindak becik marang ibu mujudake sawijining kabegjan ing ndonya iki; tumindak becik marang bapa uga sawijining kabegjan. Tumindak becik marang para pandhita mujudake sawijine kabegjan ing ndonya iki; mangkono uga, tumindak becik marang para Suci mujudake sawijining kabegjan."
+
+msgid "333"
+msgstr "Sila nuwuhake kabegjan tumekaning umur tuwa; keyakinan kang tumanem bakal nuwuhake kabegjan; kawicaksanaan kang wis ginayuh bakal nuwuhake kabegjan; mangkono uga, ora tindak candhala bakal nuwuhake kabegjan."
+
+msgid "chap24"
+msgstr "Napsu Pepenginan"
+
+msgid "334"
+msgstr "Tumrap manungsa kang kalepyan uripe, ing kono napsu pepenginane tuwuh kayadene tanduran mrambat 'maluva'. Dheweke mlumpat saka panguripan kang siji marang panguripan liyane, kayadene kethek kang seneng woh-wohan colat-colot ing alas."
+
+msgid "335"
+msgstr "Ing ndonya iki, sing sapa kawasesa dening napsu pepenginan kang mawa racun sarta nistha iku, ing kono kasedihan bakal terus ngembara, kayadene suket 'virana' kang kasiraman banyu kanthi becik."
+
+msgid "336"
+msgstr "Ing ndonya iki, sing sapa bisa ngalahake napsu pepenginan kang mawa racun angel tinumpes iku, ing kono kasedhihan bakal sumingkir saka sajroning dhirine, kayadene banyu kang tumetes saka godhong trate."
+
+msgid "337"
+msgstr "Dak andharake marang sira kabeh: Muga-muga sira kabeh kang wis andher ing kene antuk karaharjan. Bedholen hardaning napsu pepenginan sak-oyot-oyote, kayadene wong kang njabut oyote suket 'Virana' kang arum gandane. Supaya Mara ora ngrabasa sira maneh, kayadene santering banyu kali kang nglarudake suket alang-alang kang tuwuh ing sapinggire."
+
+msgid "338"
+msgstr "Kayadene sawijining wit, sanajan wis ditegor bakal thukul semi maneh manawa oyot-oyote isih rosa sarta ora kasirnakake. Sasuwene oyote napsu pepenginan ora kasirnakake, ing kono panandhang bakal mawola-wali tuwuh maneh."
+
+msgid "339"
+msgstr "Manawa hardaning napsu pepenginan 36 warna, kang mili santer tumuju marang lesan-lesan kang nyenengake, ing kono alune pikiran-pikiran kang kebak dening napsu bakal nyeret wong kang darbe wawasan nyasar kaya mangkono iku."
+
+msgid "340"
+msgstr "Ing ngendi-endi mili (napsu pepinginan); ing ngendi-endi tetuwuhan rambatan thukul mrambat. Menawa kowe manoni tetuwuhan rambat mrajak ngambrah-ambrah, ing kono kowe kudu munggeli oyote sarana lading (kawicaksanan)."
+
+msgid "341"
+msgstr "Sajrone dhiri-pribadi titah-titah tuwuh rasa sengsem tumuju marang lesan-lesaning indriya, sarta dheweke banjur kapikut dening pepenginan-pepenginan indriya. Karana kapidereng marang bab-bab kang nyenengake, mburu kanikmatan-kanikmatan indriya, ing kono dheweke dadi korbane kelahiran umur tuwa."
+
+msgid "342"
+msgstr "Titah-titah kang kabanda dening napsu pepenginan, lumayu mrana-mrene kayadene truwelu kang klebu ing pasangan. Karana kabanda sarta kablenggu, dheweke nemahi panandhang wola-wali wektu kang suwe."
+
+msgid "343"
+msgstr "Titah-titah kang kabanda dening napsu pepenginan, lumayu mrana-mrene kayadene truwelu kang klebu ing pasangan. Karana iku, sawijining bhikkhu kang kepengin dhiri pribadine mardika, dheweke kudu mbuwang napsu-napsu pepenginane."
+
+msgid "344"
+msgstr "Sawise uwal saka pepenginan, urip sesomahan, banjur nglakoni urip mertapa. Nanging yen dheweke isih mbaleni kesenengan-kesenengan mau, wong kang mangkono iku ateges isih durung uwal saka bebandaning napsu-pepenginan."
+
+msgid "345"
+msgstr "Wis kaandhaake dening wong wicaksana, menawa bebandan kang kagawe saka rami, kayu, utawa wesi pisan, iku ora santosa. Ananging, bebandan marang anak-bojo sarta bandha-donya, sejatine bebandan kang luwih santosa."
+
+msgid "346"
+msgstr "Wis kaandhaake dening wong wicaksana, menawa bebandan kang kaya mangkono iku santosa banget, bisa ngunsalake wong mangisor; alus sarta banget angel wudhar-wudharane. Ananging senajan mangkono para wicaksana bisa medhotake bebandan iku, ing kono dheweke pada ninggal kadonyan, tanpa bebandan, sarta ngeculake kesenengan-kesenengan indriya."
+
+msgid "347"
+msgstr "Dheweke kang katrem marang napsu indriya bakal tumiba ing cakramangilanganing urip, kayadene kala-mangga kang tiba ing sajrone jaring gaweyane dhewe. Ananging para wicaksana uga bisa nugel bebandan iku, dheweke padha ninggal kadonyan, tanpa bebandan sarta ngeculake kesenengan-kesenengan indriya."
+
+msgid "348"
+msgstr "Tinggalen apa kang wis kapungkur, kang bakal tumeka, utawa kang saiki (kraket marang panggodhane panca-indriya), sarta nggayuha Gisiking Sabrang (Nibbana). Sarana pikiran kang wis mardika, kowe ora bakal nemahi lahir sarta umur tuwa maneh."
+
+msgid "349"
+msgstr "Wong kang pikirane goroh, karegem dening napsu, sarta mung maspadakake marang bab-bab kang nyenengake, bakal terus wuwuh hardaning pepenginane. Sajatine wong kang kaya mengkono iku mung bakal nyingseti blenggune dhewe."
+
+msgid "350"
+msgstr "Wong kang bungah ing sajroning nentremake pikirane; mempeng nyatitekake marang bab-bab kang njejemberi (minangka lesan sajroning semadi), sarta tansah eling, ing kono dheweke bakal bisa mungkasi sakabehing hardaning pepenginan, sarta nyirnakake bebandaning Mara."
+
+msgid "351"
+msgstr "Wong kang wis nggayuh marang gegayuhan kang pungkasan, dheweke wis ora duwe was-sumelang, cedha batin, sarta napsu pepenginan; dheweke wis munggel ruji-rujining urip. Tumrap wong Suci (Arahat) mangkono iku, jasad iki minangka jasade kang pungkasan."
+
+msgid "352"
+msgstr "Manungsa kang wis kalis saka napsu pepenginan, ora kraket marang apa wae, mumpuni ing saliring kawruh (Dhamma), ing kono wus mungguh banget lamun sinebut: 'kang darbe jasad pungkasan' (Arahat), manungsa kang sinung kawicaksanan Agung, sawijining manungsa 'Sampurna'."
+
+msgid "353"
+msgstr "Aku wis ngasorake sakabehing. Aku wis ngawekani sakabehing. Aku wis ninggalake sakabehing. Sawise nyirnakake hardaning pepenginan aku sanyata mardika. Sawise ngawekani samubarang sarana pambudidayaku dhewe, sapa baya kang patut daksebut guru?"
+
+msgid "354"
+msgstr "Dedana Dhamma ngalahake sakabehing dedana liyane; Rasaning Dhamma ngalahake sakabehing rasa liyane; kabungahan sajroning Dhamma ngalahake sakabehing kabungahan liyane. Manungsa kang wus nyirnakake hardaning pepenginan bakal ngalahake sakabehing panandhang."
+
+msgid "355"
+msgstr "Kasugihan bakal nyirnakake wong kang bodho, ananging ora bisa nyirnakake dheweke kang padha ngupaya Gisiking Sabrang (Nibbana). Karana srakah marang kasugihan, wong bodho bakal nyirnakake liyan sarta awake dhewe."
+
+msgid "356"
+msgstr "Suket-suket mahanani bebaya tumrap tegal lan sawah; napsu pancaindriya mahanani bencono tumrap manungsa. Karana iku, misungsung marang para kang wus kalis saka hardaning pancaindriya bakal nuwuhake kanugrahan gedhe."
+
+msgid "357"
+msgstr "Suket-suket iku mahanani bebaya tumrap tegal lan sawah; rasa benci mahanani bencono tumrap manungsa. Karana iku, misungsung marang kang wus kalis saka rasa benci bakal nuwuhake kanugrahan gedhe."
+
+msgid "358"
+msgstr "Suket-suket iku mahanani bebaya tumrap tegal lan sawah; pepetenging batin iku mahanani bencono tumrap manungsa. Karana iku, misungsung marang para kang wus kalis ing pepetenging batin bakal nuwuhake kanugrahan gedhe."
+
+msgid "359"
+msgstr "Suket-suket iku mahanani bebaya tumrap tegal lan sawah; pepenginan mahanani dahuru tumrap manungsa. Karana iku, misungsung marang kang padha kalis ing hardaning pepenginan bakal nuwuhake kanugrahan gedhe."
+
+msgid "chap25"
+msgstr "Wiku"
+
+msgid "360"
+msgstr "Rumeksa pigunane mripat iku becik; mangkono uga rumeksa pigunane talingan; rumeksa pigunane irung iku becik, mangkono uga lidhah kang rineksa ing pigunane."
+
+msgid "361"
+msgstr "Pratingkah kang dikendhaleni iku becik, pocapan kang dikendhaleni iku becik; pikiran kang dikendhaleni iku becik; sakehing bab kang dikendhaleni iku becik. Sawijine wiku kang wis nguwasani sakabehing bab, luwar saka sakabehing panandhang."
+
+msgid "362"
+msgstr "Menawa ana wong kang ngendhaleni tangan lan sikile, ngendhaleni pocapane sarta pratingkahe kanthi becik, kang mempeng semadine sarta ndarbeni batin kang jenjem, kang urip tanpa kanthi sarta marem marang apa anane. Kang mangkono iku sinebut Wiku."
+
+msgid "363"
+msgstr "Sawijining wiku kang rumeksa lidhahe; kang mocap sinartan kawicaksanan sarta ora gumendhung, lamun ngandharake Dhamma sinartan maknane, kang mangkono iku banget edi ucaping wiku iku."
+
+msgid "364"
+msgstr "Sawijining wiku kang lestari mempeng ing Dhamma, sarta suka-gambira ing sajroning Dhamma, kang tansah mawas sarta setiti ing Dhamma, kang mangkono iku ora bakal bisa kepleset marang dalan kang nyasar."
+
+msgid "365"
+msgstr "Sayogyane dheweke ora ngresula marang apa kang tinampa, uga dheweke ora meri marang apa kang kadarbe dening liyan. Sawijining wiku kang meri marang apa kang kadarbe dening liyan; wiku kang mangkono iku ora bisa nggayuh kamajuwaning semadi."
+
+msgid "366"
+msgstr "Sanajan pisungsung kang tinampa mung sethithik, wiku kang uripe suci lan taberi, ora bakal ngresula. Para dewa padha mangayubagya marang dheweke."
+
+msgid "367"
+msgstr "Dheweke kang wis ora kraket marang pangerten 'aku' lan 'darbekku', becik kang gegayutan karo batin utawa jasmani, sarta ora anggetuni marang apa wae kang wis pisah saka dhirine; kang mangkono iku wis mungguh banget lamun sinebut wiku."
+
+msgid "368"
+msgstr "Sawijining wiku kang urip ing swasana tresna-asih sarta ndarbeni kayakinan marang Piwulange Sang Buddha, kang mangkono dheweke bakal tumeka ing alam Tentrem (Nibbana) Yaiku: Alam Kabegjan sarta mandhege bab-bab kang dumadi saka bebakalan-bebakalan kang ora langgeng (berkondisi) utawa Sankhara."
+
+msgid "369"
+msgstr "O wiku, suwungna prau (jasad) iki. Lamun wis disuwungake, prau iki bakal gancang lakune. Sawise munggel napsu pepenginan, ing kono sira bakal nggayuh Nibbana."
+
+msgid "370"
+msgstr "Punggelen bebandan warna limo iku, sarta tinggalen lan kwasanana limo-limane pisan. Sawijining wiku kang wis mardikakake dhirine saka bebandan warna limo iku sinebut 'Manungsa kang wis nyabrangi iline ombak tumimbal lahir'."
+
+msgid "371"
+msgstr "Ulaha semadi O wiku, sarta aja kalepyan. Aja ngumbar pikiranmu katrem marang kasenengan-kasenenganing indriya, supaya sira ora usah ngulu balwesi mengangah karana kalepyan-ira, supaya sira ora usah sambat kelaran karana kobong: 'Ya iki panandhang'."
+
+msgid "372"
+msgstr "Ora bakal ana semadi tumrap wong kang ora darbe kawicaksanan, sarta ora bakal ana kawicaksanan tumrap wong kang ngulinakake semadi sarta wicaksana sajatine dheweke iku cedhak marang Nibbana."
+
+msgid "373"
+msgstr "Tumrap sawijining wiku kang wis manggon ing papan kang sepi, lan wis nelukake pikirane sarta wis ngawekani marang Dhamma kanthi terwaca, kang mangkono iku dheweke bakal nikmati suka-pari suka kang durung tau dialami dening wong-wong kang isih nglakoni urip kadonyan."
+
+msgid "374"
+msgstr "Lamun dheweke bisa manoni kanthi cetha bab tuwuh sarta siline pepanthaning urip (kandha), dheweke bakal kepranan sarta tentrem batine. Sajatine, tumrap kang wis padha ngawekani, ora bakal ana 'pati' maneh."
+
+msgid "375"
+msgstr "Kang wajib katindakake dening wiku kang wicaksana yaiku: Nyandhet hardaning napsu indriya, marem marang apa kang ana, netepi pranatan-pranatan (Patimokkha), sarta ndarbeni pasrawungan karo para wicaksana (sabrahmacari), kang tumemen sarta taberi ing pambudidaya."
+
+msgid "376"
+msgstr "Sayogyane dheweke semarak sarta anor-raga (andhap-asor). Karana sengsem marang bab-bab kasebut, dheweke bakal luwar saka panandhang."
+
+msgid "377"
+msgstr "Kayadene tuwuhan 'Vassika' (saemper kembang mlati kang mrambat) nggrogake kembange dhewe kang wis alum sarta garing, mangkono uga sayogyane sira O, wiku, mbuwang napsu sarta gegething."
+
+msgid "378"
+msgstr "Sawijining wiku kang darbe pakarti, ucapan sarta pikiran kang anteng lan manunggal, uga nyingkirake bab-bab kadonyan, kang mangkono dheweke pantes sinebut manungsa kang sanyata mardika."
+
+msgid "379"
+msgstr "Sira wajib ngelingake sarta neliti dhiri-pribadi. O wiku, lamun sira bisa rumeksa dhiri-pribadinira sarta eling, sira bakal urip ing jroning kabegjan."
+
+msgid "380"
+msgstr "Dhiri pribadi mono sejatine uga pangayom tumrap dhiri-pribadi. Dhiri-pribadi iku duwe arah-tujuwane dhewe. Karana iku kendhalenana dhiri-pribadinira, kayadene kusir jaran ngendhaleni jaran kang becik."
+
+msgid "381"
+msgstr "Sawijining wiku kang kerta-tentrem sarta darbe kapitayan marang Piwulange Sang Buddha, kang mangkono dheweke bakal tumeka ing kahanan mardika, yaiku kahanan begja sarta mandheg-ing bab-bab kang mawa sarat utawa Nibbana."
+
+msgid "382"
+msgstr "Sanajan sawijining wiku isih enom umure, ananging manawa dheweke mempeng nyinau Piwulange Sang Buddha, dheweke bakal madhangi jagad iki, kayadene rembulan kang luwar saka limputaning mega."
+
+msgid "chap26"
+msgstr "Brahmana"
+
+msgid "383"
+msgstr "O, brahmana. Mbudidaya'a medhot cakramanggilinganing urip, sarta singkirna hardaning napsu-napsu indriya. Sawise mangerti sirnaning cakramanggilinganing urip, O brahmana, ing kono sira bakal tepung marang apa kang Ora Cinipta (Nibbana)."
+
+msgid "384"
+msgstr "Manawa sawijining Brahmana wis anggayuh Pungkasaning dalan loro (Samatha-Vipassana), ing kono kabeh bebandan kang ana ing sajroning dhiri'ne wong kang wis mangerti mangkono iku, bakal sirna."
+
+msgid "385"
+msgstr "Manungsa kang wis ora darbe 'gisik kene' (enam landasan indria dalam) sarta 'gisik sabrang' (enam obyek indria luar) sarta gisik loro-lorone, kang wis ora nandhang sedhih sarta wis mardika, dheweke Daksebut Brahmana."
+
+msgid "386"
+msgstr "Aku nyebut dheweke Brahmana. Kang tansah weweka, uwal saka napsu-napsu, tentrem-anteng, kang kuwajibane wis rampung, kalis saka cacad-cacad sarta kang wis anggayuh pucaking kasucen."
+
+msgid "387"
+msgstr "Srengenge sumorot ing wanci awan; rembulan sumunar ing wanci wengi. Satriya gumebyar sarana busana perange. Sawijining Brahmana sumunar mawa cahya ing kalane manekung semadi. Ananging, Sang Buddha (Panjenengane Kang wus Anggayuh Pepadhang Sejati) sumorot gumebyar mawa cahya siang pantara ratri biyen tumekaning saiki."
+
+msgid "388"
+msgstr "Karana wis nyingkirake piala dheweke sinebut Brahmana; karana urip ing sajrone katentreman dheweke sinebut Samana (wong kang mara tapa/sutapa); karana wis nyingkirake lelethek-leletheking batine, dheweke katelah Pabajita (wong kang wis ninggalake panguripan sesomahan)."
+
+msgid "389"
+msgstr "Aja pisan-pisan ana wong kang mara-tangan marang Brahmana, mangkono uga aja nganti Brahmana mau kebranang marang dheweke. Banget nisthane wong kang mrawasa Brahmana, ananging luwih dene nistha ing budi lamun ana Brahmana kang napsu marang wong kang mrawasa dheweke."
+
+msgid "390"
+msgstr "Ora ana kang luwih becik tumrap sawijining Brahmana kajaba nyingkirake bab-bab kang ditresnani. Menawa dheweke wis nyingkirake sasar-ing kapitayane, bakal sirna panandhange."
+
+msgid "391"
+msgstr "Manungsa kang ora tindak piala lumantar awak, pangucap lan pikirane, kang bisa ngendhaleni dhiri-pribadine saka telung sumber iki, dheweke patut Daksebut sawijining Brahmana."
+
+msgid "392"
+msgstr "Menawa ana sawijining wong kang tepung Dhamma kang kababarake dening Samma Sambuddha, lumantar saka liyan, sayogyane dheweke asung pahurmatan marang wong mau, kayadene sawijining Brahmana kang hormat marang geni prapene."
+
+msgid "393"
+msgstr "Dudu karana rambute diklabang; ora karana turunan, uga ora karana kasta kang nemtokake sawijining wong iku sawijining Brahmana. Sawijining wong sinebut Brahmana mono manawa sajroning pribadi-ne kasinungan Kasunyatan sarta Kabecikan."
+
+msgid "394"
+msgstr "Apa-ta gunane rambut diklabang he wong cubluk? Apa-ta gunane manganggo jubah walulang menjangan, yen kahanane batin-ira isih kebak piala? Sira mung reresik perangan lahir, dene batinmu isih kebak rereged."
+
+msgid "395"
+msgstr "Dheweke Sun sebut Brahmana; yaiku kang manganggo jubah prasaja, awak kuru amarga tarakbrata, sarandhuning awake katon urat-urate, dedunung ing alas tanpa lanthi, mempeng ulah semadi."
+
+msgid "396"
+msgstr "Ingsun ora nyebut dheweke Brahmana mung karana dheweke asal saka kulawarga Brahmana, utawa karana dheweke linahirake saka kandhutane sawijining ibu Brahmana. Manawa dhiri-pribadi-ne isih kebak sesuker, kang mangkono dheweke mung sawijining Brahmana karana jeneng. Ananging wong kang tanpa cacad sarta wis luwar saka bebandan, dheweke patut Sun sebut sawijining Brahmana."
+
+msgid "397"
+msgstr "Dheweke Sun sebut Brahmana, yaiku kang wis medhoti sakabehing bebandan-bebandan kang ora tau nglokro, kang wis luwar saka bebandan-bebandan, kang wis resik saka sakabehing sesuker."
+
+msgid "398"
+msgstr "Dheweke patut Sun sebut Brahmana; yaiku kang wis medhoti sabuk'ing rasa gething, tali-kuliting napsu pepenginan sarta tali-ramining wawasan kliru lan reresik kabeh sesukering batin. Mangkono uga menawa dheweke wis nyingkirake kayu pepalang (kebodohan) lan mangerti marang bebener."
+
+msgid "399"
+msgstr "Dheweke patut Sun sebut Brahmana; yaiku kang sarana sabar ngadhepi pitenahan, tindak panganiaya sarta paukuman sanajan dheweke ora luput, sabar lan tatag ngadhepi sakabehe lelakon mau."
+
+msgid "400"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang uwal saka napsu, kang sarana nliti netepi kuwajiban agamane, manut-miturut marang tata-susila, murni bisa ngendhaleni dhiri sarta jasad kang kadarbe iki jasade kang wekasan."
+
+msgid "401"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang darbe sipat kayadene banyu ing sadhuwure godhong terate, utawa kayadene mrica ing pucuking dom, ora kabanda dening kasenengan-kasenengan ndonya."
+
+msgid "402"
+msgstr "Dheweke Sun sebut Brahmana, yaiku kang sanajan ing sajrone uripe saiki iki, ngawekani wekasaning panandhang, kang wis nyingkirake kabutuhane sarta wis ora kebanda."
+
+msgid "403"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang darbe kawicaksanan luhur, wasis sarta titi bab bedo-bedane marga kang bener lan luput, kang wis kaleksanan nggayuh kamulyan luhur."
+
+msgid "404"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang mung kalamangsa srawung marang wong kang isih padha urip sesomahan, kang ngumbara tanpa rowang sarta ora manggon ing panggonan kang tetep, sarta mung sethithik kebutuhane."
+
+msgid "405"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang wis ora tau nyikara titah-titah liya kang rosa utawa kang ringkih, kang wis ora memateni utawa akon marang wong liya supaya memateni."
+
+msgid "406"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang wis ora duwe rasa gething ing antarane wong kang gething; ora memungsuhan ing antarane wong kang padha daksiya; sarta ora adreng ing antarane wong kang padha adreng."
+
+msgid "407"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang wis rontog: napsune, rasa gethinge, gumendhunge sarta sumuci-sucine, kayadene mrica ing pucuking dom."
+
+msgid "408"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang ucape alus sarta ngemu Piwulang kang bener, kang ora gawe kapitunan utawa serike atining liyan."
+
+msgid "409"
+msgstr "Dheweke patut Sun sebut Brahmana, yaiku kang ora njejupuk apa kang ora diwenehake (kang gedhe utawa cilik, kang dawa utawa cendhak), uga kang apik utawa ala."
+
+msgid "410"
+msgstr "Manungsa kang ora duwe napsu marang alam (donya) iki utawa alam liyane, kang wis uwal saka pepenginan sarta wis ora kraket marang sabarang, kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "411"
+msgstr "Manungsa kang wis ora duwe pepenginan maneh, kang wis uwal saka rasa mangu-mangu amarga ndarbeni kawruh sampurna kang wis njajagi kahanan tanpa pati (Nibbana), kang mangkono iku patut sinebut sawijining Brahmana."
+
+msgid "412"
+msgstr "Manungsa kang wis ngungguli kabecikan, budi candhala, ora kraket marang sabarang sarta wis ora duwe sedhih, tanpa cacad, sarta murni, kang mangkono iku, dheweke patut sinebut sawijining Brahmana."
+
+msgid "413"
+msgstr "Manungsa kang wis resik kayadene rembulan purnama kang ora kalimputan mega, tanpa cacad, bening sarta resik bebudene, kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "414"
+msgstr "Manungsa kang wis nyabrangi segara-panguripan (samsara) kang reged, mbebeyani sarta asipat semu (maya), sarta wis tumeka ing gisik sabrang (Nibbana), kang tekun semadi, anteng, kalis saka rasa mangu-mangu, kang wis ora kraket marang sabarang, sarta wis anggayuh Nirwana, kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "415"
+msgstr "Manungsa kang sarana mbuwang pepenginan-pepenginaning indriyane, banjur ninggalake urip sesomahan, sarta niyat urip tanpa omah, kang wis nglebur pepenginane marang wewujudan, ing kono dheweke patut sinebut sawijining Brahmana."
+
+msgid "416"
+msgstr "Manungsa kang sarana mbuwang napsu indriyane banjur ninggalake urip-sesomahan sarta niyat urip tanpa-omah, kang wis nyirnakake napsu pepenginan marang kadonyan; mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "417"
+msgstr "Manungsa kang sarana nyingkirake bebandan-bebandan kadonyan sarta wis ngungguli bebandan-bebandan kaswargan, sarta temen-temen wis uwal saka sakehing bebandan, kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "418"
+msgstr "Manungsa kang sarana ngungguli rasa seneng lan ora seneng, kang wis adhem sarta wis nyirnakake dhasar-dhasar kanggo wewujudan, uga wis ngungguli sakabehing jagad, ing kono dheweke patut sinebut sawijining Brahmana."
+
+msgid "419"
+msgstr "Manungsa kang darbe kawruh sampurna bab timbul sarta musnane titah-titah, kang wis mardika, wis lunga kanthi becik (Sugata) sarta wis nggayuh Pepadhang, ing kono dheweke patut sinebut sawijining Brahmana."
+
+msgid "420"
+msgstr "Manungsa kang tabete ora kena dilacak, sanajan para Dewa, gandarwa utawa manungsa, kang wis nyirnakake sakabehing sesukere batin, sarta wis nggayuh kasucen (Arahat), kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "421"
+msgstr "Manungsa kang wis ora kabanda dening apa kang wis kapungkur, saiki utawa kang bakal tumeka, kang ora gepokan utawa kraket marang samubarang apa wae, kang mangkono iku dheweke patut sinebut sawijining Brahmana."
+
+msgid "422"
+msgstr "Panjenengane Kang Minulya, Agung, Pahlawan, Sutapa Agung (Mahesi), Paneluk, Manungsa Tanpa Napsu, Murni, Wus Anggayuh Pepadhang, ing kono dheweke patut sinebut sawijining Brahmana."
+
+msgid "423"
+msgstr "Manungsa kang ngawekani sakabehing panguripane kang wis kapungkur, kang biso weruh kahanan-kahanan swarga lan neraka, kang wis nggayuh pungkasaning kalahiran, sarta wis anggayuh kasampurnaning pepadhang, wong suci kang wis nyampurnakake sakabehing kasampurnan, ing kono dheweke patut sinebut sawijining Brahmana."

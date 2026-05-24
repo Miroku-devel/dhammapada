@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Skyriai"
+
+msgid "fontsize"
+msgstr "Šrifto dydis"
+
+msgid "chap1"
+msgstr "Porines Strofas"
+
+msgid "1"
+msgstr "Dhammos sąlygotos protų, jų geriausioji dalis – protas, iš proto jos sukurtos. Jeigu kažkas kalba arba daro su nešvariu protu, tai paskui jį seka nelaimė, kaip ratas paskui vežantį."
+
+msgid "2"
+msgstr "Dhammos sąlygotos protu, jų geriausia dalis – protas, iš proto jos sukurtos. Jeigu kažkas kalba arba daro su švariu protu, tai paskui jį seka laimė, kaip neatsitraukiantis šešėlis."
+
+msgid "3"
+msgstr "'Jis įžeidė mane, jis trenkė man, jis buvo pranašesnis už mane, jis apvogė mane'. Pas tuos, kurie laiko savyje tokias mintis, neapykanta nesustoja."
+
+msgid "4"
+msgstr "'Jis įžeidė mane, jis trenkė man, jis buvo pranašesnis už mane, jis apvogė mane'. Pas tuos, kurie nelaiko savyje tokių minčių, neapykanta sustoja."
+
+msgid "5"
+msgstr "Nes niekada šiame pasaulyje neapykanta nesustabdoma per neapykantą, tačiau ji sustoja neapykantos nebuvimu. Štai amžina dhamma."
+
+msgid "6"
+msgstr "Juk kai kurie nežino, kad mums čia lemta numirti. Pas tuos, kurie tai žino, iš karto sustoja ginčai [kivirčai, ссоры]."
+
+msgid "7"
+msgstr "Tas, kuris gyvena susitelkęs į malonumus, nepažabotas savo juslėse, nesaikingas maiste, tingus, neryžtingas – būtent jį sunaikina Mara, kaip sūkurys – bejėgį medį."
+
+msgid "8"
+msgstr "Tas, kuris gyvena nesusitelkęs į malonumus, susilaikantis savo juslėse ir saikingas maiste, pilnas tikėjimo ir ryžtingas – būtent jo negali sunaikinti Mara, kaip sūkurys negali sunaikinti akmenuoto kalno."
+
+msgid "9"
+msgstr "Kas susisupa į geltoną apdarą, pats neišsivalęs nuo purvo, nežinodamas nei esmės, nei savęs apribojimo, tas nevertas geltono apdaro."
+
+msgid "10"
+msgstr "Tačiau kas pašalino purvą, kas stabilus geruose poelgiuose, pripildytas esmės ir savęs apribojimo, būtent tas vertas geltono apdaro."
+
+msgid "11"
+msgstr "Matantys esmę neesmėje ir matantys neesmę esmėje, jie niekada nepasieks esmės, nes jų dalis [riba, удел] – klaidingi ketinimai."
+
+msgid "12"
+msgstr "Priimantys esmę už esmę ir neesmę už neesmę, jie pasieks esmę, nes jų dalis [riba, удел] – tikri [esminiai] ketinimai."
+
+msgid "13"
+msgstr "Kaip į namus su blogu stogu prasiskverbia vanduo, taip į blogai išvystytą [išlavintą] protą prasiskverbia geidulingumas."
+
+msgid "14"
+msgstr "Kaip į namus su geru stogu neprasiskverbia lietus, taip į gerai išvystytą [išlavintą] protą neprasiskverbia geidulingumas."
+
+msgid "15"
+msgstr "Šiame pasaulyje jis dejuoja [skundžiasi, verkšlena, reiškia nepasitenkinimą] ir kitame – dejuoja. Abiejuose pasauliuose piktadarys [blogą darantysis] dejuoja. Jis dejuoja, jis kenčia, matydamas savo darbų blogį [darbų rezultatą]."
+
+msgid "16"
+msgstr "Šiame pasaulyje jis džiaugiasi ir kitam – džiaugiasi. Abiejuose pasauliuose džiaugiasi kuriantis gerovę. Jis džiaugiasi, neatsidžiaugia matydamas savo nepriekaištingus darbus."
+
+msgid "17"
+msgstr "Šiame pasaulyje jis kenčia ir kitame – kenčia, abiejuose pasauliuose piktadarys [blogą darantysis] kenčia. 'Mano padarytas blogis' – kenčia jis. Dar daugiau jis kenčia, atsidūręs bėdoje."
+
+msgid "18"
+msgstr "Šiame pasaulyje džiaugiasi jis ir kitame – džiaugiasi, abiejuose pasauliuose džiaugiasi darantis gerovę [gerus poelgius]. 'Mano padarytas gėris!' - džiaugiasi jis. Dar labiau jis džiaugiasi, pasiekęs laimę."
+
+msgid "19"
+msgstr "Jeigu netgi žmogus pastoviai tvirtina Raštus, tačiau aplaidus, neseka juo, jis kaip piemuo, skaičiuojantis karves pas kitus. Jis netinkantis šventumui."
+
+msgid "20"
+msgstr "Jeigu netgi žmogus mažai kartoja Raštus, tačiau gyvena pagal dhammą, išsilaisvinęs nuo troškimų, neapykantos ir neišmanymo, turėdamas tikrąjį žinojimą, laisvą protą, neturintis prisirišimo nei šiame, nei kitame pasaulyje – jis tinkantis šventumui."
+
+msgid "chap2"
+msgstr "Rimtumą"
+
+msgid "21"
+msgstr "Rimtumas – kelias į nemirtingumą. Lengvabūdiškumas – kelias į mirtį. Rimti nemiršta. Lengvabūdžiai yra kaip lavonai."
+
+msgid "22"
+msgstr "Aiškiai tai suprasdami, išmintingieji – rimti. Rimtume jie semiasi džiaugsmą. Geradarių lauke jie džiaugiasi."
+
+msgid "23"
+msgstr "Susimąstantys, užsispyrę, visada atkaklūs ir išmintingi, jie pasiekia nirvaną, laisvi nuo prisirišimų ir nesulyginamumo."
+
+msgid "24"
+msgstr "Pas energingą, pilną minčių, veikiantį dėmesingai, apribojantį save, rimtą, pas tą, kieno darbai švarūs ir kas gyvena, laikydamasis dhammos – pas tą auga šlovė."
+
+msgid "25"
+msgstr "Tegul išminčius pastangomis, rimtumu, savęs apribojimu ir susilaikymu sukurs salą, kurios negalima sunaikinti potvyniu."
+
+msgid "26"
+msgstr "Neišmanėliai, kvaili žmonės yra prisirišę prie lengvabūdiškumo. Išminčius saugo rimtumą, kaip brangųjį turtą."
+
+msgid "27"
+msgstr "Venkite lengvabūdiškumo, venkite troškimų ir malonumų, nes tik rimti ir susimąstę pasiekia didingąją laimę."
+
+msgid "28"
+msgstr "Kai išminčius rimtumu išvaro lengvabūdiškumą, jis be rūpesčių, kyla į išminties viršūnę, žiūri į skaudantį žmonijos liūdesį, kaip stovintis ant kalno į stovintį lygumoje, kaip išminčius į kvailį."
+
+msgid "29"
+msgstr "Rimtas tarp lengvabūdžių, pabudęs tarp miegančiųjų, išminčius išsiskiria kaip žirgas, aplenkęs prastą arklį."
+
+msgid "30"
+msgstr "Rimtumu Maghavanas pasiekė pirmumą tarp dievų. Rimtumą šlovina, lengvabūdiškumas visada prakeikiamas."
+
+msgid "31"
+msgstr "Bhikšu, randantis pasitenkinimą rimtume arba su baime žiūrintis į lengvabūdiškumą, nutiesia kelią, kaip ugniai, ryjančiai pančius, didelius ir mažus."
+
+msgid "32"
+msgstr "Bhikšu, randantis pasitenkinimą rimtume arba su baime stebintis lengvabūdiškumą, negeba nukristi: juk jis artimas nirvanai."
+
+msgid "chap3"
+msgstr "Mintis"
+
+msgid "33"
+msgstr "Susijaudinusią, drebančią mintį, kuri lengvai pažeidžiama ir sunkiai sulaikoma, išminčius nukreipia, kaip lankininkas strėlę."
+
+msgid "34"
+msgstr "Kaip žuvis, išrauta iš savo stichijos ir numesta į sausumą dreba ši mintis: kad tik išsirauti iš Maros valdžios."
+
+msgid "35"
+msgstr "Minties supančiojimas, kuri vos sulaikoma, lengvos, suklumpančios kur papuola – yra gerovė. Supančiota mintis priveda prie laimės."
+
+msgid "36"
+msgstr "Tegul išminčius saugo savo mintį, sunkiai pasiekiamą, ypač sudėtingą, klumpančią kur papuolą. Išsaugota mintis priveda prie laimės."
+
+msgid "37"
+msgstr "Tie, kurie daro savo mintį paklusnią [смирят], kuri besiblaško tolumoje, blaškosi vienumoje, be kūno, nuslėptą širdyje, išsilaisvins nuo Maros."
+
+msgid "38"
+msgstr "Pas tą, kieno mintis nestabili, kas nežino dhammos esmės, kieno tikėjimas svyruoja – išmintis netaps tobula."
+
+msgid "39"
+msgstr "Dorovinėje mintyje, neįaudrintoje mintyje, atsisakiusioje nuo gėrio ir blogio, būdraujančioje mintyje nėra baimės."
+
+msgid "40"
+msgstr "Žinant, kad šis kūnas, kaip molis, pavertęs šią mintį į panašią tvirtovę, tegul jis su išminties ginklu užpuola Marą ir tegul jis nugali, ir tebūnie jis laisvas nuo prisirišimų."
+
+msgid "41"
+msgstr "Deja! Neilgai šis kūnas išgyvens žemėje, atstumtas, bejausmis, nenaudingas, kaip čiurbanas [medis, kvailys]."
+
+msgid "42"
+msgstr "Ką bepadarytų priešas priešui arba neapykantą nešantis neapykantą nešančiam, klaidinga minties kryptis gali padaryti dar blogiau."
+
+msgid "43"
+msgstr "Ką bepadarytų motina, tėvas arba kažkoks kitas giminaitis, teisingai nukreipta mintis gali padaryti dar geriau."
+
+msgid "chap4"
+msgstr "Gėles"
+
+msgid "44"
+msgstr "Kas įveikė šią žemę ir Jamos pasaulį, ir šį dievų pasaulį? Kas ras gerai mokomą dhammos kelią, kaip išminčius – gėlę?"
+
+msgid "45"
+msgstr "Mokinys įveiks žemę, Jamos pasaulį ir šį dievų pasaulį. Mokinys ras gerai mokomą dhammos kelią, kaip išminčius – gėlę."
+
+msgid "46"
+msgstr "Žinantis, kad šis kūnas, kaip puta, suprantantis jo netikrą [iliuzinę] prigimtį, sulaužęs Maros strėlę, pagražintą gėlėmis, tegul jis praeis mirties karaliui nematomas."
+
+msgid "47"
+msgstr "Žmogų, raunantį gėles, kieno protas [garsiai] ūžia [yra aptemęs, apakęs], pagrobia mirtis, kaip potvynis – miegantį kaimą."
+
+msgid "48"
+msgstr "Žmogus, raunantis gėles, kieno protas [garsiai] ūžia [yra aptemęs, apakęs], nepasotinamas jusliniuose pasitenkinimuose, mirtis daro [jį] sau pavaldų."
+
+msgid "49"
+msgstr "Kaip bitė, pririnkusi sulčių, nuskrenda, nepažeidusi gėlės, jo spalvos ir kvapo, taip tegul ir kaime elgiasi išminčius."
+
+msgid "50"
+msgstr "Tegul jis žiūri ne į kitų klaidas, į tai, kas padaryta ir nepadaryta kitų, tačiau į tai, kas padaryta ir nepadaryta jo paties."
+
+msgid "51"
+msgstr "Gerai pasakytas žmogaus žodis, kuris jo nesilaiko, tiek pat nevaisingas, kaip ir nuostabi gėlė, malonios spalvos, tačiau neturi aromato."
+
+msgid "52"
+msgstr "Kaip gėlė – graži, bet bekvapė, taip ir išmintingas žodis, jei jis nelydimas gerų darbų."
+
+msgid "53"
+msgstr "Kaip iš gausybės gėlių galima padaryti daug vainikų, taip ir mirtingasis, kai jis gimsta, gali atlikti daug gerų darbų."
+
+msgid "54"
+msgstr "Pas gėles aromatas neplinta prieš vėją, taip pat – pas sandalmedį, tagarą arba jazminą. Tų, kurie daro gerovinius poelgius, aromatas sklinda ir prieš vėją. Gerovinis žmogus patenka į visas vietas."
+
+msgid "55"
+msgstr "Sandalmedis arba tagara, lotosas arba vasika – tarp jų gerų darbų aromatų aromatas – nepralenkiamas."
+
+msgid "56"
+msgstr "Silpnas tas aromatas, skleidžiamas tagaros ir sandalmedžio. Gerų darbų aromatas, sklindantis tarp dievų – pats geriausias."
+
+msgid "57"
+msgstr "Mara neranda kelio tų, kurie geroviniai, kurie gyvena pripildyti rimtumo ir kas laisvas dėka tobulų žinių [žinojimo]."
+
+msgid "58"
+msgstr "Kaip šiukšlių krūvoje, išmestoje į didelį kelią, gali išaugti lotosas, saldžiai kvepiantis ir džiuginantis protą,"
+
+msgid "59"
+msgstr "taip iš tiesų nušvitusio mokinys išsiskiria išmintimi tarp aklų vidutinybių, tarp būtybių, kurios kaip šiukšlės."
+
+msgid "chap5"
+msgstr "Kvailius"
+
+msgid "60"
+msgstr "Ilga naktis būdraujančiam, jodžana ilgis pavargusiam, ilga sansara kvailiams, nežinantiems tikros [esminės] dhammos."
+
+msgid "61"
+msgstr "Jeigu klajojantis nesutinka panašaus į save arba geresnio, tegul jis įsitvirtina vienatvėje: su kvailiu draugystės nebūna."
+
+msgid "62"
+msgstr "'Sūnūs – mano, turtai – mano' – taip kankinasi kvailys. Jis juk pats sau nepriklauso. Iš kur sūnūs? Iš kur turtai?"
+
+msgid "63"
+msgstr "Kvailys, kuris žino savo kvailystę, tuo pačiu jau išmintingas, o kvailys, laikantis save išmintingu, iš tiesų, kaip sakoma, 'kvailys'."
+
+msgid "64"
+msgstr "Jeigu kvailys susijęs su išminčiumi netgi visą savo gyvenimą, jis žino dhamma ne daugiau, nei šaukštas troškinio skonį."
+
+msgid "65"
+msgstr "Jeigu nors akimirkai protingas susijęs su išmintingu, greitai susipažįsta jis su dhamma, kaip liežuvis su troškinio skoniu."
+
+msgid "66"
+msgstr "Neturintys proto, kvailiai elgiasi su savimi, kaip su priešais, darydami piktus darbus, kurie atneša karčius vaisius"
+
+msgid "67"
+msgstr "Negerai atliktas tas darbas, kurį atlikus atgailauja, kurių rezultatus priima su apverktu veidu, raudodami."
+
+msgid "68"
+msgstr "Tačiau gerai padarytas tas darbas, kurį atlikus neatgailauja, kurio rezultatus priima džiaugsmingai ir su pasitenkinimu."
+
+msgid "69"
+msgstr "Kol blogis nesubręsta, kvailys laiko jį panašiu į medų. Kai blogis subręsta, tuomet kvailys pasiduoda sielvartui."
+
+msgid "70"
+msgstr "Tegul kvailys mėnesis po mėnesio valgo maistą nuo žolės kusa galiuko, vis tiek jis nėra vertas ir šešioliktosios dalies tų, kurie žino dhamma."
+
+msgid "71"
+msgstr "Nes kaip ne iš karto pienas virsta varške, taip atliktas blogas darbas ne iš karto atneša rezultatus; rūkstantys kaip ugnis, uždengti pelenais, jie seka paskui šį kvailį."
+
+msgid "72"
+msgstr "Kai kvailys savo nelaimei įvaldo žinias, jos sugriauna jo laimę, sudaužydamos jam galvą."
+
+msgid "73"
+msgstr "Jis gali panorėti jo padėčiai netinkamos padėties ir pirmenybės tarp bhikšu ir valdžios vienuolynuose ir pagarbos tarp kitų giminių."
+
+msgid "74"
+msgstr "'Tegul galvoja ir pasauliečiai, ir atsiskyrėliai, kad tai mano padaryta. Tegul jie priklauso nuo manęs visuose darbuose' – tokie yra kvailio ketinimai; jo norai ir puikybė auga."
+
+msgid "75"
+msgstr "Nes vienos priemonės veda į turtų įgavimą, kitos – į nirvaną. Žinodamas tai, bhikšu, Budos mokinys, nesidžiaugia pagyrimais, tačiau pamėgsta vienatvę."
+
+msgid "chap6"
+msgstr "Išmintinguosius"
+
+msgid "76"
+msgstr "Jeigu kas pamatys išminčių, nurodantį trūkumus ir priekaištaujantį dėl jų, tegul jis seka paskui tokį išminčių, kaip paskui nurodantį turtus. Geriau, o ne blogiau bus tam, kuris seka paskui tokį."
+
+msgid "77"
+msgstr "Tegul jis pataria, mokina ir sulaiko nu blogio. Jis juk malonus geram ir nemalonus blogam [piktam]."
+
+msgid "78"
+msgstr "Tegul niekas nesusijungia su blogais draugais, tegul niekas nesusijungia su žemais žmonėmis. Prisiriškite prie gerų draugų, prisiriškite prie gerovinių žmonių."
+
+msgid "79"
+msgstr "Ragaujantis dhamma gyvena laimingai; su tyru protu išminčius visada žavisi dhamma, kurią pakylėja Geroviniai."
+
+msgid "80"
+msgstr "Kanalų statytojai leidžia vandenį, lankininkai įvaldo strėlę, staliai pažaboja medieną, išminčiai įvaldo patys save [pažaboja, įskaitant ir kuklume, nuolankume, смиряют]."
+
+msgid "81"
+msgstr "Kaip tvirta uola negali būti nustumta vėjo, taip išminčius nepajudinamas tarp piktžodžiavimų ir šlovinimų."
+
+msgid "82"
+msgstr "Išgirdęs dhammas, išminčius tampa švarus, kaip prūdas, gilus, švarus ir aiškus [neužtemdytas]."
+
+msgid "83"
+msgstr "Darantys gerus poelgius tęsia savo kelią bet kokiose sąlygose. Geroviniai, netgi ypač norėdami, neplepa. Paliesti laimės ar liūdesio, išminčiai nerodo nei vieno, nei kito."
+
+msgid "84"
+msgstr "Nei dėl pačio savęs, nei dėl kito, netrokšta jis nei sūnaus, nei turtų, nei karalystės. Neteisėtame kelyje jis nenori sau sėkmės. Tebūnie jis kilnus, išmintingas ir teisingas."
+
+msgid "85"
+msgstr "Nedaugelis tarp žmonių pasiekia priešingą krantą. Likę žmonės tik aktyviai juda [blaškosi] šiame krante."
+
+msgid "86"
+msgstr "Tie žmonės, kurie iš tiesų laikosi dhammos, kai dhamma gerai pasverta, pasiekia priešingą krantą, apeinant mirties karalystę, nors ir sunku jos išvengti."
+
+msgid "87"
+msgstr "Palikęs tamsią dhamma, tegul išminčius ugdo šviesiąją. Išeidamas iš namų į benamystę, vienatvėje, atrodytų, mažai tinkančią džiaugsmui, tegul jis ieško pasitenkinimo."
+
+msgid "88"
+msgstr "Atsisakęs norų, atsikratęs turtų, tegul išminčius išvalo savo protą nuo nešvarumų."
+
+msgid "89"
+msgstr "Tie, kieno protas tinkamu būdu remiasi į nušvitimo pradžią, atsisakę nuo prisirišimų, besidžiaugiantys išsilaisvinimu, sunaikinę norus, pilni spindesio, jie šiame pasaulyje pasiekia nirvaną."
+
+msgid "chap7"
+msgstr "Arhatus"
+
+msgid "90"
+msgstr "Pas atlikusį klajonę, pas nerūpestingą, pas laisvą nuo visų santykių, pas numetusį visus pančius nėra troškimų [norų, potraukių] karštinės."
+
+msgid "91"
+msgstr "Išminčiai atsiskiria; namuose jiems nėra pasitenkinimo. Kaip gulbės, palikusios savo prūdą, jie palieka savo namus."
+
+msgid "92"
+msgstr "Jie nedaro atsargų, pas juos teisingas požiūris į maistą, jų darbas – išsilaisvinimas, neturintis norų ir nesąlygotas. Jų kelias, kaip pas paukščius danguje, sunkus suvokimui."
+
+msgid "93"
+msgstr "Pas jį sunaikinti norai ir jis neprisirišęs prie maisto; jo darbas – išsilaisvinimas, laisvas nuo norų ir sąlygų. Jo kelias, kaip pas paukščius danguje, sunkus suvokimui."
+
+msgid "94"
+msgstr "Jo juslės ramios, kaip arkliai, kurie įvaldyti važnyčiotojo. Jis atsisakė nuo puikybės ir neturi norų. Tokiam netgi dievai pavydi."
+
+msgid "95"
+msgstr "Kaip žemė, jis nežino sumišimo; toks gerovinis, kaip Indros stulpas. Jis yra kaip prūdas be purvo. Pas tokį nėra sansaros."
+
+msgid "96"
+msgstr "Pas jį rami mintis ir žodis ramus, ir veiksmai. Pas tokį ramų ir išsilaisvinusį – tobulas žinojimas."
+
+msgid "97"
+msgstr "Žmogus, kuris netiki ir žino nesukurtą, suplėšė prisirišimus, padėjo pabaigą atsitiktinumui, atsisakė nuo norų – iš tiesų gerovinis [kilnus] žmogus."
+
+msgid "98"
+msgstr "Kaime arba miške, pievoje arba ant kalvos – kur begyventų arhatas, ten maloni bet kokia žemė."
+
+msgid "99"
+msgstr "Malonūs miškai. Kur nesidžiaugia pašaliniai žmonės, džiaugsis neturintys troškimų, nes jie neieško juslinių pasitenkinimų."
+
+msgid "chap8"
+msgstr "Tūkstantį"
+
+msgid "100"
+msgstr "Vienas naudingas žodis, kurį išgirdęs tampa ramus, geriau už tūkstantį kalbų, sudarytų iš nenaudingų žodžių."
+
+msgid "101"
+msgstr "Pusė vienos eilutės, kurią išgirdęs tampa ramus, geriau už tūkstančius eilių, sudarytų iš nenaudingų žodžių."
+
+msgid "102"
+msgstr "Pusė vienos eilutės, kurią išgirdęs tampa ramus, geriau, nei jeigu kažkas padeklamuotų šimtą eilių, sudarytų iš nenaudingų [beprasmių] žodžių."
+
+msgid "103"
+msgstr "Jeigu kažkas kovoje tūkstantį kartų įveikė tūkstantį žmonių, o kitas įveikė vieną patį save, tai būtent tas kitas – didingiausias nugalėtojas mūšyje."
+
+msgid "104"
+msgstr "Iš tiesų, pergalė prieš save, pas gyvenantį pastoviame savęs apribojime, savęs nuolankume [įvaldyme, supančiojime, смирившего себя], geriau, nei kova prieš kitus žmones."
+
+msgid "105"
+msgstr "Nei mara su Brahma, nei gandharvai, nei netgi pats dievas negali paversti tokio žmogaus kovos į pralaimėjimą."
+
+msgid "106"
+msgstr "Tegul niekas mėnesis po mėnesio tūkstantį kartų šimto metų bėgyje atlieka paaukojimus ir tegul kitas pagerbs tą, kuris tobulina save, nors vienai akimirkai. Iš tiesų, toks pagerbimas geriau už šimtmečius paaukojimų."
+
+msgid "107"
+msgstr "Tegul žmogus šimtą metų rūpinasi ugnimi miške ir tegul jis atiduos pagarbą – nors vieną akimirką – tam, kuris tobulina save. Iš tiesų, toks pagerbimas geriau už šimtmečius paaukojimų."
+
+msgid "108"
+msgstr "Ką bepaaukotų šiame pasaulyje metų bėgyje atliekantis gerus darbus, kaip išmaldą ar auką, visa tai neverta nei sulaužyto grašio. Pagarba gyvenančiam teisingą gyvenimą – geriau."
+
+msgid "109"
+msgstr "Tas, kuris gerbiantis kitus ir visada gerbia vyresnius, didėja keturios dhammos: gyvenimas, grožis, laimė, jėga."
+
+msgid "110"
+msgstr "Viena diena to, kuris daro gerus darbus ir įsigilinusio į save yra geriau, nei šimtas metų ydingo ir pasileidusio žmogaus egzistavimo."
+
+msgid "111"
+msgstr "Viena diena saikingo ir įsigilinusio į save geriau, nei šimtas metų neišmanančio ir pasileidusio žmogaus egzistavimo."
+
+msgid "112"
+msgstr "Viena diena turinčio verdančią energiją geriau, nei tingaus ir neturinčio energijos žmogaus egzistavimas."
+
+msgid "113"
+msgstr "Viena gyvenimo diena matančio pradžią ir pabaigą geriau už nematančio pradžios ir pabaigos žmogaus egzistavimą."
+
+msgid "114"
+msgstr "Viena diena mačiusio nemirtingą kelią geriau už šimtą metų nemačiusio nemirtingo kelio žmogaus egzistavimą."
+
+msgid "115"
+msgstr "Viena gyvenimo diena mačiusio aukščiausiąją dhammą geriau už šimtą metų nemačiusio dhammos žmogaus egzistavimą."
+
+msgid "chap9"
+msgstr "Blogį"
+
+msgid "116"
+msgstr "Tegul jis skuba atlikti gerą darbą; nuo blogio tegul jis sulaiko savo protą. Nes to protas, kuris neskuba daryti gėrio, randa pasitenkinimą blogyje."
+
+msgid "117"
+msgstr "Net jeigu žmogus padarė blogį, tegul jis nedaro jo vėl ir vėl, tegul jis nestato ant jo savo ketinimų. Blogio sukaupimas – sielvartas."
+
+msgid "118"
+msgstr "Jeigu netgi žmogus padarė gerą darbą, tegul jis daro jį vėl ir vėl, tegul stato ant jo savo ketinimus. Gėrio sukaupimas – džiaugsmingas."
+
+msgid "119"
+msgstr "Net blogas mato laimę, kol blogis nesubrendo. Tačiau kai blogis subręsta, tuomet blogas mato blogį."
+
+msgid "120"
+msgstr "Net gerovinis mato blogį, kol gėris nesubrendo. Tačiau kai gerovė subręsta, tuomet gerovinis mato gėrį."
+
+msgid "121"
+msgstr "Negalvok lengvabūdiškai apie blogį: 'Jis neateis pas mane'. Juk ir ąsotis prisipildo nuo lašo kritimo. Kvailys prisipildo blogiu netgi kaupdamas jį po truputį."
+
+msgid "122"
+msgstr "Negalvok lengvabūdiškai apie gėrį: 'Jis neateis pas mane'. Juk ir ąsotis prisipildo nuo lašo kritimo. Protingas prisipildo gėriu, netgi po truputį jį kaupdamas."
+
+msgid "123"
+msgstr "Tegul jis vengia blogio, kaip pirklys be palydovų, tačiau su dideliu turtu – pavojingo kelio, kaip norintis gyventi – nuodo."
+
+msgid "124"
+msgstr "Jeigu ranka nesužeista, galima nešti nuodą rankoje. Nuodas nepažeis neturinčio žaizdų. Kas pats nedaro blogio, tas nepaliečiamas blogio."
+
+msgid "125"
+msgstr "Pas tą, kuris įžeidinėja nekaltą žmogų, tyrą ir nepriekaištingą, tokiam kvailiui grįžta blogis, kaip mažiausios dulkės, mestos prieš vėją."
+
+msgid "126"
+msgstr "Vieni grįžta į motinos įsčias, darantys blogį patenka į pragarą, teisingieji į dangų, neturintys norų pasiekia nirvaną."
+
+msgid "127"
+msgstr "Nei danguje, nei tarp vandenynų, nei kalnų plyšyje, jeigu į jį patekti, neatsiras tokios vietos žemėje, kur gyvenantysis atsikratytų nuo blogų darbų pasekmių."
+
+msgid "128"
+msgstr "Nei danguje, nei tarp vandenynų, nei kalnų plyšyje, jeigu į jį patekti, nebus tokios vietos žemėje, kur gyvenančio neįveiktų mirtis."
+
+msgid "chap10"
+msgstr "Bausmę"
+
+msgid "129"
+msgstr "Visi dreba prieš bausmę [žiaurumą, prievartą], visi bijo mirties – pastatyk save į kito vietą. Negalima nei žudyti, nei skatinti žudyti."
+
+msgid "130"
+msgstr "Visi dreba prieš bausmes, gyvenimas malonus visiems – pastatykite save į kito vietą. Negalima nei žudyti, nei skatinti žudyti."
+
+msgid "131"
+msgstr "Kas ieškodamas laimės sau, suteikia bausmę būtybei, norinčiai laimės, tas po mirties negauna laimės."
+
+msgid "132"
+msgstr "Kas ieškodamas laimės sau, neuždeda bausmės būtybei, norinčiai laimės, tas po mirties gaus laimę."
+
+msgid "133"
+msgstr "Su niekuo nekalbėk grubiai; tie, su kuo tu kalbėjai grubiai, atsakys tau tuo pačiu. Juk sudirgusi kalba nemaloni ir grąža gali paliesti tave."
+
+msgid "134"
+msgstr "Jeigu tu nusiraminai, kaip sudužęs gongas, tu pasiekei nirvaną: tavyje nėra dirglumo."
+
+msgid "135"
+msgstr "Kaip piemuo pagaliu gina karves į ganymo vietą, taip senatvė ir mirtis gena gyvų būtybių gyvenimus."
+
+msgid "136"
+msgstr "Atlikdamas blogus darbus kvailys to nesupranta. Neprotingas kankinasi dėl savo darbų, kaip ryjanti ugnis."
+
+msgid "137"
+msgstr "Kas uždeda bausmę nekaltiems ir nesugadintiems, tas greitai prieina prie vienos iš dešimties būsenų."
+
+msgid "138"
+msgstr "Ją galima pasiekti: aštrios kančios, kūno pažeidimai ir sunkios kančios arba ligos, beprotystė;"
+
+msgid "139"
+msgstr "arba karališka nemalonė, arba sunkus apkaltinimas, arba artimųjų praradimas, arba turtų praradimas,"
+
+msgid "140"
+msgstr "arba jo namą sudegins liepsnojanti ugnis. Kai kūnas sunaikinamas, kvailys patenka į pragarą."
+
+msgid "141"
+msgstr "Nei vaikščiojimas nuogam, nei susipainioję plaukai, nei purvas, nei pasninkas, nei gulėjimas ant drėgnos žemės, nei dulkės ir purvas, nei sėdėjimas pritūpus neišvalys mirtingojo, neįveikusio abejonių."
+
+msgid "142"
+msgstr "Tegul jis netgi pagražintas, tačiau jeigu jis gyvena pasaulyje, ramus, nuolankus [kuklus], susilaikantis [nuolankus, įvaldęs save, смиренный], vedantis teisingą gyvenimą, atmetantis bausmės taikymą visoms būtybėms, jis brahmanas, jis atsiskyrėlis, jis bhikšu."
+
+msgid "143"
+msgstr "Ar atsiras pasaulyje kažkoks žmogus, įvaldęs [nuolankumu] save kuklumu [смиривший себя скромностью], kuriam nereikia nei paskatinimo kaip gerai treniruotam žirgui – botago?"
+
+msgid "144"
+msgstr "Kaip gerai treniruotas žirgas, paliestas botago, būkite energingas ir įkvėptas. Su tikėjimo, gerovės ir energijos, įsigilinimo į save ir dhammos studijavimo pagalba jūs, susimąstantys, pripildyti žinojimo ir tobulumo poelgiuose, išsilaisvinkite nuo šio didingojo blogio."
+
+msgid "145"
+msgstr "Kanalų statytojai leidžia vandenį, lankininkai įvaldo strėlę, staliai pažaboja medieną, išminčiai įvaldo patys save [pažaboja, įskaitant ir kuklume, nuolankume, смиряют самих себя]."
+
+msgid "chap11"
+msgstr "Senatvę"
+
+msgid "146"
+msgstr "Kas per juokas, kas per džiaugsmas, kai pasaulis pastoviai dega? Uždengti tamsa, kodėl jūs neieškote šviesos?"
+
+msgid "147"
+msgstr "Pažiūrėk į šį išpaišytą atvaizdą, į kūną, pilną trūkumų, sudarytą iš dalių, ligotą, pripildytą daugelio minčių, kuriose nėra nei tikrumo, nei pastovumo."
+
+msgid "148"
+msgstr "Nunešiotas šis kūnas, ligų lizdas, mirtingas; ši pūvanti krūva [kūnas] suyra, nes gyvenimas turi pabaigą – mirtį."
+
+msgid "149"
+msgstr "Kas per pasitenkinimas matyti šiuos mėlynuojančius kaulus, kaip išmėtytus moliūgus rudenį?"
+
+msgid "150"
+msgstr "Iš kaulų sudaryta ši tvirtovė, kūnu ir krauju ištinkuota; senatvė ir mirtis, apgavystė ir veidmainiškumas sudėtas joje."
+
+msgid "151"
+msgstr "Nusinešioja netgi išpaišyti karališki vežimai, taip pat ir kūnas priartėja prie senatvės. Tačiau dhamma gerovinių nepriartėja prie senatvės, nes geroviniai mokina jos [dhammos] gerovinius."
+
+msgid "152"
+msgstr "Mažai žinantis žmogus sensta, kaip jautis: pas jį išauga raumenys, žinios pas jį neišauga."
+
+msgid "153"
+msgstr "Aš praėjau per sansarą daugelyje gimimų, ieškant namo statytojo, tačiau neradau jo. Gimimas vėl ir vėl – sielvartas."
+
+msgid "154"
+msgstr "O namo statytojau, tu matai! Tu jau nepastatysi namo iš naujo. Visos tavo gegnės sugriautos, arkliukas ant stogo sunaikintas. Protas kelyje į atsitapatinimą pasiekė norų sunaikinimą."
+
+msgid "155"
+msgstr "Tie, kurie negyveno teisingo gyvenimo, nepasiekė jaunystėje turtų, miršta, kaip seni garniai prūde, kuriame nėra žuvies."
+
+msgid "156"
+msgstr "Tie, kurie negyveno teisingo gyvenimo, nepasiekė jaunystėje turtų, guli, kaip sulaužyti lankai, dūsaudami apie praeitį."
+
+msgid "chap12"
+msgstr "Savo Aš"
+
+msgid "157"
+msgstr "Žinantis, kad savo aš – malonu, tegul dėmesingai saugo save. Išminčius turi būdrauti vienoje iš trijų sargybų."
+
+msgid "158"
+msgstr "Tegul jis iš pradžių save prives į tinkamą būseną. Tuomet galima mokyti ir kitą. Išmintingas nenusimuš nuo kelio."
+
+msgid "159"
+msgstr "Kaip jis mokina kitą, taip tegul elgiasi ir pats. Pilnai tapęs nuolankus, jis gali [daryti] nuolankiais ir kitus. Iš tiesų, nuolankumas pačio savęs – sunku."
+
+msgid "160"
+msgstr "Juk savo aš – valdovas sau. Kas dar gali būti valdovu? Pilnu nuolankumu savo aš žmogus randa viešpatį, kurį sunku rasti."
+
+msgid "161"
+msgstr "Pačio padarytas blogis, pats gimęs, pats kilęs. Jis įveikia kvailį, kaip almazas – brangųjį akmenį."
+
+msgid "162"
+msgstr "Tas, pas kurį visiškai kvaila moralė, elgiasi su savimi taip, kaip jam galėtų palinkėti priešas. Jis primena maluvą, apsivijusią sal medį."
+
+msgid "163"
+msgstr "Blogus ir sau kenkiančius darbus daryti – lengva. Tą patį, gerus ir naudingus, daryti aukščiausiu lygiu – sunku."
+
+msgid "164"
+msgstr "Kvailys, kuris dėl ydingo požiūrio niekina arhatų mokymą, gerovinių, gyvenančių pagal dhamma, atneša rezultatus, kaip katthaka, tik naikindamas save."
+
+msgid "165"
+msgstr "Nes pats žmogus atlieka blogį ir pats suteršia save. Neatlieka blogio jis taip pat pats ir pats valo save. Švara ir suteršimas susijęs su pačiu savimi. Vienas kito neišvalo."
+
+msgid "166"
+msgstr "Tegul jis nepaiso savo asmeninės gerovės, kokia tai bebūtų didinga kito gerovė. Pažinęs savo gerovę, tegul jis bus atsidavęs [ištikimas] aukščiausiajai gerovei."
+
+msgid "chap13"
+msgstr "Pasaulį"
+
+msgid "167"
+msgstr "Nesivadovauk žemutine dhamma! Negyvenk lengvabūdiškai! Nesivadovauk klaidingais požiūriais! Nedidink egzistavimo!"
+
+msgid "168"
+msgstr "Kelkis! Nebūk lengvabūdis! Vadovaukis gerovine dhamma. Besilaikantis dhammos gyvena laimingai šiame pasaulyje ir netgi kitame."
+
+msgid "169"
+msgstr "Laikykis gerovinės dhammos, tačiau nesivadovauk ydinga! Besilaikantis dhammos gyvena laimingai šiame pasaulyje ir netgi kitame."
+
+msgid "170"
+msgstr "Kas žiūri į pasaulį, kaip žiūri į burbulą, kaip žiūri į miražą, to nemato mirties dievas."
+
+msgid "171"
+msgstr "Eikite žiūrėkite į visą pasaulį, kaip į spalvingą karališką vežimą! Ten, kur ropščiasi kvailiai, pas išmintingąjį nėra prisirišimo."
+
+msgid "172"
+msgstr "Kas prieš tai būdamas lengvabūdis, paskui tapo rimtas, tas apšviečia šį pasaulį, kaip mėnulis, išlaisvintas nuo debesų."
+
+msgid "173"
+msgstr "Kas geru darbu išperka padarytą blogį, tas apšviečia šį pasaulį, kaip mėnulis, išlaisvintas nuo debesų."
+
+msgid "174"
+msgstr "Šis pasaulis aklas. Nedaugelis jame mato aiškiai. Kaip paukštis, išlaisvintas iš tinklo, tik nedaugelis patenka į dangų."
+
+msgid "175"
+msgstr "Gulbės keliauja saulės keliu; jos keliauja dangumi su iddhi pagalba. Išmintingieji išeina iš pasaulio, įveikę Marą su jo kariauna."
+
+msgid "176"
+msgstr "Nėra blogio, kurio negalėtų atlikti žmogus, kalbantis melą, atsisakęs nuo kito pasaulio, apleidęs vieningą dhammą."
+
+msgid "177"
+msgstr "Iš tiesų, šykštūs nepatenka į dievų pasaulį; kvailiai, iš tiesų nešlovina davimo. Išminčius juk duodamas džiaugiasi: juk dėka to jis laimingas kitame pasaulyje."
+
+msgid "178"
+msgstr "Somapatti vaisius geriau, nei žemiškas valdymas vienovėje arba pakilimas į dangų, nei viso pasaulio valdžia."
+
+msgid "chap14"
+msgstr "Nušvitusį"
+
+msgid "179"
+msgstr "Kokiu keliu vesite šį neturintį kelio, nušvitusį, įvaldžiusį beribes sferas, kurio pergalė nevirsta į pralaimėjimą ir kieno įveiktas troškimas jau nebesitęsia šiame pasaulyje?"
+
+msgid "180"
+msgstr "Kokiu keliu vesite šį neturintį kelio, nušvitusį, įvaldžiusį beribes sferas, pas kurį nėra įtraukiančio į spąstus troškimo, noro išmušančio iš kelio?"
+
+msgid "181"
+msgstr "Netgi dievai pavydi tiems nušvitusiems, kurie pripildyti gilių minčių, kurie mėgaujasi išsilaisvinimo ramybę, atsidavę apmąstymams, mudroms."
+
+msgid "182"
+msgstr "Sunku tapti žmogumi; sunkus mirtingųjų gyvenimas; sunku klausyti tikrąją dhammą; sunkus nušvitusiojo gimimas"
+
+msgid "183"
+msgstr "Blogio nedarymas, gėrio pasiekimas, savo proto išvalymas – štai nušvitimo mokymas"
+
+msgid "184"
+msgstr "Išlaikymas, ilga kantrybė – aukščiausias asketizmas, aukščiausioji nirvana – sako nušvitusieji, nes atsiskyrėlis, kenkiantis kitiems – ne atsiskyrėlis, įžeidinėjantis kitą – ne asketas."
+
+msgid "185"
+msgstr "Neįžeidimas, nekenkimas ir susilaikymas pagal Pratimokšą ir saikas maiste ir susivienijęs egzistavimas ir atsidavimas pakylėtoms mintims – tai nušvitusiųjų mokymas."
+
+msgid "186"
+msgstr "Netgi stiprus lietus iš auksinių monetų neatneš pasitenkinimo troškimams. Išmintingas tas, kuris žino: troškimai ligoti ir mažai iš jų džiaugsmo."
+
+msgid "187"
+msgstr "Jis neranda pasitenkinimo netgi dangiškuose malonumuose. Pilnai nušvitęs mokinys džiaugiasi tik norų sunaikinimu."
+
+msgid "188"
+msgstr "Įvairaus prieglobsčio kreipiasi žmonės, kuriuos kankina baimė: kalnams ir miškams, kaimams ir giraitėms, kapams."
+
+msgid "189"
+msgstr "Tačiau juk ir toks prieglobstis nėra saugus ir toks prieglobstis ne iš geriausių. Pasiekęs tokį prieglobstį neišsilaisvina nuo visų liūdesių."
+
+msgid "190"
+msgstr "Tas, kuris rado globą Budoje, Dhammoje ir Sanghoje, kas turi įvaldęs tikrąsias žinias, mato keturias gerovines tiesas."
+
+msgid "191"
+msgstr "Blogis, blogio kilmė ir blogio įveikimas, ir gerovinis aštuonlypis kelias, vedantis į blogio sustabdymą."
+
+msgid "192"
+msgstr "Štai toks prieglobstis saugus, toks prieglobstis – geriausias. Pasiekęs tokį prieglobstį išsilaisvina nuo visų sielvartų."
+
+msgid "193"
+msgstr "Sunku rasti gerovinį žmogų: ne visur jis gimsta. Tačiau kur gimsta toks išminčius, ten laiminga giminė klesti."
+
+msgid "194"
+msgstr "Palaimintas nušvitusių gimimas, palaimintas tikrosios dhammos mokymas, palaimintas sanghos sutikimas, palaimintas asketizmas, gyvenančių sutarime."
+
+msgid "195"
+msgstr "Niekam neįmanoma išvardinti privalumų ('tokie ir tokie') to, kuris garbina tą, kuris vertas pagerbimo (ar tai būtų nušvitę, ar mokiniai),"
+
+msgid "196"
+msgstr "įveikę kliūtis, išsilaisvinę nuo liūdesio ir skundų, tas, kuris garbina tokius pasiekusius, išsilaisvinusius ir nežinančius baimės."
+
+msgid "chap15"
+msgstr "Laimę"
+
+msgid "197"
+msgstr "O! Mes gyvename labai laimingai, ne priešiški tarp priešiškų; tarp priešiškų žmonių mes gyvename, nepriešiški."
+
+msgid "198"
+msgstr "O! Mes gyvename labai laimingai, nesergantys tarp sergančių; tarp sergančių žmonių mes gyvename, nesergantys."
+
+msgid "199"
+msgstr "O! Mes gyvename labai laimingai, nemerdėjantys tarp merdėjančių; tarp merdėjančių žmonių mes gyvename, nemerdėjantys."
+
+msgid "200"
+msgstr "O! Mes gyvename labai laimingai, nors pas mus nieko nėra. Mes maitinsimės džiaugsmu, kaip spindintys dievai."
+
+msgid "201"
+msgstr "Pergalė gimdo neapykantą, nugalėtas gyvena liūdesyje. Laimėje gyvena ramus, atsisakęs nuo pergalės ir pralaimėjimo."
+
+msgid "202"
+msgstr "Nėra didesnės ugnies, nei troškimas; nėra bėdos, didesnės, nei neapykanta; nėra nelaimės, didesnės, nei kūnas; nėra laimės, lygios ramybei."
+
+msgid "203"
+msgstr "Alkis – didžiausias negalavimas, sankharos – didingiausias blogis; tam, kuris iš tiesų žino apie tai, nirvana – didingiausioji gerovė."
+
+msgid "204"
+msgstr "Sveikata – didingiausioji pergalė; pasitenkinimas – didingiausias turtas; pasitikėjimas – geriausias iš giminaičių; nirvana – didingiausia gerovė."
+
+msgid "205"
+msgstr "Paragavus vienatvės saldumo ir nusiraminimo saldumo, išsilaisvina nuo baimės ir nuo nuodėmės tas, kuris ragauja dhammos palaimos saldumą."
+
+msgid "206"
+msgstr "Malonu žiūrėti į gerovinius; būti jų visuomenėje – gerovė. Tebūnie visada laimingas tas, kuris nemato kvailių."
+
+msgid "207"
+msgstr "Nes klajojantis kvailių visuomenėje kenčia ilgą laiką. Būdamas su kvailiais, kaip su priešu, visada atneša nelaimes, o buvimas su išmintingais – laimę, kaip susitikimas su giminaičiais."
+
+msgid "208"
+msgstr "Todėl: kai mėnulis eina žvaigždžių keliu, taip reikia sekti paskui išmintingąjį, žinantįjį ir išsimokslinusį, daug patyrusį [pernešusį], garbingą, gerovinį – paskui tokį gerą ir protingą žmogų."
+
+msgid "chap16"
+msgstr "Tai, kas Malonu"
+
+msgid "209"
+msgstr "Pašventęs save tuštybei [aktyviam veikimui, vedančiui į tuštybę] ir nepašventęs savęs apmąstymams, pamiršęs tikslą, besikabinantis už pasitenkinimų, pavydi tam, kuris įsigilinęs į save."
+
+msgid "210"
+msgstr "Neprisirišk prie to, kas malonu ir niekada prie to, kas nemalonu. Nematyti malonaus ir matyti nemalonų – blogis."
+
+msgid "211"
+msgstr "Todėl nedaryk malonaus, nes išsiskyrimas su tuo, kas malonu – ligotas. Nėra pančių tiems, pas kuriuos nėra malonaus arba nemalonaus."
+
+msgid "212"
+msgstr "Iš malonaus gimsta liūdesys, iš malonaus gimsta baimė; pas tą, kuris išsilaisvino nuo malonaus, nėra liūdesio, iš kur baimė?"
+
+msgid "213"
+msgstr "Iš polinkio gimsta liūdesys, iš polinkio gimsta baimė; pas tą, kas išsilaisvino nuo polinkio, nėra liūdesio, iš kur baimė?"
+
+msgid "214"
+msgstr "Iš prisirišimo gimsta liūdesys, iš prisirišimo gimsta baimė; pas tą, kuris išsilaisvino nuo prisirišimo, nėra liūdesio, iš kur baimė?"
+
+msgid "215"
+msgstr "Iš troškimo gimsta liūdesys, iš troškimo gimsta baimė; pas tą, kuris išsilaisvino iš troškimo, nėra liūdesio, iš kur baimė?"
+
+msgid "216"
+msgstr "Iš noro kyla liūdesys, iš noro kyla baimė; pas tą, kuris išsilaisvino nuo norų, nėra liūdesio, iš kur baimė?"
+
+msgid "217"
+msgstr "Pripildytas gerų poelgių ir įžvalgus, stabilus dhammoje, sakantis tiesą, atliekantis savo pareigą – tokį tauta skaito maloniu."
+
+msgid "218"
+msgstr "Tas, kurio mintis neprisirišusi prie pasitenkinimų, kuriame gimė neapsakomo troškimas (ir tegul jis pripildytas proto), vadinasi uddhamsota."
+
+msgid "219"
+msgstr "Giminaičiai, draugai ir gerą linkintys džiaugiasi, sveikina žmogų, kurio ilgai nebuvo ir kuris atėjo iš toli nepažeistas."
+
+msgid "220"
+msgstr "Geri darbai sutinka gerus darbus darantį žmogų, išėjusį iš šio pasaulio į kitą, kaip giminaičiai – savo artimąjį jam sugrįžus."
+
+msgid "chap17"
+msgstr "Pyktį"
+
+msgid "221"
+msgstr "Tegul jis atsisako nuo pykčio, tegul jis palieka pasitenkinimą savimi, tegul jis įveikia visus prisirišimus. Jokios nelaimės nenutinka su tuo, kuris neprisirišęs prie vardo ir formos."
+
+msgid "222"
+msgstr "Kas sulaiko prabudusį pyktį, kaip nuvažiavusį nuo kelio vežimą, tą aš vadinu važnyčiotoju; likę tiesiog laiko pavadžius."
+
+msgid "223"
+msgstr "Tegul įveikia jis pyktį pykčio nebuvimu, negerą – geru, tegul įveikia jis gobšumą dosnumu, tiesa – melagį."
+
+msgid "224"
+msgstr "Sakyk tiesą, nepasiduok pykčiui; jeigu tavęs prašo – tegul šiek tiek – duok. Su šių trijų sąlygų pagalba galima priartėti prie dievų."
+
+msgid "225"
+msgstr "Išminčiai, kurie nieko neįskaudina, kieno kūnas visada nuolankus, eina į nekintančią vietą ir ten atėję, jie nekenčia."
+
+msgid "226"
+msgstr "Pas tuos, kas pastoviai būdrauja, dieną ir naktį mokosi ir siekia nirvanos, išnyksta norai."
+
+msgid "227"
+msgstr "Ši patarlė sena, o Atula ir vartojama ne tik mūsų laikais: 'Jie priekaištauja ramiai sėdinčiam, jie priekaištauja daug kalbančiam ir tam, kuris kalba saikingai, jie priekaištauja'. Nėra pasaulyje nieko, kam jie nepriekaištautų."
+
+msgid "228"
+msgstr "Ir nebuvo, ir nebus, ir dabar nėra žmogaus, kuris vertas tik priekaištų arba tik pašlovinimų."
+
+msgid "229"
+msgstr "Kas tobulas elgesyje, išmintingas, pripildytas žinojimo ir gerovės, tą, stebint jį dieną po dienos, giria išmintingieji."
+
+msgid "230"
+msgstr "Kas nuspręs priekaištauti tam, kuris kaip moneta, padarytas iš Džambu upės aukso? Netgi dievai šlovina jį: pačiu Brahma jis šlovinamas."
+
+msgid "231"
+msgstr "Saugokis kūno nuodėmių, būk susilaikantis viskame, kas liečia kūną; atsikratęs nuo kūno nuodėmių, buk kūnu be nuodėmių."
+
+msgid "232"
+msgstr "Saugokis žodžio nuodėmių, būk susilaikantis viskame, kas liečia žodį; atsikratęs nuo žodžio nuodėmių, buk be žodžių nuodėmių."
+
+msgid "233"
+msgstr "Saugokis proto nuodėmių, būk susilaikantis viskame, kas liečia protą; atsikratęs nuo proto nuodėmių, būk protu be nuodėmių."
+
+msgid "234"
+msgstr "Išminčiai susilaikantys kūnu; jie taip pat susilaikantys ir žodyje; išminčiai susilaikantys protu; jie iš tiesų viskame susilaikantys."
+
+msgid "chap18"
+msgstr "Ydingumą"
+
+msgid "235"
+msgstr "Kaip nudžiuvęs lapas tu dabar ir Jamos pasiuntiniai atėjo pas tave. Ir tu stovi ant mirties slenksčio ir pas tave net nėra atsargų keliui."
+
+msgid "236"
+msgstr "Sukurk sau salą, kovok energingai, būk išmintingas. Išvalytas nuo ydingumo, tobulas, tu pasieksi dangišką gerovinių karalystę."
+
+msgid "237"
+msgstr "Ir štai tavo gyvenimas priėjo prie pabaigos. Tu priartėjai prie Jamos, o tarp to pas tave nėra netgi namų ir nėra pas tave netgi atsargų keliui."
+
+msgid "238"
+msgstr "Sukurk sau salą, kovok energingai, būk išmintingas! Išvalytas nuo ydingumo, tobulas, tu daugiau neprieisi prie gimimo ir senatvės."
+
+msgid "239"
+msgstr "Palaipsniui, pamažu pamažu, laikas nuo laiko, išminčius turi nupurtyti nuo savęs purvą, kaip sidabrinių darbų meistras – nuo sidabro."
+
+msgid "240"
+msgstr "Kaip rūdys, atsiradusios ant geležies ją valgo, nors ji iš jo ir kilo, taip ir asmeniniai poelgiai priveda prie nelaimės tą, kuris nusižengė dhonu."
+
+msgid "241"
+msgstr "Raštai užsiteršia, jeigu jų nekartoti; namai užsiteršia, jeigu jų neprižiūrėti; grožis užsiteršia tingumu; lengvabūdiškumas pas dėmesingąjį – purvas."
+
+msgid "242"
+msgstr "Blogas moters poelgis – purvas; duodančiojo šykštumas – purvas; ir šiame ir tame pasaulyje piktos dhammos – purvinos."
+
+msgid "243"
+msgstr "Tačiau purviniausias iš viso neišmanymo purvas, blogiausias purvas; atsikratę nuo šio purvo, jūs, o bhikšu, būkite laisvi nuo purvo!"
+
+msgid "244"
+msgstr "Lengva gyventi tam, kuris nahalas, kaip varna, įžūlus, įkyrus, nemąstantis, sugadintas."
+
+msgid "245"
+msgstr "Tačiau sunku gyventi tam, kuris kuklus, kuris visada ieško švaraus, kuris be troškimų, šaltakraujis, tyras, kieno gyvenimas švarus."
+
+msgid "246"
+msgstr "Kuris griauna gyvenimą ir atneša melą, užtenka to, kas neduota jam šiame pasaulyje ir vaikšto jis pas kito žmoną,"
+
+msgid "247"
+msgstr "žmogus, kuris atsiduoda girtavimui – nukerta sau čia šaknis, šiame pasaulyje."
+
+msgid "248"
+msgstr "Žinok tai, o žmogau! Piktos dhammos neturi ribų. Ir tegul šykštumas ir dhammos nebuvimas ilgam nepadaro tavęs pavaldžiam blogiui."
+
+msgid "249"
+msgstr "Žmonės duoda sutikime su savo tikėjimu ir tiek, kiek jie skaito reikalingu. O kas pavydi maisto ir gėrimų, gautų nuo kitų, tas nei dieną nei naktį negali pasiekti susitelkimo."
+
+msgid "250"
+msgstr "O pas ką pavydas sunaikintas, iš šaknų išrautas, pašalintas, tas ir dieną ir naktį gali pasiekti susitelkimą."
+
+msgid "251"
+msgstr "Nėra ugnies panašios į troškimus, nėra spazmų kaip pykčiui, nėra tinklo kaip apgaulės, nėra upės kaip noro."
+
+msgid "252"
+msgstr "Lengva pamatyti kitų nuodėmes, savo kaip tik, atvirkščiai, pamatyti sunku. Nes svetimos nuodėmės išsibarsto, kaip luobelės; savo juk, atvirkščiai, uždengia, kaip įgudęs šuleris nelaimingą kauliuką."
+
+msgid "253"
+msgstr "Pas tą, kuris žiūrinėja svetimas nuodėmes ir pastoviai dirglus, padidėja norai; jis toli nuo norų sunaikinimo."
+
+msgid "254"
+msgstr "Danguje nėra kelio; nėra atsiskyrėlio mūsų išorėje. Žmonės randa džiaugsmą iliuzijose, tathagatos laisvi nuo iliuzijų."
+
+msgid "255"
+msgstr "Danguje nėra kelio; nėra atsiskyrėlio mūsų išorėje. Nėra amžinos sankharos; pas nušvitusius nėra nepastovumo."
+
+msgid "chap19"
+msgstr "Tą, Kuris Laikos Dhammos"
+
+msgid "256"
+msgstr "Ne tas laikosi dhammos, kuris skubėdamas siekia savo tikslo. Išmintingas pasveria ir tą, ir kitą: teisingą ir neteisingą."
+
+msgid "257"
+msgstr "Jis veda kitus nenaudodamas prievartos, atitinkamai su dhamma, bebaimiškai. Saugojantį dhammą išminčių vadina 'tas, kuris laikosi dhammos'."
+
+msgid "258"
+msgstr "Ne todėl jis išmintingas, kad daug kalba. Ramų, laisvą nuo neapykantos, nežinantį baimės vadina 'išminčiumi'."
+
+msgid "259"
+msgstr "Ne todėl jis nusimanantis dhammoje, kad daug kalba. Kas nesilaiko dhammos, kas – tegul jis mažai mokytas – jaučia ją visu savo kūnu, tas iš tiesų nusimanantis dhammoje."
+
+msgid "260"
+msgstr "Ne todėl jis vyresnis, kad jo galva žila. Jis pagarbiame amžiuje, tačiau jį vadina 'pasenęs beprasmiškai'."
+
+msgid "261"
+msgstr "Tas, kuriame ir tiesa [esmė] ir dhamma, prievartos nebuvimas, savęs apribojimas, nuolankumas, kas tobulas [kaip pavyzdys] ir išmintingas, tą vadina 'vyresniuoju'."
+
+msgid "262"
+msgstr "Pavydus, godus, gudrus žmogus netampa patraukliu tik dėl gražios kalbos arba gražaus veido."
+
+msgid "263"
+msgstr "Tas, pas kurį tai sunaikinta, su šaknimis išrauta, pašalinta, kuris išmintingas ir atsisakė nuo neapykantos, tą vadina 'patraukliu'."
+
+msgid "264"
+msgstr "Nepaklusnus ir melagingas netampa atsiskyrėliu tik dėl nuskustos galvos. Kas tai per atsiskyrėlis, jeigu jis šykštus ir pripildytas norų?!"
+
+msgid "265"
+msgstr "Tačiau kas pilnai suvaldo blogį – didelį ar mažą – tą vadina 'atsiskyrėliu', nes jis nuramino blogį."
+
+msgid "266"
+msgstr "Ne todėl jis bhikšu, kad prašo pas kitus išmaldos. Bhikšu tampa ne kitaip, kaip įvaldžius visą dhammą."
+
+msgid "267"
+msgstr "Kas šiame pasaulyje stovi aukščiau gerumo ir blogio arba gyvena [veda] teisingą gyvenimą, kad gyvena čia, turėdamas žinojimą [žinias], būtent tokį vadina 'bhikšu'."
+
+msgid "268"
+msgstr "Kvailas, neišmanantis netampa muni, net jeigu jis laikosi tylos. Tas išminčius, kuris, kaip ir turėdamas svarstykles, atrenka tai, kas gera ir vengia to, kas bloga ir yra muni;"
+
+msgid "269"
+msgstr "todėl jis muni. Kas sveria šiame pasaulyje ir tą ir kitą, tas kaip tik ir vadinasi 'muni'."
+
+msgid "270"
+msgstr "Jis nėra dėkingas, jeigu atlieka prievartą su gyvomis būtybėmis. Jį vadina geroviniu, jeigu jis neatlieka prievartos nei su viena gyva būtybe."
+
+msgid "271"
+msgstr "Tik paklusnumu ir ritualais arba, taip pat, dideliu išsimokslinimu, arba įsigilinimo į save pasiekimu, arba vieniša nakvyne – aš nepasieksiu arhatų laimės, nepasiekiamo paprastiems pasauliečiams!"
+
+msgid "272"
+msgstr "O bhikšu! Argi jūs būtumėte patenkinti, nepasiekę norų sunaikinimo?"
+
+msgid "chap20"
+msgstr "Kelią"
+
+msgid "273"
+msgstr "Geriausias iš kelių – aštuonlypis; geriausia iš tiesų [esmių] – keturi žodžiai; geriausia iš dhammų – troškimų sunaikinimas; geriausias iš dvikojų – tas, kuris įžvalgus."
+
+msgid "274"
+msgstr "Štai kelias ir nėra kito regėjimo išvalymui. Eikite juo. Visa kita – Maros apsėdimai."
+
+msgid "275"
+msgstr "Einant juo, jūs padėsite pabaigą kančioms. Aš paskelbiau šį kelią, kai sužinojau, kaip pašalinti kliūtis."
+
+msgid "276"
+msgstr "Jūs patys turite daryti [dėti] pastangas. Tathagatos – vieninteliai mokytojai. Tie, kurie eina šiuo keliu ir įsigilinę į save, išsilaisvins iš Maros pančių."
+
+msgid "277"
+msgstr "'Visos sankharos laikinos'. Kai išmintingai žiūrėti į tai, tuomet patiria atstūmimą blogiui. Štai kelias į išsivalymą."
+
+msgid "278"
+msgstr "'Visos sankharos suteikiančios sielvartą'. Kai išmintingai žiūrėti į tai, tuomet patiria atstūmimą blogiui. Tai kelias į išsivalymą."
+
+msgid "279"
+msgstr "'Visos dhammos neturi sielos'. Kai išmintingai žiūrėti į tai, tuomet patiria atstūmimą blogiui. Štai kelias į išsivalymą."
+
+msgid "280"
+msgstr "Kas nepakyla, kai laikas keltis; kas prisipildęs tingumo, nežiūrint į jaunatvę ir jėgą; pas ką ryžtingumas ir mintys prislopintos – tas neatsakingas ir tingus, neras kelio į išmintį."
+
+msgid "281"
+msgstr "Dėmesingas žodžiui, pilnai nuraminęs savo protą, tegul jis nedaro nieko kvailo kūnu, tegul jis išvalo šiuos tris veiksmų kelius, tegul jis pasiekia kelią, kurį nurodo išminčiai."
+
+msgid "282"
+msgstr "Esmė: iš apmąstymų gimsta išmintis; iš apmąstymų nebuvimo – išminties sunaikinimas. Žinodamas šį dvigubą kelią į gyvenimą ir gyvenimo sunaikinimą, tegul jis padarys taip, kad išmintis didėtų."
+
+msgid "283"
+msgstr "Iškirskite mišką, o ne vieną medį. Iš miško gimsta baimė. Iškirstus ir mišką ir dubenį, jūs, o bhikšu, tapsite laisvi."
+
+msgid "284"
+msgstr "Kol pas vyrą neišrauti norai į moteris – tegul netgi patys mažiausi – iki tol jo protas pririštas kaip teliukas, valgantis motinos pieną."
+
+msgid "285"
+msgstr "Išrauk savo norus, kaip ranka išrauna rudeninį lotosą. Eik ramybės nirvanai keliu, kurį nurodė Sugata."
+
+msgid "286"
+msgstr "'Čia aš gyvensiu, kai bus lietus, čia – žiemą ir vasarą' – taip mąsto kvailys. Jis negalvoja apie pavojų."
+
+msgid "287"
+msgstr "Tokį žmogų, pamišusį dėl vaikų ir gyvulių, pripildytą norų, pagrobia mirtis, kaip potvynis – miegantį kaimą."
+
+msgid "288"
+msgstr "Nei vaikai, nei tėvas, nei netgi giminaičiai negali apsaugoti to, kurį pagavo mirtis. Pas artimuosius nerasti apsaugos."
+
+msgid "289"
+msgstr "Žinodamas šią esmę, tegul išminčius, viduje susilaikantis, greitai išvalys sau kelią, vedantį į nirvaną."
+
+msgid "chap21"
+msgstr "Įvairius Dalykus"
+
+msgid "290"
+msgstr "Jeigu atsisakymas nuo mažos laimės leidžia pamatyti didelę laimę, tegul išminčius atsisako nuo mažos laimės, mąstydamas apie didelę laimę."
+
+msgid "291"
+msgstr "Tas, kuris ieško sau laimės, suteikdamas kančias kitiems, susipainiojęs neapykantos pančiuose, neišsivaduoja iš neapykantos."
+
+msgid "292"
+msgstr "Juk kas turi būti padaryti, atidedama; ką nereikia daryti, atvirkščiai, daroma. Pas tokius neatsakingus ir išpuikusius norai didėja."
+
+msgid "293"
+msgstr "Tačiau tie, kurių protas sutelktas, pastoviai nukreiptas į kūną, nedaro to, kas neturi būti padaryta, uoliai darydami tai, kas turi būti padaryta. Pas tokius išminčius ir dėmesinguosius norai išnyksta."
+
+msgid "294"
+msgstr "[Išsilaisvinimo alegorija] nudobus motiną [troškimus] ir tėvą [egoizmą], ir du karalius iš kšatrijų kastos [amžinybės tikėjimą ir sunaikinimo tikėjimą], sunaikinęs kartu karalystę [jutimo pagrindą ir juslių objektus] su jo pavaldiniais [prisirišimais], nepažeistas eina brahmanas [arhatas]."
+
+msgid "295"
+msgstr "[Išsilaisvinimo alegorija] nudobus motiną [troškimus] ir tėvą [egoizmą], ir du karalius iš kšatrijų kastos [amžinybės tikėjimą ir sunaikinimo tikėjimą], nužudęs penktuoju tigražmogį, nepažeistas eina brahmanas [arhatas]."
+
+msgid "296"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų mintis nukreipta į Budą."
+
+msgid "297"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų mintis nukreipta į dhammą."
+
+msgid "298"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų mintis nukreipta į sanghą."
+
+msgid "299"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų mintis nukreipta į kūną."
+
+msgid "300"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų protas džiaugiasi neprievarta."
+
+msgid "301"
+msgstr "Gautamos mokiniai, turintys didingą budrumą, visuomet būdrauja [dėmesingi]. Ir dieną ir naktį, visą laiką jų protas džiaugiasi apmąstymu."
+
+msgid "302"
+msgstr "Sunku palikti pasaulietišką gyvenimo būdą, sunku džiaugtis; sunkus ir nelaimingas gyvenimas name, sunku gyventi su kitokiais, nei tu. Nelaimė seka klajotoją. Todėl nebūk klajotojas ir tegul nelaimė neseka tavęs."
+
+msgid "303"
+msgstr "Tą, kuris pripildytas tikėjimo ir gerovės, turintis šlovę ir turtus, kokioje vietoje jis bebūtų, gerbia visur."
+
+msgid "304"
+msgstr "Geroviniai spindi iš toli, kaip Himalajų kalnai. Piktų ir iš arti nesimato, kaip nesimato strėlių, paleistų naktį."
+
+msgid "305"
+msgstr "Tas, kuris sėdi vienatvėje, miega vienatvėje, klajoja vienatvėje, tas, kuris veiklus ir sulaiko pats save, tegul džiaugiasi miške dažniau."
+
+msgid "chap22"
+msgstr "Pragarą"
+
+msgid "306"
+msgstr "Kas meluoja, o taip pat tas, kuris padaręs sako: 'Aš nedariau' – patenka į pragarą. Juk ir tas ir kitas po mirties lygūs; žemų veiklų žmonės lygūs tame pasaulyje."
+
+msgid "307"
+msgstr "Daugelis iš tų, kurių kaklas apvyniotas geltonu, blogai laikosi dhammos ir yra nesusilaikantys. Žemiausi dėl savo žemų veiklų, jie gimsta pragare."
+
+msgid "308"
+msgstr "Geriau praryti įkaitintą geležinį rutulį, panašų į ugninę liepsną, nei nedoram ir nesusilaikančiam pasinaudoti šalies gerove."
+
+msgid "309"
+msgstr "Neatsakingas žmogus, trokštantis svetimos žmonos, gaus keturis dalykus: pasieks garbės nebuvimą, ramybės sugriovimą, trečia, pasmerkimą, ketvirta, pragarą."
+
+msgid "310"
+msgstr "Garbės nebuvimo pasiekime ir blogas likimas pas jį; ir trumpalaikė meilė išgąsdinto su išgąsdinta ir karalius uždeda sunkią bausmę. Todėl tegul žmogus neieško ryšio su svetima žmona."
+
+msgid "311"
+msgstr "Kaip kusa žolė, jeigu ją netinkamai paimti, pjauna ranką, taip ir atsiskyrėliškas gyvenimas, jeigu jį gyventi netinkamai, nuveda į pragarą."
+
+msgid "312"
+msgstr "Bet kas padaryta nederamai [aplaidžiai], sutrikdyta pareiga, abejotina gerovė – visa tai neatneša didelio atpildo."
+
+msgid "313"
+msgstr "Jeigu kažkas turi būti padaryta – daryk, atlik su tvirtumu. Nes atpalaiduotas klajoklis tik daugiau pakelia dulkes."
+
+msgid "314"
+msgstr "Nepadaryta yra geriau, nei blogai padaryta; juk blogai atlikta paskui kankina. Tačiau geriau padaryto yra gerai padaryta, nes jį padarius, nepatiri apgailestavimo."
+
+msgid "315"
+msgstr "Kaip pasienio miestas, saugomas iš vidaus ir iš išorės, taip saugok save. Nepraleisk laiko, nes praleidę laiką atsiduoda sielvartui, pasmerkti gyvenimui pragare."
+
+msgid "316"
+msgstr "Prisilaikantis klaidingų požiūrių, gėdijantysis to, ko nereikia gėdytis ir nesigėdijantis to, kas gėdinga, tokie žmonės eina kvailu keliu."
+
+msgid "317"
+msgstr "Prisilaikantys klaidingų požiūrių, matantys pavojų, kai nereikia bijoti ir nematantys pavojų, kai reikia bijoti, šie žmonės eina kvailu keliu."
+
+msgid "318"
+msgstr "Prisilaikantys klaidingų požiūrių, atskiriantys blogį ten, kur blogio nėra ir nematantys blogio ten, kur blogis yra, šie žmonės eina kvailu keliu."
+
+msgid "319"
+msgstr "Prisilaikantys teisingų požiūrių, žinantys, kad blogis – blogis, o kas ne blogis – nėra blogis, šie žmonės eina geru keliu."
+
+msgid "chap23"
+msgstr "Dramblį"
+
+msgid "320"
+msgstr "Daugelis žmonių yra nuodėmingi ir aš kentėsiu įžeidimus, kaip dramblys kovoje – strėlę, paleistą iš lanko."
+
+msgid "321"
+msgstr "Kuklųjį [geranorišką, kantrų, atlaidų, nuolankų] veda į mūšį; karalius pakyla virš kukliojo. Kuklusis, kuris kenčia įžeidimus – geriausias iš žmonių."
+
+msgid "322"
+msgstr "Prijaukinti [geranoriški, kantrūs, atlaidūs, nuolankūs] mulai ir geroviniai sindhų žirgai ir didieji drambliai – gerovė. Tačiau geriau to yra tas, kuris įvaldė save."
+
+msgid "323"
+msgstr "Nes su šiais gyvūnais nepasiekti nepasiekiamos šalies, kur ateis žmogus, įvaldęs save savęs apribojimu ir pratimais."
+
+msgid "324"
+msgstr "Dramblį vardu Dhanapalaka sunku sulaikyti, kai pas jį iš straublio išsiskiria ėsdinantis skystis. Surištas jis nevalgo nei gabalo: dramblys svajoja apie dramblių mišką."
+
+msgid "325"
+msgstr "Jeigu kažkas tinginys, abžora [daug valgantis] ir miegalius, jeigu kažkas gulėdamas vartosi, kaip didelis šernas, primaitintas grūdais – tas, kvailas, gimsta vėl ir vėl."
+
+msgid "326"
+msgstr "Jeigu protas klaidžiojo prieš tai, klaidžiodamas, kaip jam norisi, kaip jam patinka, kaip jam tinka. Dabar aš jį pilnai sulaikysiu, kaip varovas įsiaudrinusį dramblį."
+
+msgid "327"
+msgstr "Džiaukitės rimtumu, saugokite savo protą! Krapštykitės iš blogo kelio, kaip dramblys, užstrigęs purve."
+
+msgid "328"
+msgstr "Jeigu rasi išmintingą draugą, pasiruošusį eiti kartu, gyvenantį teisingai, išmintingai, įveikiantis visas negandas – eik su juo, džiaugsmingai ir susimąstančiai."
+
+msgid "329"
+msgstr "Jeigu nerasi išmintingo draugo, pasiruošusio eiti kartu, teisingai gyvenančio, išmintingo – eik vienas, kaip karalius, atsisakęs nuo užkariautos karalystės arba kaip dramblys dramblių miške."
+
+msgid "330"
+msgstr "Geriau gyventi vienam. Nėra draugystės su kvailiu. Tu, turintis mažai norų, eik vienas ir nedaryk blogio, kaip dramblys dramblių miške."
+
+msgid "331"
+msgstr "Draugai malonūs, kai atsiranda jų poreikis. Malonus pasitenkinimas, jeigu tai abipusiai. Mirties valanda malonūs geri darbai [добродетель]. Atsisakymas nuo visų šių blogių – malonus."
+
+msgid "332"
+msgstr "Motinystė yra malonu šiame pasaulyje; tėvystė taip pat malonu; malonu atsiskyrėlio gyvenimas šiame pasaulyje, taip pat malonu brahmaniškumas."
+
+msgid "333"
+msgstr "Gerovė maloni iki senatvės; malonus stabilus tikėjimas, malonus išminties pasiekimas, malonus susilaikymas nuo blogio."
+
+msgid "chap24"
+msgstr "Norus"
+
+msgid "334"
+msgstr "Norai pas neatsakingai gyvenantį žmogų auga, kaip maluva. Jis mėtosi iš egzistavimo į egzistavimą, kaip beždžionė miške, ieškanti vaisiaus."
+
+msgid "335"
+msgstr "Kaip derlinga birana žolė, auga sielvartas pas tą, kuris įveikia šį nelaimingą norą – prisirišimą prie pasaulio."
+
+msgid "336"
+msgstr "Kas šiame pasaulyje įveikia šią nelaimingą, sunkiai įveikiamą norą, pas tą išnyksta liūdesys, kaip vandens lašai nuo lotoso lapo."
+
+msgid "337"
+msgstr "Štai ką sakau jums: 'Gerovė jums, kiek jūsų čia susirinko! Išraukite norų šaknis, kaip išrauna biraną, kad rastų kvepiančią usiru šaknį! Ir te negalės įveikti jūsų Mara, kaip upelis – nendrę'."
+
+msgid "338"
+msgstr "Kaip medis, nors ir išrautas, toliau auga, jeigu šaknis jo nepažeista ir tvirta, taip ir kančios gimsta vėl ir vėl, jeigu nepašalintas polinkis į norus."
+
+msgid "339"
+msgstr "Pas ką stiprūs trisdešimt šeši srautai [kaip vandens upės], nukreipti į malonumus ir mintys nukreiptos į troškimus, tą, nukrypusį nuo teisingų požiūrių, nuneša srautai."
+
+msgid "340"
+msgstr "Srautai teka visur. Lata gausiai auga. Pamačius šią gausiai išaugusią latą, išpjaukite jos šaknis su išminties pagalba."
+
+msgid "341"
+msgstr "Būna, kad žmogų užplūsta kūniški geismai. Prisirišimas prie malonumų, ieškantys laimės, tokie žmonės, iš tiesų, pavaldūs gimimui ir senatvei."
+
+msgid "342"
+msgstr "Žmonės, vejami norų, bėgioja aplinkui, kaip bėgioja išsigandęs kiškis. Susiję pančiais ir saitais, jie vėl ir vėl laiko bėgyje grįžta prie kančių."
+
+msgid "343"
+msgstr "Žmonės, vejami norų, bėgioja aplinkui, kaip bėgioja išsigandęs kiškis. Todėl bhikšu, jeigu jis nori sunaikinti troškimus, tegul išvaro norus."
+
+msgid "344"
+msgstr "Jis laisvas nuo norų, laisvas nuo troškimų, atsidavęs gyvenimui miške – ir vis tik bėga į troškimų taurę. Žiūrėkite į šį žmogų: laisvas, jis bėga į jungą."
+
+msgid "345"
+msgstr "Išmintingieji nekalba: tvirti šie pančiai, padaryti iš geležies, medžio arba iš babba žolės. Juk trokštantis-troškime prisirišimas prie moterų, vaikų arba auskarų iš brangiųjų akmenų – stipresnis."
+
+msgid "346"
+msgstr "Išmintingieji kalba: tvirti šie pančiai, tempiantys žemyn, klastingi, iš kurių sunku išsilaisvinti. Perkirtus juos, jie klajoja, atsisakę nuo troškimų ir pasitenkinimų, be norų."
+
+msgid "347"
+msgstr "Sujaudinti troškimo patenka į srautą [kaip vandens upės], kaip voras į savo paties nuaustą voratinklį. Išminčiai sunaikinę srautą, atsisakę nuo visų blogių, klajoja be norų."
+
+msgid "348"
+msgstr "Kirsdamas egzistavimo srautą, atsisakyk praeities, atsisakyk ateities, atsisakyk to kas tarp jų. Jeigu protas išlaisvintas, tai kas benutiktų, tu vėl neprieisi prie gimimo ir mirties."
+
+msgid "349"
+msgstr "Pas žmogų su supainiota mintimi, su stipriu troškimu, matantį tik pasitenkinimą – norai vis auga: iš tiesų, jis daro pančius tvirtais."
+
+msgid "350"
+msgstr "Kas randa pasitenkinimą ramioje mintyje, pastoviai apmąsto, galvoja apie nemalonų, būtent tas padeda galą norams, tas sunaikina Maros kelią."
+
+msgid "351"
+msgstr "Jis pasiekė tobulumą, jis bebaimis, pas jį nėra norų; tobulas, jis sunaikino egzistavimo kliūtis: šis jo kūnas – paskutinis."
+
+msgid "352"
+msgstr "Pas jį nėra norų, jis laisvas nuo prisirišimų, sumanus žodžiuose ir jų paaiškinimuose; jis žino raidžių tvarką (kokie eina prieš ir kokie po); jį vadina didinguoju išminčiumi ir didinguoju žmogumi. Šis jo kūnas – paskutinis."
+
+msgid "353"
+msgstr "Aš viską įveikiau, aš viską žinau; bet kokiose dhammose aš nesuteptas. Aš atsisakiau visko, su norų sunaikinimu, aš tapau laisvas. Mokydamasis pas patį save, ką aš pavadinsiu mokytoju?"
+
+msgid "354"
+msgstr "Dhammos gebėjimas [dovana] įveikia bet kokią dovaną; dhammos saldumas pralenkia bet kokį saldumą; dhammos džiaugsmas pralenkia bet kokį džiaugsmą; norų sunaikinimas įveikia bet kokį liūdesį."
+
+msgid "355"
+msgstr "Turtas nužudo kvailį, o ne tuo, kas ieško kito kranto. Norėdamas turto, kvailys žudo save, kaip kitus."
+
+msgid "356"
+msgstr "Plevelai [piktžolės] gadina laukus, troškimai gadina šiuos žmones. Todėl tai, kas duota išsilaisvinusiam nuo troškimų, atneša didingą rezultatą."
+
+msgid "357"
+msgstr "Plevelai [piktžolės] gadina laukus, neapykanta gadina šiuos žmones. Todėl tai, kas duota išsilaisvinusiam nuo neapykantos, atneša didingą rezultatą."
+
+msgid "358"
+msgstr "Plevelai [piktžolės] gadina laukus, neapykanta gadina šiuos žmones. Todėl tai, kas duota išsilaisvinusiam nuo kvailumo, atneša didingą rezultatą."
+
+msgid "359"
+msgstr "Plevelai [piktžolės] gadina laukus, neapykanta gadina šiuos žmones. Todėl tai, kas duota išsilaisvinusiam nuo norų, atneša didingą rezultatą."
+
+msgid "chap25"
+msgstr "Bhikšu"
+
+msgid "360"
+msgstr "Susilaikymas regėjime – gerai, susilaikymas klausoje – gerai, susilaikymas kvapuose – gerai, liežuvio susilaikymas – gerai."
+
+msgid "361"
+msgstr "Kūno susilaikymas – gerai, kalbos susilaikymas – gerai, minties susilaikymas – gerai, susilaikymas viskame – gerai. Bhikšu, susilaikantis viskame, išsilaisvina nuo visų sielvartų."
+
+msgid "362"
+msgstr "Kas valdo ranką, valdo koją, valdo kalbą, valdo tobulume, nes viduje džiaugsmingas, susitelkęs, vienišas ir pasitenkinęs – štai tokį vadina bhikšu."
+
+msgid "363"
+msgstr "Pas bhikšu, kuris susilaikantis žodyje, išmintingai mąsto, nėra išdidus ir paaiškina reikšmę ir dhammą, kalba saldi."
+
+msgid "364"
+msgstr "Bhikšu, kuris randa pasitenkinimą dhammoje, sužavėtas dhamma, apmąsto apie dhamma, prisimena dhamma – neatkris nuo tikrosios dhammos."
+
+msgid "365"
+msgstr "Tegul jis ne niekina to, ką jis pats gavo; tegul jis nepavydi kitiems. Nes bhikšu nepasiekia susitelkimo, kuris pavydi kitiems."
+
+msgid "366"
+msgstr "Jeigu bhikšu ne niekina to, ką jis pats gavo (tegul netgi mažiausiai), jį, gyvenantį tyrą gyvenimą ir uolų, šlovina dievai."
+
+msgid "367"
+msgstr "Pas ką visiškai nėra savęs sutapatinimo su vardu ir forma ir kas neliūdi, neturi nieko, būtent tokį vadina bhikšu."
+
+msgid "368"
+msgstr "Tegul bhikšu, gyvenantis draugystėje, tikintis į Budos mokymą, pasiekia ramią vietą, laimę, sankharų nustojimą [nebuvimą]."
+
+msgid "369"
+msgstr "O bhikšu! Ištuštink šį laivą; tavo ištuštintas, jis lengvai judės. Sunaikinęs troškimus ir neapykantą, tu pasieksi nirvaną."
+
+msgid "370"
+msgstr "Atkirsk penkis, atsisakyk penkių, tapk aukščiau už penkis! Bhikšu, įveikęs penkis prisirišimus, vadinasi 'perplaukęs srautą' [kaip vandens upę]."
+
+msgid "371"
+msgstr "Mąstyk, o bhikšu, ir nebūk lengvabūdis; neduok minčiai suktis juslinių pasitenkinimų srautuose, kad tau, neatsargiam, netektų ryti geležinio rutulio ir degant ugnyje rėkti – 'Štai kančios!'"
+
+msgid "372"
+msgstr "Nėra mąstymo pas tą, kuris nežino; nėra žinojimo pas tą, kuris nemąsto. Pas ką nėra mąstymo ir žinojimo, tas, iš tiesų, arti nirvanos."
+
+msgid "373"
+msgstr "Bhikšu su nuramintu protu, atsiskyręs į vienatvę, patiria viršžmogišką pasitenkinimą: jis akivaizdžiai mato dhammą."
+
+msgid "374"
+msgstr "Kiekvieną kartą, kai jis pilnumoje pažįsta elementų atsiradimą ir sunaikinimą, jis, žinantis šį nemirtingumą, pasiekia džiaugsmą ir laimę."
+
+msgid "375"
+msgstr "Štai čia pradžia išmintingam bhikšu; juslių stebėjimas, pasitenkinimas ir susilaikymas atitinkant Pratimokšą. Sek šį gerovinį draugą, gyvenantį švarų gyvenimą ir uolų."
+
+msgid "376"
+msgstr "Tegul jis būna palaikantis gyvenime ir teisingas poelgiuose. Tuomet pripildytas džiaugsmo, jis padės galą kančioms."
+
+msgid "377"
+msgstr "Kaip vassika numeta nuvytusias gėles, taip ir jūs, o bhikšu, turite išsilaisvinti nuo troškimų ir neapykantos."
+
+msgid "378"
+msgstr "Bhikšu vadina ramiu, jeigu jo kūnas ramus, kalba rami, protas ramus, jeigu jis sutelktas ir atsisakė nuo pasaulietiškų gerovių."
+
+msgid "379"
+msgstr "Pats save budink, pats save tikrink. Toks bhikšu sekantis save, sutelktas, gyvens laimingai."
+
+msgid "380"
+msgstr "Nes tu pats sau valdovas, nes tu pats sau kelias. Todėl įvaldyk pats save [смири себя], kaip pirklys gerą arklį."
+
+msgid "381"
+msgstr "Tegul bhikšu, pripildytas laimės, tikintis į Budos mokymą, pasieks ramią vietą, laimę, sankharų sustojimą."
+
+msgid "382"
+msgstr "Bhikšu, kuris nors ir jaunas, kreipiasi į Budos mokymą, nušviečia šį pasaulį, kaip mėnulis, išsilaisvinęs iš debesų."
+
+msgid "chap26"
+msgstr "Brahmanus"
+
+msgid "383"
+msgstr "Sustabdyk srautą, eik pirmyn, varyk norus šalin, o brahmane! Pažinęs sankharų sunaikinimą, tu pažinsi nesukurtą, o brahmane!"
+
+msgid "384"
+msgstr "Kai brahmanas dvejose dhammose pasiekia kitą krantą, tuomet nuo jo, žinančiojo, nukrenta visi pančiai."
+
+msgid "385"
+msgstr "Aš vadinu brahmanu tą, dėl kurio neegzistuoja nei šis krantas, nei tas krantas, nei šis ir tas kartu, kuris bebaimis ir laisvas nuo prisirišimų."
+
+msgid "386"
+msgstr "Aš vadinu brahmanu tą kuris mąsto, laisvas nuo troškimų, ramus, kuris daro savo darbą, įveikia norus, kuris pasiekė aukščiausią gerovę."
+
+msgid "387"
+msgstr "Saulė šviečia dieną, mėnulis šviečia naktį. Karys šviečia šarvuose, brahmanas šviečią apmąstymuose. Tačiau dieną ir naktį ryškiu spindesiu šviečia nušvitęs."
+
+msgid "388"
+msgstr "Tas, kuris atmetė blogį, vadinasi brahmanu; tas, kuris gyvena ramybėje – atsiskyrėlis; atmetęs savo purvą vadinasi 'išsivalęs'."
+
+msgid "389"
+msgstr "Negalima trenkti brahmanui, tačiau ir brahmanas tegul neišlieja savo pykčio ant įžeidinėtojo. Gėda tam, kuris trenkė brahmanui ir dar didesnė gėda išliejusiam pyktį ant įžeidinėtojo."
+
+msgid "390"
+msgstr "Brahmanui nėra nieko aukščiau, nei sulaikyti savo protą nuo to, kas malonu. Kur pradingsta noras sunaikinti, ten praeina kančios."
+
+msgid "391"
+msgstr "Aš vadinu brahmanu tą, kuris neatliko blogio nei kūnu, nei žodžiu, nei mintimi – kuris sulaiko save trijuose dalykuose."
+
+msgid "392"
+msgstr "Nuo ko mes besužinotume dhammą, nurodytą nušvitusiuoju, su dėkingumu reikia gerbti jį, kaip brahmanas – aukojančią ugnį."
+
+msgid "393"
+msgstr "Brahmanu tampa ne dėl susipynusių plaukų, giminės arba gimimo. Kame esmė [tiesa] ir dhamma, tas laimingas ir tas brahmanas."
+
+msgid "394"
+msgstr "Kokia tau nauda supainiotuose plaukuose, o kvaily! Kokia tau nauda rūbuose iš odos! Juk tavo viduje – džiunglės, tu rūpiniesi tik išore."
+
+msgid "395"
+msgstr "Žmogų, kuris nešioja dulkėtus rūbus, išsekusį, su persišviečiančiomis venomis, vienišą, apmąstantį miške, aš vadinu brahmanu."
+
+msgid "396"
+msgstr "Tačiau aš nevadinu žmogaus brahmanu tik dėl jo gimimo arba dėl jo motinos. Pas ką yra prisirišimas, to vardas 'kalbantis bho'. Aš vadinu brahmanu tą, kuris laisvas nuo prisirišimų ir neturintis gerovių."
+
+msgid "397"
+msgstr "Aš vadinu brahmanu tą, kuris nutraukė pančius ir kas, iš tiesų, nebijo baimės, kuris įveikė prisirišimus ir atsiskyrė nuo pasaulio."
+
+msgid "398"
+msgstr "Aš vadinu brahmanu tą nušvitusįjį, kuris pašalino kliūtis ir nutraukė diržą, botagą ir grandinę su kamanomis."
+
+msgid "399"
+msgstr "Aš vadinu brahmanu tą, kuris nebūdamas kaltas, ištveria priekaištus, bausmes, įkalinimą, pas ką kantrybė – jėga, o jėga – kariuomenė."
+
+msgid "400"
+msgstr "Aš vadinu brahmanu tą, kuris laisvas nuo pykčio, atlieka savo pareigas, gerovinis ir neturi geismo, kuris susilaikantis ir dėl kurio šis kūnas – paskutinis."
+
+msgid "401"
+msgstr "Aš vadinu brahmanu tą, kuris neprisiriša prie juslinių malonumų, kaip vanduo ant lotoso lapo arba garstyčios grūdas ant aštrios ylos."
+
+msgid "402"
+msgstr "Aš vadinu brahmanu tą, kuris atsiskyrė nuo pasaulio ir numetė naštą, kuris netgi šiame pasaulyje žino savo kančių sunaikinimą."
+
+msgid "403"
+msgstr "Aš vadinu brahmanu tą, kuris pasiekė aukščiausią gerovę, kuris žino teisingą kelią ir klaidingą kelią, išminčius, kurio žinios gilios."
+
+msgid "404"
+msgstr "Aš vadinu brahmanu tą, pas kurį mažai norų, kuris neturi namų ir nesusijęs nei su namų valdytojais, nei su benamiais."
+
+msgid "405"
+msgstr "Aš vadinu brahmanu tą, kuris nežudo ir neverčia žudyti, kuris nepakelia lazdos prieš gyvas būtybes, bailūs jie ar drąsūs."
+
+msgid "406"
+msgstr "Aš vadinu brahmanu tą, kuris tarp susijaudinusių pasilieka nesujaudintas, tarp keliančių pagalį – ramus, tarp prisirišusių prie pasaulio – laisvas nuo prisirišimų."
+
+msgid "407"
+msgstr "Aš vadinu brahmanu tą, nuo kurio troškimai ir neapykanta, ir puikybė ir dviveidiškumas nukrenta taip pat lengvai, kaip garstyčios grūdas nuo aštrios ylos."
+
+msgid "408"
+msgstr "Aš vadinu brahmanu tą, kuris kalba teisingai, pamokančiai, be staigumo, nieko neįžeidžiant."
+
+msgid "409"
+msgstr "Aš vadinu brahmanu tą, kuris čia, šiame pasaulyje, neima to, kas neduota, ar jis būtų ilgas ar trumpas, mažas ar didelis, geras ar piktas."
+
+msgid "410"
+msgstr "Aš vadinu brahmanu tą, pas kurį nei šiame pasaulyje, nei tame nėra norų, kuris atsiskyręs ir neturi polinkių."
+
+msgid "411"
+msgstr "Aš vadinu brahmanu tą, pas kurį nėra norų, kuris su žinių pagalba išsilaisvino nuo abejonių ir pasiekė panirimą į nemirtingumą."
+
+msgid "412"
+msgstr "Aš vadinu brahmanu tą, kuris čia išvengė prisirišimų prie gėrio ir blogio, kuris neturi liūdesio, neturi troškimų ir švarus."
+
+msgid "413"
+msgstr "Aš vadinu brahmanu tą, kuris kaip mėnulis be dėmių, švarus, stabilus, nesusijaudinęs, kuriame užgeso egzistavimo džiaugsmas."
+
+msgid "414"
+msgstr "Aš vadinu brahmanu tą, kuris įveikė šį purviną sunkų kelią, sansarą, apgavystę, kuris perplaukė ir pasiekė kitą krantą, kuris susimąstantis, laisvas nuo norų ir neturi abejonių, neturi prisirišimų ir ramus."
+
+msgid "415"
+msgstr "Aš vadinu brahmanu tą, kuris čia, atsisakęs nuo troškimų, benamis, klajoja aplinkui, kuriame užgeso egzistavimo noras."
+
+msgid "416"
+msgstr "Aš vadinu brahmanu tą, kuris čia, atsisakęs nuo norų, benamis, klajoja aplinkui, kuriame užgeso egzistavimo noras."
+
+msgid "417"
+msgstr "Aš vadinu brahmanu tą, kuris palikęs prisirišimus prie žmogiškųjų [dalykų], įveikė ir dangiškus prisirišimus, kuris atsiskyrė nuo visų prisirišimų."
+
+msgid "418"
+msgstr "Aš vadinu brahmanu vyrą, įveikusį visus pasaulius, tą, kuris atsisakė nuo malonaus ir nemalonaus, kuris šaltakraujis ir atkerta sau kelią į naują gimimą."
+
+msgid "419"
+msgstr "Aš vadinu brahmanu tą, kuris žino viską apie gyvų būtybių mirtį ir gimimą, kuris laisvas nuo prisirišimų ir nušvitęs, kaip sugama."
+
+msgid "420"
+msgstr "Aš vadinu brahmanu tą, kurio kelio nežino nei dievai, nei gandharvai, nei žmonės; arhatą, pas kurį dingo norai."
+
+msgid "421"
+msgstr "Aš vadinu brahmanu tą, kuris laisvas nuo prisirišimų ir nieko neturi, dėl ko nėra nieko nei praeityje, nei ateityje, nei dabartyje."
+
+msgid "422"
+msgstr "Aš vadinu brahmanu tą, kuris galingas, kaip jautis, gerovinis, vyriškas, pergalingas, turi didingąją išmintį, laisvas nuo norų, tobulas ir nušvitęs."
+
+msgid "423"
+msgstr "Aš vadinu brahmanu tą, kuris žino savo prieš tai buvusį egzistavimą ir mato dangų ir pragarą; kuris būdamas išminčiumi, pripildytas tobulo žinojimo, pasiekė gimimo sunaikinimą; kuris atliko viską, ką įmanoma atlikti."
