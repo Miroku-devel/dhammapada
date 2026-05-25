@@ -195,8 +195,11 @@ msgstr "Kurang pentingnya harum tagara atau kayu cendana; harum manusia yang bai
 msgid "57"
 msgstr "Mara tidak akan menghalang orang yang berjasa baik, hidup benar dan bebas dengan pengetahuan benar."
 
-msgid "58,59"
-msgstr "Seperti bunga teratai dapat tumbuh atas himpunan sampah yang terbiar di tengah jalan, begitulah juga seorang penganut Samyak Sambuddha yang menjadi lebih terang daripada manusia yang jahil dari segi tingkat kebijaksanaan."
+msgid "58"
+msgstr "Seperti bunga teratai dapat tumbuh atas himpunan sampah yang terbiar di tengah jalan,"
+
+msgid "59"
+msgstr "begitulah juga seorang penganut Samyak Sambuddha yang menjadi lebih terang daripada manusia yang jahil dari segi tingkat kebijaksanaan."
 
 msgid "chap5"
 msgstr "Si Tolol"
