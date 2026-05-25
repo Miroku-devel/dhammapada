@@ -73,17 +73,20 @@ fn main() {
         }
     };
     
-    if let Ok(lang_env) = env::var("LANG") {
-        let lang_code = lang_env.split('.').next().unwrap_or("").split('_').next().unwrap_or("");
-        let mo_path = locale_path.join(lang_code).join("LC_MESSAGES/dhammapada.mo");
+    let lang_env = env::var("LANGUAGE")
+	.or_else(|_| env::var("LANG"))
+        .unwrap_or_else(|_| "en".to_string());
+    let lang_code = lang_env.split(':').next().unwrap_or("")
+	.split('.').next().unwrap_or("")
+	.split('_').next().unwrap_or("");
+    let mo_path = locale_path.join(lang_code).join("LC_MESSAGES/dhammapada.mo");
 
-        if !lang_code.is_empty() && lang_code != "en" && !mo_path.exists() {
-            unsafe {
-                env::set_var("LANG", "en_US.UTF-8");
-                env::set_var("LANGUAGE", "en_US.UTF-8");
-                env::set_var("LC_ALL", "en_US.UTF-8");
-            }
-        }
+    if !lang_code.is_empty() && lang_code != "en" && !mo_path.exists() {
+       unsafe {
+	 env::set_var("LANGUAGE", "en_US.UTF-8");
+         env::set_var("LANG", "en_US.UTF-8");
+	 env::set_var("LC_ALL", "en_US.UTF-8");
+       }
     }
 
     glib::set_prgname(Some("dhammapada"));
