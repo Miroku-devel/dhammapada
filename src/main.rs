@@ -2,7 +2,7 @@
 
 use adw::prelude::*;
 use adw::{Application, Window, HeaderBar};
-use gtk4::{Box, Button, Label, Orientation, ScrolledWindow, Scale, Adjustment, EventControllerScroll, EventControllerScrollFlags};
+use gtk4::{Box, Button, Label, Orientation, ScrolledWindow, Scale, Adjustment, EventControllerScroll, EventControllerScrollFlags, EventControllerKey};
 use gettextrs::*;
 use serde::{Serialize, Deserialize};
 use std::env;
@@ -262,6 +262,7 @@ fn build_ui(app: &Application) {
         let initial_scroll_pos = pending_scroll.clone();
 
         btn.connect_clicked(move |_| {
+            scroll_ptr.grab_focus();
             *chapter_tracker.borrow_mut() = Some(chap_id.clone());
             for b in btns_list.borrow().iter() {
                 b.remove_css_class("suggested-action");
@@ -329,9 +330,10 @@ fn build_ui(app: &Application) {
     let bottom_trigger = scroll_to_bottom.clone();
     let last_change_time = Rc::new(RefCell::new(Instant::now()));
 
+    let last_change_time_scroll = last_change_time.clone();
     scroll_controller.connect_scroll(move |_, _dx, dy| {
         let now = Instant::now();
-        if now.duration_since(*last_change_time.borrow()).as_millis() < 300 {
+        if now.duration_since(*last_change_time_scroll.borrow()).as_millis() < 300 {
             return glib::Propagation::Stop;
         }
 
@@ -346,7 +348,7 @@ fn build_ui(app: &Application) {
         if let Some(idx) = current_index {
             if dy > 0.0 && value >= (upper - page_size - 1.0) {
                 if idx + 1 < buttons.len() {
-                    *last_change_time.borrow_mut() = now;
+                    *last_change_time_scroll.borrow_mut() = now;
                     bottom_trigger.set(false); 
                     buttons[idx + 1].emit_clicked();
                     return glib::Propagation::Stop;
@@ -354,7 +356,7 @@ fn build_ui(app: &Application) {
             }
             else if dy < 0.0 && value <= 0.0 {
                 if idx > 0 {
-                    *last_change_time.borrow_mut() = now;
+                    *last_change_time_scroll.borrow_mut() = now;
                     bottom_trigger.set(true); 
                     buttons[idx - 1].emit_clicked();
                     return glib::Propagation::Stop;
@@ -364,6 +366,45 @@ fn build_ui(app: &Application) {
         glib::Propagation::Proceed
     });
     scroll_content.add_controller(scroll_controller);
+
+    let key_controller = EventControllerKey::new();
+    let btns_for_key = sidebar_btns_ref.clone();
+    let adj_for_key = scroll_content.vadjustment();
+    let bottom_trigger_key = scroll_to_bottom.clone();
+    
+    let last_change_time_key = last_change_time.clone();
+    key_controller.connect_key_pressed(move |_, keyval, _, _| {
+        let now = Instant::now();
+        if now.duration_since(*last_change_time_key.borrow()).as_millis() < 300 {
+            return glib::Propagation::Proceed;
+        }
+
+        let adj = &adj_for_key;
+        let value = adj.value();
+        let upper = adj.upper();
+        let page_size = adj.page_size();
+        let buttons = btns_for_key.borrow();
+
+        if let Some(idx) = buttons.iter().position(|b| b.has_css_class("suggested-action")) {
+            if keyval == gtk4::gdk::Key::Page_Down && value >= (upper - page_size - 1.0) {
+                if idx + 1 < buttons.len() {
+                    *last_change_time_key.borrow_mut() = now;
+                    bottom_trigger_key.set(false);
+                    buttons[idx + 1].emit_clicked();
+                    return glib::Propagation::Stop;
+                }
+            } else if keyval == gtk4::gdk::Key::Page_Up && value <= 0.0 {
+                if idx > 0 {
+                    *last_change_time_key.borrow_mut() = now;
+                    bottom_trigger_key.set(true);
+                    buttons[idx - 1].emit_clicked();
+                    return glib::Propagation::Stop;
+                }
+            }
+        }
+        glib::Propagation::Proceed
+    });
+    scroll_content.add_controller(key_controller);
 
     let final_start_btn = start_button.or(first_button);
     if let Some(btn) = final_start_btn {
