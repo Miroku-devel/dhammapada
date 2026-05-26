@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Fəsillər"
+
+msgid "fontsize"
+msgstr "Şrift ölçüsü"
+
+msgid "chap1"
+msgstr "Qoşa Bəndlər"
+
+msgid "1"
+msgstr "Dhammalar ağılla şərtlənmişlər, onların ən yaxşı hissəsi – ağıldır, ağıldan yaradılmışlar onlar. Əgər kimsə nəyisə çirkli ağılla danışır və edirsə, onu bədbəxtlik təqib edir, arabanı dartan öküzün izi ilə təkərin getdiyi kimi."
+
+msgid "2"
+msgstr "Dhammalar ağılla şərtlənmişlər, onların ən yax­şı hissəsi – ağıldır, ağıldan yaradılmışlar onlar. Əgər kimsə təmiz ağılla danışır və iş görürsə, sə­adət onu izləyir, geri qalmaq istəməyən kölgə kimi."
+
+msgid "3"
+msgstr "'O məni təhqir etdi, o məni vurdu, o mənim üzərimdə üstünlük qazandı, o məni heç nəsiz qoydu'. Daxillərində bu cür fikirlər daşıyanlarda nifrət heç zaman durmur."
+
+msgid "4"
+msgstr "'O məni təhqir etdi, o, məni vurdu, o mənim üzərimdə üstünlük qazandı, o məni heç nəsiz qoydu'. Daxillərində bu cür fikirlər daşımayanlarda nifrət yoxa çıxır."
+
+msgid "5"
+msgstr "Zira, bu dünyada nifrət heç zaman nifrətlə durdurulmur, nifrətin yoxluğu ilə durdurulur o. Budur əzəli dhamma."
+
+msgid "6"
+msgstr "Axı çoxları bilmir ki, biz hökmən burada öləcəyik. Bunu bilən kəslərdə isə mübahisələr dərhal kəsilir."
+
+msgid "7"
+msgstr "O kəs ki, yalnız ləzzətlərin seyrində yaşayır, hisslərini ram edə bilmir, yeməkdə hədd tanımır, tənbəl və qətiyyətsizdir, - məhz onu Mara sarsıdır, gücsüz ağacı külək sarsıdan kimi."
+
+msgid "8"
+msgstr "O kəs ki, ləzzətlərin seyrinə qapılmadan yaşayır, hisslərini nəzarətdə saxlayır, yeməkdə mötədildir, inam və qətiyyətlə doludur,- məhz onu Mara sarsıda bilmir, külək daş-qayanı sarsıda bilmədiyi kimi."
+
+msgid "9"
+msgstr "Sarı libas geyən, özü isə çirkabdan təmiz­lən­məyən, həqiqəti, özünü məhdud­laşdır­manı bil­­­məyən kəs sarı libasa layiq deyil."
+
+msgid "10"
+msgstr "Lakin çirkabdan azad olmuş, fəzilətlərdə möh­­kəm olan, həqiqət və özünü məhdudlaşdırma ilə dolan kəs, məhz o, sarı libasa layiqdir."
+
+msgid "11"
+msgstr "Həqiqəti həqiqətsizlikdə görənlər və həqiqət­sizliyi həqiqət sayanlar heç zaman həqiqətə ça­ta bilməyəcəklər, zira, onların nəsibi yalançı niy­yətlərdir."
+
+msgid "12"
+msgstr "Həqiqəti həqiqət və həqiqətsizliyi həqiqətsiz­lik kimi görənlər, onlar həqiqətə çatacaqlar, zira, onların nəsibi həqiqi niyyətlərdir."
+
+msgid "13"
+msgstr "Pis damı olan evə yağış necə daxil olursa, pis inkişaf etmiş ağıla da ehtiras eləcə daxil olur."
+
+msgid "14"
+msgstr "Yaxşı damı olan evə yağış daxil ola bilmədiyi kimi, yaxşı inkişaf etmiş ağıla da ehtiras daxil ola bilmir."
+
+msgid "15"
+msgstr "Bu dünyada da şikayətçidir o, o biri dünyada da. Hər iki dünyada şikayətçidir zülm törədən. Şikayət edir, əzab çəkir o, əməllərinin zülmünü görərək."
+
+msgid "16"
+msgstr "Bu dünyada da sevinir o, o biri dünyada da. Saleh əməl sahibi hər iki dünyada sevinir. Sevinir o, sevinib qurtara bilmir, əməllərinin qüsursuzluğunu görərək."
+
+msgid "17"
+msgstr "Bu dünyada da əzab çəkir o, o biri dünya da, hər iki dünyada əzab çəkir zülm törədən. 'Bu zülmü mən elədim'- deyə əzab çəkir o. Pis yola düşüncə isə daha çox əzab çəkir."
+
+msgid "18"
+msgstr "Bu dünyada da şadlanır o, o biri dünyada da. Hər iki dünyada şadlanır saleh əməl sahibi. 'Bu xeyiri mən elədim!'- deyə şadlanır o. Doğru yola yetişincə isə daha çox şadlanır."
+
+msgid "19"
+msgstr "Əgər insan Kitabı hətta əzbər belə bilsə, lakin özü qafildir və ona riayət etmirsə, o, başqasının inəklərini sayan çobana bənzəyir. Müqəddəsliyə aidiyyəti yoxdur onun."
+
+msgid "20"
+msgstr "Əgər hətta insan Kitabı az təkrarlayırsa belə, lakin dhammaya uyğun yaşayırsa, ehtirasdan, nifrətdən və cəhalətdən azaddır, həqiqi biliyə və azad ağıla malikdirsə, nə bu dünyada, nə də o biri dünyada bağlılığı yoxdursa, onun müqəddəsliyə aidiyyəti var."
+
+msgid "chap2"
+msgstr "Ciddilik"
+
+msgid "21"
+msgstr "Ciddilik, ölümsüzlüyə aparan yoldur. Yüngüllük, ölümə aparan yoldur. Ciddilər ölmürlər. Yüngüllər ölü kimi bir şeydirlər."
+
+msgid "22"
+msgstr "Bunu aydın anlayaraq, müdriklər ciddidirlər. Ciddilikdən alırlar sevinclərini onlar. Nəciblərin zəmisində sevinirlər onlar."
+
+msgid "23"
+msgstr "Düşüncəli, inadkar, daima dəyanətli və müdrik olanlar, onlar bağlılıqdan azad və bənzərsiz Nirvanaya yetişənlərdir."
+
+msgid "24"
+msgstr "Əgər ciddi adam özünü ilhamlandırarsa, unutqan olmazsa, əgər onun əməlləri təmizdir və o şüurla hərəkət edirsə, özünü məhdudlaşdıra bilir və qanuna uyğun yaşayırsa, onda onun şöhrəti daima artacaqdır."
+
+msgid "25"
+msgstr "Qoy, müdrik səylə, ciddiliklə, özünü məhdudlaşdırma və nəzarətlə özünə elə bir ada düzəlt­sin ki, sel dağıda bilməsin onu."
+
+msgid "26"
+msgstr "Axmaqlar boş şeylərin, şər müdrikliyin arxasınca gedərlər. Müdrik isə ciddiliyi qiymətli xəzinə kimi qoruyur."
+
+msgid "27"
+msgstr "Yüngüllükdən qaçın, ehtirasdan və həzzlərdən çəkinin, zira, yalnız ciddi və düşüncəli olan böyük səadətə qovuşa bilir."
+
+msgid "28"
+msgstr "Müdrik, ciddiliklə yüngüllüyü qovanda, o qayğısız, müdrikliyin zirvələrinə yüksələrək qüssə ilə xəstələnmiş bəşəriyyətə dağda duranın düzəndə durana baxdığı kimi, müdrikin səfehə baxdığı kimi baxır."
+
+msgid "29"
+msgstr "Yüngüllər içində ciddi, yatanlar içində oyaq olan müdrik, yabını ötən kəhər kimi başqalarından seçilir."
+
+msgid "30"
+msgstr "Göy əhli arasında birinciliyi Maqhavan öz ciddiliyi ilə əldə etmişdir. Ciddiliyi tərifləyər, yüngüllüyü isə həmişə lənətləyərlər."
+
+msgid "31"
+msgstr "Ciddilikdə məmnunluq tapan, yaxud yüngüllüyə qorxu ilə baxan bhikşu böyük və kiçik düyünləri yandıran alov kimi özünə yol açır."
+
+msgid "32"
+msgstr "Ciddilikdə məmnunluq tapan, yaxud yüngüllüyə qorxu ilə baxan bhikşu yıxılmağa qadir deyil: zira, o, Nirvanaya yaxındır."
+
+msgid "chap3"
+msgstr "Fikir"
+
+msgid "33"
+msgstr "Titrəyən, əsən, kövrək və zorla saxlanılan fikri Müdrik oxçunun oxu yönəltdiyi tək yönəldir."
+
+msgid "34"
+msgstr "Sudan çıxardılaraq quruya atılmış balıq kimi əsir bu fikir: təki Maranın hökmündən qurtula bilsin."
+
+msgid "35"
+msgstr "Zorla saxlanılan, zərif, harda gəldi ilişən fikrin ram edilməsi xeyirdir. Ram edilmiş fikir səadətə aparır."
+
+msgid "36"
+msgstr "Qoy, müdrik çətin dərk olunan, son dərəcədə incə, harda gəldi ilişən fikrini qorusun; qorunan fikir səadətə aparır."
+
+msgid "37"
+msgstr "Uzaqlarda dolaşan, tənha avaralanan, qeyri-maddi, ürəkdə gizlənən fikirlərini ram edə bilənlər Maradan azad olacaqlar."
+
+msgid "38"
+msgstr "Fikri dayanıqsız olanın, həqiqi dhammanı bilməyənin, imanı tərəddüd edənin müdrikliyi kamilləşmir."
+
+msgid "39"
+msgstr "Əgər insanın fikirləri dağınıq deyilsə, ağlı qarışmayıbsa, əgər o, xeyir və şəri düşünmürsə, beləcə oyaq olana qorxu yoxdur."
+
+msgid "40"
+msgstr "Bu bədənin palçıq olduğunu bilərək, bu fikri qalaya çevirərək, qoy, o, müdriklik silahı ilə Maranın üzərinə atılsın. Və qələbəni qorusun və bağlılıqlardan azad qalsın."
+
+msgid "41"
+msgstr "Eh! Bu bədən yerdə uzun yaşamayacaq - nəsibsiz, hissiyyatsız, faydasız, odun kimi."
+
+msgid "42"
+msgstr "Düşmən düşməninə, yaxud nifrətli nifrətliyə nə edir etsin, yanlış yönəlmiş fikir daha betərini etmək iqtidarındadır."
+
+msgid "43"
+msgstr "Ana, ata, yaxud başqa bir qohum nə edir etsin, doğru yönəlmiş fikir daha yaxşısını etmək iqtidarındadır."
+
+msgid "chap4"
+msgstr "Güllər"
+
+msgid "44"
+msgstr "Bu yerə və Yamanın aləminə və göy əhlinin dünyasına kim qalib gələcək? Yaxşı təlim olunmuş dhamma yolunu kim tapacaq, ağıllı adam gülü tapan kimi?"
+
+msgid "45"
+msgstr "Şagird qalib gələcək bu yerə, Yamanın aləminə və göy əhlinin dünyasına. Şagird tapacaq yaxşı təlim olunmuş dhamma yolunu, ağıllı adam gülü tapan kimi."
+
+msgid "46"
+msgstr "Bu bədənin köpüyə bənzər olduğunu bilən, onun ilğım təbiətini anlayan kəs Maranın güllərlə bəzədilmiş oxlarını sındıracaq və heç zaman ölümü görməyəcəkdir."
+
+msgid "47"
+msgstr "Gül dərən, ağlı pərdəli olan insanı isə ölüm oğurlayır, sel yatmış kəndi yuyub aparan təki."
+
+msgid "48"
+msgstr "Gül dərən, ağlı pərdəli olan insanı isə ölüm özünə müti edir, o hissi əyləncələrdən doyana qədər."
+
+msgid "49"
+msgstr "Necə ki, arı gülü, onun rəngini və ətrini zədələmədən şirələnib uçur, qoy, müdrik də özünü kənddə elə aparsın."
+
+msgid "50"
+msgstr "Qoy, o başqalarının nöqsanlarına, elədikləri və eləmədiklərinə baxmasın, özünün elədiklərinə və eləmədiklərinə baxsın."
+
+msgid "51"
+msgstr "Yaxşı deyilmiş söz, əgər insan özü ona əməl etmirsə, faydasızdır, xoş rəngli, lakin ətirsiz bir gözəl gül kimi."
+
+msgid "52"
+msgstr "Yaxşı deyilmiş söz, əgər insan özü ona əməl edirsə, məhsuldardır, xoş rəngli və ətirli gözəl gül kimi."
+
+msgid "53"
+msgstr "Bir topa güldən çoxlu çələng hörmək mümkün olduğu kimi, beləcə ölümlü də doğulanda çoxlu xeyirli əməllər edə bilər."
+
+msgid "54"
+msgstr "Güllərin ətri küləyin əksi istiqamətində yayılmır, sandal ağacında da belədir, taqarda da, jasmində də. Salehlərin ətri isə küləyin əksi istiqamətində də yayılır. Xeyirxah insan hər yerə nüfuz edir."
+
+msgid "55"
+msgstr "Sandal ağacı yaxud taqara, şanagüllə yaxud vassika – onların ətirləri içərisində ən üstün olanı, xeyirli əməllərin ətridir."
+
+msgid "56"
+msgstr "Zəifdir bu ətir, taqaranın və sandal ağacının buraxdığı. Göy əhli arasında əsən xeyirli əməllərin ətri isə ən yaxşısıdır."
+
+msgid "57"
+msgstr "Nəciblərin, ciddiliklə dolanların və kamil bilik vasitəsi ilə azad olanların cığırlarını Mara tapa bilmir."
+
+msgid "58"
+msgstr "Böyük yola tökülmüş zibil yığınında şirin ətirli və ağılı sadlandıran şanagüllə çiçəyi bitə bildiyi kimi,"
+
+msgid "59"
+msgstr "beləcə həqiqətən nurlanmışın şagirdi də kor bəsitlər arasında, zibilə bənzər məxluqlar arasında, öz müdrikliyi ilə seçilir."
+
+msgid "chap5"
+msgstr "Axmaqlar"
+
+msgid "60"
+msgstr "Gecə uzundur oyaq qalan üçün, yocana uzundur yorulmuş üçün, sansara uzundur axmaqlar, həqiqi dhammanı bilməyənlər üçün."
+
+msgid "61"
+msgstr "Əgər yolçu özünə bənzərinə yaxud daha yaxşısına rast gəlməsə, qoy, o, tənhalıqda möhkəmlənsin: axmaqla dostluq olmur."
+
+msgid "62"
+msgstr "'Oğullarım mənim – sərvətim mənim',- beləcə axmaq əzab çəkir. Axı, heç onun özü-özünə sahib deyil. Bəs oğullar hardan? Sərvət hardan?"
+
+msgid "63"
+msgstr "Öz axmaqlığını bilən axmaq bununla artıq müdrikdir, özünü müdrik sanan axmaq isə həqiqətən də, necə deyərlər,'axmaqdır'."
+
+msgid "64"
+msgstr "Əgər axmaq hətta bütün ömrü uzunu müdriklə bağlıdırsa belə, o, dhammanı qaşıq şorbanın dadını bildiyindən artıq bilmir."
+
+msgid "65"
+msgstr "Əgər hətta bir anlığına belə ağıllı müdriklə bağlanırsa, o, dhamma ilə sürətlə tanış olur, dil şorbanın dadı ilə tanış olan təki."
+
+msgid "66"
+msgstr "Ağılsız olan axmaqlar özləri ilə düşmənlə davranan kimi davranırlar, şər əməl törədirlər, acı meyvələr gətirən."
+
+msgid "67"
+msgstr "Pis görülüb o iş ki, onu eləyəndən sonra peşman olurlar və onun meyvəsini ağlanmış üzlə, hıçqıra-hıçqıra qəbul edirlər."
+
+msgid "68"
+msgstr "Lakin yaxşı görülüb o iş ki, onu eləyəndən sonra peşman olmurlar və onun meyvəsini sevinc içində və məmnunluqla qəbul edirlər."
+
+msgid "69"
+msgstr "Şər yetişməyincə axmaq onu bal sanır. Şər yetişincə isə axmaq dərdə düşür."
+
+msgid "70"
+msgstr "Qoy, axmaq aybaay kus otunun ucu ilə yemək yesin. Hər halda o, dhammanı bilənlərin onaltıda bir hissəsinə belə dəymir."
+
+msgid "71"
+msgstr "Zira, süd dərhal çürümədiyi kimi, törədilən şər əməl də dərhal meyvələrini göstərmir; küllə örtülü od kimi közərir, bu axmağı təqib edir."
+
+msgid "72"
+msgstr "Lakin o zaman ki, axmaq bədbəxtlikdən biliyə sahib olur, onda bilik onun başını partladaraq onun uğurunu məhv edir."
+
+msgid "73"
+msgstr "O özünə yaraşmayan mövqeni və bhikşular arasında birinciliyi və monastırlarda hakimiyyəti və digərləri arasında seçilməyi arzulaya bilər."
+
+msgid "74"
+msgstr "'Qoy, dünyəvilər də, zahidlər də bilsinlər ki, bunu mən etmişəm. Qoy, onlar bütün işlərində məndən asılı olsunlar', - axmağın niyyəti budur; onun arzusu və təkəbbürü daima artır."
+
+msgid "75"
+msgstr "Zira, bir vasitə var-dövlət əldə etməyə aparır, digəri Nirvanaya. Bunu bilən bhikşu, Buddanın şagirdi, şan-şövkətə sevinməz, tənhalığı sevər."
+
+msgid "chap6"
+msgstr "Müdriklər"
+
+msgid "76"
+msgstr "Əgər kimsə qüsurları göstərən və onlara görə qınayan müdriki görmüş olsa, qoy, o beləsinin ardınca getsin, xəzinəni göstərən birisinin ardınca gedən təki. Beləsinin ardınca gedənə yaxşı olacaq, pis olmayacaq."
+
+msgid "77"
+msgstr "Qoy, o, məsləhət versin, öyrətsin və şərdən saxlasın. Axı o, xeyirxaha xoş və zalıma naxoş gəlir."
+
+msgid "78"
+msgstr "Qoy, heç kim pis dostlarla birləşməsin, qoy, heç kim alçaq insanlarla birləşməsin. Yaxşı insanlara bağlanın. Nəcib insanlara bağlanın."
+
+msgid "79"
+msgstr "Dhamma yeyən xoşbəxt yaşayır; təmiz ağıllı müdrik Nəcibin bəyan etdiyi dhammaya daima heyrət edir."
+
+msgid "80"
+msgstr "Kanal çəkənlər su buraxırlar, oxçular oxu özlərinə tabe etdirirlər, dülgərlər ağacı özlərinə ram edirlər, müdriklər özlərini sakitləşdirirlər."
+
+msgid "81"
+msgstr "Möhkəm qayanı külək yerindən tərpədə bilmədiyi kimi, beləcə müdriklər də söyüş və təriflər altında sarsılmazdırlar."
+
+msgid "82"
+msgstr "Dhammaları eşidincə müdriklər göl kimi təmiz olurlar, dərin, təmiz və bulanıqsız."
+
+msgid "83"
+msgstr "Salehlər öz yollarını istənilən şəraitdə davam etdirirlər. Xeyirxahlar hətta istəyəndə belə boşboğazlıq etmirlər. Onlara səadət və ya kədər toxunanda isə müdriklər nə onu, nə də o birisini üzə göstərmirlər."
+
+msgid "84"
+msgstr "Nə özündən ötrü, nə də başqasından ötrü o, nə oğul, nə var-dövlət, nə də şahlıq istəməz. Qanunsuz yolda o özünə uğur arzulamaz. Qoy, o həmişə nəcib, müdrik və ədalətli olsun."
+
+msgid "85"
+msgstr "İnsanlar arasında çox azı qarşı sahilə yan ala bilirlər. Qalan insanlar isə yalnız bu sahildə vurnuxmaqla məşğuldurlar."
+
+msgid "86"
+msgstr "Dhamma layiqincə bəyan edildikdə həqiqətən dhammaya riayət edən insanlar isə nə qədər çətin olsa da, ölüm səltənətindən yan keçərək qarşı sahilə yetişə biləcəklər."
+
+msgid "87"
+msgstr "Qaranlıq dhammanı tərk edən müdrik, qoy, nurlu dhammanı bəsləsin. Evdən evsizliyə hicrət edərək, qoy, o, tənhalıqda, sevinc üçün ən az yarayan kimi görünə bilən şəraitdə, məmnunluq arasın."
+
+msgid "88"
+msgstr "Arzulardan imtina edərək, mülkiyyətdən qurtularaq, qoy, müdrik öz ağlını çirkabdan təmizləsin."
+
+msgid "89"
+msgstr "O kəslərin ki, ağlı nurlanmanın əsaslarına layiqincə söykənmişdir, o kəslər ki, bağlılıqlardan imtina etmişlər, azadlığa sevinirlər, öldürülmüş arzularla, işıqla dolu olan o kəslər bu dünyada Nirvanaya çatanlardır."
+
+msgid "chap7"
+msgstr "Arhatlar"
+
+msgid "90"
+msgstr "Səyahəti başa vuran üçün, kədərsiz üçün, hər baxımdan azad üçün, bütün bağları atan üçün ehtiras qızdırması deyilən şey yoxdur."
+
+msgid "91"
+msgstr "Müdriklər hicrət edirlər; evdə onlar üçün həzz yoxdur. Öz gölünü tərk edən qu quşları kimi, öz mənzillərini tərk edirlər onlar."
+
+msgid "92"
+msgstr "Onlar ehtiyat yığmırlar, qidaya onların düzgün baxışları var, onların nəsibi arzulardan məhrum və heç nə ilə şərtlənməyən azadlıqdır. Onların yolu göydəki quşların uçuşu kimi çətin anlaşılır."
+
+msgid "93"
+msgstr "Onun arzuları məhv olmuşdur və o, qidaya bağlı deyil; onun nəsibi arzulardan və şərtlərdən azad olan qurtuluşdur. Onun yolu göydəki quşların uçuşu kimi çətin anlaşılır."
+
+msgid "94"
+msgstr "Onun hissləri arabaçının ram etdiyi atlar kimi sakitdirlər. O, təkəbbürdən imtina etmişdir və arzulardan məhrumdur. Beləsinə göy əhli belə həsəd aparır."
+
+msgid "95"
+msgstr "Torpaq kimi o da çaşqınlıq tanımır; beləcə comərd olan İndranın sütununa bənzəyir; o, çirkabsız göl kimidir. Beləsində sansaralar olmur."
+
+msgid "96"
+msgstr "Onun fikri sakitdir, sözü də sakitdir, əməli də. Beləcə sakit və azad olan kamil bilik yiyəsidir."
+
+msgid "97"
+msgstr "O kəs ki, inanmır və yaradılmamışı bilir, bağlılıqları qırmış, təsadüfə son qoymuş, arzulardan imtina etmişdir, həqiqətən ən nəcib insandır."
+
+msgid "98"
+msgstr "Kənddə yaxud meşədə, vadidə yaxud təpədə - Arhatlar harda yaşasalar, o yer xoş yerdir."
+
+msgid "99"
+msgstr "Meşələr xoşdur. Başqalarının sevinmədiyi yerdə ehtiraslardan məhrumlar sevinərlər, zira, onlar hissi həzzləri axtarmırlar."
+
+msgid "chap8"
+msgstr "Min"
+
+msgid "100"
+msgstr "Eşidincə insanın sakitləşdiyi bir faydalı söz faydasız sözlərdən tərtib olunmuş minlərlə nitqdən yaxşıdır."
+
+msgid "101"
+msgstr "Eşidincə insanın sakitləşdiyi yarım ayə faydasız sözlərdən tərtib olunmuş minlərlə ayədən yaxşıdır."
+
+msgid "102"
+msgstr "Eşidincə insanın sakitləşdiyi yarım ayə daha yaxşıdır, nəinki kimsə faydasız sözlərdən tərtib olunmuş yüz ayə oxusun."
+
+msgid "103"
+msgstr "Əgər birisi döyüşdə min dəfə min nəfərə qalib gəlmiş olsa, başqası isə yalnız özünə qalib gəlsə, məhz bu başqası döyüşdə ən böyük qalibdir."
+
+msgid "104"
+msgstr "Həqiqətən, daimi özünü məhdudlaşdırmada yaşayan, özünü ram etmiş insanın özü üzərindəki qələbəsi başqa insanlar üzərindəki qələbədən daha yaxşıdır."
+
+msgid "105"
+msgstr "Nə Mara Brahman ilə, nə göy əhli, nə qandharva bu insanın qələbəsini məğlubiyyətə çevirə bilməyəcək."
+
+msgid "106"
+msgstr "Qoy, kimsə yüz il ərzində hər ay min dəfə qurbanvermə ayini yerinə yetirsin və qoy, bir başqası özünü kamilləşdirənə heç olmasa bir anlığına təzim etsin. Həqiqətən, belə ehtiram yüz illik qurbanvermədən daha yaxşıdır."
+
+msgid "107"
+msgstr "Qoy, insan yüz il meşədə odun qulluğunda dursun və qoy, o bir anlığına da olsa özünü kamilləşdirənə təzim etsin. Həqiqətən, belə ehtiram yüz illik qurbanvermələrdən daha yaxşıdır."
+
+msgid "108"
+msgstr "Bu dünyada xeyirxah adam il ərzində sədəqə və nəzir kimi nə qurban versə də, bütün bunlar qara qəpiyə də dəyməz. Saleh həyat tərzi yaşayanlara hörmət daha yaxşıdır."
+
+msgid "109"
+msgstr "Mərifətli olan və qocalara həmişə hörmətlə yanaşan insanda dörd dhamma böyüyür: həyat, gözəllik, xoşbəxtlik, qüvvət."
+
+msgid "110"
+msgstr "Xeyirxah və özünə dalmışın bir günü qüsurlu və pozğun insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "111"
+msgstr "Müdrikləşmiş və özünə dalmışın bir günü cahil və pozğun insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "112"
+msgstr "Qaynayan enerjiyə malik birisinin bir günü tənbəl və enerjidən məhrum insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "113"
+msgstr "Əvvəli və sonu görmüşün bir günü əvvəli və sonu görməyən insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "114"
+msgstr "Ölümsüz yolu görmüşün bir günü ölümsüz yolu görməyən insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "115"
+msgstr "Ali dhammanı görmüşün bir günü ali dhammanı görməyən insanın yüz illik mövcudluğundan daha yaxşıdır."
+
+msgid "chap9"
+msgstr "Şər"
+
+msgid "116"
+msgstr "Qoy, o, xeyir iş görməyə tələssin; şərdən ağlını qorusun, qoy. Zira, xeyir iş görməyə tələsməyən birisinin ağlı şərdə məmnunluq tapır."
+
+msgid "117"
+msgstr "Əgər insan şər iş tutmuşsa belə, qoy, o onu təkrar-təkrar etməsin, onun üzərində qurmasın niyyətlərini. Şərin toplanması kədərlidir."
+
+msgid "118"
+msgstr "Əgər insan xeyir iş görmüşsə belə, qoy, o onu təkrar-təkrar eləsin, onun üzərində qursun niyyətlərini. Xeyirin toplanması sevinclidir."
+
+msgid "119"
+msgstr "Hətta zalım belə xoş gün görür, nə qədər ki, şər yetişməyib. Lakin şər yetişincə zalım şəri görür."
+
+msgid "120"
+msgstr "Hətta saleh belə zülmə məruz qalır, nə qədər ki, xeyir yetişməyib. Lakin xeyir yetişincə, saleh xeyiri görür."
+
+msgid "121"
+msgstr "Şər barədə yüngül düşünmə: 'O mənə gəlməyəcək', - demə. Axı bardaq da damlaların düşməsindən dolur. Axmaq şərlə dolur, hətta onu az-az toplasa belə."
+
+msgid "122"
+msgstr "Xeyir barədə yüngül düşünmə: 'O mənə gəlməyəcək', - demə. Axı bardaq da damlaların düşməsindən dolur. Ağıllı xeyirlə dolur, hətta onu az-az toplasa belə."
+
+msgid "123"
+msgstr "Qoy, o, şərdən yan qaçmağa çalışsın, müşayiətsiz, lakin böyük vara malik tacir təhlükəli yoldan yan qaçan kimi, yaşamaq istəyən zəhərdən qaçan kimi."
+
+msgid "124"
+msgstr "Əl yaralı deyilsə, əldə zəhər daşımaq olar. Yarası olmayana zəhər zərər verə bilməz. Özü şər iş tutmayan, şərə məruz qalmır."
+
+msgid "125"
+msgstr "Günahsız adama zülm edənə, məsum və qüsursuz insana zülm edənə, məhz belə bir axmağa zülm qayıdır, küləyin əksinə atılmış zərif toz kimi."
+
+msgid "126"
+msgstr "Bəziləri ana bətninə qayıdır, zülm edənlər cəhənnəmə düşürlər, salehlər cənnətə, arzulardan məhrum olmuşlar isə Nirvanaya yetişirlər."
+
+msgid "127"
+msgstr "Nə göydə, nə okeanın ortasında, nə içinə girilsə, dağın yarğanında, yerdə elə bir yer tapılmaz ki, yaşayan öz şər əməllərinin nəticələrindən yaxa qurtara bilsin."
+
+msgid "128"
+msgstr "Nə göydə, nə okeanın ortasında, nə içinə girilsə, dağın yarğanında, yerdə elə bir yer tapılmaz ki, yaşayana ölüm qalib gəlməsin."
+
+msgid "chap10"
+msgstr "Cəza"
+
+msgid "129"
+msgstr "Hamı cəza qarşısında əsir, hamı ölümdən qorxur – özünüzü başqasının yerinə qoyun. Nə öldürmək, nə də ölümə təhrik etmək olmaz."
+
+msgid "130"
+msgstr "Hamı cəza qarşısında əsir, həyat hamıya xoş gəlir – özünüzü başqasının yerinə qoyun. Nə öldürmək, nə də ölümə təhrik etmək olmaz."
+
+msgid "131"
+msgstr "Kim ki, səadət axtararaq səadət arzulayan məxluqlara cəza verir, o kəs ölümündən sonra səadət almayacaqdır."
+
+msgid "132"
+msgstr "Kim ki, səadət axtararaq səadət arzulayan məxluqlara cəza vermirsə, o kəs ölümündən sonra səadət alacaqdır."
+
+msgid "133"
+msgstr "Heç kimlə kobud danışma; kimlə kobud danışsan, sənə eyni şeylə cavab verəcəklər. Axı qıcıqlı nitq xoş deyil və qisas sənə toxuna bilər."
+
+msgid "134"
+msgstr "Əgər sən sınmış qonq kimi sakitləşmisənsə, sən Nirvanaya çatmısan, səndə qıcıq yoxdur."
+
+msgid "135"
+msgstr "Çoban ağacla inəkləri örüşə qovduğu kimi, beləcə qocalıq və ölüm də canlı varlıqların həyatlarını qovurlar."
+
+msgid "136"
+msgstr "Şər işlər tutanda axmaq bunu başa düşmür. Ağılsız öz əməllərinin ucbatından odda qovrulan tək əzab çəkir."
+
+msgid "137"
+msgstr "Günahsız və korlanmamışlara cəza verən kimsə tezliklə on haldan birinə gəlib çıxır."
+
+msgid "138"
+msgstr "Onun başına gələ bilər: acı əzab, bədənin zədələnməsi və ya ağır əziyyət və ya xəstəlik, dəlilik;"
+
+msgid "139"
+msgstr "yaxud şahın qəzəbi və ya ittiham və ya doğmalarının itirilməsi və ya sərvət itkisi və ya evinin odda yanması."
+
+msgid "140"
+msgstr "Bədən dağılanda, axmaq cəhənnəmə düşür."
+
+msgid "141"
+msgstr "Nə çılpaq gəzmək, nə dolaşıq saçlar, nə kir, nə oruc, nə quru torpaqda yatmaq, nə toz və çamur, nə çöməlib oturmaq şübhələrə qalib gəlməmiş ölümlünü təmizləyə bilməz."
+
+msgid "142"
+msgstr "Qoy, o lap bəzənmiş olsun, lakin əgər o sülh içində yaşayır, sakit, təslim olmuş, nəfsini qoruyandırsa, saleh həyat yaşayır, bütün varlıqlara cəza verilməsini rədd edirsə, o, brahmanadır, o, zahiddir, o, bhikşudur."
+
+msgid "143"
+msgstr "Dünyada elə bir insan tapılarmı ki, özünü təvazökarlıqla ram etsin, yaxşı öyrədilmiş at qırmanca ehtiyac hiss eləmədiyi kimi, qısnanmaya ehtiyacı olmasın?"
+
+msgid "144"
+msgstr "Qırmancla toxunulan, yaxşı təlim görmüş at kimi enerjili və canlı olun. İmanın, xeyirxahlığın və enerjinin, özünə dalmanın və dhamma öyrənmənin köməyi ilə siz, düşüncəlilər, biliklə dolular və davranışlarında qüsursuzlar, bu böyük bəladan qurtulacaqsınız."
+
+msgid "145"
+msgstr "Kanal çəkənlər su buraxırlar, oxçular oxu özlərinə tabe etdirirlər, dülgərlər ağacı özlərinə ram edirlər, xeyirxahlar özlərini sakitləşdirirlər."
+
+msgid "chap11"
+msgstr "Qocalıq"
+
+msgid "146"
+msgstr "Bu nə gülüş, bu nə şadlıqdır, o zaman ki, dünya daima od içindədir? Zülmətlə örtülmüşlər, siz niyə nuru axtarmırsınız?"
+
+msgid "147"
+msgstr "Bu bəzədilmiş şəklə, qüsurla dolu, hissələrdən yığılmış, xəstəhal, içi müəyyənlik və sabitlikdən məhrum fikirlərlə dolu bədənə bax."
+
+msgid "148"
+msgstr "Cındırı çıxıb bu bədənin, xəstəlik yuvası, fani; bu çürüməkdə olan qalaq dağılmaqdadır; zira, həyat ölümlə sonuclanır."
+
+msgid "149"
+msgstr "Bu maviyə çalan, payız vaxtı ora-bura atılmış balbabaqlara bənzəyən sümükləri görməkdə nə ləzzət var?"
+
+msgid "150"
+msgstr "Bu qala sümüklərdən düzəldilib, ət və qanla suvanıb; qocalıq və ölüm, aldanış və riya var onda."
+
+msgid "151"
+msgstr "Bər-bəzəkli şah arabaları belə köhnəlirlər; beləcə, bədən də qocalığa yaxınlaşır. Lakin nəciblərin dhamması qocalığa yaxınlaşmır; zira, xeyirxahlar onu xeyirxahlara öyrədirlər."
+
+msgid "152"
+msgstr "Az bilikli insan öküz kimi qocalır: onun əzələləri böyüyür, biliyi isə artmır."
+
+msgid "153"
+msgstr "Mən uğursuzcasına evin inşaatçısını axtara-axtara bir çox doğuluşların sansarasından keçdim. Təkrar-təkrar doğulmaq kədərlidir."
+
+msgid "154"
+msgstr "Ey evin inşaatçısı, sən görürsən! Evi bir daha yenidən tikə bilməyəcəksən. Sənin bütün atmaların çürüyüb, damdakı çatma da məhv edilmişdir. Əşyasızlaşma yolunda ağıl arzuların məhvinə nail olmuşdur."
+
+msgid "155"
+msgstr "Kimlər ki, saleh həyat yaşamamış, gəncliyində xəzinəyə yetişməmişlər, məhv olurlar, balığı olmayan göldə qoca leyləklər ölən təki."
+
+msgid "156"
+msgstr "Kimlər ki, saleh həyat yaşamamış, gəncliyində xəzinəyə yetişməmişlər, sınmış oxlar təki yatırlar, keçmişi xatırlayaraq ah çəkə-çəkə."
+
+msgid "chap12"
+msgstr "Öz 'Mən'"
+
+msgid "157"
+msgstr "Öz 'mən'inin xoş olduğunu bilən, qoy, özünü diqqətlə qorusun. Müdrik gecənin üçdə birini oyaq qalmalıdır."
+
+msgid "158"
+msgstr "Qoy, o əvvəlcə özünü lazımi hala gətirsin. Sonra isə başqasını da öyrətmək olar. Müdrik yoldan azmayacaq."
+
+msgid "159"
+msgstr "Başqasına öyərətdiyinə özü də əməl etsin. Özünü tam ram edərək o, başqalarını da ram edə bilər. Həqiqətən də özünü ram etmək çətindir."
+
+msgid "160"
+msgstr "Axı öz 'mən'i özünə ağadır, daha kim ağa ola bilər ki? Öz 'mən'ini tam təslim edən insan çətin tapılan ağanı tapmış olur."
+
+msgid "161"
+msgstr "Özüdoğulan, özüyaranan şəri özün eləmisən. O, axmağa qalib gəlir, almaz qiymətli daşa qalib gələn kimi."
+
+msgid "162"
+msgstr "Lap pis xasiyyəti olan kəs özü ilə düşmənin ona arzulaya biləcəyi tərzdə davranır. O, sal ağacını saran maluvanı xatırladır."
+
+msgid "163"
+msgstr "Pis və özü üçün zərərli işləri görmək asandır. Yaxşı və faydalı işləri görmək isə son dərəcə çətindir."
+
+msgid "164"
+msgstr "Qüsurlu baxışlara görə nəcib, dhamma əsasında yaşayan Arhatların təliminə nifrət edən axmaq katthaka kimi meyvə verir, yalnız özünü məhv etməklə."
+
+msgid "165"
+msgstr "Zira insan zülmü özü edir, özü də özünü çirkaba bulaşdırır. Zülmü eləməyən də özüdür və özünü təmizləyən də. Təmizlik və çirkab insanın özü ilə bağlıdır. Heç kim başqasını təmizləyə bilməz."
+
+msgid "166"
+msgstr "Qoy, o öz xeyirini az sanmasın, başqasının xeyiri nə qədər böyük olursa-olsun. Öz xeyirini dərk edərək, qoy, o, ali xeyirə sadiq olsun."
+
+msgid "chap13"
+msgstr "Dünya"
+
+msgid "167"
+msgstr "Alçaq dhammaya riayət etmə! Yelbeyin yaşama! Saxta baxışlara riayət etmə! Mövcudluğu artırma!"
+
+msgid "168"
+msgstr "Qalx! Yelbeyin olma! Xeyirli dhammaya riayət elə."
+
+msgid "169"
+msgstr "Dhammaya riayət edən bu dünyada xoşbəxt yaşayır, hətta o birində də."
+
+msgid "170"
+msgstr "Dünyaya qovuqcuğa baxan kimi, ilğıma baxan kimi baxanları ölüm şahı görmür."
+
+msgid "171"
+msgstr "Gedin alabəzək şah arabasına bənzər bu dünyaya baxın. Səfehlərin çabaladığı yerdə müdrikin heç bir bağlılığı yoxdur."
+
+msgid "172"
+msgstr "Əvvəl yüngül olan sonra ciddi olursa, bu dünyanı buludlardan qurtulmuş ay kimi işıqlandırır."
+
+msgid "173"
+msgstr "Törətdiyi şərin kəffarəsini xeyir işlə verən kəs, bu dünyanı buludlardan qurtulmuş ay kimi işıqlandırır."
+
+msgid "174"
+msgstr "Kordur bu dünya. Dünyada yalnız az bir qisim aydın görə bilir. Tordan qurtulmuş quş kimi, yalnız az bir qisim cənnətə düşür."
+
+msgid "175"
+msgstr "Günəşin yolu ilə səyahət edərlər qu quşları; göydə onlar iddhinin köməyi ilə səyahət edərlər. Müdriklər Maranı qoşunu ilə birlikdə məğlub edərək tərk edərlər dünyanı."
+
+msgid "176"
+msgstr "Yalan danışan, axirətdən imtina edən, bircə dhammaya saymazlıq edən insanın törədə bilməyəcəyi şər yoxdur."
+
+msgid "177"
+msgstr "Həqiqətən, simiclər göy əhlinin dünyasına düşmürlər; səfehlər, həqiqətən, sədəqə verməyi tərifləmirlər. Müdrik isə verərkən sevinir: axı buna görə o, o biri dünyada xoşbəxtdir."
+
+msgid "178"
+msgstr "Sotapattinin meyvəsi yer hakimliyindən və ya göyə yüksəlməkdən – bütün dünyanın hökmdarı olmaqdan daha yaxşıdır."
+
+msgid "chap14"
+msgstr "Nurlanmış"
+
+msgid "179"
+msgstr "Bu cığırsızı, nurlanmışı, sonsuz sferaların sahibini, qələbəsi məğlubiyyətə çevrilməyəni və təslim olmuş ehtirası bir daha bu dünyada davam eləməyəcək birisini siz hansı cığırla aparacaqsınız?"
+
+msgid "180"
+msgstr "Bu cığırsızı, nurlanmışı, sonsuz sferaların sahibini, onu tələyə salacaq bağlılığı, yoldan çıxaracaq arzusu olmayan birisini siz hansı cığırla aparacaqsınız?"
+
+msgid "181"
+msgstr "Dərin fikirlərlə dolu olan nurlanmışlara hətta göy əhli belə həsəd aparır, azadlığın sakitliyindən həzz alanlara, zikrə qapılanlara, müdriklərə."
+
+msgid "182"
+msgstr "İnsan olmaq çətindir; ölümlülərin həyatı çətindir; həqiqi dhammanı dinləmək çətindir; nurlanmışın doğulması çətindir."
+
+msgid "183"
+msgstr "Zülm etməmək, xeyirə nail olmaq, ağlını təmizləmək – nurlanmışların elmi bundan ibarətdir."
+
+msgid "184"
+msgstr "Dözüm, səbr ali zahidlik, ali Nirvanadır, - deyirlər nurlanmışlar, - zira, başqalarına zərər verən tərki-dünya deyil, başqasını incidən – zahid deyil."
+
+msgid "185"
+msgstr "Praktimokşaya müvafiq olaraq, təhqir etməmək, zərər verməmək və nəfsin pəhrizi, qidada mötədillik, tənha yaşamaq, ali zikrlərə sadiqlik – nurlanmışların təlimi bundan ibarətdir."
+
+msgid "186"
+msgstr "Hətta qızıl pul yağmuru belə ehtiraslara məmnunluq gətirməyəcək. Müdrik olan bilir: ehtiraslar xəstədirlər və onlarda elə bir sevinc də yoxdur."
+
+msgid "187"
+msgstr "O hətta səmavi həzzlərdə belə məmnunluq tapmır. Tam nurlanmış şagird yalnız arzunun olmamasına sevinir."
+
+msgid "188"
+msgstr "Qorxudan əzab çəkən insanlar hər bir sığınacağa müraciət edərlər: dağlara, meşələrə, meşədəki ağaclara, qəbirlərə."
+
+msgid "189"
+msgstr "Lakin axı belə bir sığınacaq da təhlükəsiz deyil, belə bir sığınacaq da ən yaxşısı deyil. Belə bir sığınacağa sığınan bütün bəlalardan qurtulmur."
+
+msgid "190"
+msgstr "O kəs ki, Buddada, Dhammada və Sanqhada sığınacaq tapmışdır, əsl biliyə sahib olan o kəs, Dörd nəcib həqiqəti görür."
+
+msgid "191"
+msgstr "Zülm, zülmün mənşəyi və zülmün aradan qaldırılması və Nəcib səkkizli yol, zülmün durdurulmasına aparan."
+
+msgid "192"
+msgstr "Bax belə bir sığınacaq təhlükəsizdir, belə sığınacaq ən yaxşısıdır. Belə sığınacağa yetişən bütün bəlalardan qurtulur."
+
+msgid "193"
+msgstr "Nəcib insanı tapmaq çətindir: o hər yerdə doğulmur. Lakin belə müdrikin doğulduğu yerdə xoşbəxt nəsil çiçəklənir."
+
+msgid "194"
+msgstr "İlahi rəhmət var nurlanmışların doğuluşunda, ilahi rəhmət var həqiqi dhamma təlimində, ilahi rəhmət var sanqhanın razılığında, ilahi rəhmət var razılıqda yaşayanların zahidliyində."
+
+msgid "195"
+msgstr "Hörmətə layiq olanlara (istər nurlanmışlar olsun, istər şagirdlər) hörmət edən, maneəni aşmışlara, qəm və şikayətdən qurtulmuşlara,"
+
+msgid "196"
+msgstr "azadlığa çatmışlara və qorxubilməzlərə hörmət edən kəsin məziyyətlərini heç kimə sadalamaq mümkün deyil."
+
+msgid "chap15"
+msgstr "Səadət"
+
+msgid "197"
+msgstr "O! Biz çox xoşbəxt yaşayırıq, düşmənçilik edənlər içində düşmənçilik etməyənlər, düşmənçilik edən insanlar içində yaşayırıq biz, düşmənçilik etməyənlər."
+
+msgid "198"
+msgstr "O! Biz çox xoşbəxt yaşayırıq, xəstələr içində xəstə olmayanlar, xəstə insanlar içində yaşayırıq biz, xəstə olmayanlar."
+
+msgid "199"
+msgstr "O! Biz çox xoşbəxt yaşayırıq, üzülənlər içində üzüntü bilməyənlər; üzülən insanlar içində yaşayırıq biz, üzüntü bilməyənlər."
+
+msgid "200"
+msgstr "O! Biz çox xoşbəxt yaşayırıq, baxmayaraq ki, heç nəyimiz yoxdur. Biz sevinclə qidalanacağıq, işıq saçan göy əhli kimi."
+
+msgid "201"
+msgstr "Qələbə nifrət yaradır; məğlub olmuş qüssədə yaşayır. Səadətdə yaşayır sakit olan, qələbədən və məğlubiyyətdən imtina edərək."
+
+msgid "202"
+msgstr "Ehtirasdan böyük alov yoxdur; nifrətdən böyük bəla yoxdur; bədəndən böyük fəlakət yoxdur; sakitliyə bərabər səadət yoxdur."
+
+msgid "203"
+msgstr "Aclıq ən böyük xəstəlikdir; bədən ən böyük acıdır; bu barədə həqiqi biliyə malik olan üçün Nirvana ən böyük xeyirdir."
+
+msgid "204"
+msgstr "Sağlamlıq ən böyük qələbədir; məmnunluq ən böyük xəzinədir; etibar ən yaxşı qohumdur; Nirvana ən böyük xeyirdir."
+
+msgid "205"
+msgstr "Tənhalığın şirinliyini və sakitləşmənin şirinliyini dadaraq, qorxu və günahdan o kəs qurtulur ki, o, dhammanın müqəddəsliyini duyur."
+
+msgid "206"
+msgstr "Nəciblərə baxmaq xoşdur; onların cəmiyyətində olmaq xeyirdir. Səfehləri görməyən kəs qoy, həmişə xoşbəxt olsun."
+
+msgid "207"
+msgstr "Zira, səfehlərin cəmiyyətində dolaşan uzun müddət əzab çəkir. Səfehlərlə olmaq düşmənlə olmaq kimidir, həmişə bədbəxtlik gətirir, müdriklərlə olmaq isə səadətdir – qohumlarla görüş kimi."
+
+msgid "208"
+msgstr "Ona görə də ay ulduz yolu ilə getdiyi kimi, müdrikin, bilənin və çox elmlinin, çox şeyi yaşamışın, möminin, nəcibin - bax belə bir yaxşı və ağıllı insanın dalınca getmək lazımdır."
+
+msgid "chap16"
+msgstr "Xoş Olan"
+
+msgid "209"
+msgstr "Özünü vurnuxmaya həsr edən və özünü düşüncələrə həsr etməyən, məqsədi unutmuş, həzlərdən yapışan özünə dalmışa həsəd aparır."
+
+msgid "210"
+msgstr "Xoş olana bağlanma, xoş olmayana isə heç bağlanma. Xoş olanı görməmək və xoş olmayanı isə görmək zülmdür."
+
+msgid "211"
+msgstr "Odur ki, xoş olanı etməyin; zira, xoş olanla ayrılmaq ağrılıdır. Xoş olan və xoş olmayandan imtina etmiş üçün bağlar yoxdur."
+
+msgid "212"
+msgstr "Xoş olandan qəm doğulur, xoş olandan qorxu yaranır; xoş olandan qurtulmuş qəm nədir bilməz, qorxu hardan olsun?"
+
+msgid "213"
+msgstr "Meyldən qəm doğulur, meyldən qorxu yaranır; meyldən qurtulmuş qəm nədir bilməz, qorxu hardan olsun?"
+
+msgid "214"
+msgstr "Bağlılıqdan qəm doğulur, bağlılıqdan qorxu yaranır; bağlılıqdan qurtulmuş qəm nədir bilməz, qorxu hardan olsun?"
+
+msgid "215"
+msgstr "Ehtirasdan qəm doğulur, ehtirasdan qorxu yaranır; ehtirasdan qurtulmuş qəm nədir bilməz, qorxu hardan olsun?"
+
+msgid "216"
+msgstr "Arzudan qəm doğulur, arzudan qorxu yaranır; arzudan qurtulmuş qəm nədir bilməz, qorxu hardan olsun?"
+
+msgid "217"
+msgstr "Yaxşılıq və bəsirətlə dolu, dhammada dəyanətli olan və doğru danışan, borcunu yerinə yetirən – beləsini xalq xoş olan sayır."
+
+msgid "218"
+msgstr "Fikri həzzlərə bağlanmamış, daxilində deyilə bilməyənin arzusu doğulmuş (və qoy, o həm də idrakla dolu olsun) uddhamsota çağırılır."
+
+msgid "219"
+msgstr "Qohumlar, dostlar və tanışlar uzun müddət olmayan və çox uzaqlardan sağ-salamat qayıtmış birisini salamlayarkən sevinərlər."
+
+msgid "220"
+msgstr "Xeyir əməllər bu dünyadan digərinə köçmüş xeyirxah insanı qohumlar öz yaxınlarını qarşıladıqları kimi qarşılayarlar."
+
+msgid "chap17"
+msgstr "Qəzəb"
+
+msgid "221"
+msgstr "Qoy, o, qəzəbdən imtina etsin, qoy, o, təkəbbüründən əl çəksin, qoy, o, bütün bağlılıqlarına qalib gəlsin. Ad və formaya bağlı olmayana heç bir bədbəxtlik üz vermir."
+
+msgid "222"
+msgstr "Oyanmış qəzəbini yoldan çıxmış arabanı saxlayan kimi saxlayanı mən arabaçı adlandırıram; qalanlar isə sadəcə yüyən tuturlar."
+
+msgid "223"
+msgstr "Qoy, o, qəzəbə qəzəbin yoxluğu ilə, xeyirli olmayana xeyirli olanla qalib gəlsin, qoy, o, simicliyi səxavətlə, yalanı həqiqətlə üstələsin."
+
+msgid "224"
+msgstr "Həqiqəti söylə, qəzəbə uyma; səndən istəyirlərsə, az bir şey olsa belə, ver. Bu üç şərtlərin köməyi ilə göy əhlinə yaxınlaşmaq olar."
+
+msgid "225"
+msgstr "Heç kimi incitməyən, həmişə ölümlü bədənə malik olan müdriklər dəyişməz yerə gedirlər və ora gələndə, onlar əzab çəkmirlər."
+
+msgid "226"
+msgstr "Daima oyaq olan, gecə və gündüz öyrənən və Nirvanaya can atanın arzuları tədricən yox olur."
+
+msgid "227"
+msgstr "Ey Atula, bu, bir köhnə məsəldir və təkcə bizim zaman üçün deyilməyib: 'Onlar sakit oturanı qınayarlar, çox danışanı da, qədərində danışanı da qınayarlar onlar'. Dünyada elə bir şey yoxdur ki, onlar onu qınamasınlar."
+
+msgid "228"
+msgstr "Yalnız qınanmağa yaxud yalnız təriflənməyə layiq insan olmayıb, yoxdur, heç zaman da olmayacaq."
+
+msgid "229"
+msgstr "O kəs ki, davranışında qüsursuzdur, müdrikdir, bilik və məziyyətlərlə doludur, beləsini günbəgün müşahidə etdikcə müdriklər tərifləyərlər."
+
+msgid "230"
+msgstr "Cambu çayının qızılından hazırlanmış sikkə kimi olanı kim qınaya bilər? Onu hətta göy əhli belə tərifləyər: Brahmanın özü onu tərifləmişdir."
+
+msgid "231"
+msgstr "Bədənin günahlarından çəkin, bədənlə bağlı hər şeydə pəhrizkar ol, bədənin günahlarından qurtulduqdan sonra bədənin günahsızlığını qoru."
+
+msgid "232"
+msgstr "Sözün günahlarından çəkin, sözlə bağlı hər şeydə pəhrizkar ol, sözün günahlarından qurtulduqdan sonra sözün günahsızlığını qoru."
+
+msgid "233"
+msgstr "Ağlın günahlarından çəkin, ağılla bağlı hər şeydə pəhrizkar ol, ağlın günahlarından qurtulduqdan sonra ağlın günahsızlığını qoru."
+
+msgid "234"
+msgstr "Müdriklər bədəndə pəhrizkardırlar; onlar həmçinin sözdə də pəhrizkardırlar; müdriklər ağılda pəhrizkardırlar; onlar, həqiqətən, hər şeydə pəhrizkardırlar."
+
+msgid "chap18"
+msgstr "Çirkab"
+
+msgid "235"
+msgstr "Solmuş yarpaq kimisən sən indi və Yamanın elçiləri dalınca gəlmişlər. Və sən ölümün astanasında dayanmısan. Və sənin yola heç bir ehtiyatın yoxdur."
+
+msgid "236"
+msgstr "Özünə ada yarat, səylə mübarizə apar, müdrik ol. Çirkabdan təmizlənərək, qüsursuz halda, sən nəciblərin göy səltənətinə yetişəcəksən."
+
+msgid "237"
+msgstr "Budur, həyatın sona çatmışdır. Yamaya yaxınlaşmısan, lakin sənin hətta evin belə yoxdur. Və yola ehtiyatın belə yoxdur."
+
+msgid "238"
+msgstr "Özünə ada yarat, səylə mübarizə apar, müdrik ol! Çirkabdan təmizlənərək, qüsursuz halda, sən bir daha doğulma və qocalıqla üzləşməyəcəksən."
+
+msgid "239"
+msgstr "Tədricən, az-az, vaxtaşırı müdrik öz üzərindən çirki çırpmalıdır, zərgər üstündəki zərləri çırpan kimi."
+
+msgid "240"
+msgstr "Dəmirdə yaranan pas onu yediyi kimi (hərçənd, onun özündən yaranmışdır), beləcə şəxsi əməllər də dhonanı aşan insanı bədbəxtliyə gətirib çıxarır."
+
+msgid "241"
+msgstr "Yazı çirklənir, onu təkrarlamayanda; evlər çirklənirlər, onlara baxmayanda; gözəllik tənbəlliklə çirklənir; yüngüllük ayıq insanın çirkidir."
+
+msgid "242"
+msgstr "Qadının pis hərəkəti çirkdir; verənin simicliyi çirkdir; həm bu dünyada, həm də o dünyada şər dhammalar çirklidirlər."
+
+msgid "243"
+msgstr "Lakin hər şeydən çirkli olan isə cəhalət çirkidir, çirklərin ən pisi; bu çirkdən azad olduqda siz, ey bhikşular, çirkdən qurtulmuş olacaqsınız!"
+
+msgid "244"
+msgstr "Həyasız olana yaşamaq asandır, qarğa kimi həddini bilməyən, sırtıq, düşüncəsiz, pozğun olana."
+
+msgid "245"
+msgstr "Lakin təvazökar olana yaşamaq çətindir, daima təmiz olanı axtarana, tərəfsizə, soyuqqanlıya, bəsirətliyə, həyatı təmiz olana."
+
+msgid "246"
+msgstr "Həyatı məhv edən və yalan danışan, bu dünyada ona verilməyəndən yapışan,"
+
+msgid "247"
+msgstr "və başqasının arvadının yanına gedən, əyyaşlıq edən, bu dünyada öz kökünü qazıyandır."
+
+msgid "248"
+msgstr "Bunu bil, ey insan! Şər dhammalar sərhəd tanımır. Və qoy, simiclik və dhammanın yoxluğu səni uzun müddətə şərə bağlamasın."
+
+msgid "249"
+msgstr "İnsanlar imanlarına müvafiq verirlər, nə qədər lazım bilirlərsə, o qədər. Başqalarına nəsib olan yeməyə və içməyə həsəd aparan kəs isə nə gündüz, nə də gecə zikrə nail ola bilmir."
+
+msgid "250"
+msgstr "Həsədi məhv olmuş, kökündən qoparılmış, ləğv edilmiş kimsə isə gündüz də, gecə də zikrə nail ola bilər."
+
+msgid "251"
+msgstr "Ehtirasa bərabər atəş yoxdur, qəzəbə bərabər tutma yoxdur, aldanışa bərabər tor yoxdur, arzuya bərabər çay yoxdur."
+
+msgid "252"
+msgstr "Başqalarının günahlarını görmək asandır, özününkülərini isə, əksinə, çətindir. Zira, özgə günahlarını kəpək kimi aləmə səpərlər; özünküləri isə, əksinə, gizlədərlər, mahir fırıldaqçı bəd düşmüş zəri gizlədən kimi."
+
+msgid "253"
+msgstr "Özgə günahlarını güdən və daima qıcıqlanmış olanın arzuları artır; arzuların məhvindən uzaqdır o."
+
+msgid "254"
+msgstr "Göydə yol yoxdur; bizdən kənarda zahid yoxdur. İnsanlar illüziyalarda sevinc axtarırlar, Tathaqatlar illüziyalardan azaddırlar."
+
+msgid "255"
+msgstr "Göydə yol yoxdur; bizdən kənarda zahid yoxdur. Əbədi sankhara yoxdur; nurlanmışlarda daimilik yoxdur."
+
+msgid "chap19"
+msgstr "Dhammaya Riayət Edən"
+
+msgid "256"
+msgstr "Tez-tələsik məqsədə atılan dhammaya riayət edən deyil. Müdrik isə həm bunu, həm də o birini tərəziyə qoyur: doğrunu və doğru olmayanı."
+
+msgid "257"
+msgstr "O, başqalarını zor tətbiq etmədən aparır, dhammaya müvafiq olaraq, ehtirassız. Dhammanı qoruyanı, müdrik olanı 'dhammaya riayət edən' adlandırırlar."
+
+msgid "258"
+msgstr "Çox danışdığına görə deyil ki, o müdrikdir. Sakit olanı, nifrətdən azad olanı, qorxubilməzi 'müdrik' adlandırırlar."
+
+msgid "259"
+msgstr "Çox danışdığına görə deyil ki, o, dhammaya bələddir. O kəs ki, dhammaya qarşı sayğısız deyil, o kəs ki, az savadlı olsa belə, onu bütün bədəni ilə hiss edir, o, həqiqətən, dhammaya bələddir."
+
+msgid "260"
+msgstr "Başı ağardığına görə deyil ki, o, böyükdür. O, qoca yaşlarındadır, lakin onu 'əbəs yerə qocalmış' adlandırırlar."
+
+msgid "261"
+msgstr "O kəsdə ki, həqiqət və dhamma, özününü məhdudlaşdırma, təslimiyyət var, o kəs ki, qüsursuz və müdrikdir, onu 'böyük' adlandırırlar."
+
+msgid "262"
+msgstr "Paxıl, xəsis, sürüşkən insan təkcə bəlağət yaxud gözəl sifət hesabına cəlbedici olmur."
+
+msgid "263"
+msgstr "O kəsdə ki, bu məhv edilmişdir, kökündən qoparılmışdır, ləğv edilmişdir, o kəs ki, müdrikdir və nifrətdən imtina etmişdir, onu 'cəlbedici' adlandırırlar."
+
+msgid "264"
+msgstr "Sözəbaxmaz və yalançı təkcə qırxılmış başa görə zahid olmur. Bu nə zahiddir, əgər o simicdirsə və arzularla doludursa?"
+
+msgid "265"
+msgstr "Lakin o kəs ki, şəri tamamilə tabe etdirir, həm balacasını, həm böyüyünü, o kəsi 'zahid' adlandırırlar; zira, o, şəri sakitləşdirmişdir."
+
+msgid "266"
+msgstr "O, ona görə bhikşu deyildir ki, başqalarından sədəqə istəyir. Bütün dhammanı öyrənmədən bhikşu olmurlar."
+
+msgid "267"
+msgstr "O kəs ki, bu dünyada xeyir və şərdən yüksəkdə durur, yaxud saleh həyat tərzi sürür, kim ki, burada bilikli yaşayır, məhz beləsini 'bhikşu' adlandırırlar."
+
+msgid "268"
+msgstr "Axmaq, cahil hətta susmağa riayət edirsə belə muni olmur. O müdrik ki, tərəziyə malik kimi yaxşını seçir və pisdən yayınır, muni odur; məhz ona görə də o munidir."
+
+msgid "269"
+msgstr "Bu dünyada həm bunu, həm də onu tərəziyə qoyan, məhz o, 'muni' çağırılır."
+
+msgid "270"
+msgstr "O, nəcib deyil, əgər canlı məxluqlar üzərində zorakılıq edirsə. Onu onda nəcib adlandırırlar ki, o, heç bir canlı məxluq üzərində zorakılıq etmir."
+
+msgid "271"
+msgstr "Yalnız itaətlə və rituallarla və ya həmçinin çox elmliliklə yaxud özünədalma ilə yaxud tənha gecələmə ilə mən adi dünyəvilər üçün əlçatmaz olan rahatlığa yetişə bilməyəcəm!"
+
+msgid "272"
+msgstr "Ey bhikşu! Məgər siz arzularınızın məhvinə nail olmadan məmnun ola bilərdinizmi?"
+
+msgid "chap20"
+msgstr "Yol"
+
+msgid "273"
+msgstr "Yolların ən yaxşısı səkkizlidir; həqiqətlərdən ən yaxşısı dörd sözdür; dhammalardan ən yaxşısı ehtirasların məhvidir; ikiayaqlılardan ən yaxşısı bəsirətli olandır."
+
+msgid "274"
+msgstr "Yol budur və görməni təmizləmək üçün başqası yoxdur. Onunla gedin. Başqa hər şey Maranın vəsvəsəsidir."
+
+msgid "275"
+msgstr "Onunla gedərək əzablara son qoyacaqsınız. Bu yolu mən bəyan etdim, tikanları aradan qaldırmağı öyrənincə."
+
+msgid "276"
+msgstr "Özünüz cəhd göstərməlisiniz. Tathaqatlar (buddalar) yeganə müəllimlərdir. Bu yolla gedənlər və özünə dalanlar Maranın buxovlarından qurtulacaqlar."
+
+msgid "277"
+msgstr "'Bütün yaradılmışlar keçicidirlər'. Buna müdrikcəsinə baxanlarda ağrı azalır. Təmizlənməyə aparan yol budur."
+
+msgid "278"
+msgstr "'Bütün yaradılmışlar ağrı və acı deməkdirlər'. Buna müdrikcəsinə baxanlarda ağrı azalır. Təmizlənməyə aparan yol budur."
+
+msgid "279"
+msgstr "'Bütün formalar qeyri-realdırlar'. Buna müdrikcəsinə baxanlarda ağrı azalır. Təmizlənməyə aparan yol budur."
+
+msgid "280"
+msgstr "Qalxmaq zamanı yetişəndə qalxmayan; cavanlığa və qüvvətə rəğmən tənbəl olan; qətiyyəti və fikri cılız olan - belə qafil və tənbəl müdrikliyin yolunu tapmayacaqdır."
+
+msgid "281"
+msgstr "Sözünə nəzarət edən, öz ağlını tam sakitləşdirmiş insan, qoy, o, bədəni ilə pis heç nə eləməsin! Qoy, o, üç əməl yolunu təmiz saxlasın və müdriklərin göstərdiyi cığıra çatsın."
+
+msgid "282"
+msgstr "Həqiqətən, düşüncədən müdriklik doğulur, düşüncəsizlikdən müdrikliyin məhvi. Həyata və həyatın məhvinə aparan bu ikili yolu bilərək qoy, o, elə etsin ki, müdriklik artmaqda olsun."
+
+msgid "283"
+msgstr "Meşəni qırın, təkcə bir ağacı yox. Qorxu meşədən yaranır. Meşəni də, kolluğu da qırandan sonra, ey bhikşular, siz azad olacaqsınız."
+
+msgid "284"
+msgstr "Kişinin qadınlara qarşı arzusu ləğv olmayıbsa, lap az miqdarda belə qalıbsa, onun ağlı bağlıdır, anasının südünü əmən dana kimi."
+
+msgid "285"
+msgstr "Arzunu qopart, payız şanagülləsini əllə qopardan kimi. Sakitlik yolu ilə Suqatanın göstərdiyi Nirvanaya doğru get."
+
+msgid "286"
+msgstr "'Burda yağışlar zamanı yaşayacağam, burda isə yayda və qışda' - axmaq belə düşünür. O, təhlükə barədə düşünmür."
+
+msgid "287"
+msgstr "Uşaqlarda və mal-qarada başını itirmiş belə insanı ölüm oğurlayır, yatmış kəndi sel aparan təki."
+
+msgid "288"
+msgstr "Nə uşaqlar, nə atası və nə də qohumları ölümün yaxaladığı kəsi müdafiə edə bilməzlər. Doğmalarda müdafiə tapmaq mümkün deyil."
+
+msgid "289"
+msgstr "Bu həqiqəti bilərək, qoy, daxilən təmkinli müdrik tez özü üçün Nirvanaya aparan yolu təmizləsin."
+
+msgid "chap21"
+msgstr "Müxtəlif"
+
+msgid "290"
+msgstr "Əgər balaca xoşbəxlikdən imtina böyük səadəti görməyə imkan verirsə, qoy, müdrik balaca xoşbəxtlikdən imtina etsin, böyük səadəti düşünərək."
+
+msgid "291"
+msgstr "Başqalarına əzab verərək özünə səadət axtaran, nifrət torlarında dolaşaraq nifrətdən azad olmur."
+
+msgid "292"
+msgstr "Axı görülməli iş təxirə salınır, görülməsi gərəkməyən isə, əksinə, görülür. Belə qafil və təkəbbürlülərin arzuları artır."
+
+msgid "293"
+msgstr "Lakin o kəslərin ki, tam toparlanmış ağlı daima bədənə yönəlmişdir, onlar görülməsi gərəkməyən şeylərin ardınca düşmürlər, görüləsi şeyləri səylə görürlər. Belə müdrik və diqqətlilərin arzuları yoxa çıxır."
+
+msgid "294"
+msgstr "Ana və atanı və kşatri kastasından olan iki padşahı öldürərək, şahlığı təbəələri ilə birlikdə məhv edərək brahmana təmkinlə gedir."
+
+msgid "295"
+msgstr "Ana və atanı və brahmana kastasından olan iki padşahı öldürərək, üstəlik, beşinci olaraq pələng-insanı da öldürüb brahmana təmkinlə gedir."
+
+msgid "296"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların fikirləri daima Buddaya yönəlmişdir."
+
+msgid "297"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların fikirləri daima Dhammaya yönəlmişdir."
+
+msgid "298"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların fikirləri daima Sanqhaya yönəlmişdir."
+
+msgid "299"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların fikirləri daima bədənə yönəlmişdir."
+
+msgid "300"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların ağılları daima zorakılıqsızlığa sevinir."
+
+msgid "301"
+msgstr "Böyük ayıqlığa malik olanlar, Qautamanın şagirdləri, həmişə oyaq olurlar. Gecə də, gündüz də onların ağılları daima düşünməyə sevinir."
+
+msgid "302"
+msgstr "Dünyanın tərzini buraxmaq çətindir, dünyaya sevinmək çətindir; monastrda həyat çətindir, evdə həyat acıdır; səndən fərqlilərlə yaşamaq çətindir, fəqir qərib acılar içindədir. Bu səbəbdən qoy, heç kəs fəqir qərib olmasın və acılar içində qalmasın."
+
+msgid "303"
+msgstr "İnam və salehliklə dolmuş olana, şöhrət və dövlət sahibinə, harda olsa, hər yerdə hörmət bəsləyərlər."
+
+msgid "304"
+msgstr "Salehlər uzaqdan bərq vurarlar, qarlı dağlar tək. Zalımları isə heç yaxından da görmək olmur, gecə atılan oxları görmək mümkün olmadığı kimi."
+
+msgid "305"
+msgstr "Tənhalıqda oturan, tənhalıqda yatan, tənhalıqda gəzişən, fəaliyyətli olan və özü özünün qabağını alan kəs, qoy, meşədə sevinsin."
+
+msgid "chap22"
+msgstr "Cəhənnəm"
+
+msgid "306"
+msgstr "Yalan danışan və həmçinin eləyəndən sonra 'Mən eləmədim' deyən kəs cəhənnəmə düşür. Axı o da, digəri də ölümdən sonra bərabərdirlər; alçaq əməllər sahibləri o dünyada bərabərdirlər."
+
+msgid "307"
+msgstr "Boyunları sarıya bürünənlərin bir çoxları dhammaya pis riayət edirlər və hədlərini qoruyan deyillər. Alçaqlar öz alçaq əməlləri ucundan cəhənnəmdə doğulurlar."
+
+msgid "308"
+msgstr "Alov kimi qızğın dəmir kürəni udmaq daha yaxşıdır kafir və həddi aşana, nəinki ölkənin zəkatından istifadə etmək."
+
+msgid "309"
+msgstr "Qonşunun arvadını istəyən qafil insan dörd şeyə sahib olacaq: şərəfsizlik, yuxusuzluq, üçüncüsü, cəza, dördüncüsü, cəhənnəm."
+
+msgid "310"
+msgstr "Şərəfsizlik və pis yol; qorxmuşun (kişinin) qorxmuşla (qadınla) qısa ləzzəti və padşahın ağır cəzası. Odur ki, qoy, insan qonşunun arvadına yol axtarmasın."
+
+msgid "311"
+msgstr "Ehtiyatsız tutulduqda kus otu əli kəsdiyi kimi, düzgün sürülmədikdə zahid həyatı da cəhənnəmə aparır."
+
+msgid "312"
+msgstr "Qafil görülmüş əməl, yerinə yetirilməyən əhd, tərəddüdlü mərifət – bütün bunlar böyük mükafat gətirmir."
+
+msgid "313"
+msgstr "Nəsə görülməlidirsə, onu qətiyyətlə gör. Zira, qafil yolçu daha çox toz qaldırır."
+
+msgid "314"
+msgstr "Pis görülmüş əməldən görülməmiş əməl yaxşıdır; zira, pis əməl yada düşdükcə əzab verir. Xeyirli əməl yaxşı görülmüş əməldir; zira, onu gördükdən sonra peşman olmursan."
+
+msgid "315"
+msgstr "Daxildən və xaricdən qorunan sərhəd şəhəri kimi qoru özünü. Vaxt itirmə, zira, vaxtı itirmişlər cəhənnəmdə kədərə düşürlər."
+
+msgid "316"
+msgstr "Yanlış baxışlara riayət edənlər, utanması gərəkməyən şeylərdən utananlar və utanılası şeylərdən utanmayanlar pis yola düşürlər."
+
+msgid "317"
+msgstr "Yanlış baxışlara riayət edənlər, qorxmaq lazım gəlməyəndə təhlükə görənlər və qorxmaq lazım gələndə təhlükəni görməyənlər pis yola düşürlər."
+
+msgid "318"
+msgstr "Yanlış baxışlara riayət edənlər, qadağanın olmadığı yerdə qadağa görənlər və qadağanın olduğu yerdə qadağanı görməyənlər pis yola düşürlər."
+
+msgid "319"
+msgstr "Doğru baxışlara riayət edənlər, qadağa olunmuşu qadağa olunmuş, qadağa olunmamışı qadağa olunmamış kimi bilənlər doğru yola düşürlər."
+
+msgid "chap23"
+msgstr "Fil"
+
+msgid "320"
+msgstr "İnsanların çoxu xəstə təbiətlidir və mən təhqirlərə səbr edəcəm, döyüşdə fil yaydan atılmış oxa dözdüyü kimi."
+
+msgid "321"
+msgstr "Ram edilmişi döyüşə aparırlar; şah ram edilmişin üzərinə yüksəlir. Təhqirlərə səbr edən ram edilmiş insanların ən yaxşısıdır."
+
+msgid "322"
+msgstr "Ram edilmiş qatırlar və nəcib sindh atları və iri fillər yaxşıdır. Lakin özünü ram etmiş daha yaxşıdır."
+
+msgid "323"
+msgstr "Zira özünü hədlər və çalışmalarla ram etmişin gəlib çıxacağı əlçatmaz ölkəyə bu heyvanlarla yetişə bilməzsən."
+
+msgid "324"
+msgstr "Dhanapalaka adlı fili saxlaya bilməzsən, onun gicgahlarından zəhərli maye axdığı zaman. Bağlı halda o, bir tikə də yemir: fil, fil meşəsinin həsrətini çəkir."
+
+msgid "325"
+msgstr "Tənbəl, acgöz və yatağan olan, yerində axta donuz kimi qurcalanan axmaq təkrar-təkrar doğulur."
+
+msgid "326"
+msgstr "Bu ağıl əvvəllər kefi istədiyi kimi, xoşuna gəldiyi kimi, bildiyi kimi avaralanmışdır. İndi isə mən onu möhkəm saxlayacam, çarvadar qızmış fili saxlayan təki."
+
+msgid "327"
+msgstr "Yelbeyin olmayın, fikirlərinizə göz qoyun! Pis yoldan çıxardın özünüzü, palçığa batmış fil özünü çıxaran kimi."
+
+msgid "328"
+msgstr "Birlikdə getməyə hazır olan ağıllı, saleh həyat yaşayan, müdrik, çətinliklərə sinə gərən dost tapsan, onunla get, xoşbəxt və diqqətli."
+
+msgid "329"
+msgstr "Birlikdə getməyə hazır ağıllı, saleh həyat yaşayan, müdrik dost tapmasan, tək get, fəth elədiyi şahlığından imtina etmiş şah kimi və ya fil meşəsindəki fil kimi."
+
+msgid "330"
+msgstr "Tək yaşamaq yaxşıdır. Axmaqla dostluq olmaz. Az arzusu olan kəs, tək get və zülm törətmə, fil meşəsindəki fil kimi."
+
+msgid "331"
+msgstr "Dostlar xoşdur, onlara tələbat yarananda. Həzz xoşdur, səbəb olanda. Ölüm saatında yaxşı əməl xoşdur. Bütün dərdlərdən imtina xoşdur."
+
+msgid "332"
+msgstr "Bu dünyada analıq xoşdur; atalıq da həmçinin xoşdur; bu dünyada zahidlik xoşdur; brahmanalıq da həmçinin xoşdur."
+
+msgid "333"
+msgstr "Qocalığa qədər uzanan mərifət xoşdur; kök atmış iman xoşdur; müdrikliyə çatmaq xoşdur; şərdən arınmaq xoşdur."
+
+msgid "chap24"
+msgstr "Müxtəlif"
+
+msgid "334"
+msgstr "Qafil yaşayan insanın arzuları maluva kimi böyüyür. O, mövcudluqdan mövcudluğa daşınır, meşədə meyvə axtaran meymun kimi."
+
+msgid "335"
+msgstr "Dünyaya bağlılıq adlı bu bədbəxt arzu kimə qalib gələrsə, onun dərdləri məhsuldar birana otu kimi boy verir."
+
+msgid "336"
+msgstr "Kim ki, bu dünyada bu bədbəxt, çətin məğlub edilən arzuya qalib gəlir, o kəsin dərdləri şanagüllə yarpağından su damcıları sürüşən təki yox olur."
+
+msgid "337"
+msgstr "Sizə dediklərim budur: 'Salam olsun sizə, burda nə qədəriniz yığılıbsa! Arzunun kökünü qopardın, xoş ətirli usira kökünün axtarışlarında birananı qopardığınız təki! Qopardın ki, Mara təkrar-təkrar sizə qalib gəlməsin, sel qamışlığı basan kimi'."
+
+msgid "338"
+msgstr "Kökü zədələnməmiş və sağlamdırsa, qopardılmış ağac belə böyüməkdə davam etdiyi kimi, əzab da təkrar-təkrar doğulur, əgər arzuya meyl ləğv olunmayıbsa."
+
+msgid "339"
+msgstr "O kəsin ki, həzzlərə yönəlmiş otuz altı axını güclüdür, fikirləri də ehtirasa istiqamətlənmişdir, düzgün baxışlardan yayınmış belə insanı axınlar aparır."
+
+msgid "340"
+msgstr "Axınlar hər yerdə axırlar. Lata gur boy verir. Bu çiçəklənmiş latanı görüncə, kəsin onun kökünü müdrikliyin köməyi ilə."
+
+msgid "341"
+msgstr "Olur ki, insan şəhvət mühasirəsinə düşür. Həzlərə bağlı olan və səadət axtaran bu insanlar həqiqətən də doğulmaya və qocalmaya məruz qalırlar."
+
+msgid "342"
+msgstr "Arzunun qovaladığı insanlar hürküdülmüş dovşan kimi ətrafda qaçışırlar. Kəndir və buxovlarla bağlanmış bu insanlar təkrar-təkrar hələ uzun zaman əzaba qayıdırlar."
+
+msgid "343"
+msgstr "Arzunun qovaladığı insanlar hürküdülmüş dovşan kimi ətrafda qaçışırlar. Odur ki, əgər bhikşu ehtirası məhv etmək istəyirsə, qoy, o, arzunu qovub çıxartsın."
+
+msgid "344"
+msgstr "O, arzulardan azaddır, ehtiraslardan azaddır, meşə həyatına sadiqdir – amma yenə də arzular ormanına qaçır. Baxın bu insana: azad ola-ola boyunduruğa yüyürür."
+
+msgid "345"
+msgstr "Müdriklər demirlər: bu dəmirdən, ağacdan və ya babba otundan düzəldilmiş buxovlar möhkəmdirlər. Axı qadınlara, övladlara yaxud qiymətli daşlardan olan sırğalara ehtiraslı bağlılıq daha möhkəmdir."
+
+msgid "346"
+msgstr "Müdriklər deyirlər: bu, aşağı dartan, məkrli, qurtulması çətin olan buxovlar möhkəmdirlər. Onları qıraraq müdriklər səyahət edirlər, ehtiras və həzlərdən imtina edərək, arzusuz."
+
+msgid "347"
+msgstr "Ehtirasla qızışmışlar axına düşürlər, hörümçək öz toruna düşən kimi. Müdriklər isə axını məhv edərək, bütün zülmlərdən imtina edərək, arzusuz halda səyahət edərlər."
+
+msgid "348"
+msgstr "Mövcudluq selini keçərkən keçmişdən imtina et, gələcəkdən imtina et, onların arasında olanlardan imtina et. Əgər ağıl azadlığa çıxıbsa, nə olur-olsun, sən bir daha doğuluşa və ölümə məruz qalmayacaqsan."
+
+msgid "349"
+msgstr "Şaşqın fikirli, güclü ehtiraslı, yalnız ləzzətləri görən insanda arzular daima artır: həqiqətən, o, buxovlarını daha da möhkəmləndirir."
+
+msgid "350"
+msgstr "Sakit fikirdə məmnunluq tapan, daima düşünən, xoşagəlməyəni xatırlayan - məhz o, arzulara son qoyacaq, məhz o, Maranın buxovlarını qıracaqdır."
+
+msgid "351"
+msgstr "O, kamilliyə çatmışdır, o, qorxusuzdur və onun arzuları da yoxdur; bu qüsursuz, mövcudluğun tikanlarını qopartmışdır; onun bu bədəni sonuncudur."
+
+msgid "352"
+msgstr "Onun arzuları yoxdur, o, bağlılıqlardan azaddır, sözlərdə və onların izahında mahirdir; o, hərflərin ardıcıllığını bilir (hansıların əvvəl, hansıların sonra gəlməsini); onu böyük müdrik və böyük insan adlandırırlar. Onun bu bədəni sonuncudur."
+
+msgid "353"
+msgstr "Mən hər şeyə qalib gəldim, mən hər şeyi bilirəm; istənilən dhammada mən ləkəsizəm. Mən hər şeydən imtina etdim, arzuların məhvi ilə isə azadlığa çıxdım. Özümdən öyrəndiyim halda, kimi müəllimim saya bilərəm ki?"
+
+msgid "354"
+msgstr "Dhammanın neməti bütün nemətlərdən üstündür; dhammanın şirinliyi hər şirinlikdən üstündür; dhammanın sevinci hər sevincdən üstündür; arzuların məhvi bütün dərdlərə qalib gəlir."
+
+msgid "355"
+msgstr "Var-dövlət axmaqları məhv edir, o biri sahili axtaranları yox. Var-dövlət arzusunda axmaq özünü başqalarını öldürən kimi öldürür."
+
+msgid "356"
+msgstr "Alaq tarlaları korlayır, ehtiras bu adamları korlayır. Odur ki, ehtirasdan qurtulmuşlara verilən böyük meyvə gətirir."
+
+msgid "357"
+msgstr "Alaq tarlaları korlayır, nifrət bu adamları korlayır. Odur ki, nifrətdən qurtulmuşlara verilən böyük meyvə gətirir."
+
+msgid "358"
+msgstr "Alaq tarlaları korlayır, axmaqlıq bu adamları korlayır. Odur ki, axmaqlıqdan qurtulmuşlara verilən böyük meyvə gətirir."
+
+msgid "359"
+msgstr "Alaq tarlaları korlayır, arzu bu adamları korlayır. Odur ki, arzudan qurtulmuşlara verilən böyük meyvə gətirir."
+
+msgid "chap25"
+msgstr "Bhikşu"
+
+msgid "360"
+msgstr "Gözün pəhrizi yaxşıdır, qulağın pəhrizi yaxşıdır, burunun pəhrizi yaxşıdır, dilin pəhrizi yaxşıdır."
+
+msgid "361"
+msgstr "Bədənin pəhrizi yaxşıdır, nitqin pəhrizi yaxşıdır, fikrin pəhrizi yaxşıdır, hər şeydə pəhriz yaxşıdır. Hər şeydə pəhrizkar olan bhikşu bütün dərdlərdən qurtulur."
+
+msgid "362"
+msgstr "Əlini idarə edən, ayağını idarə edən, nitqini idarə edən, kamil idarə olunandır, daxilən sevinclidir, toparlanmışdır, tənhadır və məmnundur, bax beləsini bhikşu adlandırırlar."
+
+msgid "363"
+msgstr "Ağızını nəzarətdə saxlayan, müdrikcəsinə düşünən, təkəbbürlü olmayan, mənanı və dhammanı izah edən bhikşunun nitqi şirindir."
+
+msgid "364"
+msgstr "Dhammada yaşayan, dhammaya heyrət edən, dhammanı zikr edən, dhammanı xatırlayan bhikşu həqiqi dhammadan ayrı düşməz."
+
+msgid "365"
+msgstr "Qoy, o, nəsibinə ikrahla yanaşmasın; başqalarınkına həsəd aparmasın. Zira, başqalarına həsəd aparan bhikşu fikrin toparlanmasına nail ola bilmir."
+
+msgid "366"
+msgstr "Özündəki az olsa belə, ona ikrahla yanaşmayan, təmiz həyat tərzi sürən və tənbəl olmayan bhikşunu göy əhli tərifləyər."
+
+msgid "367"
+msgstr "Özünü ad və forma ilə eyniləşdirməyən, heç nəyi olmaya-olmaya qüssələnməyəni, məhz beləsini bhikşu adlandırırlar."
+
+msgid "368"
+msgstr "Xeyirsevərlikdə yaşayan, Buddanın təliminə inanan bhikşu sakit yerə, səadətə, təbii arzuların kəsilməsinə yetişəcəkdir."
+
+msgid "369"
+msgstr "Ey bhikşu! Bu gəmini boşalt; səndən azad olunca o, asan hərəkət edəcək. Ehtiras və nifrəti məhv edərək sən Nirvanaya yetişəcəksən."
+
+msgid "370"
+msgstr "Beşi kəs, beşdən imtina et, beşin üzərinə yüksəl! Beş bağlılığı dəf etmiş bhikşu 'seli keçmiş' sayılır."
+
+msgid "371"
+msgstr "Zikr elə, ey bhikşu, yelbeyin olma; fikirlərinə hissi axınlarda dolaşmağa imkan vermə ki, sən qafilə sonra dəmir kürə udmaq və odda yanaraq: 'Nə yaman əzabdır!' – deyə çığırmaq nəsib olmasın."
+
+msgid "372"
+msgstr "Bilməyənin zikri olmur; zikr etməyənin biliyi olmur. Kimin ki, həm zikri, həm biliyi var, o, həqiqətən, Nirvanaya yaxındır."
+
+msgid "373"
+msgstr "Sakitləşmiş ağılla tənhalığa çəkilən bhikşu fövqəlinsani həzz alır: o, dhammanı aydın görür."
+
+msgid "374"
+msgstr "Hər dəfə o elementlərin yaranmasını və dağılmasını bütün tamlığı ilə dərk edəndə o, bu ölümsüzlüyü bilən, sevinc və səadətə qovuşur."
+
+msgid "375"
+msgstr "Müdrik bhikşu üçün başlanğıc burdadır: hisslərin müşahidəsi, qanuna müvafiq şəkildə məmnunluq və pəhrizkarlıq; təmiz həyat sürən və tənbəl olmayan, nəcib dostun arxasınca get."
+
+msgid "376"
+msgstr "Qoy, o, həyatda xeyirsevər və vəzifələrini yerinə yetirməkdə kamil olsun. Onda sevinclə dolaraq o, əzaba son qoyacaqdır."
+
+msgid "377"
+msgstr "Vassika solmuş ləçəklərini tökən kimi siz də, ey bhikşular, ehtiras və nifrətdən eləcə azad olmalısınız."
+
+msgid "378"
+msgstr "O bhikunu sakit adlandırırlar ki, onun bədəni sakitdir, nitqi sakitdir, ağlı sakitdir, özü zikrdədir və dünya nemətlərindən imtina etmişdir."
+
+msgid "379"
+msgstr "Özün özünü mahmızla, özün özünü yoxla. Özünü nəzarətdə saxlayan, toparlanmış belə bhikşu xoşbəxt yaşayacaqdır."
+
+msgid "380"
+msgstr "Zira, özün özünün ağası, özün özünə pənahsan. Bu səbəbdən də özünü ram et, tacir yaxşı atı ram edən təki."
+
+msgid "381"
+msgstr "Qoy, sevinclə dolu, Buddanın təliminə əmin olan bhikşu sakit yerə, səadətə, təbii arzuların kəsilməsinə qovuşsun."
+
+msgid "382"
+msgstr "Gənc olmağına baxmayaraq, bhikşu Buddanın təliminə üz tutur və bu dünyanı buluddan qurtulmuş ay kimi işıqlandırır."
+
+msgid "chap26"
+msgstr "Brahmanlar (Arhatlar)"
+
+msgid "383"
+msgstr "Axını durdur, irəli get, arzuları qov, ey brahmana! Yaradılmışların məhvini dərk etdinsə, yaradılmamışı tanımış olacaqsan, ey brahmana!"
+
+msgid "384"
+msgstr "Brahmana iki dhammada qarşı sahilə çatırsa, ondan, bu 'bilən'dən bütün buxovlar açılır."
+
+msgid "385"
+msgstr "Mən o kəsi brahmana adlandırıram ki, onun üçün nə bu sahil var, nə o sahil, nə də ikisi birlikdə, o kəs ki, qorxusuzdur və bağlılıqlardan azaddır."
+
+msgid "386"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, düşünür, ehtiraslardan azaddır, sakitdir, öz işini görür, arzuları dəf edir, o kəs ki, ali xeyirə qovuşmuşdur."
+
+msgid "387"
+msgstr "Günəş gündüz parlayır, ay gecə işıqlanır. Döyüşçü zirehdə işıq saçır, brahmana zikrdə. Lakin gecə də, gündüz də parlaq işıq saçır nurlanmış."
+
+msgid "388"
+msgstr "Zülmün daşını atan brahmana adlanır; sakitlikdə yaşayan zahid; öz çirkini atmış 'təmizlənmiş' sayılır."
+
+msgid "389"
+msgstr "Heç kəs brahmanaya hücum etməməlidir, lakin heç bir brahmana da, qoy, öz qəzəbini zülmkarın üzərinə tökməsin. Brahmananı vurana ayıb olsun, lakin qəzəbini zülmkarının üzərinə tökmüşə daha böyük ayıb olsun."
+
+msgid "390"
+msgstr "Brahmana üçün ağlını xoşagələn şeylərdən çəkindirməkdən daha yüksək heç nə yoxdur. İncitmək arzusu yoxa çıxan yerdə əzab da qurtarır."
+
+msgid "391"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, nə bədəni ilə, nə sözü ilə, nə də fikri ilə zülm etməmişdir – özünü bu üç şeydə nəzarətdə saxlayanı."
+
+msgid "392"
+msgstr "Kamil nurlanmış birisindən dhammanı öyrəndiyimiz zaman o kəsə gərəkən sayğılar göstərmək lazımdır, brahmana qurbangahın oduna sayğı ilə yanaşdığı kimi."
+
+msgid "393"
+msgstr "Dolaşıq saçlara, əsil-nəcabətə yaxud doğuluşuna görə brahmana olmurlar. Həqiqət və dhamma kimdədirsə, o kəs xoşbəxtdir və o, brahmanadır."
+
+msgid "394"
+msgstr "Dolaşıq saçlardan sənə nə fayda var, ay axmaq?! Dəridən paltarda sənə nə fayda var?! Axı daxilində cəngəllik var, sənsə yalnız xarici görkəmin barədə düşünürsən."
+
+msgid "395"
+msgstr "Tozlu paltarlar geyən, arıqlığından damarları üzə çıxmış, meşədə zikr edən tənha insanı mən brahmana adlandırıram."
+
+msgid "396"
+msgstr "Lakin mən insanı yalnız doğuluşuna görə və ya anasına görə brahmana adlandırmıram. Bağlılıqları olanın adı 'bho deyən'dir. Mənsə o kəsi brahmana adlandırıram ki, bağlılıqlardan azaddır və fəqirdir."
+
+msgid "397"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, buxovları qırmış və o, həqiqətən də, qorxudan əsmir, bağlılıqları aşmış və tərki-dünya olmuşdur."
+
+msgid "398"
+msgstr "Mən o nurlanmışı brahmana adlandırıram ki, o, maneələri aradan qaldırmış və kəməri, qamçını və zəncirli yüyəni qırmışdır."
+
+msgid "399"
+msgstr "O kəsi mən brahmana adlandırıram ki, o, günahkar olmaya-olmaya iradlara, cəzalara, həbslərə səbr edir, o kəsin ki, səbri gücdür, güc isə qoşundur."
+
+msgid "400"
+msgstr "O kəsi mən brahmana adlandırıram ki, o, qəzəbdən azaddır, əhdinə sadiqdir, xeyirxahdır və şəhvətsizdir, o kəs ki, çəkingəndir və onun üçün bu bədən axırıncıdır."
+
+msgid "401"
+msgstr "O kəsi mən brahmana adlandırıram ki, o, hissi həzlərə yapışmır, su şanagüllə yarpağına yaxud xardal toxumu bizin ucuna yapışmayan kimi."
+
+msgid "402"
+msgstr "O kəsi mən brahmana adlandırıram ki, o, yükü yerə qoymuş və sarsılmazdır, o kəs ki, hətta bu dünyada öz əzablarının sonunu bilir."
+
+msgid "403"
+msgstr "O kəs ki, müdrikdir, bilikləri dərindir, doğru yolu və yanlış yolu bilir və ali xeyirə qovuşmuşdur, məhz onu mən brahmana adlandırıram."
+
+msgid "404"
+msgstr "O kəs ki, arzusuzdur, evi yoxdur, nə ev sahibləri, nə evsizlərlə bağlı deyil, onu mən brahmana adlandırıram."
+
+msgid "405"
+msgstr "O kəs ki, öldürmür və öldürməyə də vadar etmir, o kəs ki, qorxaq və ya güclü olmasından asılı olmayaraq canlı məxluqlara ağac qaldırmır, onu mən brahmana adlandırıram."
+
+msgid "406"
+msgstr "O kəs ki, həyəcanlılar içərisində həyəcansız, ağac qaldıranlar içərisində sakit qalır, dünyaya bağlılar içərisində bağlılıqlardan azaddır, onu mən brahmana adlandırıram."
+
+msgid "407"
+msgstr "O kəsdən ki, ehtiras da, nifrət də, təkəbbür də, riyakarlıq da xardal dənəsi bizin ucundan asanlıqla düşən kimi düşür, onu mən brahmana adlandırıram."
+
+msgid "408"
+msgstr "Doğru, ibrətamiz, yumşaq sözlər deyən, nitqi ilə heç kəsi yaralamayan insanı mən brahmana adlandırıram."
+
+msgid "409"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o bu dünyada verilməmişi almır, uzun ya qısa, balaca ya böyük, xeyirli ya ziyanlı."
+
+msgid "410"
+msgstr "Mən o kəsi brahmana adlandırıram ki, onun nə bu dünya ilə, nə də o birisi ilə bağlı arzusu yoxdur, o, arzusuz və azaddır."
+
+msgid "411"
+msgstr "Mən o kəsi brahmana adlandırıram ki, onun arzusu yoxdur, biliyin köməyi ilə şübhələrdən qurtulmuş və ölümsüzlükdə bərqərar olmuşdur."
+
+msgid "412"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, burada həm yaxşıya, həm də pisə olan bağlılığı aşmış, qüssəsiz, ehtirassız və təmizdir."
+
+msgid "413"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, ay kimi ləkəsiz, təmiz, həyəcansızdır, onun yaşamaq sevinci sönmüşdür."
+
+msgid "414"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, bu palçıqlı, çətin yolu, sansaranı, aldanışı aşmış, üzərək o biri sahilə yetişmişdir, o, düşüncəlidir, arzulardan azaddır və şübhələrdən xalidir, bağlılıqları yoxdur və sakitdir."
+
+msgid "415"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, evsiz, burada ehtirasdan imtina edərək ətrafda gəzişir, onun yaşamaq sevinci sönmüşdür."
+
+msgid "416"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, evsiz, burada arzudan imtina edərək ətrafda gəzişir, onun yaşamaq sevinci sönmüşdür."
+
+msgid "417"
+msgstr "Mən o kəsi brahmana adlandırıram ki, o, insani bağları tərk edərək, göy bağlılıqlarını da dəf etmişdir, o, bütün bağlılıqlardan arınmışdır."
+
+msgid "418"
+msgstr "Bütün aləmlərə qalib gəlmiş, xoş və naxoş olandan imtina etmiş, soyuqqanlı olan və özünün yeni doğuluşa olan yolunu kəsən birisini mən brahmana adlandırıram."
+
+msgid "419"
+msgstr "Canlı məxluqların ölümü və doğuluşu barədə hər şeyi bilən, bağlılıqlardan azad və nurlanmış olanı, Suqata olanı mən brahmana adlandırıram."
+
+msgid "420"
+msgstr "O kəsin ki, nəsibini nə göy əhli, nə qandharvlar, nə də insanlar bilir, arzuları yox olmuş Arhatı mən brahmana adlandırıram."
+
+msgid "421"
+msgstr "Bağlılıqlardan azad və heç nəyi olmayanı, nə keçmişində, nə gələcəyində, nə də indidə bağlanacağı bir şeyi olmayanı mən brahmana adlandırıram."
+
+msgid "422"
+msgstr "Öküz kimi güclü, nəcib, cəsarətli, qəhhar olanı, böyük müdrikliyə malik olanı, arzusuz, kamil və nurlanmış olanı mən brahmana adlandırıram."
+
+msgid "423"
+msgstr "Əvvəlki mövcudluğunu biləni, cənnəti və cəhənnəmi görəni, kamil bilik sahibi olan, müdrikcəsinə doğulmaların sonunu kəsəni, etmək mümkün olanın hamısını etmişi mən brahmana adlandırıram."
