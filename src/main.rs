@@ -474,4 +474,9 @@ fn build_ui(app: &Application) {
     });
 
     window.present();
+    
+    let scroll_focus = scroll_content.clone();
+    glib::idle_add_local_once(move || {
+        scroll_focus.grab_focus();
+    });
 }
