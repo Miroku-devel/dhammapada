@@ -107,6 +107,14 @@ fn main() {
 }
 
 fn build_ui(app: &Application) {
+    let provider = gtk4::CssProvider::new();
+    provider.load_from_data("* { font-feature-settings: \"locl\" 0; }");
+    gtk4::style_context_add_provider_for_display(
+        &gtk4::gdk::Display::default().expect("Could not connect to a display."),
+        &provider,
+        gtk4::STYLE_PROVIDER_PRIORITY_APPLICATION,
+    );
+
     let config = load_config();
     let style_manager = adw::StyleManager::default();
     
