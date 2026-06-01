@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Dhammapada"
+
+msgid "chaps"
+msgstr "Vagga"
+
+msgid "fontsize"
+msgstr "Lekhanarūpa-pamāṇa"
+
+msgid "chap1"
+msgstr "Yamakavaggo"
+
+msgid "1"
+msgstr "manopubbaṅgamā dhammā manoseṭṭhā manomayā manasā ce paduṭṭhena bhāsati vā karoti vā tato naṃ dukkhamanveti, cakkaṃ'va vahato padaṃ."
+
+msgid "2"
+msgstr "manopubbaṅgamā dhammā manoseṭṭhā manomayā manasā ce pasannena bhāsati vā karoti vā tato naṃ sukhamanveti chāyā'va anapāyinī."
+
+msgid "3"
+msgstr "akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me ye ca taṃ upanayhanti veraṃ tesaṃ na sammati."
+
+msgid "4"
+msgstr "akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me ye taṃ na upanayhanti veraṃ tesūpasammati."
+
+msgid "5"
+msgstr "na hi verena verāni sammantīdha kudācanaṃ averena ca sammanti esa dhammo sanantano."
+
+msgid "6"
+msgstr "pare ca na vijānanti mayamettha yamāmase ye ca tattha vijānanti tato sammanti medhagā."
+
+msgid "7"
+msgstr "subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ taṃ ve pasahati māro vāto rukkhaṃ'va dubbalaṃ."
+
+msgid "8"
+msgstr "asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ taṃ ve nappasahati māro vāto selaṃ'va pabbataṃ."
+
+msgid "9"
+msgstr "anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati apeto damasaccena na so kāsāvamarahati."
+
+msgid "10"
+msgstr "yo ca vantakasāvassa sīlesu susamāhito upeto damasaccena sa ve kāsāvamarahati."
+
+msgid "11"
+msgstr "asāre sāramatino sāre cāsāradassino te sāraṃ nādhigacchanti micchāsaṃkappagocarā."
+
+msgid "12"
+msgstr "sārañca sārato ñatvā asārañca asārato te sāraṃ adhigacchanti sammāsaṅkappagocarā."
+
+msgid "13"
+msgstr "yathāgāraṃ ducchannaṃ vuṭṭhī samativijjhati evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati."
+
+msgid "14"
+msgstr "yathāgāraṃ succhannaṃ vuṭṭhī na samativijjhati evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati."
+
+msgid "15"
+msgstr "idha socati pecca socati pāpakārī ubhayattha socati so socati so vihaññati disvā kamma kiliṭṭhamattano."
+
+msgid "16"
+msgstr "idha modati pecca modati katapuñño ubhayattha modati so modati so pamodati disvā kamma visuddhimattano."
+
+msgid "17"
+msgstr "idha tappati pecca tappati pāpakārī ubhayattha tappati pāpaṃ me katanti tappati bhiyyo tappati duggatiṃ gato."
+
+msgid "18"
+msgstr "idha nandati pecca nandati katapuñño ubhayattha nandati puññaṃ me katanti nandati bhiyyo nandati suggatiṃ gato."
+
+msgid "19"
+msgstr "bahumpi ce sahitaṃ bhāsamāno na takkaro hoti naro pamatto gopo'va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti."
+
+msgid "20"
+msgstr "appampi ce sahitaṃ bhāsamāno dhammassa hoti anudhammacārī rāgañca dosañca pahāya mohaṃ sammappajāno suvimuttacitto anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti."
+
+msgid "chap2"
+msgstr "Appamādavaggo"
+
+msgid "21"
+msgstr "appamādo amatapadaṃ pamādo maccuno padaṃ appamattā na mīyanti ye pamattā yathā matā."
+
+msgid "22"
+msgstr "etaṃ visesato ñatvā appamādamhi paṇḍitā appamāde pamodanti ariyānaṃ gocare ratā."
+
+msgid "23"
+msgstr "te jhāyino sātatikā niccaṃ daḷhaparakkamā phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ."
+
+msgid "24"
+msgstr "uṭṭhānavato satimato sucikammassa nisammakārino saññatassa ca dhammajīvino appamattassa yaso'bhivaḍḍhati."
+
+msgid "25"
+msgstr "uṭṭhānenappamādena saññamena damena ca dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati."
+
+msgid "26"
+msgstr "pamādamanuyuñjanti bālā dummedhino janā appamādañca medhāvī dhanaṃ seṭṭhaṃ'va rakkhati."
+
+msgid "27"
+msgstr "mā pamādamanuyuñjetha mā kāmaratisanthavaṃ appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ."
+
+msgid "28"
+msgstr "pamādaṃ appamādena yadā nudati paṇḍito paññāpāsādamāruyha asoko sokiniṃ pajaṃ pabbataṭṭho'va bhummaṭṭhe dhīro bāle avekkhati."
+
+msgid "29"
+msgstr "appamatto pamattesu suttesu bahujāgaro abalassaṃ'va sīghasso hitvā yāti sumedhaso."
+
+msgid "30"
+msgstr "appamādena maghavā devānaṃ seṭṭhataṃ gato appamādaṃ pasaṃsanti pamādo garahito sadā."
+
+msgid "31"
+msgstr "appamādarato bhikkhu pamāde bhaya dassi vā saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggīva gacchati."
+
+msgid "32"
+msgstr "appamādarato bhikkhu pamāde bhayadassi vā abhabbo parihānāya nibbāṇasseva santike."
+
+msgid "chap3"
+msgstr "Cittavaggo"
+
+msgid "33"
+msgstr "phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ ujuṃ karoti medhāvī usukāro'va tejanaṃ."
+
+msgid "34"
+msgstr "vārijo'va thale khitto okamokata ubbhato pariphandatidaṃ cittaṃ māradheyyaṃ pahātave."
+
+msgid "35"
+msgstr "dunniggahassa lahuno yatthakāmanipātino cittassa damatho sādhu cittaṃ dantaṃ sukhāvahaṃ."
+
+msgid "36"
+msgstr "sududdasaṃ sunipunaṃ yatthakāmanipātinaṃ cittaṃ rakkhetha medhāvī cittaṃ guttaṃ sukhāvahaṃ."
+
+msgid "37"
+msgstr "dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ ye cittaṃ saññamessanti mokkhanti mārabandhanā."
+
+msgid "38"
+msgstr "anavaṭṭhitacittassa saddhammaṃ avijānato pariplavapasādassa paññā na paripūrati."
+
+msgid "39"
+msgstr "anavassutacittassa ananvāhatacetaso puññapāpapahīṇassa natthi jāgarato bhayaṃ."
+
+msgid "40"
+msgstr "kumbhūpamaṃ kāyamimaṃ viditvā nagarūpamaṃ cittamidaṃ ṭhapetvā. Yodhetha māraṃ paññāyudhena jitañca rakkhe anivesano siyā."
+
+msgid "41"
+msgstr "aciraṃ vatayaṃ kāyo paṭhaviṃ adhisessati chuddho apetaviññāṇo niratthaṃ'va kaliṅgaraṃ."
+
+msgid "42"
+msgstr "diso disaṃ yantaṃ kayirā verī vā pana verinaṃ micchāpaṇihitaṃ cittaṃ pāpiyo na tato kare."
+
+msgid "43"
+msgstr "na taṃ mātā pitā kayirā aññe vāpi ca ñātakā sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare."
+
+msgid "chap4"
+msgstr "Pupphavaggo"
+
+msgid "44"
+msgstr "ko imaṃ paṭhaviṃ vicessatia yamalokañca imaṃ sadevakaṃ. Ko dhammapadaṃ sudesitaṃ kusalo pupphamiva pacessati"
+
+msgid "45"
+msgstr "sekho paṭhaviṃ vicessati yamalokañca imaṃ sadevakaṃ sekho dhammapadaṃ sudesitaṃ kusalo pupphamiva pacessati."
+
+msgid "46"
+msgstr "pheṇūpamaṃ kāyamimaṃ viditvā marīcidhammaṃ abhisambudhāno. Chetvāna mārassa papupphakānib adassanaṃ maccurājassa gacche."
+
+msgid "47"
+msgstr "pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ suttaṃ gāmaṃ mahogho'va maccu ādāya gacchati."
+
+msgid "48"
+msgstr "pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ atittaṃ yeva kāmesu antako kurute vasaṃ."
+
+msgid "49"
+msgstr "yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ paḷeti rasamādāya evaṃ gāme munī care."
+
+msgid "50"
+msgstr "na paresaṃ vilomāni na paresaṃ katākataṃ attano'va avekkheyya katāni akatāni ca."
+
+msgid "51"
+msgstr "yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ evaṃ subhāsitā vācā aphalā hoti akubbato."
+
+msgid "52"
+msgstr "yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ evaṃ subhāsitā vācā saphalā hoti pakubbato."
+
+msgid "53"
+msgstr "yathāpi puppharāsimhā kayirā mālāguṇe bahū evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ."
+
+msgid "54"
+msgstr "na pupphagandho paṭivātameti na candanaṃ tagaramallikā vā satañca gandho paṭivātameti sabbā disā sappuriso pavāti."
+
+msgid "55"
+msgstr "candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī etesaṃ gandhajātānaṃ sīlagandho anuttaro."
+
+msgid "56"
+msgstr "appamatto ayaṃ gandho yāyaṃ tagaracandanī yo ca sīlavataṃ gandho vāti devesu uttamo."
+
+msgid "57"
+msgstr "tesaṃ sampannasīlānaṃ appamādavihārinaṃ sammadaññā vimuttānaṃ māro maggaṃ na vindati."
+
+msgid "58"
+msgstr "yathā saṅkāradhānasmiṃ ujjhitasmiṃ mahāpathe padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ."
+
+msgid "59"
+msgstr "evaṃ saṅkārabhūtesu andhabhūte puthujjane atirocati paññāya sammāsambuddhasāvako."
+
+msgid "chap5"
+msgstr "Bālavaggo"
+
+msgid "60"
+msgstr "dīghā jāgarato ratti dīghaṃ santassa yojanaṃ dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ."
+
+msgid "61"
+msgstr "carañce nādhigaccheyya seyyaṃ sadisamattano ekacariyaṃ daḷhaṃ kayirā natthi bāle sahāyatā."
+
+msgid "62"
+msgstr "puttā matthi dhanammatthi iti bālo vihaññati attā hi attano natthi kuto puttā kuto dhanaṃ."
+
+msgid "63"
+msgstr "yo bālo maññati bālyaṃ paṇḍito vā'pi tena so bālo ca paṇḍitamānī sa ve bālo'ti vuccati."
+
+msgid "64"
+msgstr "yāvajīvampi ce bālo paṇḍitaṃ payirupāsati. Na so dhammaṃ vijānāti dabbī sūparasaṃ yathā."
+
+msgid "65"
+msgstr "muhuttamapi ce viññū paṇḍitaṃ payirupāsati khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā."
+
+msgid "66"
+msgstr "caranti bālā dummedhā amitteneva attanā karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ."
+
+msgid "67"
+msgstr "na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati yassa assumukho rodaṃ vipākaṃ paṭisevati."
+
+msgid "68"
+msgstr "tañca kammaṃ kataṃ sādhu yaṃ katvā nānutappati yassa patīto sumano vipākaṃ paṭisevati."
+
+msgid "69"
+msgstr "madhuvā maññati bālo yāva pāpaṃ na paccati yadā ca paccati pāpaṃ atha bālo dukkhaṃ nigacchati."
+
+msgid "70"
+msgstr "māse māse kusaggena bālo bhuñjetha bhojanaṃ na so saṅkhatadhammānaṃ kalaṃ agghati soḷasiṃ."
+
+msgid "71"
+msgstr "na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ'va muccati ḍahantaṃ bālamanveti bhasmacchanno'va pāvako."
+
+msgid "72"
+msgstr "yāvadeva anatthāya ñattaṃ bālassa jāyati hanti bālassa sukkaṃsaṃ muddhamassa vipātayaṃ"
+
+msgid "73"
+msgstr "asataṃ bhāvanamiccheyya purekkhārañca bhikkhusu āvāsesu ca issariyaṃ pūjā parakulesu ca."
+
+msgid "74"
+msgstr "mameva kata maññantū gihī pabbajitā ubho mameva ativasā assu kiccākiccesu kismici iti bālassa saṃkappo icchā māno ca vaḍḍhati."
+
+msgid "75"
+msgstr "aññā hi lābhūpanisā aññā nibbānagāminī evametaṃ abhiññāya bhikkhu buddhassa sāvako sakkāraṃ nābhinandeyya vivekamanubrūhaye."
+
+msgid "chap6"
+msgstr "Paṇḍitavaggo"
+
+msgid "76"
+msgstr "nidhīnaṃ'va pavattāraṃ yaṃ passe vajjadassinaṃ niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje tādisaṃ bhajamānassa seyyo hoti na pāpiyo."
+
+msgid "77"
+msgstr "ovadeyyānusāseyya asabbhā ca nivāraye sataṃ hi so piyo hoti asataṃ hoti appiyo."
+
+msgid "78"
+msgstr "na bhaje pāpake mitte na bhaje purisādhame. Bhajetha mitte kalyāṇe bhajetha purisuttame."
+
+msgid "79"
+msgstr "dhammapīti sukhaṃ seti vippasannena cetasā ariyappavedite dhamme sadā ramati paṇḍito."
+
+msgid "80"
+msgstr "udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā."
+
+msgid "81"
+msgstr "selo yathā ekaghano vātena na samīrati evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā."
+
+msgid "82"
+msgstr "yathāpi rahado gambhīro vippasanno anāvilo evaṃ dhammāni sutvāna vippasīdanti paṇḍitā."
+
+msgid "83"
+msgstr "sabbattha ve sappurisā cajanti na kāmakāmā lapayanti santo sukhena phuṭṭhā atha vā dukhena noccāvacaṃ paṇḍitā dassayanti."
+
+msgid "84"
+msgstr "na attahetu na parassa hetu na puttamicche na dhanaṃ na raṭṭhaṃ na iccheyya adhammena samiddhimattano sa sīlavā paññavā dhammiko siyā."
+
+msgid "85"
+msgstr "appakā te manussesu ye janā pāragāmino athāyaṃ itarā pajā tīramevānudhāvati."
+
+msgid "86"
+msgstr "ye ca kho sammadakkhāte dhamme dhammānuvattino te janā pāramessanti maccudheyyaṃ suduttaraṃ."
+
+msgid "87"
+msgstr "kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito okā anokaṃ āgamma viveke yattha dūramaṃ."
+
+msgid "88"
+msgstr "tatrābhiratimiccheyya hitvā kāme akiñcano pariyodapeyya attānaṃ cittaklesehi paṇḍito."
+
+msgid "89"
+msgstr "yesaṃ sambodhiaṅgesu sammā cittaṃ subhāvitaṃ ādānapaṭinissagge anupādāya ye ratā khīṇāsavā jutimanto te loke parinibbutā."
+
+msgid "chap7"
+msgstr "Arahantavaggo"
+
+msgid "90"
+msgstr "gataddhino visokassa vippamuttassa sabbadhi sabbaganthappahīṇassa pariḷāho na vijjati."
+
+msgid "91"
+msgstr "uyyuñjanti satimanto na nikete ramanti te haṃsā'va pallalaṃ hitvā okamokaṃ jahanti te."
+
+msgid "92"
+msgstr "yesaṃ sannicayo natthi ye pariññātabhojanā suññato animitto ca vimokkho yesa gocaro ākāse'va sakuntānaṃ gati tesaṃ durannayā."
+
+msgid "93"
+msgstr "yassāsavā parikkhīṇā āhāre ca anissito suññato animitto ca vimokkho yassa gocaro ākāse'va sakuntānaṃ padaṃ tassa durannayaṃ."
+
+msgid "94"
+msgstr "yassindriyāni samathaṃ gatāni assā yathā sārathinā sudantā pahīṇamānassa anāsavassa devā'pi tassa pihayanti tādino."
+
+msgid "95"
+msgstr "paṭhavisamo no virujjhati indakhīlūpamo tādi subbato rahado'va apetakaddamo saṃsārā na bhavanti tādino."
+
+msgid "96"
+msgstr "santaṃ tassa manaṃ hoti santā vācā ca kamma ca sammadaññā vimuttassa upasantassa tādino."
+
+msgid "97"
+msgstr "assaddho akataññū ca sandhicchedo ca yo naro hatāvakāso vantāso sa ve uttamaporiso."
+
+msgid "98"
+msgstr "gāme vā yadi vā raññe ninne vā yadi vā thale yatthārahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ."
+
+msgid "99"
+msgstr "ramaṇīyāni araññāni yattha na ramatī jano vītarāgā ramissanti na te kāmagavesino."
+
+msgid "chap8"
+msgstr "Sahassavaggo"
+
+msgid "100"
+msgstr "sahassampi ce vācā anatthapadasaṃhitā ekaṃ atthapadaṃ seyyo yaṃ sutvā upasammati."
+
+msgid "101"
+msgstr "sahassampi ce gāthā anatthapadasaṃhitā ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati."
+
+msgid "102"
+msgstr "yo ce gāthāsataṃ bhāse anatthapadasaṃhitaṃ ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati."
+
+msgid "103"
+msgstr "yo sahassaṃ sahassena saṅgāme mānuse jine ekañca jeyya attānaṃ sa ve saṅgāmajuttamo."
+
+msgid "104"
+msgstr "attā have jitaṃ seyyo yā cāyaṃ itarā pajā attadantassa posassa niccaṃ saññatacārino."
+
+msgid "105"
+msgstr "neva devo na gandhabbo na māro saha brahmunā jitaṃ apajitaṃ kayirā tathārūpassa jantuno."
+
+msgid "106"
+msgstr "māse māse sahassena yo yajetha sataṃ samaṃ ekañca bhāvitattānaṃ muhuttamapi pūjaye sā yeva pūjanā seyyā, yañce vassasataṃ hutaṃ."
+
+msgid "107"
+msgstr "yo ca vassasataṃ jantu aggiṃ paricare vane ekañca bhāvitattānaṃ muhuttamapi pūjaye sā yeva pūjanā seyyā yañce vassasataṃ hutaṃ."
+
+msgid "108"
+msgstr "yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke saṃvaccharaṃ yajetha puññapekkho sabbampi taṃ na catubhāgameti abhivādanā ujjugatesu seyyā."
+
+msgid "109"
+msgstr "abhivādanasīlissa niccaṃ vaddhāpacāyino cattāro dhammā vaḍḍhanti āyu vaṇṇo sukhaṃ balaṃ."
+
+msgid "110"
+msgstr "yo ca vassasataṃ jīve dussīlo asamāhito ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino."
+
+msgid "111"
+msgstr "yo ca vassasataṃ jīve duppañño asamāhito ekāhaṃ jīvitaṃ seyyo paññavantassa jhāyino."
+
+msgid "112"
+msgstr "yo ca vassasataṃ jīve kusīto hīnavīriyo ekāhaṃ jīvitaṃ seyyo viriyamārabhato daḷhaṃ."
+
+msgid "113"
+msgstr "yo ce vassasataṃ jīve apassaṃ udayavyayaṃ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ."
+
+msgid "114"
+msgstr "yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ."
+
+msgid "115"
+msgstr "yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ ekāhaṃ jīvitaṃ seyyo passato dhammamuttamaṃ."
+
+msgid "chap9"
+msgstr "Pāpavaggo"
+
+msgid "116"
+msgstr "abhittharetha kalyāṇe pāpā cittaṃ nivāraye dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano."
+
+msgid "117"
+msgstr "pāpaṃ ce puriso kayirā na taṃ kayirā punappunaṃ na tamhi chandaṃ kayirātha dukkho pāpassa uccayo."
+
+msgid "118"
+msgstr "puññaṃ ce puriso kayirā kayirāthetaṃ punappunaṃ tamhi chandaṃ kayirātha sukho puññassa uccayo."
+
+msgid "119"
+msgstr "pāpo'pi passati bhadraṃ yāva pāpaṃ na paccati yadā ca paccati pāpaṃ atha pāpo pāpāni passati."
+
+msgid "120"
+msgstr "bhadro'pi passati pāpaṃ yāva bhadraṃ na paccati yadā ca paccati bhadraṃ atha bhadro bhadrāni passati."
+
+msgid "121"
+msgstr "mā'pamaññetha pāpassa na mantaṃ āgamissati udabindunipātena udakumbho'pi pūrati pūrati bālo pāpassa thokathokampi ācinaṃ."
+
+msgid "122"
+msgstr "mā'pamaññetha puññassa na maṃ taṃ āgamissati udabindunipātena udakumbho'pi pūrati. Pūrati dhīro puññassa thokathokampi ācinaṃ."
+
+msgid "123"
+msgstr "vāṇijo'va bhayaṃ maggaṃ appasattho mahaddhano visaṃ jīvitukāmo'va pāpāni parivajjaye."
+
+msgid "124"
+msgstr "pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ nābbaṇaṃ visamanveti natthi pāpaṃ akubbato."
+
+msgid "125"
+msgstr "yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa tameva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ'va khitto."
+
+msgid "126"
+msgstr "gabbhameke'papajjanti nirayaṃ pāpakammino saggaṃ sugatino yanti parinibbanti anāsavā."
+
+msgid "127"
+msgstr "na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa na vijjatī so jagatippadeso yatthaṭṭhito mucceyya pāpakammā."
+
+msgid "128"
+msgstr "na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa na vijjati so jagatippadeso yatthaṭṭhitaṃ nappasahetha maccu."
+
+msgid "chap10"
+msgstr "Daṇḍavaggo"
+
+msgid "129"
+msgstr "sabbe tasanti daṇḍassa sabbe bhāyanti maccuno attānaṃ upamaṃ katvā na haneyya na ghātaye."
+
+msgid "130"
+msgstr "sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ. Attānaṃ upamaṃ katvā na haneyya na ghātaye."
+
+msgid "131"
+msgstr "sukhakāmāni bhūtāni yo daṇḍena vihiṃsati attano sukhamesāno pecca so na labhate sukhaṃ."
+
+msgid "132"
+msgstr "sukhakāmāni bhūtāni yo daṇḍena na hiṃsati attano sukhamesāno pecca so labhate sukhaṃ."
+
+msgid "133"
+msgstr "mā'voca pharusaṃ kañci vuttā paṭivadeyyu taṃ dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ."
+
+msgid "134"
+msgstr "sa ce neresi attānaṃ kaṃso upahato yathā esa patto'si nibbānaṃ sārambho te na vijjati."
+
+msgid "135"
+msgstr "yathā daṇḍena gopālo gāvo pāceti gocaraṃ evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ."
+
+msgid "136"
+msgstr "atha pāpāni kammāni karaṃ bālo na bujjhati sehi kammehi dummedho aggidaḍḍho'va tappati."
+
+msgid "137"
+msgstr "yo daṇḍena adaṇḍesu appaduṭṭhesu dussati dasannamaññataraṃ ṭhānaṃ khippameva nigacchati."
+
+msgid "138"
+msgstr "vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe."
+
+msgid "139"
+msgstr "rājato vā upassaggaṃ abbhakkhānaṃ va dāruṇaṃ parikkhayaṃ va ñātīnaṃ bhogānaṃ va pabhaṅguraṃ."
+
+msgid "140"
+msgstr "atha vāssa agārāni aggi ḍahati pāvako kāyassa bhedā duppañño nirayaṃ so upapajjati."
+
+msgid "141"
+msgstr "na naggacariyā na jaṭā na paṅkā nānāsakā thaṇḍilasāyikā vā rājo ca jallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṅkhaṃ."
+
+msgid "142"
+msgstr "alaṅkato ce'pi samaṃ careyya santo danto niyato brahmacārī sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu."
+
+msgid "143"
+msgstr "hirīnisedho puriso koci lokasmi vijjati yo nindaṃ apabodhati asso bhadro kasāmiva."
+
+msgid "144"
+msgstr "asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca sampannavijjācaraṇā patissatā pahassatha dukkhamidaṃ anappakaṃ."
+
+msgid "145"
+msgstr "udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ dāruṃ namayanti tacchakā attānaṃ damayanti subbatā."
+
+msgid "chap11"
+msgstr "Jarāvaggo"
+
+msgid "146"
+msgstr "ko nu hāso kimānando niccaṃ pajjalite sati andhakārena onaddhā padīpaṃ na gavessatha."
+
+msgid "147"
+msgstr "passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ āturaṃ bahusaṅkappaṃ yassa natthi dhuvaṃ ṭhiti."
+
+msgid "148"
+msgstr "parijiṇṇamidaṃ rūpaṃ roganiḍḍhaṃ pabhaṅguraṃ bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ."
+
+msgid "149"
+msgstr "yānimāni apatthāni alāpūneva sārade kāpotakāni aṭṭhīni tāni disvāna kā rati."
+
+msgid "150"
+msgstr "aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ yattha jarā ca maccu ca māno makkho ca ohito."
+
+msgid "151"
+msgstr "jīranti ve rājarathā sucittā atho sarīrampi jaraṃ upeti satañca dhammo na jaraṃ upeti santo have sabbhi pavedayanti."
+
+msgid "152"
+msgstr "appassutāyaṃ puriso balivaddo'va jīrati. Maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati."
+
+msgid "153"
+msgstr "anekajāti saṃsāraṃ sandhāvissaṃ anibbisaṃ gahakārakaṃ gavesanto dukkhā jāti punappunaṃ."
+
+msgid "154"
+msgstr "gahakāraka diṭṭho'si puna gehaṃ na kāhasi sabbā te phāsukā bhaggā gahakūṭaṃ visaṅkhitaṃ visaṅkhāragataṃ cittaṃ taṇhānaṃ khayamajjhagā."
+
+msgid "155"
+msgstr "acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ jiṇṇakoñcāva jhāyanti khīṇamaccheva pallale."
+
+msgid "156"
+msgstr "acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ senti cāpā'tikhittā'va purāṇāni anutthunaṃ."
+
+msgid "chap12"
+msgstr "Attavaggo"
+
+msgid "157"
+msgstr "attānaṃ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ tiṇṇamaññataraṃ yāmaṃ paṭijaggeyya paṇḍito."
+
+msgid "158"
+msgstr "attānameva paṭhamaṃ patirūpe nivesaye athaññamanusāseyya na kilisseyya paṇḍito."
+
+msgid "159"
+msgstr "attānañce tathā kayirā yathaññamanusāsati sudanto vata dammetha attā hi kira duddamo."
+
+msgid "160"
+msgstr "attā hi attano nātho ko hi nātho paro siyā attanā'va sudantena nāthaṃ labhati dullabhaṃ."
+
+msgid "161"
+msgstr "attanā'va kataṃ pāpaṃ attajaṃ attasambhavaṃ abhimanthati dummedhaṃ vajiraṃ'vasmamayaṃ maṇiṃ."
+
+msgid "162"
+msgstr "yassa accantadussīlyaṃ māluvā sālamivotataṃ karoti so tathattānaṃ yathā naṃ icchatī diso."
+
+msgid "163"
+msgstr "sukarāni asādhūni attano ahitāni ca yaṃ ve hitañca sādhuṃ ca taṃ ve paramadukkaraṃ."
+
+msgid "164"
+msgstr "yo sāsanaṃ arahataṃ ariyānaṃ dhammajīvinaṃ paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ phalāni kaṭṭhakasseva attaghaññāya phallati."
+
+msgid "165"
+msgstr "attanā'va kataṃ pāpaṃ attanā saṃkilissati attanā akataṃ pāpaṃ attanāva visujjhati suddhi asuddhi paccattaṃ nāññamañño visodhaye."
+
+msgid "166"
+msgstr "attadatthaṃ paratthena bahunāpi na hāpaye attadatthamabhiññāya sadatthapasuto siyā."
+
+msgid "chap13"
+msgstr "Lokavaggo"
+
+msgid "167"
+msgstr "hīnaṃ dhammaṃ na seveyya pamādena na saṃvase micchādiṭṭhiṃ na seveyya na siyā lokavaddhano."
+
+msgid "168"
+msgstr "uttiṭṭhe nappamajjeyya dhammaṃ sucaritaṃ care dhammacārī sukhaṃ seti asmiṃ loke paramhi ca."
+
+msgid "169"
+msgstr "dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care dhammacārī sukhaṃ seti asmiṃ loke paramhi ca."
+
+msgid "170"
+msgstr "yathā bubbulakaṃ passe yathā passe marīcikaṃ evaṃ lokaṃ avekkhantaṃ maccurājā na passati."
+
+msgid "171"
+msgstr "etha passathimaṃ lokaṃ cittaṃ rājarathūpamaṃ yattha bālā visīdanti natthi saṅgo vijānataṃ."
+
+msgid "172"
+msgstr "yo ca pubbe pamajjitvā pacchā so nappamajjati. So imaṃ lokaṃ pabhāseti abbhā mutto'va candimā."
+
+msgid "173"
+msgstr "yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati so imaṃ lokaṃ pabhāseti abbhā mutto'va candimā."
+
+msgid "174"
+msgstr "andhabhūto ayaṃ loko tanukettha vipassati. Sakunto jālamutto'va appo saggāya gacchati."
+
+msgid "175"
+msgstr "haṃsādiccapathe yanti ākāse yanti iddhiyā nīyanti dhīrā lokamhā jitvā māraṃ savāhiniṃ."
+
+msgid "176"
+msgstr "ekaṃ dhammaṃ atītassa musāvādissa jantuno vitiṇṇaparalokassa natthi pāpaṃ akāriyaṃ."
+
+msgid "177"
+msgstr "na ve kadariyā devalokaṃ vajanti bālā have nappasaṃsanti dānaṃ dhīro ca dānaṃ anumodamāno teneva so hoti sukhī parattha."
+
+msgid "178"
+msgstr "pathavyā ekarajjena saggassa gamanena vā sabbalokādhipaccena sotāpattiphalaṃ varaṃ."
+
+msgid "chap14"
+msgstr "Buddhavaggo"
+
+msgid "179"
+msgstr "yassa jitaṃ nāvajīyati jitamassa no yāti koci loke tambuddhamanantagocaraṃ apadaṃ kena padena nessatha."
+
+msgid "180"
+msgstr "yassa jālinī visattikā taṇhā natthi kuhiñci netave taṃ buddhamanantagocaraṃ apadaṃ kena padena nessatha."
+
+msgid "181"
+msgstr "ye jhānapasutā dhīrā nekkhammūpasame ratā devā'pi tesaṃ pihayanti sambuddhānaṃ satīmataṃ."
+
+msgid "182"
+msgstr "kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ kicchaṃ saddhammasavanaṃ kiccho buddhānaṃ uppādo."
+
+msgid "183"
+msgstr "sabbapāpassa akaraṇaṃ kusalassa upasampadā sacittapariyodapanaṃ etaṃ buddhāna sāsanaṃ."
+
+msgid "184"
+msgstr "khantī paramaṃ tapo titikkhā nibbānaṃ paramaṃ vadanti buddhā na hi pabbajito parūpaghātī samaṇo hoti paraṃ viheṭhayanto."
+
+msgid "185"
+msgstr "anūpavādo anūpaghāto pātimokkhe ca saṃvaro mattaññutā ca bhattasmiṃ pantañca sayanāsanaṃ adhicitte ca āyogo etaṃ buddhāna sāsanaṃ."
+
+msgid "186"
+msgstr "na kahāpaṇavassena titti kāmesu vijjati appassādā dukhā kāmā iti viññāya paṇḍito."
+
+msgid "187"
+msgstr "api dibbesu kāmesu ratiṃ so nādhigacchati taṇhakkhayarato hoti sammāsambuddhasāvako."
+
+msgid "188"
+msgstr "bahū ve saraṇaṃ yanti pabbatāni vanāni ca ārāmarukkhacetyāni manussā bhayatajjitā."
+
+msgid "189"
+msgstr "netaṃ kho saraṇaṃ khemaṃ netaṃ saraṇamuttamaṃ netaṃ saraṇamāgamma sabbadukkhā pamuccati."
+
+msgid "190"
+msgstr "yo ca buddhañca dhammañca saṅghañca saraṇaṃ gato cattāri ariyasaccāni sammappaññāya passati."
+
+msgid "191"
+msgstr "dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ ariyañcaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ."
+
+msgid "192"
+msgstr "etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇamuttamaṃ etaṃ saraṇamāgamma sabbadukkhā pamuccati."
+
+msgid "193"
+msgstr "dullabho purisājañño na so sabbattha jāyati yattha so jāyati dhīro taṃ kulaṃ sukhamedhati."
+
+msgid "194"
+msgstr "sukho buddhānaṃ uppādo sukhā saddhammadesanā sukhā saṅghassa sāmaggī samaggānaṃ tapo sukho."
+
+msgid "195"
+msgstr "pūjārahe pūjayato buddhe yadi va sāvake papañcasamatikkante tiṇṇasokapariddave."
+
+msgid "196"
+msgstr "te tādise pūjayato nibbute akutobhaye na sakkā puññaṃ saṅkhātuṃ imettamapi kenaci."
+
+msgid "chap15"
+msgstr "Sukhavaggo"
+
+msgid "197"
+msgstr "susukhaṃ vata jīvāma verinesu averino verinesu manussesu viharāma averino."
+
+msgid "198"
+msgstr "susukhaṃ vata jīvāma āturesu anāturā āturesu manussesu, viharāma anāturā."
+
+msgid "199"
+msgstr "susukhaṃ vata jīvāma ussukesu anussukā ussukesu manussesu viharāma anussukā."
+
+msgid "200"
+msgstr "susukhaṃ vata jīvāma yesaṃ no natthi kiñcanaṃ pītibhakkhā bhavissāma devā ābhassarā yathā."
+
+msgid "201"
+msgstr "jayaṃ veraṃ pasavati dukkhaṃ seti parājito upasanto sukhaṃ seti hitvā jayaparājayaṃ."
+
+msgid "202"
+msgstr "natthi rāgasamo aggi natthi dosasamo kali natthi khandhasamā dukkhā natthi santiparaṃ sukhaṃ."
+
+msgid "203"
+msgstr "jighacchāparamā rogā saṅkhāraparamā dukhā etaṃ ñatvā yathābhūtaṃ nibbāṇaparamaṃ sukhaṃ."
+
+msgid "204"
+msgstr "ārogyaparamā lābhā santuṭṭhiparamaṃ dhanaṃ vissāsaparamā ñātī nibbāṇaparamaṃ sukhaṃ."
+
+msgid "205"
+msgstr "pavivekarasaṃ pītvā rasaṃ upasamassa ca niddaro hoti nippāpo dhammapītirasaṃ pibaṃ."
+
+msgid "206"
+msgstr "sāhu dassanamariyānaṃ sannivāso sadā sukho adassanena bālānaṃ niccameva sukhī siyā."
+
+msgid "207"
+msgstr "bālasaṅgatacārīhi dīghamaddhāna socati dukkho bālehi saṃvāso amitteneva sabbadā dhīro ca sukhasaṃvāso ñātīnaṃ'va samāgamo."
+
+msgid "208"
+msgstr "tasmāhi, dhīrañca paññañca bahussutañca dhorayhasīlaṃ vatavantamariyaṃ taṃ tādisaṃ sappurisaṃ sumedhaṃ bhajetha nakkhattapathaṃ'va candimā."
+
+msgid "chap16"
+msgstr "Piyavaggo"
+
+msgid "209"
+msgstr "ayoge yuñjamattānaṃ yogasmiñca ayojayaṃ atthaṃ hitvā piyaggāhī pihetattānuyoginaṃ."
+
+msgid "210"
+msgstr "mā piyehi samāgañchi appiyehi kudācanaṃ piyānaṃ adassanaṃ dukkhaṃ appiyānañca dassanaṃ."
+
+msgid "211"
+msgstr "tasmā piyaṃ na kayirātha piyāpāyo hi pāpako ganthā tesaṃ na vijjanti yesaṃ natthi piyāppiyaṃ."
+
+msgid "212"
+msgstr "piyato jāyatī soko piyato jāyatī bhayaṃ piyato vippamuttassa natthi soko kuto bhayaṃ."
+
+msgid "213"
+msgstr "pemato jāyatī soko pemato jāyatī bhayaṃ pemato vippamuttassa natthi soko kuto bhayaṃ."
+
+msgid "214"
+msgstr "ratiyā jāyatī soko ratiyā jāyatī bhayaṃ ratiyā vippamuttassa natthi soko kuto bhayaṃ."
+
+msgid "215"
+msgstr "kāmato jāyatī soko kāmato jāyatī bhayaṃ kāmato vippamuttassa natthi soko kuto bhayaṃ."
+
+msgid "216"
+msgstr "taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ taṇhāya vippamuttassa natthi soko kuto bhayaṃ."
+
+msgid "217"
+msgstr "sīladassanasampannaṃ dhammaṭṭhaṃ saccavedinaṃ attano kamma kubbānaṃ taṃ jano kurute piyaṃ."
+
+msgid "218"
+msgstr "chandajāto anakkhāte manasā ca phuṭo siyā. Kāmesu ca appaṭibaddhacitto uddhaṃsoto'ti vuccati."
+
+msgid "219"
+msgstr "cirappavāsiṃ purisaṃ dūrato sotthimāgataṃ ñātimittā suhajjā ca abhinandanti āgataṃ."
+
+msgid "220"
+msgstr "tatheva katapuññampi asmā lokā paraṃ gataṃ puññāni patigaṇhanti piyaṃ ñātīva āgataṃ."
+
+msgid "chap17"
+msgstr "Kodhavaggo"
+
+msgid "221"
+msgstr "kodhaṃ jahe vippajaheyya mānaṃ saññojanaṃ sabbamatikkameyye taṃ nāmarūpasmiṃ asajjamānaṃ akiñcanaṃ nānupatanti dukkhā."
+
+msgid "222"
+msgstr "yo ce uppatitaṃ kodhaṃ rathaṃ bhantaṃ'va dhāraye tamahaṃ sārathiṃ brūmi rasmiggāho itaro jano."
+
+msgid "223"
+msgstr "akkodhena jine kodhaṃ asādhuṃ sādhunā jine jine kadariyaṃ dānena saccena alikavādinaṃ."
+
+msgid "224"
+msgstr "saccaṃ bhaṇe na kujjheyya dajjāppasamimpi yācito etehi tīhi ṭhānehi gacche devāna santike."
+
+msgid "225"
+msgstr "ahiṃsakā ye munayo niccaṃ kāyenasaṃvutā te yanti accutaṃ ṭhānaṃ yattha gantvā na socare."
+
+msgid "226"
+msgstr "sadā jāgaramānānaṃ ahorattānusikkhinaṃ nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā."
+
+msgid "227"
+msgstr "porāṇametaṃ atula netaṃ ajjatanāmiva nindanti tuṇhimāsīnaṃ nindanti bahubhāṇinaṃ mitabhāṇimpi nindanti natthi loke anindito."
+
+msgid "228"
+msgstr "na cāhu na ca bhavissati na cetarahi vijjati ekantaṃ nindito poso ekantaṃ vā pasaṃsito."
+
+msgid "229"
+msgstr "yaṃ ce viññū pasaṃsanti anuvicca suve suve acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ."
+
+msgid "230"
+msgstr "nekkhaṃ jambonadasseva ko taṃ ninditumarahati devā'pi naṃ pasaṃsanti brahmunā'pi pasaṃsito."
+
+msgid "231"
+msgstr "kāyappakopaṃ rakkheyya kāyena saṃvuto siyā kāyaduccaritaṃ hitvā kāyena sucaritaṃ care."
+
+msgid "232"
+msgstr "vacīpakopaṃ rakkheyya vācāya saṃvuto siyā vacīduccaritaṃ hitvā vācāya sucaritaṃ care."
+
+msgid "233"
+msgstr "manopakopaṃ rakkheyya manasā saṃvuto siyā manoduccaritaṃ hitvā manasā sucaritaṃ care."
+
+msgid "234"
+msgstr "kāyena saṃvutā dhīrā atho vācāya saṃvutā manasā saṃvutā dhīrā te ve suparisaṃvutā."
+
+msgid "chap18"
+msgstr "Malavaggo"
+
+msgid "235"
+msgstr "paṇḍupalāso'va dāni'si yamapurisā'pi ca taṃ upaṭṭhitā. Uyyogamukhe ca tiṭṭhasi pātheyyampi ca te na vijjati."
+
+msgid "236"
+msgstr "so karohi dīpamattano khippaṃ vāyama paṇḍito bhava niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmimehisi."
+
+msgid "237"
+msgstr "upanītavayo ca dāni'si sampayāto'si yamassa santike vāso'pi ca te natthi antarā pātheyyampi ca te na vijjati."
+
+msgid "238"
+msgstr "so karohi dīpamattano khippaṃ vāyama paṇḍito bhava niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi."
+
+msgid "239"
+msgstr "anupubbena medhāvī thokathokaṃ khaṇe khaṇe kammāro rajatasseva niddhame malamattano."
+
+msgid "240"
+msgstr "ayasā'va malaṃ samuṭṭhitaṃ taduṭṭhāya tameva khādati evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ."
+
+msgid "241"
+msgstr "asajjhāyamalā mantā anuṭṭhānamalā gharā malaṃ vaṇṇassa kosajjaṃ pamādo rakkhato malaṃ."
+
+msgid "242"
+msgstr "malitthiyā duccaritaṃ maccheraṃ dadato malaṃ malā ve pāpakā dhammā asmiṃ loke paramhi ca."
+
+msgid "243"
+msgstr "tato malā malataraṃ avijjā paramaṃ malaṃ etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo."
+
+msgid "244"
+msgstr "sujīvaṃ ahirikena kākasūrena dhaṃsinā pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ."
+
+msgid "245"
+msgstr "hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā alīnenāpagabbhena suddhājīvena passatā."
+
+msgid "246"
+msgstr "yo pāṇamatipāteti musāvādaṃ ca bhāsati loke adinnaṃ ādiyati paradāraṃ ca gacchati."
+
+msgid "247"
+msgstr "surāmerayapānaṃ ca yo naro anuyuñjati idheva poso lokasmiṃ mūlaṃ khaṇati attano."
+
+msgid "248"
+msgstr "evaṃ bho purisa jānāhi pāpadhammā asaññatā mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ."
+
+msgid "249"
+msgstr "dadāti ve yathā saddhaṃ yathā pasādanaṃ jano tattha ve maṅku yo hoti paresaṃ pānabhojane na so divā vā rattiṃ vā samādhiṃ adhigacchati."
+
+msgid "250"
+msgstr "yassa cetaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ. Sa ve divā vā rattiṃ vā samādhiṃ adhigacchati."
+
+msgid "251"
+msgstr "natthi rāgasamo aggi natthi dosasamo gaho natthi mohasamaṃ jālaṃ natthi taṇhāsamā nadī."
+
+msgid "252"
+msgstr "sudassaṃ vajjamaññesaṃ attano pana duddasaṃ paresaṃ hi so vajjāni opuṇāti yathā bhusaṃ attano pana chādeti kaliṃ'va kitavā saṭho."
+
+msgid "253"
+msgstr "paravajjānupassissa niccaṃ ujjhānasaññino āsavā tassa vaḍḍhanti ārā so āsavakkhayā."
+
+msgid "254"
+msgstr "ākāse padaṃ natthi samaṇo natthi bāhire papañcābhiratā pajā nippapañcā tathāgatā."
+
+msgid "255"
+msgstr "ākāse padaṃ natthi samaṇo natthi bāhire saṅkhārā sassatā natthi natthi buddhāna iñjitaṃ."
+
+msgid "chap19"
+msgstr "Dhammaṭṭhavaggo"
+
+msgid "256"
+msgstr "na tena hoti dhammaṭṭho yenatthaṃ sāhasā naye yo ca atthaṃ anatthañca ubho niccheyya paṇḍito."
+
+msgid "257"
+msgstr "asāhasena dhammena samena nayatī pare dhammassa gutto medhāvī dhammaṭṭho'ti pavuccati."
+
+msgid "258"
+msgstr "na tena paṇḍito hoti yāvatā bahu bhāsati khemī averī abhayo paṇḍito'ti pavuccati."
+
+msgid "259"
+msgstr "na tāvatā dhammadharo yāvatā bahu bhāsati yo ca appampi sutvāna dhammaṃ kāyena passati sa ve dhammadharo hoti yo dhammaṃ nappamajjati."
+
+msgid "260"
+msgstr "na tena thero so hoti yenassa palitaṃ siro paripakko vayo tassa moghajiṇṇo'ti vuccati."
+
+msgid "261"
+msgstr "yamhi saccaṃ ca dhammo ca ahiṃsā saṃyamo damo sa ve vantamalo dhīro thero iti pavuccati."
+
+msgid "262"
+msgstr "na vākkaraṇamattena vaṇṇapokkharatāya vā. Sādhurūpo naro hoti issukī maccharī saṭho."
+
+msgid "263"
+msgstr "yassa ce taṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ sa vantadoso medhāvī sādhurūpo'ti vuccati."
+
+msgid "264"
+msgstr "na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ icchālobhasamāpanno samaṇo kiṃ bhavissati."
+
+msgid "265"
+msgstr "yo ca sameti pāpāni aṇuṃthūlāni sabbaso samitattā hi pāpānaṃ samaṇo'ti pavuccati."
+
+msgid "266"
+msgstr "na tena bhikkhu hoti yāvatā bhikkhate pare vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā."
+
+msgid "267"
+msgstr "yo'dha puññañca pāpañca bāhetvā brahmacariyavā saṅkhāya loke carati sa ve bhikkhū'ti vuccati."
+
+msgid "268"
+msgstr "na monena munī hoti mūḷharūpo aviddasu yo ca tulaṃ'va paggayha varamādāya paṇḍito."
+
+msgid "269"
+msgstr "pāpāni parivajjeti sa munī tena so muni yo munāti ubho loke muni tena pavuccati."
+
+msgid "270"
+msgstr "na tena ariyo hoti yena pāṇāni hiṃsati ahiṃsā sabbapāṇānaṃ ariyo'ti pavuccati."
+
+msgid "271"
+msgstr "na sīlabbatamattena bāhusaccena vā pana atha vā samādhilābhena vivicca sayanena vā."
+
+msgid "272"
+msgstr "phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ bhikkhu vissāsamāpādi appatto āsavakkhayaṃ."
+
+msgid "chap20"
+msgstr "Maggavaggo"
+
+msgid "273"
+msgstr "maggānaṭṭhaṅgiko seṭṭho saccānaṃ caturo padā virāgo seṭṭho dhammānaṃ dvipadānaṃ ca cakkhumā."
+
+msgid "274"
+msgstr "eso'va maggo natthañño dassanassa visuddhiyā etaṃ hi tumhe paṭipajjatha mārassetaṃ pamohanaṃ."
+
+msgid "275"
+msgstr "etaṃ hi tumhe paṭipannā dukkhassantaṃ karissatha akkhāto ve mayā maggo aññāya sallasatthanaṃ."
+
+msgid "276"
+msgstr "tumhehi kiccaṃ ātappaṃ akkhātāro tathāgatā paṭipannā pamokkhanti jhāyino mārabandhanā."
+
+msgid "277"
+msgstr "sabbe saṅkhārā aniccā'ti yadā paññāya passati atha nibbindati dukkhe esa maggo visuddhiyā."
+
+msgid "278"
+msgstr "sabbe saṅkhārā dukkhā'ti yadā paññāya passati atha nibbindati dukkhe esa maggo visuddhiyā."
+
+msgid "279"
+msgstr "sabbe dhammā anattā'ti yadā paññāya passati atha nibbindati dukkhe esa maggo visuddhiyā."
+
+msgid "280"
+msgstr "uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upeto saṃsannasaṅkappamano kusīto paññāya maggaṃ alaso na vindati."
+
+msgid "281"
+msgstr "vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā ete tayo kammapathe visodhaye ārādhaye magga isippaveditaṃ."
+
+msgid "282"
+msgstr "yogā ve jāyatī bhūri ayogā bhūrisaṅkhayo etaṃ dvedhā pathaṃ ñatvā bhavāya vibhavāya ca tathattānaṃ niveseyya yathā bhūri pavaḍḍhati."
+
+msgid "283"
+msgstr "vanaṃ chindatha mā rukkhaṃ vanato jāyatī bhayaṃ chetvā vanañca vanathañca nibbanā hotha bhikkhavo."
+
+msgid "284"
+msgstr "yāvaṃ hi vanatho na chijjati, aṇumatto'pi narassa nārisu paṭibaddhamano'va tāva so vaccho khīrapako'va mātari."
+
+msgid "285"
+msgstr "ucchinda sinehamattano kumudaṃ sāradikaṃ'va pāṇinā santimaggameva brūhaya nibbānaṃ sugatena desitaṃ."
+
+msgid "286"
+msgstr "idha vassaṃ vasissāmi idha hemanta gimhisu iti bālo vicinteti antarāyaṃ na bujjhati."
+
+msgid "287"
+msgstr "taṃ puttapasusammattaṃ, byāsattamanasaṃ naraṃ suttaṃ gāmaṃ mahogho'va maccu ādāya gacchati."
+
+msgid "288"
+msgstr "na santi puttā tāṇāya na pitā napi bandhavā antakenādhipannassa natthi ñātisu tāṇatā."
+
+msgid "289"
+msgstr "etamatthavasaṃ ñatvā paṇḍito sīlasaṃvuto nibbāṇagamanaṃ maggaṃ khippameva visodhaye."
+
+msgid "chap21"
+msgstr "Pakiṇṇakavaggo"
+
+msgid "290"
+msgstr "mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ."
+
+msgid "291"
+msgstr "paradukkhūpadānena attano sukhamicchati verasaṃsaggasaṃsaṭṭho verā so na parimuccati."
+
+msgid "292"
+msgstr "yaṃ hi kiccaṃ tadapaviddhaṃ akiccaṃ pana kayirati unnalānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā."
+
+msgid "293"
+msgstr "yesañca susamāraddhā niccaṃ kāyagatā sati. Akiccaṃ te na sevanti kicce sātaccakārino satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā."
+
+msgid "294"
+msgstr "mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo."
+
+msgid "295"
+msgstr "mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo."
+
+msgid "296"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā yesaṃ divā ca ratto ca niccaṃ buddhagatā sati."
+
+msgid "297"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā yesaṃ divā ca ratto ca niccaṃ dhammagatā sati."
+
+msgid "298"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā yesaṃ divā ca ratto ca niccaṃ saṅghagatā sati."
+
+msgid "299"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā yesaṃ divā ca ratto ca niccaṃ kāyagatā sati."
+
+msgid "300"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā. Yesaṃ divā ca ratto ca ahiṃsāya rato mano."
+
+msgid "301"
+msgstr "suppabuddhaṃ pabujjhanti sadā gotamasāvakā yesaṃ divā ca ratto ca bhāvanāya rato mano."
+
+msgid "302"
+msgstr "duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā dukkho'samānasaṃvāso dukkhānupatitaddhagū tasmā na caddhagu siyā dukkhānupatito siyā."
+
+msgid "303"
+msgstr "saddho sīlena sampanno yasobhogasamappito yaṃ yaṃ padesaṃ bhajati tattha tattheva pūjito."
+
+msgid "304"
+msgstr "dūre santo pakāsanti himavanto'va pabbato asantettha na dissanti rattiṃ khittā yathā sarā."
+
+msgid "305"
+msgstr "ekāsanaṃ ekaseyyaṃ eko caramatandito eko damayamattānaṃ vanante ramito siyā."
+
+msgid "chap22"
+msgstr "Nirayavaggo"
+
+msgid "306"
+msgstr "abhūtavādī nirayaṃ upeti yo vāpi katvā na karomīti cāha ubho'pi te pecca samā bhavanti nihīnakammā manujā parattha."
+
+msgid "307"
+msgstr "kāsāvakaṇṭhā bahavo pāpadhammā asaññatā pāpā pāpehi kammehi nirayaṃ te upapajjare."
+
+msgid "308"
+msgstr "seyyo ayoguḷo bhutto tatto aggisikhūpamo yañce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato."
+
+msgid "309"
+msgstr "cattāri ṭhānāni naro pamatto āpajjati paradārūpasevī. Apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatiyaṃ nirayaṃ catutthaṃ."
+
+msgid "310"
+msgstr "apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā rājā ca daṇḍaṃ garukaṃ paṇeti tasmā naro paradāraṃ na seve."
+
+msgid "311"
+msgstr "kuso yathā duggahito hatthamevānukantati sāmaññaṃ dupparāmaṭṭhaṃ nirayāyupakaḍḍhati."
+
+msgid "312"
+msgstr "yaṃ kiñci sithilaṃ kammaṃ saṃkiliṭṭhaṃ ca yaṃ vataṃ saṅkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ."
+
+msgid "313"
+msgstr "kayirā ce kayirāthenaṃ daḷhamenaṃ parakkame saṭhilo hi paribbājo bhiyyo ākirate rajaṃ."
+
+msgid "314"
+msgstr "akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ kataṃ ca sukataṃ seyyo yaṃ katvā nānutappati."
+
+msgid "315"
+msgstr "nagaraṃ yathā paccattaṃ guttaṃ santarabāhiraṃ evaṃ gopetha attānaṃ khaṇo vo mā upaccagā khaṇātītā hi socanti nirayamhi samappitā."
+
+msgid "316"
+msgstr "alajjitāye lajjanti lajjitāye na lajjare micchādiṭṭhisamādānā sattā gacchanti duggatiṃ."
+
+msgid "317"
+msgstr "abhaye bhayadassino bhaye cābhayadassino micchādiṭṭhisamādānā sattā gacchanti duggatiṃ."
+
+msgid "318"
+msgstr "avajje vajjamatino vajje cāvajjadassino micchādiṭṭhisamādānā sattā gacchanti duggatiṃ."
+
+msgid "319"
+msgstr "vajjaṃ ca vajjato ñatvā avajjaṃ ca avajjato sammādiṭṭhisamādānā sattā gacchanti suggatiṃ."
+
+msgid "chap23"
+msgstr "Nāgavaggo"
+
+msgid "320"
+msgstr "ahaṃ nāgo'va saṅgāme cāpato patitaṃ saraṃ. Ativākyaṃ titikkhissaṃ dussīlo hi bahujjano."
+
+msgid "321"
+msgstr "dantaṃ nayanti samitiṃ dantaṃ rājā'bhirūhati danto seṭṭho manussesu yo'tivākyaṃ titikkhati."
+
+msgid "322"
+msgstr "varamassatarā dantā ājānīyā ca sindhavā kuñjarā ca mahānāgā attadanto tato varaṃ."
+
+msgid "323"
+msgstr "na hi etehi yānehi gaccheyya agataṃ disaṃ yathāttanā sudantena danto dantena gacchati."
+
+msgid "324"
+msgstr "dhanapālako nāma kuñjaro kaṭukappabhedano dunnivārayo. Baddho kabaḷaṃ na bhuñjati sumarati nāgavanassa kuñjaro."
+
+msgid "325"
+msgstr "middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī. Mahāvarāho'va nivāpapuṭṭho punappunaṃ gabbhamupeti mando."
+
+msgid "326"
+msgstr "idaṃ pure cittamacāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ tadajjahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṅkusaggaho."
+
+msgid "327"
+msgstr "appamādaratā hotha sacittamanurakkhatha duggā uddharathattānaṃ paṅke sanno'va kuñjaro."
+
+msgid "328"
+msgstr "sace labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhu vihāri dhīraṃ abhibhuyya sabbāni parissayāni careyya tenattamano satīmā."
+
+msgid "329"
+msgstr "no ce labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhu vihāri dhīraṃ rājā'va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅgaraññe'va nāgo."
+
+msgid "330"
+msgstr "ekassa caritaṃ seyyo natthi bāle sahāyatā eko care na ca pāpāni kayirā appossukko mātaṅgaraññeva nāgo."
+
+msgid "331"
+msgstr "atthamhi jātamhi sukhā sahāyā tuṭṭhi sukhā yā itarītarena puññaṃ sukhaṃ jīvitasaṅkhayamhi sabbassa dukkhassa sukhaṃ pahāṇaṃ."
+
+msgid "332"
+msgstr "sukhā matteyyatā loke atho petteyyatā sukhā sukhā sāmaññatā loke atho brahmaññatā sukhā."
+
+msgid "333"
+msgstr "sukhaṃ yāva jarā sīlaṃ sukhā saddhā patiṭṭhitā sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ."
+
+msgid "chap24"
+msgstr "Taṇhāvaggo"
+
+msgid "334"
+msgstr "manujassa pamattacārino taṇhā vaḍḍhati māluvā viya so plavati hurāhuraṃ phalamicchaṃ'va vanasmiṃ vānaro."
+
+msgid "335"
+msgstr "yaṃ esā sahatī jammī taṇhā loke visattikā sokā tassa pavaḍḍhanti abhivaṭṭhaṃ'va bīraṇaṃ."
+
+msgid "336"
+msgstr "yo ce taṃ sahate jammiṃ taṇhaṃ loke duraccayaṃ sokā tamhā papatanti udabindū'va pokkharā."
+
+msgid "337"
+msgstr "taṃ vo vadāmi bhaddaṃ vo yāvantettha samāgatā taṇhāya mūlaṃ khaṇatha usīrattho'va bīraṇaṃ mā vo nalaṃ'va soto'va māro bhañji punappunaṃ."
+
+msgid "338"
+msgstr "yathāpi mūle anupaddave daḷhe chinno'pi rukkho punareva rūhati evampi taṇhānusaye anūhate nibbattati dukkhamidaṃ punappunaṃ."
+
+msgid "339"
+msgstr "yassa chattiṃsati sotā manāpassavanā bhusā vāhā vahanti duddiṭṭhiṃ saṅkappā rāganissitā."
+
+msgid "340"
+msgstr "savanti sabbadhi sotā latā uppajja tiṭṭhati tañca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha."
+
+msgid "341"
+msgstr "saritāni sinehitāni ca somanassāni bhavanti jantuno te sātasitā sukhesino te ve jātijarūpagā narā."
+
+msgid "342"
+msgstr "tasiṇāya purakkhatā pajā parisappanti saso'va bādhito saṃyojanasaṅgasattā dukkhamupenti punappunaṃ cirāya."
+
+msgid "343"
+msgstr "tasiṇāya purakkhatā pajā parisappanti saso'va bādhito tasmā tasiṇaṃ vinodaye bhikkhu ākaṅkhī virāgamattano."
+
+msgid "344"
+msgstr "yo nibbanatho vanādhimutto vanamutto vanameva dhāvati taṃ puggalametha passatha mutto bandhanameva dhāvati."
+
+msgid "345"
+msgstr "na taṃ daḷhaṃ bandhanamāhu dhīrā yadāyasaṃ dārujaṃ babbajañca. Sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā."
+
+msgid "346"
+msgstr "etaṃ daḷhaṃ bandhanamāhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ etampi chetvāna paribbajanti anapekkhino kāmasukhaṃ pahāya."
+
+msgid "347"
+msgstr "ye rāgarattānupatanti sotaṃ sayaṃ kataṃ makkaṭako'va jālaṃ etampi chetvāna vajanti dhīrā anapekkhino sabbadukkhaṃ pahāya."
+
+msgid "348"
+msgstr "muñca pure muñca pacchato majjhe muñca bhavassa pāragū sabbattha vimuttamānaso na punaṃ jātijaraṃ upehisi."
+
+msgid "349"
+msgstr "vitakkapamathitassa jantuno tibbarāgassa subhānupassino bhiyyo taṇhā pavaḍḍhati esa kho daḷhaṃ karoti bandhanaṃ."
+
+msgid "350"
+msgstr "vitakkūpasame ca yo rato asubhaṃ bhāvayati sadā sato esa kho vyantikāhiti esa checchati mārabandhanaṃ."
+
+msgid "351"
+msgstr "niṭṭhaṃ gato asantāsī vītataṇho anaṅgaṇo acchindi bhavasallāni antimo'yaṃ samussayo."
+
+msgid "352"
+msgstr "vītataṇho anādāno niruttipadakovido akkharānaṃ sannipātaṃ jaññā pubbāparāni ca sa ve antimasārīro mahāpañño mahāpuriso'ti vuccati."
+
+msgid "353"
+msgstr "sabbābhibhū sabbavidū'hamasmi sabbesu dhammesu anūpalitto sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kamuddiseyyaṃ."
+
+msgid "354"
+msgstr "sabbadānaṃ dhammadānaṃ jināti sabbaṃ rasaṃ dhammaraso jināti sabbaṃ ratiṃ dhammaratī jināti taṇhakkhayo sabbadukkhaṃ jināti."
+
+msgid "355"
+msgstr "hananti bhogā dummedhaṃ no ve pāragavesino bhogataṇhāya dummedho hanti aññe'va attanā."
+
+msgid "356"
+msgstr "tiṇadosāni khettāni rāgadosā ayaṃ pajā tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ."
+
+msgid "357"
+msgstr "tiṇadosāni khettāni dosadosā ayaṃ pajā tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ."
+
+msgid "358"
+msgstr "tiṇadosāni khettāni mohadosā ayaṃ pajā tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ."
+
+msgid "359"
+msgstr "tiṇadosāni khettāni icchādosā ayaṃ pajā. Tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ."
+
+msgid "chap25"
+msgstr "Bhikkhuvaggo"
+
+msgid "360"
+msgstr "cakkhunā saṃvaro sādhu sādhu sotena saṃvaro ghānena saṃvaro sādhu sādhu jivhāya saṃvaro."
+
+msgid "361"
+msgstr "kāyena saṃvaro sādhu sādhu vācāya saṃvaro manasā saṃvaro sādhu sādhu sabbattha saṃvaro. Sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati."
+
+msgid "362"
+msgstr "hatthasaññato pādasaññato vācāya saññato saññatuttamo ajjhattarato samāhito eko santusito tamāhu bhikkhuṃ."
+
+msgid "363"
+msgstr "yo mukhasaññato bhikkhu mantabhāṇī anuddhato atthaṃ dhammaṃ ca dīpeti madhuraṃ tassa bhāsitaṃ."
+
+msgid "364"
+msgstr "dhammārāmo dhammarato dhammaṃ anuvicintayaṃ dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati."
+
+msgid "365"
+msgstr "salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati."
+
+msgid "366"
+msgstr "appalābho'pi ce bhikkhu salābhaṃ nātimaññati. Taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ."
+
+msgid "367"
+msgstr "sabbaso nāmarūpasmiṃ yassa natthi mamāyitaṃ asatā ca na socati sa ve bhikkhū'ti vuccati."
+
+msgid "368"
+msgstr "mettāvihārī yo bhikkhu pasanno buddhasāsane. Adhigacche padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ."
+
+msgid "369"
+msgstr "siñca bhikkhu imaṃ nāvaṃ sittā te lahumessati chetvā rāgaṃ ca dosaṃ ca tato nibbāṇamehisi."
+
+msgid "370"
+msgstr "pañca chinde pañca jahe pañca cuttari bhāvaye pañcasaṅgātigo bhikkhu oghatiṇṇo'ti vuccati."
+
+msgid "371"
+msgstr "jhāya bhikkhu mā ca pamādo mā te kāmaguṇe bhamassu cittaṃ mā lohaguḷaṃ gilī pamatto mā kandi dukkhamidanti ḍayhamāno."
+
+msgid "372"
+msgstr "natthi jhānaṃ apaññassa paññā natthi ajhāyato yamhi jhānaṃ ca paññā ca sa ve nibbāṇasantike."
+
+msgid "373"
+msgstr "suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno amānusī rati hoti sammā dhammaṃ vipassato."
+
+msgid "374"
+msgstr "yato yato sammasati khandhānaṃ udayabbayaṃ labhatī pītipāmojjajaṃ amataṃ taṃ vijānataṃ."
+
+msgid "375"
+msgstr "tatrāyamādi bhavati idha paññassa bhikkhuno. Indriyagutti santuṭṭhi pātimokkhe ca saṃvaro."
+
+msgid "376"
+msgstr "mitte bhajassu kalyāṇe suddhājīve atandite paṭisanthāravuttyassa ācārakusalo siyā tato pāmojjabahulo dukkhassantaṃ karissasi."
+
+msgid "377"
+msgstr "vassikā viya pupphāni maddavāni pamuñcati. Evaṃ rāgaṃ ca dosaṃ ca vippamuñcetha bhikkhavo."
+
+msgid "378"
+msgstr "santakāyo santavāco santavā susamāhito vantalokāmiso bhikkhu upasanto'ti vuccati."
+
+msgid "379"
+msgstr "attanā codayattānaṃ paṭimāse'ttamattanā so attagutto satimā sukhaṃ bhikkhu vihāhisi."
+
+msgid "380"
+msgstr "attā hi attano nātho attā hi attano gati tasmā saññamayattānaṃ assaṃ bhadraṃ'va vāṇijo."
+
+msgid "381"
+msgstr "pāmojjabahulo bhikkhu pasanno buddhasāsane adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ."
+
+msgid "382"
+msgstr "yo have daharo bhikkhu yuñjati buddhasāsane so imaṃ lokaṃ pabhāseti abbhā mutto'va candimā."
+
+msgid "chap26"
+msgstr "Brāhmaṇavaggo"
+
+msgid "383"
+msgstr "chinda sotaṃ parakkamma kāme panuda brāhmaṇa saṅkhārānaṃ khayaṃ ñatvā akataññū'si brāhmaṇa."
+
+msgid "384"
+msgstr "yadā dvayesu dhammesu pāragū hoti brāhmaṇo athassa sabbe saṃyogā atthaṃ gacchanti jānato."
+
+msgid "385"
+msgstr "yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati vītaddaraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "386"
+msgstr "jhāyiṃ virajamāsīnaṃ katakiccaṃ anāsavaṃ uttamatthaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "387"
+msgstr "divā tapati ādicco rattiṃ ābhāti candimā sannaddho khattiyo tapati jhāyī tapati brāhmaṇo atha sabbamahorattiṃ buddho tapati tejasā."
+
+msgid "388"
+msgstr "bāhitapāpo'ti brāhmaṇo samacariyā samaṇo'ti vuccati. Pabbājayattano malaṃ tasmā pabbajito'ti vuccati."
+
+msgid "389"
+msgstr "na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo dhī brāhmaṇassa hantāraṃ tato dhī yassa muñcati."
+
+msgid "390"
+msgstr "na brāhmaṇassetadakiñci seyyo yadā nisedho manaso piyehi yato yato hiṃsamano nivattati tato tato sammati meva dukkhaṃ."
+
+msgid "391"
+msgstr "yassa kāyena vācāya manasā natthi dukkataṃ saṃvutaṃ tīhi ṭhānehi tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "392"
+msgstr "yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ sakkaccaṃ taṃ namasseyya aggihuttaṃ'va brāhmaṇo."
+
+msgid "393"
+msgstr "na jaṭāhi na gottena na jaccā hoti brāhmaṇo yamhi saccañca dhammo ca so sucī so'va brāhmaṇo."
+
+msgid "394"
+msgstr "kiṃ te jaṭāhi dummedha kiṃ te ajinasāṭiyā abbhantaraṃ te gahaṇaṃ bāhiraṃ parimajjasi."
+
+msgid "395"
+msgstr "paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ ekaṃ vanasmiṃ jhāyantaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "396"
+msgstr "na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ bhovādī nāma so hoti sace hoti sakiñcano akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "397"
+msgstr "sabbasaṃyojanaṃ chetvā yo ve na paritassati saṅgātigaṃ visaññuttaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "398"
+msgstr "chetvā naddhiṃ varattañca sandāmaṃ sahanukkamaṃ ukkhittapalighaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "399"
+msgstr "akkosaṃ vadhabandhaṃ ca aduṭṭho yo titikkhati khantibalaṃ balānīkaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "400"
+msgstr "akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ dantaṃ antimasārīraṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "401"
+msgstr "vāri pokkharapatte'va āraggeriva sāsapo yo na lippati kāmesu tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "402"
+msgstr "yo dukkhassa pajānāti idheva khayamattano pannabhāraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "403"
+msgstr "gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ uttamatthaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "404"
+msgstr "asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi cūbhayaṃ anokasāriṃ appicchaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "405"
+msgstr "nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca yo na hanti na ghāteti tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "406"
+msgstr "aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ sādānesu anādānaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "407"
+msgstr "yassa rāgo ca doso ca māno makkho ca pātito sāsapo riva āraggā tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "408"
+msgstr "akakkasaṃ viññāpaniṃ giraṃ saccaṃ udīraye yāya nābhisaje kañci tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "409"
+msgstr "yo'dha dīghaṃ va rassaṃ vā aṇuṃ thūlaṃ subhāsubhaṃ loke adinnaṃ nādiyati tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "410"
+msgstr "āsā yassa na vijjanti asmiṃ loke paramhi ca nirāsayaṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "411"
+msgstr "yassālayā na vijjanti aññāya akathaṃkathī amatogadhaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "412"
+msgstr "yo'dha puññañca pāpañca ubho saṅgaṃ upaccagā asokaṃ virajaṃ suddhaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "413"
+msgstr "candaṃ'va vimalaṃ suddhaṃ vippasannamanāvilaṃ. Nandībhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "414"
+msgstr "yo imaṃ paḷipathaṃ duggaṃ saṃsāraṃ mohamaccagā tiṇṇo pāragato jhāyī anejo akathaṃkathī anupādāya nibbuto tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "415"
+msgstr "yodha kāme pahātvāna anāgāro paribbaje kāmabhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "416"
+msgstr "yo'dha taṇhaṃ pahātvāna anāgāro paribbaje taṇhābhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "417"
+msgstr "hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "418"
+msgstr "hitvā ratiṃ ca aratiṃ ca sītibhūtaṃ nirūpadhiṃ sabbalokābhibhuṃ vīraṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "419"
+msgstr "cutiṃ yo'vedi sattānaṃ upapattiṃ ca sabbaso asattaṃ sugataṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "420"
+msgstr "yassa gatiṃ na jānanti devā gandhabbamānusā khīṇāsavaṃ arahantaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "421"
+msgstr "yassa pure ca pacchā ca majjhe ca natthi kiñcanaṃ akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "422"
+msgstr "usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ anejaṃ nhātakaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ."
+
+msgid "423"
+msgstr "pubbenivāsaṃ yo'vedi saggāpāyaṃ ca passati atho jātikkhayaṃ patto abhiññāvosito muni sabbavositavosānaṃ tamahaṃ brūmi brāhmaṇaṃ."
