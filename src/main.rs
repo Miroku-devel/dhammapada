@@ -474,38 +474,33 @@ fn build_ui(app: &Application) {
     let last_change_time_scroll = last_change_time.clone();
     scroll_controller.connect_scroll(move |_, _dx, dy| {
         let now = Instant::now();
-        if now
-            .duration_since(*last_change_time_scroll.borrow())
-            .as_millis()
-            < 400
-        {
-            return glib::Propagation::Proceed;
+        if now.duration_since(*last_change_time_scroll.borrow()).as_millis() < 300 {
+            return glib::Propagation::Stop;
         }
 
         let adj = &adj_for_scroll;
         let value = adj.value();
         let upper = adj.upper();
         let page_size = adj.page_size();
+        
         let buttons = btns_for_scroll.borrow();
+        let current_index = buttons.iter().position(|b| b.has_css_class("suggested-action"));
 
-        if let Some(idx) = buttons
-            .iter()
-            .position(|b| b.has_css_class("suggested-action"))
-        {
-            let at_bottom = upper <= page_size || value >= (upper - page_size - 2.0);
-            let at_top = value <= 2.0;
-
-            if dy > 0.0 && at_bottom {
+        if let Some(idx) = current_index {
+            if dy > 0.0 && value >= (upper - page_size - 1.0) {
                 if idx + 1 < buttons.len() {
                     *last_change_time_scroll.borrow_mut() = now;
-                    bottom_trigger.set(false);
+                    bottom_trigger.set(false); 
                     buttons[idx + 1].emit_clicked();
+                    return glib::Propagation::Stop;
                 }
-            } else if dy < 0.0 && at_top {
+            }
+            else if dy < 0.0 && value <= 0.0 {
                 if idx > 0 {
                     *last_change_time_scroll.borrow_mut() = now;
-                    bottom_trigger.set(true);
+                    bottom_trigger.set(true); 
                     buttons[idx - 1].emit_clicked();
+                    return glib::Propagation::Stop;
                 }
             }
         }
@@ -521,11 +516,7 @@ fn build_ui(app: &Application) {
     let last_change_time_key = last_change_time.clone();
     key_controller.connect_key_pressed(move |_, keyval, _, _| {
         let now = Instant::now();
-        if now
-            .duration_since(*last_change_time_key.borrow())
-            .as_millis()
-            < 400
-        {
+        if now.duration_since(*last_change_time_key.borrow()).as_millis() < 300 {
             return glib::Propagation::Proceed;
         }
 
@@ -535,24 +526,20 @@ fn build_ui(app: &Application) {
         let page_size = adj.page_size();
         let buttons = btns_for_key.borrow();
 
-        if let Some(idx) = buttons
-            .iter()
-            .position(|b| b.has_css_class("suggested-action"))
-        {
-            let at_bottom = upper <= page_size || value >= (upper - page_size - 2.0);
-            let at_top = value <= 2.0;
-
-            if keyval == gtk4::gdk::Key::Page_Down && at_bottom {
+        if let Some(idx) = buttons.iter().position(|b| b.has_css_class("suggested-action")) {
+            if keyval == gtk4::gdk::Key::Page_Down && value >= (upper - page_size - 1.0) {
                 if idx + 1 < buttons.len() {
                     *last_change_time_key.borrow_mut() = now;
                     bottom_trigger_key.set(false);
                     buttons[idx + 1].emit_clicked();
+                    return glib::Propagation::Stop;
                 }
-            } else if keyval == gtk4::gdk::Key::Page_Up && at_top {
+            } else if keyval == gtk4::gdk::Key::Page_Up && value <= 0.0 {
                 if idx > 0 {
                     *last_change_time_key.borrow_mut() = now;
                     bottom_trigger_key.set(true);
                     buttons[idx - 1].emit_clicked();
+                    return glib::Propagation::Stop;
                 }
             }
         }
