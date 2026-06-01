@@ -2,13 +2,13 @@
 Source: Die waarheidsweg Dhammapada (2017)
 Author: Prof. J.S. Krüger
 Publisher: AOSIS, Cape Town
-License: CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
+License: CC BY-NC-SA 4.0
 
 [ar] Arabic
 Translated by: Kholoud Groves (خلود غروفز)
 Editor: Dr. Wahid Kitaba (د. وحيد كتابه)
 Terminology Review: Murad Abaza (مراد أباظة)
-Copyright: © DharmaBustan - All rights reserved
+License: © DharmaBustan - All rights reserved
 
 [az] Azerbaijani
 Source: Turuz.com (Online Library)
@@ -59,19 +59,18 @@ Project Supervision: Michael Xynos
 [en] English
 Source: SuttaCentral (suttacentral.net)
 Translated by: Bhikkhu Sujato
-License: Creative Commons Zero (CC0 1.0 Universal)
+License: CC0 1.0 Universal
 Notes: Public Domain
 
 [es] Spanish
 Source: The IntraText Digital Library (intratext.com)
-License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 Copyright: © IntraText Digital Library / EuloTech SRL
-Notes: Content used in compliance with IntraText's CC BY-NC-SA license
+License: CC BY-NC-SA 3.0
 
 [et] Estonian
 Source: SuttaCentral (suttacentral.net)
 Translated by: Ṭhitañāṇa Bhikkhu (Dr. Andrus Kahn)
-License: Creative Commons Zero (CC0 1.0 Universal)
+License: CC0 1.0 Universal
 
 [fi] Finnish
 Translated by: Pekka Ervast (1925)
@@ -115,8 +114,8 @@ License: Non-Commercial (Free distribution)
 
 [ja] Japanese
 Source: SuttaCentral (suttacentral.net)
-License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
 Copyright: © 関西パーリ語実習会 (Kansai Pāli Language Practice Group) (2023)
+License: CC BY-NC-ND 3.0
 
 [jv] Javanese
 Source: Intradarma (intradarma.com)
@@ -141,14 +140,14 @@ License: Used for non-commercial educational purposes
 
 [ku] Kurdish (Sorani)
 Source: بودا، دهاماپادا (2026)
-Author: Warzer Marewan - University of Suleimanyah
+Author: Warzer Marewan - University of Sulaimani
 License: Used for non-commercial educational purposes
 
 [lo] Lao
 Source: 佛陀教育基金會 (budaedu.org)
 Author: Ven. Weragoda Sarada Maha Thero
 Notes: Treasury of Truth - Illustrated Dhammapada (2006)
-License: Free distrubution / non-commercial
+License: Free distribution / non-commercial
 
 [lt] Lithuanian
 Source: Dhammapada (hathajoga.lt)
@@ -157,9 +156,9 @@ License: Used for non-commercial educational purposes
 
 [ml] Malayalam
 Source: Malayalam eBooks (malayalamebooks.org)
-Translated by: Thelappurathu Narayanan Nambi
+Translated by: Thelappurathu Narayanan Nambi (1915)
 Notes: ധർമ്മപദം (2012)
-License: © Malayalam eBooks - All rights reserved
+License: CC BY-NC-ND 3.0
 
 [mr] Marathi
 Source: SuttaCentral (suttacentral.net)
@@ -200,6 +199,11 @@ Note: Used in accordance with SuttaCentral's hosting terms
 Source: Punjabi Kavita (punjabi-kavita.com)
 Translated by: Sardar Suba Singh (ਸਰਦਾਰ ਸੂਬਾ ਸਿੰਘ)
 License: Used for non-commercial educational purposes
+
+[pi] Pali
+Source: Tipitaka (open.tipitaka.lk)
+Notes: A digital library of Buddhist documents
+License: CC BY-NC 4.0
 
 [pl] Polish
 Source: SuttaCentral (suttacentral.net)
@@ -265,9 +269,9 @@ Original Source: หนังสือพุทธวจนในธรรมบ
 
 [tr] Turkish
 Source: Turuz.com (Online Library)
-Translated by: Mehmed Ali Işım (1997)
+Translated by: Mehmet Ali Işım (1997)
+Notes: "Budist Vecizeleri - Gerçeğe Giden Yol"
 License: Used for non-commercial educational purposes
-Notes: "Budisd Vecizeleri - Gerçeğe Giden Yol"
 
 [uk] Ukrainian
 Source: archive.org
@@ -277,7 +281,7 @@ License: Used for non-commercial educational purposes
 [vi] Vietnamese
 Source: SuttaCentral (suttacentral.net)
 Translated by: Bhikkhu Thích Minh Châu
-License: Creative Commons Zero (CC0 1.0 Universal)
+License: CC0 1.0 Universal
 
 [zh] Chinese
 Translated by: Ye Jun, Ven. Liao Can
