@@ -1,6 +1,7 @@
 /.comments
 /target
 /AppDir
+/backup
 /*.sh
 /*.png
 /*.deb
